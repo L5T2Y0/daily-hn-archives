@@ -64,37 +64,50 @@ def generate_readme_content(today_stories: list[dict], archive_files: list[str])
     返回:
         完整的 README Markdown 内容
     """
-    lines = []
+    # 读取现有的 README 模板
+    try:
+        from pathlib import Path
+        readme_path = Path("README.md")
+        if readme_path.exists():
+            readme_template = readme_path.read_text(encoding="utf-8")
+        else:
+            # 如果 README 不存在，使用简单模板
+            readme_template = """# Daily Hacker News Archives
+
+每天自动获取并归档 Hacker News 的 Top 10 热门文章。
+
+<!-- DAILY_ARTICLES_START -->
+<!-- DAILY_ARTICLES_END -->
+
+## 历史归档
+
+"""
+    except Exception:
+        readme_template = """# Daily Hacker News Archives
+
+每天自动获取并归档 Hacker News 的 Top 10 热门文章。
+
+<!-- DAILY_ARTICLES_START -->
+<!-- DAILY_ARTICLES_END -->
+
+## 历史归档
+
+"""
     
-    # 项目说明
-    lines.append("# Daily Hacker News Archives")
-    lines.append("")
-    lines.append("每天自动获取并归档 Hacker News 的 Top 10 热门文章。")
-    lines.append("")
-    
-    # 最后更新时间
+    # 生成今日文章内容
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    lines.append(f"*最后更新: {timestamp}*")
-    lines.append("")
+    articles_content = f"> 最后更新：{timestamp}\n\n"
     
-    # 今日 Top 10
-    lines.append("## 今日 Top 10")
-    lines.append("")
     for i, story in enumerate(today_stories, 1):
-        lines.append(format_story(i, story))
-    lines.append("")
+        articles_content += format_story(i, story) + "\n"
     
-    # 历史归档
-    lines.append("## 历史归档")
-    lines.append("")
-    for archive_file in archive_files:
-        # 提取日期（去掉 .md 扩展名）
-        date = archive_file.replace(".md", "")
-        lines.append(f"- [{date}](archives/{archive_file})")
-    lines.append("")
+    articles_content += f"\n📁 **[查看所有历史归档](archives/)** | 共 {len(archive_files)} 个归档文件\n"
     
-    # 页脚
-    lines.append("---")
-    lines.append("*由 [Daily HN Archives](https://github.com/HackerNews/API) 自动生成*")
+    # 替换每日文章区域
+    import re
+    pattern = r'<!-- DAILY_ARTICLES_START -->.*?<!-- DAILY_ARTICLES_END -->'
+    replacement = f'<!-- DAILY_ARTICLES_START -->\n{articles_content}\n<!-- DAILY_ARTICLES_END -->'
     
-    return "\n".join(lines)
+    updated_readme = re.sub(pattern, replacement, readme_template, flags=re.DOTALL)
+    
+    return updated_readme
