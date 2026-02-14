@@ -18,9 +18,21 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-*首次运行后，这里将自动显示每日 Top 10 文章*
+> 最后更新：2026-02-14 21:36:54
 
-运行 GitHub Actions 后，此区域会自动更新为最新的 Hacker News Top 10 文章列表。
+1. [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13) - 187 points, 92 comments
+2. [Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986](https://www.wallstreetraider.com/story.html) - 435 points, 150 comments
+3. [Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL](https://github.com/mickamy/sql-tap) - 146 points, 25 comments
+4. [Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645) - 137 points, 32 comments
+5. [Understanding the Go Compiler: The Linker](https://internals-for-interns.com/posts/the-go-linker/) - 112 points, 22 comments
+6. [YouTube as Storage](https://github.com/PulseBeat02/yt-media-storage) - 88 points, 67 comments
+7. [Babylon 5 is now free to watch on YouTube](https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/) - 333 points, 146 comments
+8. [The Three Year Myth](https://green.spacedino.net/the-three-year-myth/) - 102 points, 60 comments
+9. [The Sling: Humanity's Forgotten Power](https://www.slinging.org/) - 25 points, 3 comments
+10. [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md) - 189 points, 21 comments
+
+📁 **[查看所有历史归档](archives/)** | 共 1 个归档文件
+
 <!-- DAILY_ARTICLES_END -->
 
 ---
