@@ -95,8 +95,14 @@ def generate_readme_content(today_stories: list[dict], archive_files: list[str])
 """
     
     # 生成今日文章内容
-    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    articles_content = f"> 最后更新：{timestamp}\n\n"
+    from datetime import timezone, timedelta
+    
+    # 获取北京时间（UTC+8）
+    beijing_tz = timezone(timedelta(hours=8))
+    beijing_time = datetime.now(beijing_tz)
+    timestamp = beijing_time.strftime("%Y-%m-%d %H:%M:%S")
+    
+    articles_content = f"> 🕐 最后更新：{timestamp} (北京时间)\n\n"
     
     for i, story in enumerate(today_stories, 1):
         articles_content += format_story(i, story) + "\n"

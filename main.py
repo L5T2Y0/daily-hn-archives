@@ -1,4 +1,8 @@
 # Daily HN Archives - 主入口点
+"""
+Daily Hacker News Archives
+每天自动获取并归档 Hacker News 的 Top 10 热门文章
+"""
 import sys
 from datetime import datetime
 from hn_fetcher import fetch_top_stories
@@ -27,7 +31,7 @@ def main() -> int:
         stories = fetch_top_stories(10)
         
         if not stories:
-            print("错误: 未能获取任何文章")
+            print("错误: 未能获取任何文章", file=sys.stderr)
             return 1
         
         print(f"成功获取 {len(stories)} 篇文章")
@@ -61,8 +65,9 @@ def main() -> int:
         
     except Exception as e:
         print(f"\n错误: {e}", file=sys.stderr)
+        import traceback
+        traceback.print_exc()
         return 1
-
 
 
 if __name__ == "__main__":

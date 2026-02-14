@@ -22,6 +22,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.pyc
 
 # IDE
 .vscode/
@@ -29,11 +30,22 @@ wheels/
 *.swp
 *.swo
 *~
+.DS_Store
 
 # OS
-.DS_Store
 Thumbs.db
 
 # Project specific
 .kiro/
+PROJECT_SUMMARY.md
+SETUP.md
+daily_run.yml
+GITHUB_OPTIMIZATION_GUIDE.md
+GITHUB_PROFILE_README.md
+QUICK_SETUP.md
+
+# Test
+.pytest_cache/
+.coverage
+htmlcov/
 
