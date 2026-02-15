@@ -18,20 +18,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 最后更新：2026-02-14 13:43:05
+> 🕐 最后更新：2026-02-15 09:48:52 (北京时间)
 
-1. [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13) - 190 points, 95 comments
-2. [Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986](https://www.wallstreetraider.com/story.html) - 438 points, 153 comments
-3. [Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL](https://github.com/mickamy/sql-tap) - 146 points, 25 comments
-4. [Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645) - 153 points, 37 comments
-5. [Understanding the Go Compiler: The Linker](https://internals-for-interns.com/posts/the-go-linker/) - 115 points, 22 comments
-6. [Babylon 5 is now free to watch on YouTube](https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/) - 336 points, 147 comments
-7. [The Three Year Myth](https://green.spacedino.net/the-three-year-myth/) - 102 points, 60 comments
-8. [YouTube as Storage](https://github.com/PulseBeat02/yt-media-storage) - 89 points, 70 comments
-9. [The Sling: Humanity's Forgotten Power](https://www.slinging.org/) - 25 points, 4 comments
-10. [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md) - 191 points, 21 comments
+1. [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/) - 380 points, 240 comments
+2. [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/) - 564 points, 186 comments
+3. [My smart sleep mask broadcasts users' brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/) - 334 points, 168 comments
+4. [IBM tripling entry-level jobs after finding the limits of AI adoption](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/) - 230 points, 105 comments
+5. [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/) - 432 points, 118 comments
+6. [Zvec: A lightweight, fast, in-process vector database](https://github.com/alibaba/zvec) - 64 points, 14 comments
+7. [Instagram's URL Blackhole](https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664) - 66 points, 11 comments
+8. [5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools](https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/) - 66 points, 2 comments
+9. [Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://github.com/alichherawalla/off-grid-mobile) - 27 points, 7 comments
+10. [Can my SPARC server host a website?](https://rup12.net/posts/can-my-sparc-server-host-my-website/) - 16 points, 17 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 1 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 2 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
