@@ -33,6 +33,8 @@ def generate_archive_content(stories: list[dict], date: str) -> str:
     返回:
         完整的 Markdown 内容，包含标题、文章列表和页脚
     """
+    from datetime import timezone, timedelta
+    
     lines = []
     
     # 添加标题
@@ -46,8 +48,11 @@ def generate_archive_content(stories: list[dict], date: str) -> str:
     # 添加页脚
     lines.append("")
     lines.append("---")
-    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    lines.append(f"*归档生成时间: {timestamp}*")
+    # 使用北京时间（UTC+8）
+    beijing_tz = timezone(timedelta(hours=8))
+    beijing_time = datetime.now(beijing_tz)
+    timestamp = beijing_time.strftime("%Y-%m-%d %H:%M:%S")
+    lines.append(f"*归档生成时间: {timestamp} (北京时间)*")
     lines.append("*数据来源: [Hacker News API](https://github.com/HackerNews/API)*")
     
     return "\n".join(lines)
