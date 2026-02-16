@@ -18,20 +18,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-02-15 10:24:07 (北京时间)
+> 🕐 最后更新：2026-02-16 10:12:43 (北京时间)
 
-1. [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/) - 397 points, 251 comments
-2. [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/) - 597 points, 190 comments
-3. [NewPipe: YouTube client without vertical videos and algorithmic feed](https://newpipe.net/) - 23 points, 5 comments
-4. [My smart sleep mask broadcasts users' brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/) - 339 points, 171 comments
-5. [IBM tripling entry-level jobs after finding the limits of AI adoption](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/) - 248 points, 121 comments
-6. [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/) - 439 points, 118 comments
-7. [Zvec: A lightweight, fast, in-process vector database](https://github.com/alibaba/zvec) - 67 points, 14 comments
-8. [Instagram's URL Blackhole](https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664) - 76 points, 12 comments
-9. [5,300-year-old 'bow drill' rewrites story of ancient Egyptian tools](https://www.ncl.ac.uk/press/articles/latest/2026/02/ancientegyptiandrillbit/) - 68 points, 3 comments
-10. [Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://github.com/alichherawalla/off-grid-mobile) - 32 points, 7 comments
+1. [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw) - 539 points, 409 comments
+2. [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/) - 125 points, 51 comments
+3. [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality) - 38 points, 23 comments
+4. [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/) - 39 points, 3 comments
+5. [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502) - 305 points, 132 comments
+6. [Audio is the one area small labs are winning](https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai) - 98 points, 17 comments
+7. [Radio host David Greene says Google's NotebookLM tool stole his voice](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/) - 91 points, 61 comments
+8. [Modern CSS Code Snippets: Stop writing CSS like it's 2015](https://modern-css.com) - 220 points, 87 comments
+9. [I fixed Windows native development](https://marler8997.github.io/blog/fixed-windows/) - 668 points, 327 comments
+10. [I gave Claude access to my pen plotter](https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter) - 81 points, 38 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 2 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 3 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
