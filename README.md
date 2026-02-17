@@ -19,20 +19,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-02-16 10:12:43 (北京时间)
+> 🕐 最后更新：2026-02-17 10:10:09 (北京时间)
 
-1. [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw) - 539 points, 409 comments
-2. [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/) - 125 points, 51 comments
-3. [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality) - 38 points, 23 comments
-4. [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/) - 39 points, 3 comments
-5. [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502) - 305 points, 132 comments
-6. [Audio is the one area small labs are winning](https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai) - 98 points, 17 comments
-7. [Radio host David Greene says Google's NotebookLM tool stole his voice](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/) - 91 points, 61 comments
-8. [Modern CSS Code Snippets: Stop writing CSS like it's 2015](https://modern-css.com) - 220 points, 87 comments
-9. [I fixed Windows native development](https://marler8997.github.io/blog/fixed-windows/) - 668 points, 327 comments
-10. [I gave Claude access to my pen plotter](https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter) - 81 points, 38 comments
+1. [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo) - 105 points, 45 comments
+2. [Study: Self-generated Agent Skills are useless](https://arxiv.org/abs/2602.12670) - 254 points, 108 comments
+3. [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/) - 408 points, 82 comments
+4. [AI is destroying Open Source, and it's not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/) - 102 points, 65 comments
+5. [Rise of the Triforce](https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/) - 96 points, 8 comments
+6. [Show HN: Scanned 1927-1945 Daily USFS Work Diary](https://forestrydiary.com/) - 51 points, 8 comments
+7. [Show HN: Andrej Karpathy's microgpt.py to C99 microgpt.c – 4,600x faster](https://github.com/enjector/microgpt-c) - 44 points, 4 comments
+8. [Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue](https://github.com/zachlatta/freeflow) - 96 points, 48 comments
+9. [What your Bluetooth devices reveal](https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/) - 311 points, 123 comments
+10. [Visual Introduction to PyTorch](https://0byte.io/articles/pytorch_introduction.html) - 127 points, 12 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 3 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 4 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
