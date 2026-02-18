@@ -19,20 +19,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-02-17 10:10:09 (北京时间)
+> 🕐 最后更新：2026-02-18 10:13:33 (北京时间)
 
-1. [Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo) - 105 points, 45 comments
-2. [Study: Self-generated Agent Skills are useless](https://arxiv.org/abs/2602.12670) - 254 points, 108 comments
-3. [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/) - 408 points, 82 comments
-4. [AI is destroying Open Source, and it's not even good yet](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/) - 102 points, 65 comments
-5. [Rise of the Triforce](https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/) - 96 points, 8 comments
-6. [Show HN: Scanned 1927-1945 Daily USFS Work Diary](https://forestrydiary.com/) - 51 points, 8 comments
-7. [Show HN: Andrej Karpathy's microgpt.py to C99 microgpt.c – 4,600x faster](https://github.com/enjector/microgpt-c) - 44 points, 4 comments
-8. [Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue](https://github.com/zachlatta/freeflow) - 96 points, 48 comments
-9. [What your Bluetooth devices reveal](https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/) - 311 points, 123 comments
-10. [Visual Introduction to PyTorch](https://0byte.io/articles/pytorch_introduction.html) - 127 points, 12 comments
+1. [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) - 873 points, 783 comments
+2. [Advice, not control: the role of Remote Assistance in Waymo's operations](https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance) - 38 points, 23 comments
+3. [Thank HN: You helped save 33k lives](https://news.ycombinator.com/item?id=47049824) - 436 points, 55 comments
+4. [Rathbun's Operator](https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html) - 50 points, 35 comments
+5. [BarraCUDA Open-source CUDA compiler targeting AMD GPUs](https://github.com/Zaneham/BarraCUDA) - 164 points, 51 comments
+6. [Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway](https://asteroidos.org/news/2-0-release/index.html) - 277 points, 33 comments
+7. [I swear the UFO is coming any minute](https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute) - 102 points, 23 comments
+8. [Gentoo on Codeberg](https://www.gentoo.org/news/2026/02/16/codeberg.html) - 256 points, 85 comments
+9. [Using go fix to modernize Go code](https://go.dev/blog/gofix) - 280 points, 65 comments
+10. [So you want to build a tunnel](https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel) - 168 points, 72 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 4 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 5 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
