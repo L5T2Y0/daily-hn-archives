@@ -19,20 +19,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-02-18 10:13:33 (北京时间)
+> 🕐 最后更新：2026-02-19 10:12:16 (北京时间)
 
-1. [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) - 873 points, 783 comments
-2. [Advice, not control: the role of Remote Assistance in Waymo's operations](https://waymo.com/blog/?modal=short-advice-not-control-the-role-of-remote-assistance) - 38 points, 23 comments
-3. [Thank HN: You helped save 33k lives](https://news.ycombinator.com/item?id=47049824) - 436 points, 55 comments
-4. [Rathbun's Operator](https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/rathbuns-operator.html) - 50 points, 35 comments
-5. [BarraCUDA Open-source CUDA compiler targeting AMD GPUs](https://github.com/Zaneham/BarraCUDA) - 164 points, 51 comments
-6. [Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway](https://asteroidos.org/news/2-0-release/index.html) - 277 points, 33 comments
-7. [I swear the UFO is coming any minute](https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute) - 102 points, 23 comments
-8. [Gentoo on Codeberg](https://www.gentoo.org/news/2026/02/16/codeberg.html) - 256 points, 85 comments
-9. [Using go fix to modernize Go code](https://go.dev/blog/gofix) - 280 points, 65 comments
-10. [So you want to build a tunnel](https://practical.engineering/blog/2026/2/17/so-you-want-to-build-a-tunnel) - 168 points, 72 comments
+1. [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/) - 281 points, 157 comments
+2. [Ladybird: Closing this as we are no longer pursuing Swift adoption](https://github.com/LadybirdBrowser/ladybird/issues/933) - 187 points, 139 comments
+3. [27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/) - 143 points, 72 comments
+4. [Cosmologically Unique IDs](https://jasonfantl.com/posts/Universal-Unique-IDs/) - 281 points, 83 comments
+5. [Zero-day CSS: CVE-2026-2441 exists in the wild](https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html) - 255 points, 136 comments
+6. [Tailscale Peer Relays is now generally available](https://tailscale.com/blog/peer-relays-ga) - 324 points, 172 comments
+7. [DNS-Persist-01: A New Model for DNS-Based Challenge Validation](https://letsencrypt.org/2026/02/18/dns-persist-01.html) - 198 points, 95 comments
+8. [R3forth: A concatenative language derived from ColorForth](https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md) - 57 points, 9 comments
+9. [How to Choose Between Hindley-Milner and Bidirectional Typing](https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/) - 14 points, 0 comments
+10. [The Perils of ISBN](https://rygoldstein.com/posts/perils-of-isbn) - 72 points, 37 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 5 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 6 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
