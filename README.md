@@ -19,20 +19,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-02-19 10:12:16 (北京时间)
+> 🕐 最后更新：2026-02-20 10:08:21 (北京时间)
 
-1. [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/) - 281 points, 157 comments
-2. [Ladybird: Closing this as we are no longer pursuing Swift adoption](https://github.com/LadybirdBrowser/ladybird/issues/933) - 187 points, 139 comments
-3. [27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/) - 143 points, 72 comments
-4. [Cosmologically Unique IDs](https://jasonfantl.com/posts/Universal-Unique-IDs/) - 281 points, 83 comments
-5. [Zero-day CSS: CVE-2026-2441 exists in the wild](https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html) - 255 points, 136 comments
-6. [Tailscale Peer Relays is now generally available](https://tailscale.com/blog/peer-relays-ga) - 324 points, 172 comments
-7. [DNS-Persist-01: A New Model for DNS-Based Challenge Validation](https://letsencrypt.org/2026/02/18/dns-persist-01.html) - 198 points, 95 comments
-8. [R3forth: A concatenative language derived from ColorForth](https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md) - 57 points, 9 comments
-9. [How to Choose Between Hindley-Milner and Bidirectional Typing](https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/) - 14 points, 0 comments
-10. [The Perils of ISBN](https://rygoldstein.com/posts/perils-of-isbn) - 72 points, 37 comments
+1. [Gemini 3.1 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) - 532 points, 701 comments
+2. [Show HN: Micasa – track your house from the terminal](https://micasa.dev) - 450 points, 143 comments
+3. [Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/) - 116 points, 279 comments
+4. [America vs. Singapore: You can't save your way out of economic shocks](https://www.governance.fyi/p/america-vs-singapore-you-cant-save) - 218 points, 339 comments
+5. [A terminal weather app with ASCII animations driven by real-time weather data](https://github.com/Veirt/weathr) - 164 points, 27 comments
+6. [An ARM Homelab Server, or a Minisforum MS-R1 Review](https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/) - 4 points, 3 comments
+7. [US plans online portal to bypass content bans in Europe and elsewhere](https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/) - 166 points, 205 comments
+8. [Archaeologists find possible first direct evidence of Hannibal's war elephants](https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/) - 81 points, 23 comments
+9. [Paged Out Issue #8 [pdf]](https://pagedout.institute/download/PagedOut_008.pdf) - 317 points, 52 comments
+10. [Pebble Production: February Update](https://repebble.com/blog/february-pebble-production-and-software-updates) - 264 points, 123 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 6 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 7 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
