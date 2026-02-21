@@ -19,20 +19,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-02-20 10:08:21 (北京时间)
+> 🕐 最后更新：2026-02-21 10:03:01 (北京时间)
 
-1. [Gemini 3.1 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) - 532 points, 701 comments
-2. [Show HN: Micasa – track your house from the terminal](https://micasa.dev) - 450 points, 143 comments
-3. [Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/) - 116 points, 279 comments
-4. [America vs. Singapore: You can't save your way out of economic shocks](https://www.governance.fyi/p/america-vs-singapore-you-cant-save) - 218 points, 339 comments
-5. [A terminal weather app with ASCII animations driven by real-time weather data](https://github.com/Veirt/weathr) - 164 points, 27 comments
-6. [An ARM Homelab Server, or a Minisforum MS-R1 Review](https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/) - 4 points, 3 comments
-7. [US plans online portal to bypass content bans in Europe and elsewhere](https://www.reuters.com/world/us-plans-online-portal-bypass-content-bans-europe-elsewhere-2026-02-18/) - 166 points, 205 comments
-8. [Archaeologists find possible first direct evidence of Hannibal's war elephants](https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/) - 81 points, 23 comments
-9. [Paged Out Issue #8 [pdf]](https://pagedout.institute/download/PagedOut_008.pdf) - 317 points, 52 comments
-10. [Pebble Production: February Update](https://repebble.com/blog/february-pebble-production-and-software-updates) - 264 points, 123 comments
+1. [Keep Android Open](https://f-droid.org/2026/02/20/twif.html) - 1075 points, 416 comments
+2. [Turn Dependabot Off](https://words.filippo.io/dependabot/) - 264 points, 76 comments
+3. [CERN rebuilt the original browser from 1989](https://worldwideweb.cern.ch) - 77 points, 24 comments
+4. [I found a Vulnerability. They found a Lawyer](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer) - 337 points, 160 comments
+5. [Facebook is cooked](https://pilk.website/3/facebook-is-absolutely-cooked) - 720 points, 430 comments
+6. [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759) - 663 points, 163 comments
+7. [Wikipedia deprecates Archive.today, starts removing archive links](https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/) - 292 points, 162 comments
+8. [Cord: Coordinating Trees of AI Agents](https://www.june.kim/cord) - 8 points, 0 comments
+9. [OpenScan](https://openscan.eu/pages/scan-gallery) - 93 points, 3 comments
+10. [Show HN: Mines.fyi – all the mines in the US in a leaflet visualization](https://mines.fyi/) - 52 points, 33 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 7 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 8 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
