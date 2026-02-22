@@ -19,20 +19,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-02-21 10:03:01 (北京时间)
+> 🕐 最后更新：2026-02-22 10:12:40 (北京时间)
 
-1. [Keep Android Open](https://f-droid.org/2026/02/20/twif.html) - 1075 points, 416 comments
-2. [Turn Dependabot Off](https://words.filippo.io/dependabot/) - 264 points, 76 comments
-3. [CERN rebuilt the original browser from 1989](https://worldwideweb.cern.ch) - 77 points, 24 comments
-4. [I found a Vulnerability. They found a Lawyer](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer) - 337 points, 160 comments
-5. [Facebook is cooked](https://pilk.website/3/facebook-is-absolutely-cooked) - 720 points, 430 comments
-6. [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759) - 663 points, 163 comments
-7. [Wikipedia deprecates Archive.today, starts removing archive links](https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/) - 292 points, 162 comments
-8. [Cord: Coordinating Trees of AI Agents](https://www.june.kim/cord) - 8 points, 0 comments
-9. [OpenScan](https://openscan.eu/pages/scan-gallery) - 93 points, 3 comments
-10. [Show HN: Mines.fyi – all the mines in the US in a leaflet visualization](https://mines.fyi/) - 52 points, 33 comments
+1. [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/) - 98 points, 48 comments
+2. [Are compilers deterministic?](https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/) - 32 points, 25 comments
+3. [Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer) - 100 points, 26 comments
+4. [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188) - 68 points, 20 comments
+5. [Parse, Don't Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/) - 125 points, 37 comments
+6. [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english) - 365 points, 210 comments
+7. [zclaw: personal AI assistant in under 888 KB, running on an ESP32](https://github.com/tnm/zclaw) - 98 points, 54 comments
+8. [EDuke32 – Duke Nukem 3D (Open-Source)](https://www.eduke32.com/) - 152 points, 56 comments
+9. [Forward propagation of errors through time](https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/) - 6 points, 0 comments
+10. [CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206) - 156 points, 132 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 8 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 9 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
