@@ -19,20 +19,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-02-22 10:12:40 (北京时间)
+> 🕐 最后更新：2026-02-23 10:13:19 (北京时间)
 
-1. [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/) - 98 points, 48 comments
-2. [Are compilers deterministic?](https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/) - 32 points, 25 comments
-3. [Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer) - 100 points, 26 comments
-4. [Evidence of the bouba-kiki effect in naïve baby chicks](https://www.science.org/doi/10.1126/science.adq7188) - 68 points, 20 comments
-5. [Parse, Don't Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/) - 125 points, 37 comments
-6. [How far back in time can you understand English?](https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english) - 365 points, 210 comments
-7. [zclaw: personal AI assistant in under 888 KB, running on an ESP32](https://github.com/tnm/zclaw) - 98 points, 54 comments
-8. [EDuke32 – Duke Nukem 3D (Open-Source)](https://www.eduke32.com/) - 152 points, 56 comments
-9. [Forward propagation of errors through time](https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/) - 6 points, 0 comments
-10. [CXMT has been offering DDR4 chips at about half the prevailing market rate](https://www.koreaherald.com/article/10679206) - 156 points, 132 comments
+1. [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html) - 619 points, 169 comments
+2. [Google restricting Google AI Pro/Ultra subscribers for using OpenClaw](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778) - 256 points, 199 comments
+3. [Loops is a federated, open-source TikTok](https://joinloops.org/) - 241 points, 141 comments
+4. [The surprising power of daily rituals](https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress) - 11 points, 6 comments
+5. [Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable](https://cia-factbook-archive.fly.dev/) - 129 points, 31 comments
+6. [Show HN: WARN Firehose – Every US layoff notice in one searchable database](https://warnfirehose.com) - 46 points, 5 comments
+7. [Using the new bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/) - 49 points, 8 comments
+8. [Attention Media ≠ Social Networks](https://susam.net/attention-media-vs-social-networks.html) - 548 points, 235 comments
+9. [Show HN: A geometric analysis of Chopin's Prelude No. 4 using 3D topology](https://github.com/jimishol/cholidean-harmony-structure/blob/main/docs/03-case-study-chopin-prelude04.md) - 15 points, 3 comments
+10. [Six Math Essentials](https://terrytao.wordpress.com/2026/02/16/six-math-essentials/) - 108 points, 15 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 9 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 10 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
