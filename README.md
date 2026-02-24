@@ -19,20 +19,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-02-23 10:13:19 (北京时间)
+> 🕐 最后更新：2026-02-24 10:10:09 (北京时间)
 
-1. [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html) - 619 points, 169 comments
-2. [Google restricting Google AI Pro/Ultra subscribers for using OpenClaw](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778) - 256 points, 199 comments
-3. [Loops is a federated, open-source TikTok](https://joinloops.org/) - 241 points, 141 comments
-4. [The surprising power of daily rituals](https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress) - 11 points, 6 comments
-5. [Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable](https://cia-factbook-archive.fly.dev/) - 129 points, 31 comments
-6. [Show HN: WARN Firehose – Every US layoff notice in one searchable database](https://warnfirehose.com) - 46 points, 5 comments
-7. [Using the new bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/) - 49 points, 8 comments
-8. [Attention Media ≠ Social Networks](https://susam.net/attention-media-vs-social-networks.html) - 548 points, 235 comments
-9. [Show HN: A geometric analysis of Chopin's Prelude No. 4 using 3D topology](https://github.com/jimishol/cholidean-harmony-structure/blob/main/docs/03-case-study-chopin-prelude04.md) - 15 points, 3 comments
-10. [Six Math Essentials](https://terrytao.wordpress.com/2026/02/16/six-math-essentials/) - 108 points, 15 comments
+1. [Shatner is making an album with 35 metal icons](https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album) - 64 points, 32 comments
+2. [I Ported Coreboot to the ThinkPad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/) - 45 points, 2 comments
+3. [FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/) - 253 points, 199 comments
+4. [UNIX99, a UNIX-like OS for the TI-99/4A](https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/) - 144 points, 49 comments
+5. [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification) - 1209 points, 970 comments
+6. [Making Wolfram Tech Available as a Foundation Tool for LLM Systems](https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/) - 48 points, 31 comments
+7. [Ladybird adopts Rust](https://ladybird.org/posts/adopting-rust/) - 1078 points, 589 comments
+8. [Show HN: PgDog – Scale Postgres without changing the app](https://github.com/pgdogdev/pgdog) - 189 points, 44 comments
+9. [What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics](https://jamesoswald.dev/posts/bigoinequality/) - 28 points, 18 comments
+10. [The challenges of porting Shufflepuck Cafe to the 8 bits Apple II](https://www.colino.net/wordpress/archives/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii/) - 48 points, 7 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 10 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 11 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
