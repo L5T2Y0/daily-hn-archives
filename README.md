@@ -6,6 +6,7 @@
 
 [![Daily Update](https://github.com/L5T2Y0/daily-hn-archives/actions/workflows/daily_run.yml/badge.svg)](https://github.com/L5T2Y0/daily-hn-archives/actions/workflows/daily_run.yml)
 [![Weekly Summary](https://github.com/L5T2Y0/daily-hn-archives/actions/workflows/weekly_summary.yml/badge.svg)](https://github.com/L5T2Y0/daily-hn-archives/actions/workflows/weekly_summary.yml)
+[![Monthly Summary](https://github.com/L5T2Y0/daily-hn-archives/actions/workflows/monthly_summary.yml/badge.svg)](https://github.com/L5T2Y0/daily-hn-archives/actions/workflows/monthly_summary.yml)
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](https://img.shields.io/github/stars/L5T2Y0/daily-hn-archives?style=social)](https://github.com/L5T2Y0/daily-hn-archives/stargazers)
@@ -43,23 +44,35 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-02-16 12:52:44 (北京时间)
+> 🕐 最后更新：2026-02-24 16:38:01 (北京时间)
 
-**本周热门 (2026-02-09 至 2026-02-15)**
+**本周热门 (2026-02-16 至 2026-02-22)**
 
-1. [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/) - 564 points, 186 comments
-2. [Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986](https://www.wallstreetraider.com/story.html) - 438 points, 153 comments
-3. [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/) - 432 points, 118 comments
-4. [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/) - 380 points, 240 comments
-5. [Babylon 5 is now free to watch on YouTube](https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/) - 336 points, 147 comments
-6. [My smart sleep mask broadcasts users' brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/) - 334 points, 168 comments
-7. [IBM tripling entry-level jobs after finding the limits of AI adoption](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/) - 230 points, 105 comments
-8. [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md) - 191 points, 21 comments
-9. [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13) - 190 points, 95 comments
-10. [Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645) - 153 points, 37 comments
+1. [I fixed Windows native development](https://marler8997.github.io/blog/fixed-windows/) - 668 points, 327 comments
+2. [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw) - 539 points, 409 comments
+3. [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502) - 305 points, 132 comments
+4. [Modern CSS Code Snippets: Stop writing CSS like it's 2015](https://modern-css.com) - 220 points, 87 comments
+5. [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/) - 125 points, 51 comments
+6. [Audio is the one area small labs are winning](https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai) - 98 points, 17 comments
+7. [Radio host David Greene says Google's NotebookLM tool stole his voice](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/) - 91 points, 61 comments
+8. [I gave Claude access to my pen plotter](https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter) - 81 points, 38 comments
+9. [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/) - 39 points, 3 comments
+10. [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality) - 38 points, 23 comments
 
-📁 **[查看完整周报](weekly/week-2026-02-15.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-02-22.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
+
+---
+
+## 📅 本月精选
+
+> 每月1号自动生成
+
+<!-- MONTHLY_SUMMARY_START -->
+> 🕐 月报功能已启用，将在每月1号自动更新
+
+敬请期待本月的热门文章精选...
+<!-- MONTHLY_SUMMARY_END -->
 
 ---
 
@@ -80,7 +93,9 @@
 | 🤖 **全自动运行** | 每天 UTC 0点自动执行，无需人工干预，失败自动重试 |
 | 📁 **智能归档** | 按日期独立存储，Markdown 格式易读，包含完整元数据 |
 | 📊 **周报汇总** | 每周日自动生成 Top 20 热门文章，智能去重和排名 |
-| 📈 **动态索引** | README 自动更新，历史记录一目了然，支持快速检索 |
+| � **月报精选** | 每月1号自动生成 Top 50 热门文章，包含分类统计 |
+| 🏷️ **智能分类** | 自动识别文章类别（AI、Web、DevOps等12+标签） |
+| �📈 **动态索引** | README 自动更新，历史记录一目了然，支持快速检索 |
 | 🌱 **GitHub 集成** | 每日自动提交，贡献图保持活跃，完整的 CI/CD 流程 |
 
 ## 🎬 效果预览
@@ -118,20 +133,26 @@ daily-hn-archives/
 ├── 🔌 hn_fetcher.py          # HN API 交互模块（含重试机制）
 ├── 📝 markdown_generator.py  # Markdown 内容生成模块
 ├── 💾 file_manager.py        # 文件操作模块（UTF-8 编码）
-├── � weekly_summary.py      # 周报生成模块
-├── �📋 requirements.txt       # Python 依赖列表
+├── 📊 weekly_summary.py      # 周报生成模块
+├── 📅 monthly_summary.py     # 月报生成模块
+├── 🏷️ tag_classifier.py      # 文章标签分类模块
+├── 📋 requirements.txt       # Python 依赖列表
 ├── 📁 archives/              # 归档文件目录
 │   ├── 2026-02-14.md        # 每日归档文件
 │   ├── 2026-02-13.md
 │   └── ...
-├── � weekly/                # 周报文件目录
+├── 📁 weekly/                # 周报文件目录
 │   ├── week-2026-02-16.md   # 每周周报文件
+│   └── ...
+├── 📁 monthly/               # 月报文件目录
+│   ├── month-2026-02.md     # 每月月报文件
 │   └── ...
 ├── 📖 README.md              # 项目主页（本文件）
 └── ⚙️ .github/
     └── workflows/
         ├── daily_run.yml     # 每日归档自动化配置
-        └── weekly_summary.yml # 周报生成自动化配置
+        ├── weekly_summary.yml # 周报生成自动化配置
+        └── monthly_summary.yml # 月报生成自动化配置
 ```
 
 **模块说明：**
@@ -142,6 +163,8 @@ daily-hn-archives/
 | `markdown_generator.py` | 生成 Markdown 内容 | 格式化文章、生成索引、时间戳 |
 | `file_manager.py` | 文件系统操作 | UTF-8 编码、目录管理、文件排序 |
 | `weekly_summary.py` | 生成周报 | 文章排名、去重、统计分析 |
+| `monthly_summary.py` | 生成月报 | 月度排名、分类统计、趋势分析 |
+| `tag_classifier.py` | 文章标签分类 | 关键词匹配、多标签支持、12+分类 |
 | `main.py` | 流程协调 | 错误处理、进度输出、退出码管理 |
 
 ---
@@ -223,13 +246,13 @@ python main.py
 - [x] UTF-8 编码支持
 - [x] 模块化架构设计
 - [x] **周报功能** - 每周日生成一周热门文章汇总
+- [x] **月报功能** - 每月生成月度热门文章排行
+- [x] **标签分类** - 自动识别文章类别（AI、Web、DevOps 等）
 
 ### 📅 计划中
 
 #### 短期目标（1-2 个月）
 
-- [ ] **月报功能** - 每月生成月度热门文章排行
-- [ ] **标签分类** - 自动识别文章类别（AI、Web、DevOps 等）
 - [ ] **搜索功能** - 支持关键词搜索历史文章
 
 #### 中期目标（3-6 个月）

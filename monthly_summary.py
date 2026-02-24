@@ -1,13 +1,13 @@
-# Weekly Summary 模块 - 负责生成周报
+# Monthly Summary 模块 - 负责生成月报
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 import re
 from tag_classifier import add_tags_to_article, group_articles_by_tag, get_tag_statistics, format_tags_for_display
 
 
-def get_week_date_range() -> tuple[str, str]:
+def get_last_month_range() -> tuple[str, str]:
     """
-    获取上周的日期范围（周一到周日）
+    获取上个月的日期范围
     
     返回:
         (start_date, end_date) 格式为 YYYY-MM-DD
@@ -15,12 +15,12 @@ def get_week_date_range() -> tuple[str, str]:
     beijing_tz = timezone(timedelta(hours=8))
     today = datetime.now(beijing_tz).date()
     
-    # 计算上周一和上周日
-    weekday = today.weekday()  # 0=周一, 6=周日
-    last_sunday = today - timedelta(days=weekday + 1)  # 上周日
-    last_monday = last_sunday - timedelta(days=6)  # 上周一
+    # 计算上个月的第一天
+    first_day_this_month = today.replace(day=1)
+    last_day_last_month = first_day_this_month - timedelta(days=1)
+    first_day_last_month = last_day_last_month.replace(day=1)
     
-    return last_monday.strftime("%Y-%m-%d"), last_sunday.strftime("%Y-%m-%d")
+    return first_day_last_month.strftime("%Y-%m-%d"), last_day_last_month.strftime("%Y-%m-%d")
 
 
 def parse_archive_file(file_path: Path) -> list[dict]:
@@ -54,9 +54,9 @@ def parse_archive_file(file_path: Path) -> list[dict]:
         return []
 
 
-def collect_week_articles(start_date: str, end_date: str) -> list[dict]:
+def collect_month_articles(start_date: str, end_date: str) -> list[dict]:
     """
-    收集一周内的所有文章
+    收集一个月内的所有文章
     
     参数:
         start_date: 开始日期 YYYY-MM-DD
@@ -82,7 +82,7 @@ def collect_week_articles(start_date: str, end_date: str) -> list[dict]:
     return all_articles
 
 
-def rank_articles(articles: list[dict], top_n: int = 20) -> list[dict]:
+def rank_articles(articles: list[dict], top_n: int = 50) -> list[dict]:
     """
     对文章进行排名（按分数降序）
     
@@ -106,9 +106,9 @@ def rank_articles(articles: list[dict], top_n: int = 20) -> list[dict]:
     return sorted_articles[:top_n]
 
 
-def generate_weekly_content(start_date: str, end_date: str, top_articles: list[dict]) -> str:
+def generate_monthly_content(start_date: str, end_date: str, top_articles: list[dict]) -> str:
     """
-    生成周报内容
+    生成月报内容
     
     参数:
         start_date: 开始日期
@@ -116,7 +116,7 @@ def generate_weekly_content(start_date: str, end_date: str, top_articles: list[d
         top_articles: 热门文章列表
     
     返回:
-        Markdown 格式的周报内容
+        Markdown 格式的月报内容
     """
     lines = []
     
@@ -124,31 +124,49 @@ def generate_weekly_content(start_date: str, end_date: str, top_articles: list[d
     for article in top_articles:
         add_tags_to_article(article)
     
+    # 提取年月
+    year_month = datetime.strptime(start_date, "%Y-%m-%d").strftime("%Y年%m月")
+    
     # 标题
-    lines.append(f"# 📊 Hacker News 周报")
-    lines.append(f"## {start_date} 至 {end_date}")
+    lines.append(f"# 📊 Hacker News 月报")
+    lines.append(f"## {year_month}")
+    lines.append(f"### {start_date} 至 {end_date}")
     lines.append("")
     
     # 统计信息
-    lines.append("### 📈 本周统计")
+    lines.append("### 📈 本月统计")
     lines.append("")
     total_score = sum(article["score"] for article in top_articles)
     total_comments = sum(article["comments"] for article in top_articles)
+    avg_score = total_score // len(top_articles) if top_articles else 0
     lines.append(f"- 📝 收录文章：{len(top_articles)} 篇")
     lines.append(f"- ⭐ 总点赞数：{total_score:,}")
     lines.append(f"- 💬 总评论数：{total_comments:,}")
+    lines.append(f"- 📊 平均点赞：{avg_score} points")
     lines.append("")
     
     # 标签统计
     tag_stats = get_tag_statistics(top_articles)
     lines.append("### 🏷️ 热门标签")
     lines.append("")
-    for tag, count in list(tag_stats.items())[:5]:  # 显示前5个标签
+    for tag, count in list(tag_stats.items())[:8]:  # 显示前8个标签
         lines.append(f"- {format_tags_for_display([tag])}: {count} 篇")
     lines.append("")
     
-    # Top 20 文章
-    lines.append("### 🔥 本周 Top 20 热门文章")
+    # 按标签分组
+    grouped = group_articles_by_tag(top_articles)
+    lines.append("### 📂 分类浏览")
+    lines.append("")
+    for tag in list(tag_stats.keys())[:5]:  # 显示前5个分类
+        if tag in grouped:
+            lines.append(f"#### {format_tags_for_display([tag])} ({len(grouped[tag])} 篇)")
+            lines.append("")
+            for article in grouped[tag][:5]:  # 每个分类显示前5篇
+                lines.append(f"- [{article['title']}]({article['url']}) - {article['score']} points")
+            lines.append("")
+    
+    # Top 50 文章
+    lines.append("### 🔥 本月 Top 50 热门文章")
     lines.append("")
     
     for i, article in enumerate(top_articles, 1):
@@ -169,18 +187,18 @@ def generate_weekly_content(start_date: str, end_date: str, top_articles: list[d
     beijing_tz = timezone(timedelta(hours=8))
     beijing_time = datetime.now(beijing_tz)
     timestamp = beijing_time.strftime("%Y-%m-%d %H:%M:%S")
-    lines.append(f"*周报生成时间: {timestamp} (北京时间)*")
+    lines.append(f"*月报生成时间: {timestamp} (北京时间)*")
     lines.append("*数据来源: [Hacker News API](https://github.com/HackerNews/API)*")
     
     return "\n".join(lines)
 
 
-def update_readme_weekly_section(weekly_summary: str) -> None:
+def update_readme_monthly_section(monthly_summary: str) -> None:
     """
-    更新 README 中的周报区域
+    更新 README 中的月报区域
     
     参数:
-        weekly_summary: 周报摘要内容（简化版）
+        monthly_summary: 月报摘要内容（简化版）
     """
     readme_path = Path("README.md")
     
@@ -189,66 +207,68 @@ def update_readme_weekly_section(weekly_summary: str) -> None:
     
     content = readme_path.read_text(encoding="utf-8")
     
-    # 如果没有周报区域标记，在日报区域后添加
-    if "<!-- WEEKLY_SUMMARY_START -->" not in content:
-        # 在日报区域后添加周报区域
-        daily_end = content.find("<!-- DAILY_ARTICLES_END -->")
-        if daily_end != -1:
-            insert_pos = content.find("\n---\n", daily_end)
+    # 如果没有月报区域标记，在周报区域后添加
+    if "<!-- MONTHLY_SUMMARY_START -->" not in content:
+        # 在周报区域后添加月报区域
+        weekly_end = content.find("<!-- WEEKLY_SUMMARY_END -->")
+        if weekly_end != -1:
+            insert_pos = content.find("\n---\n", weekly_end)
             if insert_pos != -1:
-                weekly_section = f"\n\n## 📊 本周热门\n\n<!-- WEEKLY_SUMMARY_START -->\n{weekly_summary}\n<!-- WEEKLY_SUMMARY_END -->\n"
-                content = content[:insert_pos] + weekly_section + content[insert_pos:]
+                monthly_section = f"\n\n## 📅 本月精选\n\n<!-- MONTHLY_SUMMARY_START -->\n{monthly_summary}\n<!-- MONTHLY_SUMMARY_END -->\n"
+                content = content[:insert_pos] + monthly_section + content[insert_pos:]
     else:
-        # 更新现有周报区域
-        pattern = r'<!-- WEEKLY_SUMMARY_START -->.*?<!-- WEEKLY_SUMMARY_END -->'
-        replacement = f'<!-- WEEKLY_SUMMARY_START -->\n{weekly_summary}\n<!-- WEEKLY_SUMMARY_END -->'
+        # 更新现有月报区域
+        pattern = r'<!-- MONTHLY_SUMMARY_START -->.*?<!-- MONTHLY_SUMMARY_END -->'
+        replacement = f'<!-- MONTHLY_SUMMARY_START -->\n{monthly_summary}\n<!-- MONTHLY_SUMMARY_END -->'
         content = re.sub(pattern, replacement, content, flags=re.DOTALL)
     
     readme_path.write_text(content, encoding="utf-8")
 
 
-def generate_weekly_summary() -> None:
+def generate_monthly_summary() -> None:
     """
-    生成周报的主函数
+    生成月报的主函数
     """
     print("=" * 50)
-    print("Weekly Summary - 开始生成周报")
+    print("Monthly Summary - 开始生成月报")
     print("=" * 50)
     print()
     
-    # 获取本周日期范围
-    start_date, end_date = get_week_date_range()
-    print(f"周期: {start_date} 至 {end_date}")
+    # 获取上个月日期范围
+    start_date, end_date = get_last_month_range()
+    year_month = datetime.strptime(start_date, "%Y-%m-%d").strftime("%Y年%m月")
+    print(f"周期: {year_month} ({start_date} 至 {end_date})")
     print()
     
-    # 收集本周文章
-    print("步骤 1: 收集本周文章")
-    all_articles = collect_week_articles(start_date, end_date)
+    # 收集本月文章
+    print("步骤 1: 收集本月文章")
+    all_articles = collect_month_articles(start_date, end_date)
     print(f"共收集 {len(all_articles)} 篇文章")
     print()
     
     if not all_articles:
-        print("⚠️  本周暂无文章数据")
+        print("⚠️  本月暂无文章数据")
         return
     
     # 排名文章
     print("步骤 2: 文章排名")
-    top_articles = rank_articles(all_articles, top_n=20)
-    print(f"Top 20 文章已选出")
+    top_articles = rank_articles(all_articles, top_n=50)
+    print(f"Top 50 文章已选出")
     print()
     
-    # 生成周报文件
-    print("步骤 3: 生成周报文件")
-    weekly_content = generate_weekly_content(start_date, end_date, top_articles)
+    # 生成月报文件
+    print("步骤 3: 生成月报文件")
+    monthly_content = generate_monthly_content(start_date, end_date, top_articles)
     
-    # 保存周报文件
-    weekly_dir = Path("weekly")
-    weekly_dir.mkdir(exist_ok=True)
+    # 保存月报文件
+    monthly_dir = Path("monthly")
+    monthly_dir.mkdir(exist_ok=True)
     
-    # 使用周日日期作为文件名
-    weekly_file = weekly_dir / f"week-{end_date}.md"
-    weekly_file.write_text(weekly_content, encoding="utf-8")
-    print(f"周报文件已保存: {weekly_file}")
+    # 使用年月作为文件名
+    month_str = datetime.strptime(start_date, "%Y-%m-%d").strftime("%Y-%m")
+    monthly_file = monthly_dir / f"month-{month_str}.md"
+    monthly_file.write_text(monthly_content, encoding="utf-8")
+    print(f"月报文件已保存: {monthly_file}")
     print()
     
     # 生成README摘要（Top 10）
@@ -258,23 +278,23 @@ def generate_weekly_summary() -> None:
     timestamp = beijing_time.strftime("%Y-%m-%d %H:%M:%S")
     
     summary_lines = [f"> 🕐 最后更新：{timestamp} (北京时间)", ""]
-    summary_lines.append(f"**本周热门 ({start_date} 至 {end_date})**")
+    summary_lines.append(f"**{year_month}精选**")
     summary_lines.append("")
     
     for i, article in enumerate(top_articles[:10], 1):
         summary_lines.append(f"{i}. [{article['title']}]({article['url']}) - {article['score']} points, {article['comments']} comments")
     
     summary_lines.append("")
-    summary_lines.append(f"📁 **[查看完整周报](weekly/week-{end_date}.md)** | Top 20 热门文章")
+    summary_lines.append(f"📁 **[查看完整月报](monthly/month-{month_str}.md)** | Top 50 热门文章")
     
-    update_readme_weekly_section("\n".join(summary_lines))
+    update_readme_monthly_section("\n".join(summary_lines))
     print("README 已更新")
     print()
     
     print("=" * 50)
-    print("✓ 周报生成完成！")
+    print("✓ 月报生成完成！")
     print("=" * 50)
 
 
 if __name__ == "__main__":
-    generate_weekly_summary()
+    generate_monthly_summary()
