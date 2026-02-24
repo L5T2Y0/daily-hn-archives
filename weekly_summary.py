@@ -262,7 +262,10 @@ def generate_weekly_summary() -> None:
     summary_lines.append("")
     
     for i, article in enumerate(top_articles[:10], 1):
+        tags = format_tags_for_display(article.get("tags", []))
         summary_lines.append(f"{i}. [{article['title']}]({article['url']}) - {article['score']} points, {article['comments']} comments")
+        if tags:
+            summary_lines.append(f"   - {tags}")
     
     summary_lines.append("")
     summary_lines.append(f"📁 **[查看完整周报](weekly/week-{end_date}.md)** | Top 20 热门文章")

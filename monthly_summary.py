@@ -280,7 +280,10 @@ def generate_monthly_summary() -> None:
     summary_lines.append("")
     
     for i, article in enumerate(top_articles[:10], 1):
+        tags = format_tags_for_display(article.get("tags", []))
         summary_lines.append(f"{i}. [{article['title']}]({article['url']}) - {article['score']} points, {article['comments']} comments")
+        if tags:
+            summary_lines.append(f"   - {tags}")
     
     summary_lines.append("")
     summary_lines.append(f"📁 **[查看完整月报](monthly/month-{month_str}.md)** | Top 50 热门文章")

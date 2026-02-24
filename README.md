@@ -44,22 +44,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-02-22 09:06:42 (北京时间)
+> 🕐 最后更新：2026-02-24 17:03:07 (北京时间)
 
-**本周热门 (2026-02-09 至 2026-02-15)**
+**本周热门 (2026-02-16 至 2026-02-22)**
 
-1. [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/) - 597 points, 190 comments
-2. [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/) - 439 points, 118 comments
-3. [Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986](https://www.wallstreetraider.com/story.html) - 438 points, 153 comments
-4. [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/) - 397 points, 251 comments
-5. [My smart sleep mask broadcasts users' brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/) - 339 points, 171 comments
-6. [Babylon 5 is now free to watch on YouTube](https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/) - 336 points, 147 comments
-7. [IBM tripling entry-level jobs after finding the limits of AI adoption](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/) - 248 points, 121 comments
-8. [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md) - 191 points, 21 comments
-9. [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13) - 190 points, 95 comments
-10. [Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645) - 153 points, 37 comments
+1. [Keep Android Open](https://f-droid.org/2026/02/20/twif.html) - 1075 points, 416 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
+2. [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) - 873 points, 783 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+3. [Facebook is cooked](https://pilk.website/3/facebook-is-absolutely-cooked) - 720 points, 430 comments
+   - 🌐 Web | 🔒 Security
+4. [I fixed Windows native development](https://marler8997.github.io/blog/fixed-windows/) - 668 points, 327 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+5. [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759) - 663 points, 163 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
+6. [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw) - 539 points, 409 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+7. [Gemini 3.1 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) - 532 points, 701 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
+8. [Show HN: Micasa – track your house from the terminal](https://micasa.dev) - 450 points, 143 comments
+   - 🌐 Web | 🔒 Security | 🔧 Tools
+9. [Thank HN: You helped save 33k lives](https://news.ycombinator.com/item?id=47049824) - 436 points, 55 comments
+   - 🌐 Web | 🔒 Security
+10. [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/) - 408 points, 82 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
 
-📁 **[查看完整周报](weekly/week-2026-02-15.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-02-22.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
@@ -69,20 +79,30 @@
 > 每月1号自动生成
 
 <!-- MONTHLY_SUMMARY_START -->
-> 🕐 最后更新：2026-02-24 17:00:09 (北京时间)
+> 🕐 最后更新：2026-02-24 17:02:50 (北京时间)
 
 **2026年02月精选（至今）**
 
 1. [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification) - 1209 points, 970 comments
+   - 🌐 Web | 🔒 Security
 2. [Ladybird adopts Rust](https://ladybird.org/posts/adopting-rust/) - 1078 points, 589 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
 3. [Keep Android Open](https://f-droid.org/2026/02/20/twif.html) - 1075 points, 416 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
 4. [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) - 873 points, 783 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
 5. [Facebook is cooked](https://pilk.website/3/facebook-is-absolutely-cooked) - 720 points, 430 comments
+   - 🌐 Web | 🔒 Security
 6. [I fixed Windows native development](https://marler8997.github.io/blog/fixed-windows/) - 668 points, 327 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
 7. [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759) - 663 points, 163 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
 8. [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html) - 619 points, 169 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
 9. [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/) - 597 points, 190 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source | 🔧 Tools
 10. [Attention Media ≠ Social Networks](https://susam.net/attention-media-vs-social-networks.html) - 548 points, 235 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
 
 📁 **[查看完整月报](monthly/month-2026-02.md)** | Top 50 热门文章
 <!-- MONTHLY_SUMMARY_END -->
