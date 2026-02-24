@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-02-16 10:12:43 (北京时间)
+> 🕐 最后更新：2026-02-24 10:10:09 (北京时间)
 
-1. [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw) - 539 points, 409 comments
-2. [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/) - 125 points, 51 comments
-3. [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality) - 38 points, 23 comments
-4. [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/) - 39 points, 3 comments
-5. [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502) - 305 points, 132 comments
-6. [Audio is the one area small labs are winning](https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai) - 98 points, 17 comments
-7. [Radio host David Greene says Google's NotebookLM tool stole his voice](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/) - 91 points, 61 comments
-8. [Modern CSS Code Snippets: Stop writing CSS like it's 2015](https://modern-css.com) - 220 points, 87 comments
-9. [I fixed Windows native development](https://marler8997.github.io/blog/fixed-windows/) - 668 points, 327 comments
-10. [I gave Claude access to my pen plotter](https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter) - 81 points, 38 comments
+1. [Shatner is making an album with 35 metal icons](https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album) - 64 points, 32 comments
+2. [I Ported Coreboot to the ThinkPad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/) - 45 points, 2 comments
+3. [FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/) - 253 points, 199 comments
+4. [UNIX99, a UNIX-like OS for the TI-99/4A](https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/) - 144 points, 49 comments
+5. [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification) - 1209 points, 970 comments
+6. [Making Wolfram Tech Available as a Foundation Tool for LLM Systems](https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/) - 48 points, 31 comments
+7. [Ladybird adopts Rust](https://ladybird.org/posts/adopting-rust/) - 1078 points, 589 comments
+8. [Show HN: PgDog – Scale Postgres without changing the app](https://github.com/pgdogdev/pgdog) - 189 points, 44 comments
+9. [What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics](https://jamesoswald.dev/posts/bigoinequality/) - 28 points, 18 comments
+10. [The challenges of porting Shufflepuck Cafe to the 8 bits Apple II](https://www.colino.net/wordpress/archives/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii/) - 48 points, 7 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 3 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 11 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
@@ -44,22 +44,22 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-02-24 16:38:01 (北京时间)
+> 🕐 最后更新：2026-02-22 09:06:42 (北京时间)
 
-**本周热门 (2026-02-16 至 2026-02-22)**
+**本周热门 (2026-02-09 至 2026-02-15)**
 
-1. [I fixed Windows native development](https://marler8997.github.io/blog/fixed-windows/) - 668 points, 327 comments
-2. [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw) - 539 points, 409 comments
-3. [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502) - 305 points, 132 comments
-4. [Modern CSS Code Snippets: Stop writing CSS like it's 2015](https://modern-css.com) - 220 points, 87 comments
-5. [Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/) - 125 points, 51 comments
-6. [Audio is the one area small labs are winning](https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai) - 98 points, 17 comments
-7. [Radio host David Greene says Google's NotebookLM tool stole his voice](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/) - 91 points, 61 comments
-8. [I gave Claude access to my pen plotter](https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter) - 81 points, 38 comments
-9. [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/) - 39 points, 3 comments
-10. [Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality) - 38 points, 23 comments
+1. [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/) - 597 points, 190 comments
+2. [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/) - 439 points, 118 comments
+3. [Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986](https://www.wallstreetraider.com/story.html) - 438 points, 153 comments
+4. [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/) - 397 points, 251 comments
+5. [My smart sleep mask broadcasts users' brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/) - 339 points, 171 comments
+6. [Babylon 5 is now free to watch on YouTube](https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/) - 336 points, 147 comments
+7. [IBM tripling entry-level jobs after finding the limits of AI adoption](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/) - 248 points, 121 comments
+8. [Show HN: Data Engineering Book – An open source, community-driven guide](https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md) - 191 points, 21 comments
+9. [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13) - 190 points, 95 comments
+10. [Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645) - 153 points, 37 comments
 
-📁 **[查看完整周报](weekly/week-2026-02-22.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-02-15.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
@@ -144,10 +144,10 @@ daily-hn-archives/
 ├── 📁 weekly/                # 周报文件目录
 │   ├── week-2026-02-16.md   # 每周周报文件
 │   └── ...
-├── 📁 monthly/               # 月报文件目录
+├── � monthly/               # 月报文件目录
 │   ├── month-2026-02.md     # 每月月报文件
 │   └── ...
-├── 📖 README.md              # 项目主页（本文件）
+├── �📖 README.md              # 项目主页（本文件）
 └── ⚙️ .github/
     └── workflows/
         ├── daily_run.yml     # 每日归档自动化配置

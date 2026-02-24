@@ -1,0 +1,60 @@
+name: Weekly Summary Update
+
+on:
+  # 每周日 UTC 0点自动运行
+  schedule:
+    - cron: '0 0 * * 0'
+  
+  # 允许手动触发
+  workflow_dispatch:
+
+# 授予写入权限以便提交和推送
+permissions:
+  contents: write
+
+jobs:
+  generate-weekly-summary:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # 检出代码
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 获取完整历史以便访问所有归档文件
+      
+      # 设置 Python 环境
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      
+      # 安装依赖
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+      
+      # 运行周报生成脚本
+      - name: Generate weekly summary
+        run: |
+          python weekly_summary.py
+      
+      # 检查是否有文件变动
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+      
+      # 提交并推送变动
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Weekly summary: $(date +'%Y-%m-%d')"
+          git push
