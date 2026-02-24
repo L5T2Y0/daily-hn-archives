@@ -7,7 +7,7 @@ from tag_classifier import add_tags_to_article, group_articles_by_tag, get_tag_s
 
 def get_last_month_range() -> tuple[str, str]:
     """
-    获取上个月的日期范围
+    获取本月至今的日期范围
     
     返回:
         (start_date, end_date) 格式为 YYYY-MM-DD
@@ -15,12 +15,10 @@ def get_last_month_range() -> tuple[str, str]:
     beijing_tz = timezone(timedelta(hours=8))
     today = datetime.now(beijing_tz).date()
     
-    # 计算上个月的第一天
+    # 本月第一天到今天
     first_day_this_month = today.replace(day=1)
-    last_day_last_month = first_day_this_month - timedelta(days=1)
-    first_day_last_month = last_day_last_month.replace(day=1)
     
-    return first_day_last_month.strftime("%Y-%m-%d"), last_day_last_month.strftime("%Y-%m-%d")
+    return first_day_this_month.strftime("%Y-%m-%d"), today.strftime("%Y-%m-%d")
 
 
 def parse_archive_file(file_path: Path) -> list[dict]:
@@ -129,7 +127,7 @@ def generate_monthly_content(start_date: str, end_date: str, top_articles: list[
     
     # 标题
     lines.append(f"# 📊 Hacker News 月报")
-    lines.append(f"## {year_month}")
+    lines.append(f"## {year_month}至今")
     lines.append(f"### {start_date} 至 {end_date}")
     lines.append("")
     
@@ -234,10 +232,10 @@ def generate_monthly_summary() -> None:
     print("=" * 50)
     print()
     
-    # 获取上个月日期范围
+    # 获取本月至今日期范围
     start_date, end_date = get_last_month_range()
     year_month = datetime.strptime(start_date, "%Y-%m-%d").strftime("%Y年%m月")
-    print(f"周期: {year_month} ({start_date} 至 {end_date})")
+    print(f"周期: {year_month}至今 ({start_date} 至 {end_date})")
     print()
     
     # 收集本月文章
@@ -278,7 +276,7 @@ def generate_monthly_summary() -> None:
     timestamp = beijing_time.strftime("%Y-%m-%d %H:%M:%S")
     
     summary_lines = [f"> 🕐 最后更新：{timestamp} (北京时间)", ""]
-    summary_lines.append(f"**{year_month}精选**")
+    summary_lines.append(f"**{year_month}精选（至今）**")
     summary_lines.append("")
     
     for i, article in enumerate(top_articles[:10], 1):

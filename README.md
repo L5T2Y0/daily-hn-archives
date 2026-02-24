@@ -69,9 +69,22 @@
 > 每月1号自动生成
 
 <!-- MONTHLY_SUMMARY_START -->
-> 🕐 月报功能已启用，将在每月1号自动更新
+> 🕐 最后更新：2026-02-24 17:00:09 (北京时间)
 
-敬请期待本月的热门文章精选...
+**2026年02月精选（至今）**
+
+1. [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification) - 1209 points, 970 comments
+2. [Ladybird adopts Rust](https://ladybird.org/posts/adopting-rust/) - 1078 points, 589 comments
+3. [Keep Android Open](https://f-droid.org/2026/02/20/twif.html) - 1075 points, 416 comments
+4. [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) - 873 points, 783 comments
+5. [Facebook is cooked](https://pilk.website/3/facebook-is-absolutely-cooked) - 720 points, 430 comments
+6. [I fixed Windows native development](https://marler8997.github.io/blog/fixed-windows/) - 668 points, 327 comments
+7. [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759) - 663 points, 163 comments
+8. [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html) - 619 points, 169 comments
+9. [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/) - 597 points, 190 comments
+10. [Attention Media ≠ Social Networks](https://susam.net/attention-media-vs-social-networks.html) - 548 points, 235 comments
+
+📁 **[查看完整月报](monthly/month-2026-02.md)** | Top 50 热门文章
 <!-- MONTHLY_SUMMARY_END -->
 
 ---
