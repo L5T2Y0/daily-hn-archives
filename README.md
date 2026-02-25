@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-02-24 10:10:09 (北京时间)
+> 🕐 最后更新：2026-02-25 10:11:49 (北京时间)
 
-1. [Shatner is making an album with 35 metal icons](https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album) - 64 points, 32 comments
-2. [I Ported Coreboot to the ThinkPad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/) - 45 points, 2 comments
-3. [FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/) - 253 points, 199 comments
-4. [UNIX99, a UNIX-like OS for the TI-99/4A](https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/) - 144 points, 49 comments
-5. [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification) - 1209 points, 970 comments
-6. [Making Wolfram Tech Available as a Foundation Tool for LLM Systems](https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/) - 48 points, 31 comments
-7. [Ladybird adopts Rust](https://ladybird.org/posts/adopting-rust/) - 1078 points, 589 comments
-8. [Show HN: PgDog – Scale Postgres without changing the app](https://github.com/pgdogdev/pgdog) - 189 points, 44 comments
-9. [What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics](https://jamesoswald.dev/posts/bigoinequality/) - 28 points, 18 comments
-10. [The challenges of porting Shufflepuck Cafe to the 8 bits Apple II](https://www.colino.net/wordpress/archives/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the-8-bits-apple-ii/) - 48 points, 7 comments
+1. [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/) - 627 points, 188 comments
+2. [Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine) - 129 points, 22 comments
+3. [Mercury 2: The fastest reasoning LLM, powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2) - 66 points, 25 comments
+4. [Hacking an old Kindle to display bus arrival times](https://www.mariannefeng.com/portfolio/kindle/) - 176 points, 40 comments
+5. [Mac mini will be made at a new facility in Houston](https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/) - 345 points, 356 comments
+6. [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - 242 points, 90 comments
+7. [I pitched a roller coaster to Disneyland at age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time) - 397 points, 152 comments
+8. [Corgi Labs (YC W23) Is Hiring](https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate) - 1 points, 0 comments
+9. [Amazon Busted for Widespread Scheme to Inflate Prices Across the Economy](https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price) - 54 points, 1 comments
+10. [Pi – a minimal terminal coding harness](https://pi.dev) - 158 points, 66 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 11 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 12 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
