@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-02-25 10:11:49 (北京时间)
+> 🕐 最后更新：2026-02-26 10:07:38 (北京时间)
 
-1. [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/) - 627 points, 188 comments
-2. [Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine) - 129 points, 22 comments
-3. [Mercury 2: The fastest reasoning LLM, powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2) - 66 points, 25 comments
-4. [Hacking an old Kindle to display bus arrival times](https://www.mariannefeng.com/portfolio/kindle/) - 176 points, 40 comments
-5. [Mac mini will be made at a new facility in Houston](https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/) - 345 points, 356 comments
-6. [Nearby Glasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - 242 points, 90 comments
-7. [I pitched a roller coaster to Disneyland at age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time) - 397 points, 152 comments
-8. [Corgi Labs (YC W23) Is Hiring](https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate) - 1 points, 0 comments
-9. [Amazon Busted for Widespread Scheme to Inflate Prices Across the Economy](https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price) - 54 points, 1 comments
-10. [Pi – a minimal terminal coding harness](https://pi.dev) - 158 points, 66 comments
+1. [Jane Street Hit with Terra $40B Insider Trading Suit](https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/) - 44 points, 8 comments
+2. [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer) - 307 points, 111 comments
+3. [First Website](https://info.cern.ch) - 92 points, 17 comments
+4. [Origin of the rule that swap size should be 2x of the physical memory](https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory) - 41 points, 38 comments
+5. [Making MCP cheaper via CLI](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html) - 128 points, 62 comments
+6. [Windows 11 Notepad to support Markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/) - 193 points, 322 comments
+7. [Bus stop balancing is fast, cheap, and effective](https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/) - 295 points, 460 comments
+8. [Artist who "paints" portraits on glass by hitting it with a hammer](https://simonbergerart.com) - 38 points, 16 comments
+9. [Show HN: Respectify – A comment moderator that teaches people to argue better](https://respectify.org/) - 97 points, 113 comments
+10. [The Om Programming Language](https://www.om-language.com/) - 231 points, 51 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 12 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 13 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
