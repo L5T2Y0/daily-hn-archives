@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-02-26 10:07:38 (北京时间)
+> 🕐 最后更新：2026-02-27 10:06:25 (北京时间)
 
-1. [Jane Street Hit with Terra $40B Insider Trading Suit](https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/) - 44 points, 8 comments
-2. [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer) - 307 points, 111 comments
-3. [First Website](https://info.cern.ch) - 92 points, 17 comments
-4. [Origin of the rule that swap size should be 2x of the physical memory](https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory) - 41 points, 38 comments
-5. [Making MCP cheaper via CLI](https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html) - 128 points, 62 comments
-6. [Windows 11 Notepad to support Markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/) - 193 points, 322 comments
-7. [Bus stop balancing is fast, cheap, and effective](https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/) - 295 points, 460 comments
-8. [Artist who "paints" portraits on glass by hitting it with a hammer](https://simonbergerart.com) - 38 points, 16 comments
-9. [Show HN: Respectify – A comment moderator that teaches people to argue better](https://respectify.org/) - 97 points, 113 comments
-10. [The Om Programming Language](https://www.om-language.com/) - 231 points, 51 comments
+1. [Statement from Dario Amodei on Our Discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war) - 858 points, 477 comments
+2. [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343) - 452 points, 431 comments
+3. [AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf) - 319 points, 158 comments
+4. [Will vibe coding end like the maker movement?](https://read.technically.dev/p/vibe-coding-and-the-maker-movement) - 317 points, 303 comments
+5. [What Claude Code Chooses](https://amplifying.ai/research/claude-code-picks) - 235 points, 98 comments
+6. [Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)](https://coderush.me/hydroph0bia-part3/) - 34 points, 2 comments
+7. [Launch HN: Cardboard (YC W26) – Agentic video editor](https://www.usecardboard.com/) - 96 points, 47 comments
+8. [LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity](https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer) - 1 points, 0 comments
+9. [Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage](https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/) - 161 points, 173 comments
+10. [What does " 2>&1 " mean?](https://stackoverflow.com/questions/818255/what-does-21-mean) - 129 points, 88 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 13 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 14 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
