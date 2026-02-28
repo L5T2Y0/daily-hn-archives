@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-02-27 10:06:25 (北京时间)
+> 🕐 最后更新：2026-02-28 09:56:28 (北京时间)
 
-1. [Statement from Dario Amodei on Our Discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war) - 858 points, 477 comments
-2. [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343) - 452 points, 431 comments
-3. [AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf) - 319 points, 158 comments
-4. [Will vibe coding end like the maker movement?](https://read.technically.dev/p/vibe-coding-and-the-maker-movement) - 317 points, 303 comments
-5. [What Claude Code Chooses](https://amplifying.ai/research/claude-code-picks) - 235 points, 98 comments
-6. [Hydroph0bia – fixed SecureBoot bypass for UEFI firmware from Insyde H2O (2025)](https://coderush.me/hydroph0bia-part3/) - 34 points, 2 comments
-7. [Launch HN: Cardboard (YC W26) – Agentic video editor](https://www.usecardboard.com/) - 96 points, 47 comments
-8. [LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity](https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer) - 1 points, 0 comments
-9. [Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage](https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/) - 161 points, 173 comments
-10. [What does " 2>&1 " mean?](https://stackoverflow.com/questions/818255/what-does-21-mean) - 129 points, 88 comments
+1. [We Will Not Be Divided](https://notdivided.org) - 296 points, 79 comments
+2. [Statement on the comments from Secretary of War Pete Hegseth](https://www.anthropic.com/news/statement-comments-secretary-war) - 117 points, 18 comments
+3. [I am directing the Department of War to designate Anthropic a supply-chain risk](https://twitter.com/secwar/status/2027507717469049070) - 1025 points, 847 comments
+4. [Smallest transformer that can add two 10-digit numbers](https://github.com/anadim/AdderBoard) - 54 points, 7 comments
+5. [Qt45: A small polymerase ribozyme that can synthesize itself](https://www.science.org/doi/10.1126/science.adt2760) - 38 points, 4 comments
+6. [OpenAI raises $110B on $730B pre-money valuation](https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/) - 379 points, 461 comments
+7. [A new California law says all operating systems need to have age verification](https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/) - 375 points, 373 comments
+8. [Emuko: Fast RISC-V emulator written in Rust, boots Linux](https://github.com/wkoszek/emuko) - 38 points, 4 comments
+9. [NASA announces overhaul of Artemis program amid safety concerns, delays](https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/) - 209 points, 204 comments
+10. [A better streams API is possible for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/) - 370 points, 124 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 14 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 15 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
