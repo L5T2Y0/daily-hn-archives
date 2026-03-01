@@ -79,32 +79,32 @@
 > 每月1号自动生成
 
 <!-- MONTHLY_SUMMARY_START -->
-> 🕐 最后更新：2026-02-24 17:02:50 (北京时间)
+> 🕐 最后更新：2026-03-01 10:26:55 (北京时间)
 
-**2026年02月精选（至今）**
+**2026年03月精选（至今）**
 
-1. [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification) - 1209 points, 970 comments
-   - 🌐 Web | 🔒 Security
-2. [Ladybird adopts Rust](https://ladybird.org/posts/adopting-rust/) - 1078 points, 589 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming
-3. [Keep Android Open](https://f-droid.org/2026/02/20/twif.html) - 1075 points, 416 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
-4. [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) - 873 points, 783 comments
+1. [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless) - 392 points, 141 comments
+   - 🌐 Web | 🔒 Security | 🔧 Tools
+2. [The happiest I've ever been](https://ben-mini.com/2026/the-happiest-ive-ever-been) - 331 points, 152 comments
+   - 🌐 Web | 🔒 Security | 📱 Mobile
+3. [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831) - 265 points, 114 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-5. [Facebook is cooked](https://pilk.website/3/facebook-is-absolutely-cooked) - 720 points, 430 comments
-   - 🌐 Web | 🔒 Security
-6. [I fixed Windows native development](https://marler8997.github.io/blog/fixed-windows/) - 668 points, 327 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
-7. [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759) - 663 points, 163 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
-8. [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html) - 619 points, 169 comments
+4. [Woxi: Wolfram Mathematica Reimplementation in Rust](https://github.com/ad-si/Woxi) - 249 points, 104 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source
+5. [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632) - 201 points, 172 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source | 🔧 Tools
+6. [The Windows 95 user interface: A case study in usability engineering (1996)](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611) - 140 points, 79 comments
    - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
-9. [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts/) - 597 points, 190 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source | 🔧 Tools
-10. [Attention Media ≠ Social Networks](https://susam.net/attention-media-vs-social-networks.html) - 548 points, 235 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
+7. [Block the “Upgrade to Tahoe” Alerts](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/) - 139 points, 62 comments
+   - 🌐 Web | 🔒 Security
+8. [Show HN: Xmloxide – an agent made rust replacement for libxml2](https://github.com/jonwiggins/xmloxide) - 25 points, 15 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source | 🔧 Tools
+9. [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/) - 23 points, 4 comments
+   - 🤖 AI | 🌐 Web | 📂 Open Source
+10. [H-Bomb: A Frank Lloyd Wright Typographic Mystery](https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic) - 9 points, 3 comments
+   - 🌐 Web | 🔒 Security
 
-📁 **[查看完整月报](monthly/month-2026-02.md)** | Top 50 热门文章
+📁 **[查看完整月报](monthly/month-2026-03.md)** | Top 50 热门文章
 <!-- MONTHLY_SUMMARY_END -->
 
 ---
