@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-02-28 09:56:28 (北京时间)
+> 🕐 最后更新：2026-03-01 10:26:37 (北京时间)
 
-1. [We Will Not Be Divided](https://notdivided.org) - 296 points, 79 comments
-2. [Statement on the comments from Secretary of War Pete Hegseth](https://www.anthropic.com/news/statement-comments-secretary-war) - 117 points, 18 comments
-3. [I am directing the Department of War to designate Anthropic a supply-chain risk](https://twitter.com/secwar/status/2027507717469049070) - 1025 points, 847 comments
-4. [Smallest transformer that can add two 10-digit numbers](https://github.com/anadim/AdderBoard) - 54 points, 7 comments
-5. [Qt45: A small polymerase ribozyme that can synthesize itself](https://www.science.org/doi/10.1126/science.adt2760) - 38 points, 4 comments
-6. [OpenAI raises $110B on $730B pre-money valuation](https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/) - 379 points, 461 comments
-7. [A new California law says all operating systems need to have age verification](https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/) - 375 points, 373 comments
-8. [Emuko: Fast RISC-V emulator written in Rust, boots Linux](https://github.com/wkoszek/emuko) - 38 points, 4 comments
-9. [NASA announces overhaul of Artemis program amid safety concerns, delays](https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/) - 209 points, 204 comments
-10. [A better streams API is possible for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/) - 370 points, 124 comments
+1. [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831) - 265 points, 114 comments
+2. [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/) - 23 points, 4 comments
+3. [The Windows 95 user interface: A case study in usability engineering (1996)](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611) - 140 points, 79 comments
+4. [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless) - 392 points, 141 comments
+5. [The happiest I've ever been](https://ben-mini.com/2026/the-happiest-ive-ever-been) - 331 points, 152 comments
+6. [Show HN: Xmloxide – an agent made rust replacement for libxml2](https://github.com/jonwiggins/xmloxide) - 25 points, 15 comments
+7. [Block the “Upgrade to Tahoe” Alerts](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/) - 139 points, 62 comments
+8. [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632) - 201 points, 172 comments
+9. [Woxi: Wolfram Mathematica Reimplementation in Rust](https://github.com/ad-si/Woxi) - 249 points, 104 comments
+10. [H-Bomb: A Frank Lloyd Wright Typographic Mystery](https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic) - 9 points, 3 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 15 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 16 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
