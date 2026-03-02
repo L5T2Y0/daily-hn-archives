@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-01 10:26:37 (北京时间)
+> 🕐 最后更新：2026-03-02 10:10:01 (北京时间)
 
-1. [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831) - 265 points, 114 comments
-2. [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/) - 23 points, 4 comments
-3. [The Windows 95 user interface: A case study in usability engineering (1996)](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611) - 140 points, 79 comments
-4. [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless) - 392 points, 141 comments
-5. [The happiest I've ever been](https://ben-mini.com/2026/the-happiest-ive-ever-been) - 331 points, 152 comments
-6. [Show HN: Xmloxide – an agent made rust replacement for libxml2](https://github.com/jonwiggins/xmloxide) - 25 points, 15 comments
-7. [Block the “Upgrade to Tahoe” Alerts](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/) - 139 points, 62 comments
-8. [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632) - 201 points, 172 comments
-9. [Woxi: Wolfram Mathematica Reimplementation in Rust](https://github.com/ad-si/Woxi) - 249 points, 104 comments
-10. [H-Bomb: A Frank Lloyd Wright Typographic Mystery](https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic) - 9 points, 3 comments
+1. [How to talk to anyone, and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should) - 437 points, 213 comments
+2. [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp) - 121 points, 78 comments
+3. [Tove Jansson's criticized illustrations of The Hobbit](https://tovejansson.com/hobbit-tolkien/) - 79 points, 34 comments
+4. [Ghostty – Terminal Emulator](https://ghostty.org/docs) - 615 points, 276 comments
+5. [Little Free Library Books](https://littlefreelibrary.org/) - 46 points, 12 comments
+6. [How Next-Gen Spacecraft Are Overwhelming Our Communication Networks](https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/) - 28 points, 4 comments
+7. [When does MCP make sense vs CLI?](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html) - 266 points, 180 comments
+8. [What Your DNA Reveals about the Sex Life of Neanderthals](https://www.nytimes.com/2026/02/26/science/human-evolution-neanderthal-sex.html) - 20 points, 5 comments
+9. [Microgpt explained interactively](https://growingswe.com/blog/microgpt) - 196 points, 30 comments
+10. [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/) - 399 points, 70 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 16 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 17 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
