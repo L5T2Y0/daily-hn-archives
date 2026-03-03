@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-02 10:10:01 (北京时间)
+> 🕐 最后更新：2026-03-03 10:11:25 (北京时间)
 
-1. [How to talk to anyone, and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should) - 437 points, 213 comments
-2. [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp) - 121 points, 78 comments
-3. [Tove Jansson's criticized illustrations of The Hobbit](https://tovejansson.com/hobbit-tolkien/) - 79 points, 34 comments
-4. [Ghostty – Terminal Emulator](https://ghostty.org/docs) - 615 points, 276 comments
-5. [Little Free Library Books](https://littlefreelibrary.org/) - 46 points, 12 comments
-6. [How Next-Gen Spacecraft Are Overwhelming Our Communication Networks](https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/) - 28 points, 4 comments
-7. [When does MCP make sense vs CLI?](https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html) - 266 points, 180 comments
-8. [What Your DNA Reveals about the Sex Life of Neanderthals](https://www.nytimes.com/2026/02/26/science/human-evolution-neanderthal-sex.html) - 20 points, 5 comments
-9. [Microgpt explained interactively](https://growingswe.com/blog/microgpt) - 196 points, 30 comments
-10. [Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/) - 399 points, 70 comments
+1. [The workers behind Meta’s smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything) - 539 points, 284 comments
+2. [Seed of Might Color Correction Process (2023) [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf) - 68 points, 15 comments
+3. [Closure of the Weatheradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/) - 64 points, 28 comments
+4. [Show HN: I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent) - 166 points, 44 comments
+5. [Welcome (back) to Macintosh](https://take.surf/2026/03/01/welcome-back-to-macintosh) - 252 points, 157 comments
+6. [Show HN: PHP 8 disable_functions bypass PoC](https://github.com/m0x41nos/TimeAfterFree) - 18 points, 3 comments
+7. [How to Build Your Own Quantum Computer](https://physics.aps.org/articles/v19/24) - 26 points, 3 comments
+8. [What Are Your Guilty Displeasures?](https://www.hopefulmons.com/p/what-are-your-guilty-displeasures) - 16 points, 3 comments
+9. [British Columbia to end time changes, adopt year-round daylight time](https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657) - 434 points, 246 comments
+10. [New iPad Air, powered by M4](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/) - 325 points, 523 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 17 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 18 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
