@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-03 10:11:25 (北京时间)
+> 🕐 最后更新：2026-03-04 10:05:26 (北京时间)
 
-1. [The workers behind Meta’s smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything) - 539 points, 284 comments
-2. [Seed of Might Color Correction Process (2023) [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf) - 68 points, 15 comments
-3. [Closure of the Weatheradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/) - 64 points, 28 comments
-4. [Show HN: I built a sub-500ms latency voice agent from scratch](https://www.ntik.me/posts/voice-agent) - 166 points, 44 comments
-5. [Welcome (back) to Macintosh](https://take.surf/2026/03/01/welcome-back-to-macintosh) - 252 points, 157 comments
-6. [Show HN: PHP 8 disable_functions bypass PoC](https://github.com/m0x41nos/TimeAfterFree) - 18 points, 3 comments
-7. [How to Build Your Own Quantum Computer](https://physics.aps.org/articles/v19/24) - 26 points, 3 comments
-8. [What Are Your Guilty Displeasures?](https://www.hopefulmons.com/p/what-are-your-guilty-displeasures) - 16 points, 3 comments
-9. [British Columbia to end time changes, adopt year-round daylight time](https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657) - 434 points, 246 comments
-10. [New iPad Air, powered by M4](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/) - 325 points, 523 comments
+1. [MacBook Pro with M5 Pro and M5 Max](https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/) - 667 points, 656 comments
+2. [Lenovo's New ThinkPads Score 10/10 for Repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability) - 182 points, 53 comments
+3. [Voxile: A ray-traced game made in its own engine and programming language](https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update) - 103 points, 16 comments
+4. [Claude's Cycles [pdf]](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf) - 467 points, 212 comments
+5. [Intel's make-or-break 18A process node debuts for data center with 288-core Xeon](https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech) - 247 points, 193 comments
+6. [Textadept](https://orbitalquark.github.io/textadept/) - 68 points, 13 comments
+7. [GPT‑5.3 Instant](https://openai.com/index/gpt-5-3-instant/) - 293 points, 221 comments
+8. [Marcus AI Claims Dataset](https://github.com/davegoldblatt/marcus-claims-dataset) - 54 points, 25 comments
+9. [Claude's Cycles [pdf]](https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf) - 15 points, 2 comments
+10. [An Interactive Intro to CRDTs (2023)](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/) - 95 points, 15 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 18 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 19 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
