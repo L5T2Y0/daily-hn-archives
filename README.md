@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-04 10:05:26 (北京时间)
+> 🕐 最后更新：2026-03-05 10:08:36 (北京时间)
 
-1. [MacBook Pro with M5 Pro and M5 Max](https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/) - 667 points, 656 comments
-2. [Lenovo's New ThinkPads Score 10/10 for Repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability) - 182 points, 53 comments
-3. [Voxile: A ray-traced game made in its own engine and programming language](https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update) - 103 points, 16 comments
-4. [Claude's Cycles [pdf]](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf) - 467 points, 212 comments
-5. [Intel's make-or-break 18A process node debuts for data center with 288-core Xeon](https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech) - 247 points, 193 comments
-6. [Textadept](https://orbitalquark.github.io/textadept/) - 68 points, 13 comments
-7. [GPT‑5.3 Instant](https://openai.com/index/gpt-5-3-instant/) - 293 points, 221 comments
-8. [Marcus AI Claims Dataset](https://github.com/davegoldblatt/marcus-claims-dataset) - 54 points, 25 comments
-9. [Claude's Cycles [pdf]](https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf) - 15 points, 2 comments
-10. [An Interactive Intro to CRDTs (2023)](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/) - 95 points, 15 comments
+1. [MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/) - 1562 points, 1883 comments
+2. [Googleworkspace/CLI](https://github.com/googleworkspace/cli) - 51 points, 17 comments
+3. [Building a new Flash](https://bill.newgrounds.com/news/post/1607118) - 320 points, 82 comments
+4. [Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/) - 197 points, 78 comments
+5. [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/) - 525 points, 248 comments
+6. [Picking Up a Zillion Pieces of Litter](https://www.sixstepstobetterhealth.com/litter.html) - 33 points, 17 comments
+7. [Humans 40k yrs ago developed a system of conventional signs](https://www.pnas.org/doi/10.1073/pnas.2520385123) - 64 points, 29 comments
+8. [Moss is a pixel canvas where every brush is a tiny program](https://www.moss.town/) - 183 points, 22 comments
+9. [What's Driving Rising Business Costs?](https://libertystreeteconomics.newyorkfed.org/2026/03/whats-driving-rising-business-costs/) - 8 points, 2 comments
+10. [The View from RSS](https://www.carolinecrampton.com/the-view-from-rss/) - 75 points, 19 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 19 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 20 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
