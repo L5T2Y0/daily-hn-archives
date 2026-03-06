@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-05 10:08:36 (北京时间)
+> 🕐 最后更新：2026-03-06 10:07:49 (北京时间)
 
-1. [MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/) - 1562 points, 1883 comments
-2. [Googleworkspace/CLI](https://github.com/googleworkspace/cli) - 51 points, 17 comments
-3. [Building a new Flash](https://bill.newgrounds.com/news/post/1607118) - 320 points, 82 comments
-4. [Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/) - 197 points, 78 comments
-5. [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/) - 525 points, 248 comments
-6. [Picking Up a Zillion Pieces of Litter](https://www.sixstepstobetterhealth.com/litter.html) - 33 points, 17 comments
-7. [Humans 40k yrs ago developed a system of conventional signs](https://www.pnas.org/doi/10.1073/pnas.2520385123) - 64 points, 29 comments
-8. [Moss is a pixel canvas where every brush is a tiny program](https://www.moss.town/) - 183 points, 22 comments
-9. [What's Driving Rising Business Costs?](https://libertystreeteconomics.newyorkfed.org/2026/03/whats-driving-rising-business-costs/) - 8 points, 2 comments
-10. [The View from RSS](https://www.carolinecrampton.com/the-view-from-rss/) - 75 points, 19 comments
+1. [CBP tapped into the online advertising ecosystem to track peoples’ movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/) - 324 points, 145 comments
+2. [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) - 636 points, 554 comments
+3. [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war) - 161 points, 109 comments
+4. [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/) - 92 points, 26 comments
+5. [A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://406.fail/) - 86 points, 22 comments
+6. [The Brand Age](https://paulgraham.com/brandage.html) - 218 points, 199 comments
+7. [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304) - 279 points, 153 comments
+8. [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop) - 337 points, 192 comments
+9. [Wikipedia was in read-only mode following mass admin account compromise](https://www.wikimediastatus.net) - 879 points, 309 comments
+10. [Hardware hotplug events on Linux, the gory details](https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html) - 118 points, 5 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 20 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 21 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
