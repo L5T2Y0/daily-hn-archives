@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-06 10:07:49 (北京时间)
+> 🕐 最后更新：2026-03-07 10:00:42 (北京时间)
 
-1. [CBP tapped into the online advertising ecosystem to track peoples’ movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/) - 324 points, 145 comments
-2. [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) - 636 points, 554 comments
-3. [Where things stand with the Department of War](https://www.anthropic.com/news/where-stand-department-war) - 161 points, 109 comments
-4. [The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now](https://charm.land/blog/v2/) - 92 points, 26 comments
-5. [A standard protocol to handle and discard low-effort, AI-Generated pull requests](https://406.fail/) - 86 points, 22 comments
-6. [The Brand Age](https://paulgraham.com/brandage.html) - 218 points, 199 comments
-7. [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304) - 279 points, 153 comments
-8. [Good software knows when to stop](https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop) - 337 points, 192 comments
-9. [Wikipedia was in read-only mode following mass admin account compromise](https://www.wikimediastatus.net) - 879 points, 309 comments
-10. [Hardware hotplug events on Linux, the gory details](https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html) - 118 points, 5 comments
+1. [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org) - 135 points, 39 comments
+2. [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/) - 158 points, 56 comments
+3. [C# strings silently kill your SQL Server indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap) - 51 points, 34 comments
+4. [LLM Doesn't Write Correct Code. It Writes Plausible Code](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code) - 6 points, 0 comments
+5. [Galileo's handwritten notes found in ancient astronomy text](https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text) - 35 points, 1 comments
+6. [Hardening Firefox with Anthropic's Red Team](https://www.anthropic.com/news/mozilla-firefox-security) - 487 points, 140 comments
+7. [The Shady World of IP Leasing](https://acid.vegas/blog/the-shady-world-of-ip-leasing/) - 58 points, 29 comments
+8. [Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting](https://github.com/moongate-community/moongatev2) - 226 points, 129 comments
+9. [Show HN: Kula – Lightweight, self-contained Linux server monitoring tool](https://github.com/c0m4r/kula) - 9 points, 4 comments
+10. [Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs](https://news.ycombinator.com/item?id=47278980) - 38 points, 64 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 21 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 22 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
