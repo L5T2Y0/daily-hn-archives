@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-07 10:00:42 (北京时间)
+> 🕐 最后更新：2026-03-08 10:10:45 (北京时间)
 
-1. [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org) - 135 points, 39 comments
-2. [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/) - 158 points, 56 comments
-3. [C# strings silently kill your SQL Server indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap) - 51 points, 34 comments
-4. [LLM Doesn't Write Correct Code. It Writes Plausible Code](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code) - 6 points, 0 comments
-5. [Galileo's handwritten notes found in ancient astronomy text](https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text) - 35 points, 1 comments
-6. [Hardening Firefox with Anthropic's Red Team](https://www.anthropic.com/news/mozilla-firefox-security) - 487 points, 140 comments
-7. [The Shady World of IP Leasing](https://acid.vegas/blog/the-shady-world-of-ip-leasing/) - 58 points, 29 comments
-8. [Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting](https://github.com/moongate-community/moongatev2) - 226 points, 129 comments
-9. [Show HN: Kula – Lightweight, self-contained Linux server monitoring tool](https://github.com/c0m4r/kula) - 9 points, 4 comments
-10. [Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs](https://news.ycombinator.com/item?id=47278980) - 38 points, 64 comments
+1. [Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html) - 47 points, 27 comments
+2. [Science Fiction Is Dying. Long Live Post Sci-Fi?](https://www.typebarmagazine.com/science-fiction-is-dying-long-live-post-sci-fi/) - 28 points, 11 comments
+3. [CasNum](https://github.com/0x0mer/CasNum) - 191 points, 24 comments
+4. [A decade of Docker containers](https://cacm.acm.org/research/a-decade-of-docker-containers/) - 232 points, 170 comments
+5. [Dumping Lego NXT firmware off of an existing brick (2025)](https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html) - 152 points, 10 comments
+6. [The stagnancy of publishing and the disappearance of the midlist](https://www.honest-broker.com/p/the-day-ny-publishing-lost-its-soul) - 49 points, 27 comments
+7. [Effort to prevent government officials from engaging in prediction markets](https://www.merkley.senate.gov/merkley-klobuchar-launch-new-effort-to-ban-federal-elected-officials-profiting-from-prediction-markets/) - 237 points, 79 comments
+8. [Ki Editor - an editor that operates on the AST](https://ki-editor.org/) - 371 points, 132 comments
+9. [Show HN: A weird thing that detects your pulse from the browser video](https://pulsefeedback.io/) - 9 points, 4 comments
+10. [In 1985 Maxell built a bunch of life-size robots for its bad floppy ad](https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/) - 60 points, 7 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 22 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 23 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
