@@ -44,32 +44,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-03-01 09:12:21 (北京时间)
+> 🕐 最后更新：2026-03-08 09:05:50 (北京时间)
 
-**本周热门 (2026-02-16 至 2026-02-22)**
+**本周热门 (2026-02-23 至 2026-03-01)**
 
-1. [Keep Android Open](https://f-droid.org/2026/02/20/twif.html) - 1075 points, 416 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
-2. [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) - 873 points, 783 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-3. [Facebook is cooked](https://pilk.website/3/facebook-is-absolutely-cooked) - 720 points, 430 comments
+1. [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification) - 1209 points, 970 comments
    - 🌐 Web | 🔒 Security
-4. [I fixed Windows native development](https://marler8997.github.io/blog/fixed-windows/) - 668 points, 327 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
-5. [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759) - 663 points, 163 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
-6. [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw) - 539 points, 409 comments
+2. [Ladybird adopts Rust](https://ladybird.org/posts/adopting-rust/) - 1078 points, 589 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
+3. [I am directing the Department of War to designate Anthropic a supply-chain risk](https://twitter.com/secwar/status/2027507717469049070) - 1025 points, 847 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-7. [Gemini 3.1 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) - 532 points, 701 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
-8. [Show HN: Micasa – track your house from the terminal](https://micasa.dev) - 450 points, 143 comments
+4. [Statement from Dario Amodei on Our Discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war) - 858 points, 477 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+5. [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/) - 627 points, 188 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
+6. [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html) - 619 points, 169 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
+7. [Attention Media ≠ Social Networks](https://susam.net/attention-media-vs-social-networks.html) - 548 points, 235 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+8. [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343) - 452 points, 431 comments
+   - 🌐 Web | 🔒 Security
+9. [I pitched a roller coaster to Disneyland at age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time) - 397 points, 152 comments
+   - 🌐 Web | 🔒 Security
+10. [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless) - 392 points, 141 comments
    - 🌐 Web | 🔒 Security | 🔧 Tools
-9. [Thank HN: You helped save 33k lives](https://news.ycombinator.com/item?id=47049824) - 436 points, 55 comments
-   - 🌐 Web | 🔒 Security
-10. [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/) - 408 points, 82 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
 
-📁 **[查看完整周报](weekly/week-2026-02-22.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-03-01.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
