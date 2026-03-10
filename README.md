@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-09 10:11:36 (北京时间)
+> 🕐 最后更新：2026-03-10 10:04:13 (北京时间)
 
-1. [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/) - 327 points, 78 comments
-2. [Microscopes can see video on a laserdisc](https://www.youtube.com/watch?v=qZuR-772cks) - 242 points, 18 comments
-3. [PCB devboard the size of a USB-C plug](https://github.com/Dieu-de-l-elec/AngstromIO-devboard) - 57 points, 13 comments
-4. [Ask HN: What Are You Working On? (March 2026)](https://news.ycombinator.com/item?id=47303111) - 47 points, 103 comments
-5. [Blacksky AppView](https://github.com/blacksky-algorithms/atproto) - 96 points, 51 comments
-6. [We should revisit literate programming in the agent era](https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/) - 132 points, 71 comments
-7. [Every single board computer I tested in 2025](https://bret.dk/every-single-board-computer-i-tested-in-2025/) - 109 points, 30 comments
-8. [FrameBook](https://fb.edoo.gg) - 355 points, 64 comments
-9. [Linux Internals: How /proc/self/mem writes to unwritable memory (2021)](https://offlinemark.com/an-obscure-quirk-of-proc/) - 26 points, 4 comments
-10. [Artificial-life: A simple (300 lines of code) reproduction of Computational Life](https://github.com/Rabrg/artificial-life) - 66 points, 4 comments
+1. [Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years) - 68 points, 6 comments
+2. [It looks like the “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615) - 22 points, 10 comments
+3. [Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/) - 391 points, 58 comments
+4. [JSLinux Now Supports x86_64](https://bellard.org/jslinux/) - 250 points, 70 comments
+5. [Show HN: Remotely use my guitar tuner](https://realtuner.online/) - 69 points, 12 comments
+6. [Is legal the same as legitimate: AI reimplementation and the erosion of copyleft](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/) - 349 points, 375 comments
+7. [The first airplane fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html) - 61 points, 13 comments
+8. [DARPA’s new X-76](https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter) - 158 points, 154 comments
+9. [Darkrealms BBS](http://www.darkrealms.ca/) - 15 points, 0 comments
+10. [“ma” is a minimalistic clone of the acme[1] editor used in Plan 9](http://www.call-with-current-continuation.org/ma/README) - 18 points, 0 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 24 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 25 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
