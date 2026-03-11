@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-10 10:04:13 (北京时间)
+> 🕐 最后更新：2026-03-11 10:03:47 (北京时间)
 
-1. [Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years) - 68 points, 6 comments
-2. [It looks like the “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615) - 22 points, 10 comments
-3. [Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/) - 391 points, 58 comments
-4. [JSLinux Now Supports x86_64](https://bellard.org/jslinux/) - 250 points, 70 comments
-5. [Show HN: Remotely use my guitar tuner](https://realtuner.online/) - 69 points, 12 comments
-6. [Is legal the same as legitimate: AI reimplementation and the erosion of copyleft](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/) - 349 points, 375 comments
-7. [The first airplane fatality](https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html) - 61 points, 13 comments
-8. [DARPA’s new X-76](https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter) - 158 points, 154 comments
-9. [Darkrealms BBS](http://www.darkrealms.ca/) - 15 points, 0 comments
-10. [“ma” is a minimalistic clone of the acme[1] editor used in Plan 9](http://www.call-with-current-continuation.org/ma/README) - 18 points, 0 comments
+1. [Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html) - 1506 points, 200 comments
+2. [U+237C ⍼ Is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html) - 135 points, 12 comments
+3. [Cloudflare crawl endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/) - 121 points, 62 comments
+4. [Agents that run while I sleep](https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep) - 230 points, 183 comments
+5. [Yann LeCun raises $1B to build AI that understands the physical world](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/) - 336 points, 324 comments
+6. [SSH Secret Menu](https://twitter.com/rebane2001/status/2031037389347406054) - 49 points, 20 comments
+7. [Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon](https://github.com/RunanywhereAI/rcli) - 183 points, 99 comments
+8. [Mesh over Bluetooth LE, TCP, or Reticulum](https://github.com/torlando-tech/columba) - 31 points, 1 comments
+9. [Universal vaccine against respiratory infections and allergens](https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html) - 107 points, 29 comments
+10. [Debian decides not to decide on AI-generated contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/) - 282 points, 212 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 25 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 26 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
