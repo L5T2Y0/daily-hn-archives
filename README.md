@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-12 10:09:56 (北京时间)
+> 🕐 最后更新：2026-03-13 10:07:21 (北京时间)
 
-1. [Temporal: A nine-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/) - 528 points, 181 comments
-2. [Many SWE-bench-Passing PRs would not be merged](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/) - 142 points, 41 comments
-3. [Don't post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/newsguidelines.html#generated) - 2805 points, 1031 comments
-4. [Show HN: s@: decentralized social networking over static sites](http://satproto.org/) - 21 points, 2 comments
-5. [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/) - 404 points, 147 comments
-6. [I was interviewed by an AI bot for a job](https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job) - 148 points, 159 comments
-7. [Show HN: I built a tool that watches webpages and exposes changes as RSS](https://sitespy.app) - 169 points, 46 comments
-8. [Show HN: Autoresearch@home](https://www.ensue-network.ai/autoresearch) - 38 points, 10 comments
-9. [Show HN: A context-aware permission guard for Claude Code](https://github.com/manuelschipper/nah/) - 33 points, 25 comments
-10. [How much of HN is AI?](https://lcamtuf.substack.com/p/how-much-of-hn-is-ai) - 31 points, 8 comments
+1. [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0) - 832 points, 301 comments
+2. [Malus – Clean Room as a Service](https://malus.sh) - 1044 points, 403 comments
+3. [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting) - 261 points, 86 comments
+4. [Reversing memory loss via gut-brain communication](https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html) - 236 points, 94 comments
+5. [ATMs didn’t kill bank teller jobs, but the iPhone did](https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller) - 330 points, 374 comments
+6. [Document poisoning in RAG systems: How attackers corrupt AI's sources](https://aminrj.com/posts/rag-document-poisoning/) - 71 points, 26 comments
+7. [The Met releases high-def 3D scans of 140 famous art objects](https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html) - 232 points, 48 comments
+8. [Understanding the Go Runtime: The Scheduler](https://internals-for-interns.com/posts/go-runtime-scheduler/) - 28 points, 3 comments
+9. [“Design me a highly resilient database”](https://nikogura.com/DatabaseDesign.html) - 33 points, 13 comments
+10. [Innocent woman jailed after being misidentified using AI facial recognition](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case) - 408 points, 208 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 27 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 28 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
