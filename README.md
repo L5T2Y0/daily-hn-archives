@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-13 10:07:21 (北京时间)
+> 🕐 最后更新：2026-03-14 10:05:15 (北京时间)
 
-1. [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0) - 832 points, 301 comments
-2. [Malus – Clean Room as a Service](https://malus.sh) - 1044 points, 403 comments
-3. [Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting) - 261 points, 86 comments
-4. [Reversing memory loss via gut-brain communication](https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html) - 236 points, 94 comments
-5. [ATMs didn’t kill bank teller jobs, but the iPhone did](https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller) - 330 points, 374 comments
-6. [Document poisoning in RAG systems: How attackers corrupt AI's sources](https://aminrj.com/posts/rag-document-poisoning/) - 71 points, 26 comments
-7. [The Met releases high-def 3D scans of 140 famous art objects](https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html) - 232 points, 48 comments
-8. [Understanding the Go Runtime: The Scheduler](https://internals-for-interns.com/posts/go-runtime-scheduler/) - 28 points, 3 comments
-9. [“Design me a highly resilient database”](https://nikogura.com/DatabaseDesign.html) - 33 points, 13 comments
-10. [Innocent woman jailed after being misidentified using AI facial recognition](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case) - 408 points, 208 comments
+1. [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga) - 230 points, 67 comments
+2. [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys) - 76 points, 21 comments
+3. [An investigation of the forces behind the age-verification bills](https://lwn.net/Articles/1062779/) - 18 points, 1 comments
+4. [Can I run AI locally?](https://www.canirun.ai/) - 936 points, 254 comments
+5. [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv) - 415 points, 137 comments
+6. [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl) - 204 points, 63 comments
+7. [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) - 31 points, 3 comments
+8. [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock) - 428 points, 392 comments
+9. [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - 210 points, 77 comments
+10. [Parallels confirms MacBook Neo can run Windows in a virtual machine](https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/) - 194 points, 268 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 28 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 29 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
