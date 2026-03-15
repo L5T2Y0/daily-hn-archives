@@ -20,20 +20,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-14 10:05:15 (北京时间)
+> 🕐 最后更新：2026-03-15 10:30:26 (北京时间)
 
-1. [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga) - 230 points, 67 comments
-2. [I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys) - 76 points, 21 comments
-3. [An investigation of the forces behind the age-verification bills](https://lwn.net/Articles/1062779/) - 18 points, 1 comments
-4. [Can I run AI locally?](https://www.canirun.ai/) - 936 points, 254 comments
-5. [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv) - 415 points, 137 comments
-6. [Mouser: An open source alternative to Logi-Plus mouse software](https://github.com/TomBadash/MouseControl) - 204 points, 63 comments
-7. [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) - 31 points, 3 comments
-8. [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock) - 428 points, 392 comments
-9. [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - 210 points, 77 comments
-10. [Parallels confirms MacBook Neo can run Windows in a virtual machine](https://www.macrumors.com/2026/03/13/macbook-neo-runs-windows-11-vm/) - 194 points, 268 comments
+1. [Ageless Linux – Software for humans of indeterminate age](https://agelesslinux.org/) - 324 points, 212 comments
+2. [Airbus is preparing two uncrewed combat aircraft](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european) - 63 points, 26 comments
+3. [Show HN: Han – A Korean programming language written in Rust](https://github.com/xodn348/han) - 111 points, 68 comments
+4. [How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/) - 26 points, 4 comments
+5. [Deriving Type Erasure](https://david.alvarezrosa.com/posts/deriving-type-erasure/) - 26 points, 6 comments
+6. [Tree Search Distillation for Language Models Using PPO](https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/) - 10 points, 1 comments
+7. [Hazardous substances found in all headphones tested by ToxFREE project](https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals) - 82 points, 43 comments
+8. [Bumblebee queens breathe underwater to survive drowning](https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/) - 62 points, 15 comments
+9. [From Braun T3 to Apple's iPod](https://drams.framer.website/journal/from-braun-t3-to-apples-ipod) - 11 points, 2 comments
+10. [Fedora 44 on the Raspberry Pi 5](https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/) - 68 points, 21 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 29 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 30 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
