@@ -48,4 +48,21 @@ QUICK_SETUP.md
 .pytest_cache/
 .coverage
 htmlcov/
+coverage.xml
+.tox/
+
+# Type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Environment
+.env
+.env.local
+*.env
+
+# Logs
+*.log
+logs/
+
 
