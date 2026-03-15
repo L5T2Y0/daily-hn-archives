@@ -44,32 +44,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-03-08 09:05:50 (北京时间)
+> 🕐 最后更新：2026-03-15 09:14:41 (北京时间)
 
-**本周热门 (2026-02-23 至 2026-03-01)**
+**本周热门 (2026-03-02 至 2026-03-08)**
 
-1. [The Age Verification Trap: Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification) - 1209 points, 970 comments
+1. [MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/) - 1562 points, 1883 comments
+   - 🌐 Web | 🔒 Security | 📱 Mobile
+2. [Wikipedia was in read-only mode following mass admin account compromise](https://www.wikimediastatus.net) - 879 points, 309 comments
    - 🌐 Web | 🔒 Security
-2. [Ladybird adopts Rust](https://ladybird.org/posts/adopting-rust/) - 1078 points, 589 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming
-3. [I am directing the Department of War to designate Anthropic a supply-chain risk](https://twitter.com/secwar/status/2027507717469049070) - 1025 points, 847 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-4. [Statement from Dario Amodei on Our Discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war) - 858 points, 477 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-5. [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/) - 627 points, 188 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming
-6. [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html) - 619 points, 169 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
-7. [Attention Media ≠ Social Networks](https://susam.net/attention-media-vs-social-networks.html) - 548 points, 235 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-8. [Layoffs at Block](https://twitter.com/jack/status/2027129697092731343) - 452 points, 431 comments
-   - 🌐 Web | 🔒 Security
-9. [I pitched a roller coaster to Disneyland at age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time) - 397 points, 152 comments
-   - 🌐 Web | 🔒 Security
-10. [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless) - 392 points, 141 comments
+3. [MacBook Pro with M5 Pro and M5 Max](https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/) - 667 points, 656 comments
+   - 🌐 Web | 🔒 Security | 📱 Mobile
+4. [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) - 636 points, 554 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
+5. [Ghostty – Terminal Emulator](https://ghostty.org/docs) - 615 points, 276 comments
    - 🌐 Web | 🔒 Security | 🔧 Tools
+6. [The workers behind Meta’s smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything) - 539 points, 284 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+7. [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/) - 525 points, 248 comments
+   - 🌐 Web | 🔒 Security
+8. [Hardening Firefox with Anthropic's Red Team](https://www.anthropic.com/news/mozilla-firefox-security) - 487 points, 140 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+9. [Claude's Cycles [pdf]](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf) - 467 points, 212 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
+10. [How to talk to anyone, and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should) - 437 points, 213 comments
+   - 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-03-01.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-03-08.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
