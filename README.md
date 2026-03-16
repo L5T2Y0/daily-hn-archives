@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-15 20:53:31 (北京时间)
+> 🕐 最后更新：2026-03-16 19:42:26 (北京时间)
 
-1. [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) - 132 points, 67 comments
-2. [A Visual Introduction to Machine Learning](https://r2d3.us/visual-intro-to-machine-learning-part-1/) - 81 points, 4 comments
-3. [Generating All 32-Bit Primes (Part I)](https://hnlyman.github.io/pages/prime32_I.html) - 17 points, 3 comments
-4. [Show HN: Signet – Autonomous wildfire tracking from satellite and weather data](https://signet.watch) - 9 points, 0 comments
-5. [Rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/) - 209 points, 49 comments
-6. [The Appalling Stupidity of Spotify's AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html) - 194 points, 168 comments
-7. [Why Mathematica does not simplify sinh(arccosh(x))](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/) - 92 points, 23 comments
-8. [A most elegant TCP hole punching algorithm](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html) - 119 points, 44 comments
-9. [Examples for the tcpdump and dig man pages](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - 22 points, 3 comments
-10. [How kernel anti-cheats work](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/) - 228 points, 197 comments
+1. [Canada's bill C-22 mandates mass metadata surveillance](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/) - 759 points, 225 comments
+2. [Ask HN: What is it like being in a CS major program these days?](https://news.ycombinator.com/item?id=47397190) - 67 points, 37 comments
+3. [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/) - 248 points, 194 comments
+4. [The 49MB web page](https://thatshubham.com/blog/news-audit) - 603 points, 276 comments
+5. [Chrome DevTools MCP (2025)](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session) - 498 points, 202 comments
+6. [Home Assistant waters my plants](https://finnian.io/blog/home-assistant-waters-my-plants/) - 54 points, 18 comments
+7. [Electric motor scaling laws and inertia in robot actuators](https://robot-daycare.com/posts/actuation_series_1/) - 96 points, 19 comments
+8. [What every computer scientist should know about floating-point arithmetic (1991) [pdf]](https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf) - 78 points, 12 comments
+9. [Stop Sloppypasta](https://stopsloppypasta.ai/) - 394 points, 162 comments
+10. [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/) - 429 points, 33 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 30 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 31 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
