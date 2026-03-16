@@ -1,4 +1,7 @@
 # Search 模块 - 负责搜索历史文章
+from __future__ import annotations
+
+import re
 from pathlib import Path
 from typing import Optional
 from archive_parser import parse_archive_file
@@ -65,11 +68,11 @@ def search_articles(
         if query_lower in title_lower:
             relevance_score += 100
 
-        # 单词匹配
+        # 单词匹配（使用单词边界避免误匹配）
         for word in query_words:
-            if word in title_lower:
+            if re.search(r"\b" + re.escape(word) + r"\b", title_lower):
                 relevance_score += 10
-            if word in url_lower:
+            if re.search(r"\b" + re.escape(word) + r"\b", url_lower):
                 relevance_score += 5
 
         # 如果有匹配，添加到结果

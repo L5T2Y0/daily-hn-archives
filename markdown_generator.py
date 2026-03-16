@@ -1,6 +1,6 @@
 # Markdown Generator 模块 - 负责生成 Markdown 内容
-from datetime import datetime
 from typing import List
+from utils import get_beijing_time
 
 
 def format_story(index: int, story: dict) -> str:
@@ -34,8 +34,6 @@ def generate_archive_content(stories: List[dict], date: str) -> str:
     返回:
         完整的 Markdown 内容，包含标题、文章列表和页脚
     """
-    from datetime import timezone, timedelta
-
     lines = []
 
     # 添加标题
@@ -50,8 +48,7 @@ def generate_archive_content(stories: List[dict], date: str) -> str:
     lines.append("")
     lines.append("---")
     # 使用北京时间（UTC+8）
-    beijing_tz = timezone(timedelta(hours=8))
-    beijing_time = datetime.now(beijing_tz)
+    beijing_time = get_beijing_time()
     timestamp = beijing_time.strftime("%Y-%m-%d %H:%M:%S")
     lines.append(f"*归档生成时间: {timestamp} (北京时间)*")
     lines.append("*数据来源: [Hacker News API](https://github.com/HackerNews/API)*")
@@ -102,11 +99,8 @@ def generate_readme_content(today_stories: List[dict], archive_files: List[str])
 """
 
     # 生成今日文章内容
-    from datetime import timezone, timedelta
-
     # 获取北京时间（UTC+8）
-    beijing_tz = timezone(timedelta(hours=8))
-    beijing_time = datetime.now(beijing_tz)
+    beijing_time = get_beijing_time()
     timestamp = beijing_time.strftime("%Y-%m-%d %H:%M:%S")
 
     articles_content = f"> 🕐 最后更新：{timestamp} (北京时间)\n\n"
@@ -125,8 +119,7 @@ def generate_readme_content(today_stories: List[dict], archive_files: List[str])
         updated_readme = re.sub(pattern, replacement, readme_template, flags=re.DOTALL)
     else:
         updated_readme = (
-            readme_template
-            + f"\n<!-- DAILY_ARTICLES_START -->\n{articles_content}\n<!-- DAILY_ARTICLES_END -->\n"
+            readme_template + f"\n<!-- DAILY_ARTICLES_START -->\n{articles_content}\n<!-- DAILY_ARTICLES_END -->\n"
         )
 
     return updated_readme
