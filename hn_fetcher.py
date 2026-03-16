@@ -3,10 +3,10 @@
 Hacker News API 交互模块
 提供获取热门文章的功能，包含完善的错误处理和重试机制
 """
+
 import requests
 import time
 from typing import List, Dict, Optional
-
 
 # API 端点常量
 HN_API_BASE = "https://hacker-news.firebaseio.com/v0"
