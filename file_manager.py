@@ -1,21 +1,7 @@
 # File Manager 模块 - 负责文件操作
 from pathlib import Path
 from typing import List
-
-
-def ensure_directory_exists(directory: str) -> None:
-    """
-    确保目录存在，如果不存在则创建
-
-    参数:
-        directory: 目录路径
-    """
-    path = Path(directory)
-    try:
-        path.mkdir(parents=True, exist_ok=True)
-    except Exception as e:
-        print(f"创建目录失败 {directory}: {e}")
-        raise
+from utils import ensure_dir
 
 
 def write_archive_file(date: str, content: str) -> str:
@@ -29,7 +15,7 @@ def write_archive_file(date: str, content: str) -> str:
     返回:
         写入的文件路径
     """
-    ensure_directory_exists("archives")
+    ensure_dir("archives")
 
     file_path = Path("archives") / f"{date}.md"
     try:

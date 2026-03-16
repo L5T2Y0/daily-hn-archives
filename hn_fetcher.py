@@ -5,7 +5,7 @@ Hacker News API 交互模块
 """
 import requests
 import time
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Any
 
 
 # API 端点常量
@@ -171,7 +171,7 @@ def get_top_story_ids(limit: int = 10) -> List[int]:
         raise HNDataError(f"Failed to parse Top Stories data: {e}") from e
 
 
-def get_story_details(story_id: int) -> Optional[Dict[str, any]]:
+def get_story_details(story_id: int) -> Optional[Dict[str, Any]]:
     """
     获取单篇文章的详细信息
 
@@ -212,7 +212,7 @@ def get_story_details(story_id: int) -> Optional[Dict[str, any]]:
         return None
 
 
-def fetch_top_stories(count: int = 10) -> List[Dict[str, any]]:
+def fetch_top_stories(count: int = 10) -> List[Dict[str, Any]]:
     """
     获取 Top N 篇文章的完整信息
 

@@ -4,10 +4,13 @@ Daily Hacker News Archives
 每天自动获取并归档 Hacker News 的 Top 10 热门文章
 """
 import sys
-from datetime import datetime
+from pathlib import Path
 from hn_fetcher import fetch_top_stories
 from markdown_generator import generate_archive_content, generate_readme_content
 from file_manager import write_archive_file, get_archive_files, write_readme
+from utils import get_beijing_time, setup_logger
+
+logger = setup_logger(__name__)
 
 
 def main() -> int:
@@ -22,9 +25,16 @@ def main() -> int:
         print("Daily HN Archives - 开始执行")
         print("=" * 50)
 
-        # 获取当前日期
-        today = datetime.now().strftime("%Y-%m-%d")
+        # 获取当前北京时间日期
+        today = get_beijing_time().strftime("%Y-%m-%d")
         print(f"\n日期: {today}")
+
+        # 检查今天是否已经归档，避免重复执行
+        archive_path = Path("archives") / f"{today}.md"
+        if archive_path.exists():
+            logger.warning(f"今天的归档已存在，跳过重复执行: {archive_path}")
+            print(f"⚠️  今天的归档已存在: {archive_path}")
+            return 0
 
         # 获取文章列表
         print("\n步骤 1: 获取 Hacker News Top 10 文章")
@@ -64,6 +74,7 @@ def main() -> int:
         return 0
 
     except Exception as e:
+        logger.error(f"归档失败: {e}", exc_info=True)
         print(f"\n错误: {e}", file=sys.stderr)
         import traceback
 
