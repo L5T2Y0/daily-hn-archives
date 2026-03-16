@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-15 20:53:31 (北京时间)
+> 🕐 最后更新：2026-03-16 17:35:40 (北京时间)
 
-1. [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) - 132 points, 67 comments
-2. [A Visual Introduction to Machine Learning](https://r2d3.us/visual-intro-to-machine-learning-part-1/) - 81 points, 4 comments
-3. [Generating All 32-Bit Primes (Part I)](https://hnlyman.github.io/pages/prime32_I.html) - 17 points, 3 comments
-4. [Show HN: Signet – Autonomous wildfire tracking from satellite and weather data](https://signet.watch) - 9 points, 0 comments
-5. [Rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/) - 209 points, 49 comments
-6. [The Appalling Stupidity of Spotify's AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html) - 194 points, 168 comments
-7. [Why Mathematica does not simplify sinh(arccosh(x))](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/) - 92 points, 23 comments
-8. [A most elegant TCP hole punching algorithm](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html) - 119 points, 44 comments
-9. [Examples for the tcpdump and dig man pages](https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/) - 22 points, 3 comments
-10. [How kernel anti-cheats work](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/) - 228 points, 197 comments
+1. [I may 'hire' AI instead of a graduate student](https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student) - 38 points, 24 comments
+2. [Canada's bill C-22 mandates mass metadata surveillance](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/) - 682 points, 196 comments
+3. [Starlink Mini as a Failover](https://www.jackpearce.co.uk/posts/starlink-failover/) - 22 points, 5 comments
+4. [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/) - 183 points, 126 comments
+5. [The 49MB web page](https://thatshubham.com/blog/news-audit) - 543 points, 246 comments
+6. [Chrome DevTools MCP (2025)](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session) - 468 points, 196 comments
+7. [Six ingenious ways how Canon DSLRs used to illuminate their autofocus points](https://exclusivearchitecture.com/03-technical-articles-CSDS-00-table-of-contents.html) - 25 points, 1 comments
+8. [Home Assistant waters my plants](https://finnian.io/blog/home-assistant-waters-my-plants/) - 18 points, 1 comments
+9. [Kona EV Hacking](http://techno-fandom.org/~hobbit/cars/ev/) - 40 points, 10 comments
+10. [Electric motor scaling laws and inertia in robot actuators](https://robot-daycare.com/posts/actuation_series_1/) - 79 points, 16 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 30 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 31 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
