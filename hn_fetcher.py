@@ -6,12 +6,9 @@ Hacker News API 交互模块
 
 import requests
 import time
-from typing import List, Dict, Optional
+from typing import Any, Dict, List, Optional
 
-# API 端点常量
-HN_API_BASE = "https://hacker-news.firebaseio.com/v0"
-TOP_STORIES_URL = f"{HN_API_BASE}/topstories.json"
-ITEM_URL_TEMPLATE = f"{HN_API_BASE}/item/{{id}}.json"
+from config import TOP_STORIES_ENDPOINT, ITEM_ENDPOINT_TEMPLATE
 
 
 # 自定义异常类
@@ -45,7 +42,7 @@ class HNDataError(HNAPIError):
     pass
 
 
-def fetch_with_retry(url: str, max_retries: int = 3, timeout: int = 10) -> dict:
+def fetch_with_retry(url: str, max_retries: int = 3, timeout: int = 10) -> Any:
     """
     带指数退避的重试请求
 
@@ -105,7 +102,7 @@ def fetch_with_retry(url: str, max_retries: int = 3, timeout: int = 10) -> dict:
     raise HNAPIError(f"Failed to fetch {url} after {max_retries} attempts")
 
 
-def validate_story_data(data: dict) -> bool:
+def validate_story_data(data: Any) -> bool:
     """
     验证文章数据格式
 
@@ -149,7 +146,7 @@ def get_top_story_ids(limit: int = 10) -> List[int]:
         HNAPIError: API请求失败
     """
     try:
-        data = fetch_with_retry(TOP_STORIES_URL)
+        data = fetch_with_retry(TOP_STORIES_ENDPOINT)
 
         # 验证数据格式
         if not isinstance(data, list):
@@ -171,7 +168,7 @@ def get_top_story_ids(limit: int = 10) -> List[int]:
         raise HNDataError(f"Failed to parse Top Stories data: {e}") from e
 
 
-def get_story_details(story_id: int) -> Optional[Dict[str, any]]:
+def get_story_details(story_id: int) -> Optional[Dict[str, Any]]:
     """
     获取单篇文章的详细信息
 
@@ -182,7 +179,7 @@ def get_story_details(story_id: int) -> Optional[Dict[str, any]]:
         包含 title, url, score, comments 的字典
         如果文章无效或获取失败，返回 None
     """
-    url = ITEM_URL_TEMPLATE.format(id=story_id)
+    url = ITEM_ENDPOINT_TEMPLATE.format(id=story_id)
 
     try:
         data = fetch_with_retry(url)
@@ -212,7 +209,7 @@ def get_story_details(story_id: int) -> Optional[Dict[str, any]]:
         return None
 
 
-def fetch_top_stories(count: int = 10) -> List[Dict[str, any]]:
+def fetch_top_stories(count: int = 10) -> List[Dict[str, Any]]:
     """
     获取 Top N 篇文章的完整信息
 
