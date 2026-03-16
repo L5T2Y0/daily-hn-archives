@@ -1,9 +1,10 @@
 # Archive Parser 模块 - 统一处理归档文件解析
 from pathlib import Path
 import re
+from typing import List, Dict, Any
 
 
-def parse_archive_file(file_path: Path) -> list[dict]:
+def parse_archive_file(file_path: Path) -> List[Dict[str, Any]]:
     """
     解析归档文件，提取文章信息
 
@@ -30,5 +31,12 @@ def parse_archive_file(file_path: Path) -> list[dict]:
             )
 
         return articles
+    except (IOError, OSError, UnicodeDecodeError):
+        # 具体的文件读取错误
+        return []
+    except (ValueError, AttributeError):
+        # 数据解析错误
+        return []
     except Exception:
+        # 其他未预期的错误
         return []
