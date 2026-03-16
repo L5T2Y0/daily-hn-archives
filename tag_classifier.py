@@ -222,7 +222,7 @@ def group_articles_by_tag(articles: list[dict]) -> dict[str, list[dict]]:
     返回:
         标签到文章列表的映射
     """
-    grouped = {}
+    grouped: dict[str, list[dict]] = {}
 
     for article in articles:
         if "tags" not in article:
@@ -246,7 +246,7 @@ def get_tag_statistics(articles: list[dict]) -> dict[str, int]:
     返回:
         标签到数量的映射
     """
-    tag_counts = {}
+    tag_counts: dict[str, int] = {}
 
     for article in articles:
         if "tags" not in article:

@@ -2,6 +2,7 @@
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 import re
+from archive_parser import parse_archive_file
 from tag_classifier import add_tags_to_article, group_articles_by_tag, get_tag_statistics, format_tags_for_display
 
 
@@ -19,32 +20,6 @@ def get_last_month_range() -> tuple[str, str]:
     first_day_this_month = today.replace(day=1)
 
     return first_day_this_month.strftime("%Y-%m-%d"), today.strftime("%Y-%m-%d")
-
-
-def parse_archive_file(file_path: Path) -> list[dict]:
-    """
-    解析归档文件，提取文章信息
-
-    参数:
-        file_path: 归档文件路径
-
-    返回:
-        文章列表，每篇文章包含 title, url, score, comments
-    """
-    try:
-        content = file_path.read_text(encoding="utf-8")
-        articles = []
-
-        # 匹配格式: 1. [title](url) - score points, comments comments
-        pattern = r"\d+\.\s+\[(.+?)\]\((.+?)\)\s+-\s+(\d+)\s+points,\s+(\d+)\s+comments"
-        matches = re.findall(pattern, content)
-
-        for title, url, score, comments in matches:
-            articles.append({"title": title, "url": url, "score": int(score), "comments": int(comments)})
-
-        return articles
-    except Exception:
-        return []
 
 
 def collect_month_articles(start_date: str, end_date: str) -> list[dict]:
@@ -87,7 +62,7 @@ def rank_articles(articles: list[dict], top_n: int = 50) -> list[dict]:
         排名后的文章列表
     """
     # 去重（相同URL只保留分数最高的）
-    unique_articles = {}
+    unique_articles: dict[str, dict] = {}
     for article in articles:
         url = article["url"]
         if url not in unique_articles or article["score"] > unique_articles[url]["score"]:
