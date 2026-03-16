@@ -63,3 +63,4 @@ class TestParseArchiveFile:
         result = parse_archive_file(test_file)
         assert len(result) == 1
         assert result[0]["date"] == "2026-12-31"
+        
