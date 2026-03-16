@@ -1,4 +1,6 @@
 # Weekly Summary 模块 - 负责生成周报
+from __future__ import annotations
+
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 import re
@@ -17,9 +19,9 @@ def get_week_date_range() -> tuple[str, str]:
     today = datetime.now(beijing_tz).date()
 
     # 计算上周一和上周日
-    weekday = today.weekday()  # 0=周一, 6=周日
-    last_sunday = today - timedelta(days=weekday + 1)  # 上周日
-    last_monday = last_sunday - timedelta(days=6)  # 上周一
+    monday = today - timedelta(days=today.weekday())  # 本周一
+    last_monday = monday - timedelta(days=7)  # 上周一
+    last_sunday = last_monday + timedelta(days=6)  # 上周日
 
     return last_monday.strftime("%Y-%m-%d"), last_sunday.strftime("%Y-%m-%d")
 

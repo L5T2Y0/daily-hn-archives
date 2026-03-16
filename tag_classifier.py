@@ -1,4 +1,8 @@
 # Tag Classifier 模块 - 负责文章标签分类
+from __future__ import annotations
+
+import re
+
 # 定义标签关键词
 TAG_KEYWORDS = {
     "AI": [
@@ -170,6 +174,12 @@ TAG_KEYWORDS = {
     ],
 }
 
+# Pre-compile regex patterns for keyword matching (word boundaries, case-insensitive)
+TAG_PATTERNS: dict[str, list[re.Pattern[str]]] = {
+    tag: [re.compile(rf"\b{re.escape(keyword)}\b", re.IGNORECASE) for keyword in keywords]
+    for tag, keywords in TAG_KEYWORDS.items()
+}
+
 
 def classify_article(title: str, url: str = "") -> list[str]:
     """
@@ -183,11 +193,11 @@ def classify_article(title: str, url: str = "") -> list[str]:
         标签列表
     """
     tags = []
-    text = (title + " " + url).lower()
+    text = title + " " + url
 
-    for tag, keywords in TAG_KEYWORDS.items():
-        for keyword in keywords:
-            if keyword in text:
+    for tag, patterns in TAG_PATTERNS.items():
+        for pattern in patterns:
+            if pattern.search(text):
                 tags.append(tag)
                 break  # 找到一个关键词就够了
 

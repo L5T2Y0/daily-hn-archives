@@ -119,9 +119,14 @@ def generate_readme_content(today_stories: List[dict], archive_files: List[str])
     # 替换每日文章区域
     import re
 
-    pattern = r"<!-- DAILY_ARTICLES_START -->.*?<!-- DAILY_ARTICLES_END -->"
-    replacement = f"<!-- DAILY_ARTICLES_START -->\n{articles_content}\n<!-- DAILY_ARTICLES_END -->"
-
-    updated_readme = re.sub(pattern, replacement, readme_template, flags=re.DOTALL)
+    if "<!-- DAILY_ARTICLES_START -->" in readme_template and "<!-- DAILY_ARTICLES_END -->" in readme_template:
+        pattern = r"<!-- DAILY_ARTICLES_START -->.*?<!-- DAILY_ARTICLES_END -->"
+        replacement = f"<!-- DAILY_ARTICLES_START -->\n{articles_content}\n<!-- DAILY_ARTICLES_END -->"
+        updated_readme = re.sub(pattern, replacement, readme_template, flags=re.DOTALL)
+    else:
+        updated_readme = (
+            readme_template
+            + f"\n<!-- DAILY_ARTICLES_START -->\n{articles_content}\n<!-- DAILY_ARTICLES_END -->\n"
+        )
 
     return updated_readme
