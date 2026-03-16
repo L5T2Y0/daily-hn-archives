@@ -5,10 +5,10 @@ Daily Hacker News Archives
 """
 
 import sys
-from datetime import datetime
+from file_manager import write_archive_file, get_archive_files, write_readme
 from hn_fetcher import fetch_top_stories
 from markdown_generator import generate_archive_content, generate_readme_content
-from file_manager import write_archive_file, get_archive_files, write_readme
+from utils import get_beijing_time
 
 
 def main() -> int:
@@ -23,8 +23,8 @@ def main() -> int:
         print("Daily HN Archives - 开始执行")
         print("=" * 50)
 
-        # 获取当前日期
-        today = datetime.now().strftime("%Y-%m-%d")
+        # 获取当前日期（北京时间 UTC+8）
+        today = get_beijing_time().strftime("%Y-%m-%d")
         print(f"\n日期: {today}")
 
         # 获取文章列表

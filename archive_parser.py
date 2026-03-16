@@ -21,8 +21,9 @@ def parse_archive_file(file_path: Path) -> List[Dict[str, Any]]:
         # 从文件名提取日期
         date_str = file_path.stem  # 例如: 2026-02-14
 
-        # 匹配格式: 1. [title](url) - score points, comments comments
-        pattern = r"\d+\.\s+\[(.+?)\]\((.+?)\)\s+-\s+(\d+)\s+points,\s+(\d+)\s+comments"
+        # 匹配格式: N. [title](url) - score points, comments comments
+        # 支持多种数字前缀句点 (. 或 。) 及多种分隔符 (-, –, —)
+        pattern = r"\d+[.。]\s+\[(.+?)\]\((.+?)\)\s+[-–—]\s+(\d+)\s+points,\s+(\d+)\s+comments"
         matches = re.findall(pattern, content)
 
         for title, url, score, comments in matches:

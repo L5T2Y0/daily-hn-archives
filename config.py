@@ -28,6 +28,8 @@ README_FILE = os.getenv("README_FILE", "README.md")
 
 # 时区配置
 TIMEZONE_OFFSET = int(os.getenv("TIMEZONE_OFFSET", "8"))  # 北京时间 UTC+8
+if not -12 <= TIMEZONE_OFFSET <= 14:
+    raise ValueError(f"Invalid TIMEZONE_OFFSET: {TIMEZONE_OFFSET}. Must be between -12 and 14.")
 
 # 日志配置
 LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
