@@ -2,8 +2,8 @@
 配置文件 - 集中管理项目配置
 支持环境变量覆盖默认配置
 """
-import os
 
+import os
 
 # API 配置
 HN_API_BASE = os.getenv("HN_API_BASE", "https://hacker-news.firebaseio.com/v0")

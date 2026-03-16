@@ -3,6 +3,7 @@
 Daily Hacker News Archives
 每天自动获取并归档 Hacker News 的 Top 10 热门文章
 """
+
 import sys
 from datetime import datetime
 from hn_fetcher import fetch_top_stories
