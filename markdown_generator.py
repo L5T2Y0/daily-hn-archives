@@ -1,5 +1,10 @@
 # Markdown Generator 模块 - 负责生成 Markdown 内容
+from __future__ import annotations
+
+import re
+from pathlib import Path
 from typing import List
+
 from utils import get_beijing_time
 
 
@@ -69,8 +74,6 @@ def generate_readme_content(today_stories: List[dict], archive_files: List[str])
     """
     # 读取现有的 README 模板
     try:
-        from pathlib import Path
-
         readme_path = Path("README.md")
         if readme_path.exists():
             readme_template = readme_path.read_text(encoding="utf-8")
@@ -111,8 +114,6 @@ def generate_readme_content(today_stories: List[dict], archive_files: List[str])
     articles_content += f"\n📁 **[查看所有历史归档](archives/)** | 共 {len(archive_files)} 个归档文件\n"
 
     # 替换每日文章区域
-    import re
-
     if "<!-- DAILY_ARTICLES_START -->" in readme_template and "<!-- DAILY_ARTICLES_END -->" in readme_template:
         pattern = r"<!-- DAILY_ARTICLES_START -->.*?<!-- DAILY_ARTICLES_END -->"
         replacement = f"<!-- DAILY_ARTICLES_START -->\n{articles_content}\n<!-- DAILY_ARTICLES_END -->"
