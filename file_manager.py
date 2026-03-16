@@ -13,7 +13,7 @@ def ensure_directory_exists(directory: str) -> None:
     path = Path(directory)
     try:
         path.mkdir(parents=True, exist_ok=True)
-    except Exception as e:
+    except (OSError, PermissionError) as e:
         print(f"创建目录失败 {directory}: {e}")
         raise
 
@@ -36,7 +36,7 @@ def write_archive_file(date: str, content: str) -> str:
         file_path.write_text(content, encoding="utf-8")
         print(f"归档文件已写入: {file_path}")
         return str(file_path)
-    except Exception as e:
+    except (OSError, PermissionError) as e:
         print(f"写入归档文件失败 {file_path}: {e}")
         raise
 
@@ -74,6 +74,6 @@ def write_readme(content: str) -> None:
     try:
         readme_path.write_text(content, encoding="utf-8")
         print(f"README 已更新: {readme_path}")
-    except Exception as e:
+    except (OSError, PermissionError) as e:
         print(f"写入 README 失败: {e}")
         raise

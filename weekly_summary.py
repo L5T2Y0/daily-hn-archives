@@ -1,11 +1,12 @@
 # Weekly Summary 模块 - 负责生成周报
 from __future__ import annotations
 
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timedelta
 from pathlib import Path
 import re
 from archive_parser import parse_archive_file
 from tag_classifier import add_tags_to_article, get_tag_statistics, format_tags_for_display
+from utils import get_beijing_time
 
 
 def get_week_date_range() -> tuple[str, str]:
@@ -15,8 +16,7 @@ def get_week_date_range() -> tuple[str, str]:
     返回:
         (start_date, end_date) 格式为 YYYY-MM-DD
     """
-    beijing_tz = timezone(timedelta(hours=8))
-    today = datetime.now(beijing_tz).date()
+    today = get_beijing_time().date()
 
     # 计算上周一和上周日
     monday = today - timedelta(days=today.weekday())  # 本周一
@@ -138,8 +138,7 @@ def generate_weekly_content(start_date: str, end_date: str, top_articles: list[d
 
     # 页脚
     lines.append("---")
-    beijing_tz = timezone(timedelta(hours=8))
-    beijing_time = datetime.now(beijing_tz)
+    beijing_time = get_beijing_time()
     timestamp = beijing_time.strftime("%Y-%m-%d %H:%M:%S")
     lines.append(f"*周报生成时间: {timestamp} (北京时间)*")
     lines.append("*数据来源: [Hacker News API](https://github.com/HackerNews/API)*")
@@ -229,8 +228,7 @@ def generate_weekly_summary() -> None:
 
     # 生成README摘要（Top 10）
     print("步骤 4: 更新 README")
-    beijing_tz = timezone(timedelta(hours=8))
-    beijing_time = datetime.now(beijing_tz)
+    beijing_time = get_beijing_time()
     timestamp = beijing_time.strftime("%Y-%m-%d %H:%M:%S")
 
     summary_lines = [f"> 🕐 最后更新：{timestamp} (北京时间)", ""]
