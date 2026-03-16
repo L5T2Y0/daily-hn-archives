@@ -96,7 +96,7 @@ def safe_read_file(path: str, encoding: str = "utf-8") -> Optional[str]:
     """
     try:
         return Path(path).read_text(encoding=encoding)
-    except Exception as e:
+    except (OSError, IOError) as e:
         logger = logging.getLogger(__name__)
         logger.error(f"Failed to read file {path}: {e}")
         return None
@@ -119,7 +119,7 @@ def safe_write_file(path: str, content: str, encoding: str = "utf-8") -> bool:
         file_path.parent.mkdir(parents=True, exist_ok=True)
         file_path.write_text(content, encoding=encoding)
         return True
-    except Exception as e:
+    except (OSError, IOError) as e:
         logger = logging.getLogger(__name__)
         logger.error(f"Failed to write file {path}: {e}")
         return False

@@ -8,7 +8,7 @@ import requests
 import time
 from typing import Any, Dict, List, Optional
 
-from config import TOP_STORIES_ENDPOINT, ITEM_ENDPOINT_TEMPLATE
+from config import TOP_STORIES_ENDPOINT, ITEM_ENDPOINT_TEMPLATE, REQUEST_TIMEOUT, MAX_RETRIES, RETRY_DELAY
 
 
 # 自定义异常类
@@ -42,7 +42,7 @@ class HNDataError(HNAPIError):
     pass
 
 
-def fetch_with_retry(url: str, max_retries: int = 3, timeout: int = 10) -> Any:
+def fetch_with_retry(url: str, max_retries: int = MAX_RETRIES, timeout: int = REQUEST_TIMEOUT) -> Any:
     """
     带指数退避的重试请求
 
@@ -77,14 +77,14 @@ def fetch_with_retry(url: str, max_retries: int = 3, timeout: int = 10) -> Any:
             if attempt == max_retries - 1:
                 raise HNTimeoutError(f"Request timeout after {max_retries} attempts: {url}") from e
             # 指数退避
-            wait_time = 2**attempt
+            wait_time = RETRY_DELAY**attempt
             print(f"  ⚠️  Timeout, retrying in {wait_time}s... (attempt {attempt + 1}/{max_retries})")
             time.sleep(wait_time)
 
         except requests.exceptions.ConnectionError as e:
             if attempt == max_retries - 1:
                 raise HNConnectionError(f"Connection failed after {max_retries} attempts: {url}") from e
-            wait_time = 2**attempt
+            wait_time = RETRY_DELAY**attempt
             print(f"  ⚠️  Connection error, retrying in {wait_time}s... (attempt {attempt + 1}/{max_retries})")
             time.sleep(wait_time)
 
@@ -95,7 +95,7 @@ def fetch_with_retry(url: str, max_retries: int = 3, timeout: int = 10) -> Any:
         except requests.exceptions.RequestException as e:
             if attempt == max_retries - 1:
                 raise HNAPIError(f"Request failed after {max_retries} attempts: {url}") from e
-            wait_time = 2**attempt
+            wait_time = RETRY_DELAY**attempt
             print(f"  ⚠️  Request error, retrying in {wait_time}s... (attempt {attempt + 1}/{max_retries})")
             time.sleep(wait_time)
 

@@ -1,4 +1,6 @@
 # Monthly Summary 模块 - 负责生成月报
+from __future__ import annotations
+
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 import re
@@ -106,11 +108,11 @@ def generate_monthly_content(start_date: str, end_date: str, top_articles: list[
     lines.append("")
     total_score = sum(article["score"] for article in top_articles)
     total_comments = sum(article["comments"] for article in top_articles)
-    avg_score = total_score // len(top_articles) if top_articles else 0
+    avg_score = total_score / len(top_articles) if top_articles else 0
     lines.append(f"- 📝 收录文章：{len(top_articles)} 篇")
     lines.append(f"- ⭐ 总点赞数：{total_score:,}")
     lines.append(f"- 💬 总评论数：{total_comments:,}")
-    lines.append(f"- 📊 平均点赞：{avg_score} points")
+    lines.append(f"- 📊 平均点赞：{avg_score:.1f} points")
     lines.append("")
 
     # 标签统计
