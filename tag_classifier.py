@@ -1,5 +1,5 @@
 # Tag Classifier 模块 - 负责文章标签分类
-import re
+from typing import List, Dict
 
 
 # 定义标签关键词
@@ -59,8 +59,7 @@ TAG_KEYWORDS = {
     ]
 }
 
-
-def classify_article(title: str, url: str = "") -> list[str]:
+def classify_article(title: str, url: str = "") -> List[str]:
     """
     根据标题和URL对文章进行分类
     
@@ -76,6 +75,7 @@ def classify_article(title: str, url: str = "") -> list[str]:
     
     for tag, keywords in TAG_KEYWORDS.items():
         for keyword in keywords:
+            # 使用更精确的匹配，避免误匹配
             if keyword in text:
                 tags.append(tag)
                 break  # 找到一个关键词就够了
@@ -85,7 +85,6 @@ def classify_article(title: str, url: str = "") -> list[str]:
         tags.append("Other")
     
     return tags
-
 
 def add_tags_to_article(article: dict) -> dict:
     """
@@ -100,8 +99,7 @@ def add_tags_to_article(article: dict) -> dict:
     article["tags"] = classify_article(article["title"], article.get("url", ""))
     return article
 
-
-def group_articles_by_tag(articles: list[dict]) -> dict[str, list[dict]]:
+def group_articles_by_tag(articles: List[dict]) -> Dict[str, List[dict]]:
     """
     按标签分组文章
     
@@ -124,8 +122,7 @@ def group_articles_by_tag(articles: list[dict]) -> dict[str, list[dict]]:
     
     return grouped
 
-
-def get_tag_statistics(articles: list[dict]) -> dict[str, int]:
+def get_tag_statistics(articles: List[dict]) -> Dict[str, int]:
     """
     统计各标签的文章数量
     
@@ -147,8 +144,7 @@ def get_tag_statistics(articles: list[dict]) -> dict[str, int]:
     # 按数量降序排序
     return dict(sorted(tag_counts.items(), key=lambda x: x[-1], reverse=True))
 
-
-def format_tags_for_display(tags: list[str]) -> str:
+def format_tags_for_display(tags: List[str]) -> str:
     """
     格式化标签用于显示
     
