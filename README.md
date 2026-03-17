@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-16 19:42:26 (北京时间)
+> 🕐 最后更新：2026-03-17 10:10:25 (北京时间)
 
-1. [Canada's bill C-22 mandates mass metadata surveillance](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/) - 759 points, 225 comments
-2. [Ask HN: What is it like being in a CS major program these days?](https://news.ycombinator.com/item?id=47397190) - 67 points, 37 comments
-3. [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/) - 248 points, 194 comments
-4. [The 49MB web page](https://thatshubham.com/blog/news-audit) - 603 points, 276 comments
-5. [Chrome DevTools MCP (2025)](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session) - 498 points, 202 comments
-6. [Home Assistant waters my plants](https://finnian.io/blog/home-assistant-waters-my-plants/) - 54 points, 18 comments
-7. [Electric motor scaling laws and inertia in robot actuators](https://robot-daycare.com/posts/actuation_series_1/) - 96 points, 19 comments
-8. [What every computer scientist should know about floating-point arithmetic (1991) [pdf]](https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf) - 78 points, 12 comments
-9. [Stop Sloppypasta](https://stopsloppypasta.ai/) - 394 points, 162 comments
-10. [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/) - 429 points, 33 comments
+1. [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/) - 254 points, 120 comments
+2. [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral) - 306 points, 57 comments
+3. [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/) - 344 points, 142 comments
+4. [US commercial insurers pay 254% of Medicare for the same hospital procedures](https://github.com/rexrodeo/american-healthcare-conundrum) - 235 points, 170 comments
+5. [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html) - 316 points, 135 comments
+6. [In space, no one can hear you kernel panic](https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/) - 27 points, 2 comments
+7. [My Journey to a reliable and enjoyable locally hosted voice assistant (2025)](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860) - 319 points, 95 comments
+8. [Show HN: Oxyde – Pydantic-native async ORM with a Rust core](https://github.com/mr-fatalyst/oxyde) - 63 points, 36 comments
+9. [Canopy Height Maps v2](https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/?_fb_noscript=1) - 10 points, 1 comments
+10. [Show HN: Thermal Receipt Printers – Markdown and Web UI](https://github.com/sadreck/ThermalMarky) - 33 points, 10 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 31 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 32 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
