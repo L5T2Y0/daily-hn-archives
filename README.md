@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-17 10:10:25 (北京时间)
+> 🕐 最后更新：2026-03-18 10:22:19 (北京时间)
 
-1. [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/) - 254 points, 120 comments
-2. [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral) - 306 points, 57 comments
-3. [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/) - 344 points, 142 comments
-4. [US commercial insurers pay 254% of Medicare for the same hospital procedures](https://github.com/rexrodeo/american-healthcare-conundrum) - 235 points, 170 comments
-5. [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html) - 316 points, 135 comments
-6. [In space, no one can hear you kernel panic](https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/) - 27 points, 2 comments
-7. [My Journey to a reliable and enjoyable locally hosted voice assistant (2025)](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860) - 319 points, 95 comments
-8. [Show HN: Oxyde – Pydantic-native async ORM with a Rust core](https://github.com/mr-fatalyst/oxyde) - 63 points, 36 comments
-9. [Canopy Height Maps v2](https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/?_fb_noscript=1) - 10 points, 1 comments
-10. [Show HN: Thermal Receipt Printers – Markdown and Web UI](https://github.com/sadreck/ThermalMarky) - 33 points, 10 comments
+1. [A Decade of Slug](https://terathon.com/blog/decade-slug.html) - 431 points, 38 comments
+2. [Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html) - 274 points, 106 comments
+3. [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level) - 550 points, 209 comments
+4. [Show HN: Sub-millisecond VM sandboxes using CoW memory forking](https://github.com/adammiribyan/zeroboot) - 43 points, 13 comments
+5. [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done) - 197 points, 116 comments
+6. [Mistral AI Releases Forge](https://mistral.ai/news/forge) - 151 points, 17 comments
+7. [Launch an autonomous AI agent with sandboxed execution in 2 lines of code](https://amaiya.github.io/onprem/examples_agent.html) - 8 points, 1 comments
+8. [More than 135 open hardware devices flashable with your own firmware](https://openhardware.directory) - 16 points, 2 comments
+9. [The Pleasures of Poor Product Design](https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design) - 12 points, 1 comments
+10. [Launch HN: Kita (YC W26) – Automate credit review in emerging markets](https://news.ycombinator.com/item?id=47417335) - 29 points, 3 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 32 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 33 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
