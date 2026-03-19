@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-18 10:22:19 (北京时间)
+> 🕐 最后更新：2026-03-19 10:23:03 (北京时间)
 
-1. [A Decade of Slug](https://terathon.com/blog/decade-slug.html) - 431 points, 38 comments
-2. [Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html) - 274 points, 106 comments
-3. [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level) - 550 points, 209 comments
-4. [Show HN: Sub-millisecond VM sandboxes using CoW memory forking](https://github.com/adammiribyan/zeroboot) - 43 points, 13 comments
-5. [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done) - 197 points, 116 comments
-6. [Mistral AI Releases Forge](https://mistral.ai/news/forge) - 151 points, 17 comments
-7. [Launch an autonomous AI agent with sandboxed execution in 2 lines of code](https://amaiya.github.io/onprem/examples_agent.html) - 8 points, 1 comments
-8. [More than 135 open hardware devices flashable with your own firmware](https://openhardware.directory) - 16 points, 2 comments
-9. [The Pleasures of Poor Product Design](https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design) - 12 points, 1 comments
-10. [Launch HN: Kita (YC W26) – Automate credit review in emerging markets](https://news.ycombinator.com/item?id=47417335) - 29 points, 3 comments
+1. [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents) - 261 points, 210 comments
+2. [Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat) - 34 points, 4 comments
+3. [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated) - 204 points, 108 comments
+4. [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost) - 155 points, 28 comments
+5. [Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training](https://github.com/alainnothere/llm-circuit-finder) - 72 points, 20 comments
+6. [OpenRocket](https://openrocket.info/) - 407 points, 85 comments
+7. [Rob Pike’s Rules of Programming (1989)](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html) - 848 points, 412 comments
+8. [Wander – A tiny, decentralised tool to explore the small web](https://susam.net/wander/) - 208 points, 53 comments
+9. [The math that explains why bell curves are everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/) - 60 points, 23 comments
+10. [Nvidia NemoClaw](https://github.com/NVIDIA/NemoClaw) - 241 points, 190 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 33 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 34 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
