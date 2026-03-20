@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-19 10:23:03 (北京时间)
+> 🕐 最后更新：2026-03-20 10:09:21 (北京时间)
 
-1. [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents) - 261 points, 210 comments
-2. [Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat) - 34 points, 4 comments
-3. [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated) - 204 points, 108 comments
-4. [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost) - 155 points, 28 comments
-5. [Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training](https://github.com/alainnothere/llm-circuit-finder) - 72 points, 20 comments
-6. [OpenRocket](https://openrocket.info/) - 407 points, 85 comments
-7. [Rob Pike’s Rules of Programming (1989)](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html) - 848 points, 412 comments
-8. [Wander – A tiny, decentralised tool to explore the small web](https://susam.net/wander/) - 208 points, 53 comments
-9. [The math that explains why bell curves are everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/) - 60 points, 23 comments
-10. [Nvidia NemoClaw](https://github.com/NVIDIA/NemoClaw) - 241 points, 190 comments
+1. [Claude Code: Channels](https://code.claude.com/docs/en/channels) - 152 points, 78 comments
+2. [Wayland set the Linux Desktop back by 10 years](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years) - 141 points, 107 comments
+3. [Astral to Join OpenAI](https://astral.sh/blog/openai) - 1222 points, 757 comments
+4. [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/) - 515 points, 606 comments
+5. [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit) - 173 points, 104 comments
+6. [Drugwars for the TI-82/83/83 Calculators](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404) - 23 points, 15 comments
+7. [Bombarding gamblers with offers greatly increases betting and gambling harm](https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html) - 73 points, 66 comments
+8. [How the Turner twins are mythbusting modern technical apparel](https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/) - 118 points, 63 comments
+9. [Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742) - 241 points, 36 comments
+10. [Show HN: Three new Kitten TTS models – smallest less than 25MB](https://github.com/KittenML/KittenTTS) - 320 points, 112 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 34 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 35 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
