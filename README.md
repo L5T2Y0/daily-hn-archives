@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-20 10:09:21 (北京时间)
+> 🕐 最后更新：2026-03-21 10:03:06 (北京时间)
 
-1. [Claude Code: Channels](https://code.claude.com/docs/en/channels) - 152 points, 78 comments
-2. [Wayland set the Linux Desktop back by 10 years](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years) - 141 points, 107 comments
-3. [Astral to Join OpenAI](https://astral.sh/blog/openai) - 1222 points, 757 comments
-4. [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/) - 515 points, 606 comments
-5. [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit) - 173 points, 104 comments
-6. [Drugwars for the TI-82/83/83 Calculators](https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404) - 23 points, 15 comments
-7. [Bombarding gamblers with offers greatly increases betting and gambling harm](https://www.bristol.ac.uk/news/2026/march/bombarding-gamblers-with-offers-greatly-increases-betting-and-gambling-harm.html) - 73 points, 66 comments
-8. [How the Turner twins are mythbusting modern technical apparel](https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/) - 118 points, 63 comments
-9. [Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742) - 241 points, 36 comments
-10. [Show HN: Three new Kitten TTS models – smallest less than 25MB](https://github.com/KittenML/KittenTTS) - 320 points, 112 comments
+1. [OpenCode – Open source AI coding agent](https://opencode.ai/) - 438 points, 199 comments
+2. [Our commitment to Windows quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/) - 407 points, 740 comments
+3. [We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster](https://www.openui.com/blog/rust-wasm-parser) - 103 points, 57 comments
+4. [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e) - 29 points, 5 comments
+5. [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html) - 470 points, 394 comments
+6. [Ghostling](https://github.com/ghostty-org/ghostling) - 90 points, 10 comments
+7. [A Japanese glossary of chopsticks faux pas](https://www.nippon.com/en/japan-data/h01362/) - 113 points, 104 comments
+8. [Lent and Lisp](https://leancrew.com/all-this/2026/02/lent-and-lisp/) - 24 points, 0 comments
+9. [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals) - 126 points, 19 comments
+10. [Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky) - 43 points, 30 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 35 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 36 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
