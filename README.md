@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-21 10:03:06 (北京时间)
+> 🕐 最后更新：2026-03-22 10:23:24 (北京时间)
 
-1. [OpenCode – Open source AI coding agent](https://opencode.ai/) - 438 points, 199 comments
-2. [Our commitment to Windows quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/) - 407 points, 740 comments
-3. [We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster](https://www.openui.com/blog/rust-wasm-parser) - 103 points, 57 comments
-4. [Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)](https://github.com/arnoldrobbins/LinuxByExample-2e) - 29 points, 5 comments
-5. [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html) - 470 points, 394 comments
-6. [Ghostling](https://github.com/ghostty-org/ghostling) - 90 points, 10 comments
-7. [A Japanese glossary of chopsticks faux pas](https://www.nippon.com/en/japan-data/h01362/) - 113 points, 104 comments
-8. [Lent and Lisp](https://leancrew.com/all-this/2026/02/lent-and-lisp/) - 24 points, 0 comments
-9. [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals) - 126 points, 19 comments
-10. [Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky) - 43 points, 30 comments
+1. [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox) - 333 points, 191 comments
+2. [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/) - 143 points, 44 comments
+3. [Why craft-lovers are losing their craft](https://writings.hongminhee.org/2026/03/craft-alienation-llm/) - 29 points, 17 comments
+4. [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) - 525 points, 179 comments
+5. [Chest Fridge](https://mtbest.net/chest-fridge/) - 15 points, 10 comments
+6. [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat) - 4 points, 0 comments
+7. [Boomloom: Think with your hands](https://www.theboomloom.com) - 47 points, 4 comments
+8. [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/) - 505 points, 258 comments
+9. [Trivy ecosystem supply chain briefly compromised](https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23) - 25 points, 7 comments
+10. [Bayesian statistics for confused data scientists](https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/) - 55 points, 6 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 36 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 37 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
