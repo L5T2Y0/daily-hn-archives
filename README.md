@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-03-15 09:14:41 (北京时间)
+> 🕐 最后更新：2026-03-22 09:09:03 (北京时间)
 
-**本周热门 (2026-03-02 至 2026-03-08)**
+**本周热门 (2026-03-09 至 2026-03-15)**
 
-1. [MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/) - 1562 points, 1883 comments
-   - 🌐 Web | 🔒 Security | 📱 Mobile
-2. [Wikipedia was in read-only mode following mass admin account compromise](https://www.wikimediastatus.net) - 879 points, 309 comments
-   - 🌐 Web | 🔒 Security
-3. [MacBook Pro with M5 Pro and M5 Max](https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/) - 667 points, 656 comments
-   - 🌐 Web | 🔒 Security | 📱 Mobile
-4. [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/) - 636 points, 554 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-5. [Ghostty – Terminal Emulator](https://ghostty.org/docs) - 615 points, 276 comments
-   - 🌐 Web | 🔒 Security | 🔧 Tools
-6. [The workers behind Meta’s smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything) - 539 points, 284 comments
+1. [Don't post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/newsguidelines.html#generated) - 2805 points, 1031 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🔧 Tools
+2. [Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html) - 1506 points, 200 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-7. [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/) - 525 points, 248 comments
+3. [Malus – Clean Room as a Service](https://malus.sh) - 1044 points, 403 comments
    - 🌐 Web | 🔒 Security
-8. [Hardening Firefox with Anthropic's Red Team](https://www.anthropic.com/news/mozilla-firefox-security) - 487 points, 140 comments
+4. [Can I run AI locally?](https://www.canirun.ai/) - 936 points, 254 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-9. [Claude's Cycles [pdf]](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf) - 467 points, 212 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
-10. [How to talk to anyone, and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should) - 437 points, 213 comments
+5. [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0) - 832 points, 301 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+6. [Temporal: A nine-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/) - 528 points, 181 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source
+7. [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock) - 428 points, 392 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+8. [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv) - 415 points, 137 comments
+   - 🌐 Web | 🔒 Security
+9. [Innocent woman jailed after being misidentified using AI facial recognition](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case) - 408 points, 208 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🔧 Tools
+10. [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/) - 404 points, 147 comments
    - 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-03-08.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-03-15.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
