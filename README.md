@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-22 10:23:24 (北京时间)
+> 🕐 最后更新：2026-03-23 10:24:05 (北京时间)
 
-1. [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox) - 333 points, 191 comments
-2. [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/) - 143 points, 44 comments
-3. [Why craft-lovers are losing their craft](https://writings.hongminhee.org/2026/03/craft-alienation-llm/) - 29 points, 17 comments
-4. [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) - 525 points, 179 comments
-5. [Chest Fridge](https://mtbest.net/chest-fridge/) - 15 points, 10 comments
-6. [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat) - 4 points, 0 comments
-7. [Boomloom: Think with your hands](https://www.theboomloom.com) - 47 points, 4 comments
-8. [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/) - 505 points, 258 comments
-9. [Trivy ecosystem supply chain briefly compromised](https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23) - 25 points, 7 comments
-10. [Bayesian statistics for confused data scientists](https://nchagnet.pages.dev/blog/bayesian-statistics-for-confused-data-scientists/) - 55 points, 6 comments
+1. [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/) - 345 points, 160 comments
+2. [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/) - 210 points, 74 comments
+3. [Intuitions for Tranformer Circuits](https://www.connorjdavis.com/p/intuitions-for-transformer-circuits) - 11 points, 0 comments
+4. [The future of version control](https://bramcohen.com/p/manyana) - 418 points, 241 comments
+5. [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision) - 262 points, 214 comments
+6. [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html) - 211 points, 149 comments
+7. [I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos](https://bay41.com/posts/tiiny-ai-pocket-lab-review/) - 26 points, 7 comments
+8. [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) - 366 points, 112 comments
+9. [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830) - 242 points, 65 comments
+10. [Flash-MoE: Running a 397B Parameter Model on a Laptop](https://github.com/danveloper/flash-moe) - 309 points, 106 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 37 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 38 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
