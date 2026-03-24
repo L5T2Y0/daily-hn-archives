@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-23 10:24:05 (北京时间)
+> 🕐 最后更新：2026-03-24 10:09:05 (北京时间)
 
-1. [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/) - 345 points, 160 comments
-2. [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/) - 210 points, 74 comments
-3. [Intuitions for Tranformer Circuits](https://www.connorjdavis.com/p/intuitions-for-transformer-circuits) - 11 points, 0 comments
-4. [The future of version control](https://bramcohen.com/p/manyana) - 418 points, 241 comments
-5. [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision) - 262 points, 214 comments
-6. [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html) - 211 points, 149 comments
-7. [I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos](https://bay41.com/posts/tiiny-ai-pocket-lab-review/) - 26 points, 7 comments
-8. [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) - 366 points, 112 comments
-9. [GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830) - 242 points, 65 comments
-10. [Flash-MoE: Running a 397B Parameter Model on a Laptop](https://github.com/danveloper/flash-moe) - 309 points, 106 comments
+1. [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds) - 148 points, 40 comments
+2. [FCC Updates Covered List to Include Foreign-Made Consumer Routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers) - 177 points, 118 comments
+3. [Autoresearch on an old research idea](https://ykumar.me/blog/eclip-autoresearch/) - 276 points, 66 comments
+4. [I Created My First AI-Assisted Pull Request and I Feel Like a Fraud](https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/) - 13 points, 9 comments
+5. [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412) - 486 points, 243 comments
+6. [Ju Ci: The Art of Repairing Porcelain](https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/) - 56 points, 6 comments
+7. [Show HN: Cq – Stack Overflow for AI coding agents](https://blog.mozilla.ai/cq-stack-overflow-for-agents/) - 67 points, 25 comments
+8. [IRIX 3dfx Voodoo driver and glide2x IRIX port](https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/) - 31 points, 0 comments
+9. [Abusing Customizable Selects](https://css-tricks.com/abusing-customizable-selects/) - 24 points, 1 comments
+10. [Local Stack Archived their GitHub repo and requires an account to run](https://github.com/localstack/localstack) - 158 points, 84 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 38 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 39 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
