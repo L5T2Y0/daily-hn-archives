@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-24 10:09:05 (北京时间)
+> 🕐 最后更新：2026-03-25 10:21:38 (北京时间)
 
-1. [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds) - 148 points, 40 comments
-2. [FCC Updates Covered List to Include Foreign-Made Consumer Routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers) - 177 points, 118 comments
-3. [Autoresearch on an old research idea](https://ykumar.me/blog/eclip-autoresearch/) - 276 points, 66 comments
-4. [I Created My First AI-Assisted Pull Request and I Feel Like a Fraud](https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/) - 13 points, 9 comments
-5. [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412) - 486 points, 243 comments
-6. [Ju Ci: The Art of Repairing Porcelain](https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/) - 56 points, 6 comments
-7. [Show HN: Cq – Stack Overflow for AI coding agents](https://blog.mozilla.ai/cq-stack-overflow-for-agents/) - 67 points, 25 comments
-8. [IRIX 3dfx Voodoo driver and glide2x IRIX port](https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/) - 31 points, 0 comments
-9. [Abusing Customizable Selects](https://css-tricks.com/abusing-customizable-selects/) - 24 points, 1 comments
-10. [Local Stack Archived their GitHub repo and requires an account to run](https://github.com/localstack/localstack) - 158 points, 84 comments
+1. [In Edison’s Revenge, Data Centers Are Transitioning From AC to DC](https://spectrum.ieee.org/data-center-dc) - 55 points, 38 comments
+2. [Flighty Airports](https://flighty.com/airports) - 74 points, 20 comments
+3. [Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896) - 394 points, 307 comments
+4. [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead) - 209 points, 82 comments
+5. [Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller](https://videojs.org/blog/videojs-v10-beta-hello-world-again) - 219 points, 33 comments
+6. [Apple Business](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/) - 525 points, 319 comments
+7. [Arm AGI CPU](https://newsroom.arm.com/blog/introducing-arm-agi-cpu) - 282 points, 227 comments
+8. [Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised](https://github.com/BerriAI/litellm/issues/24512) - 502 points, 378 comments
+9. [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj) - 33 points, 0 comments
+10. [An Aural Companion for Decades, CBS News Radio Crackles to a Close](https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html) - 24 points, 4 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 39 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 40 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
