@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-25 10:21:38 (北京时间)
+> 🕐 最后更新：2026-03-26 10:27:52 (北京时间)
 
-1. [In Edison’s Revenge, Data Centers Are Transitioning From AC to DC](https://spectrum.ieee.org/data-center-dc) - 55 points, 38 comments
-2. [Flighty Airports](https://flighty.com/airports) - 74 points, 20 comments
-3. [Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896) - 394 points, 307 comments
-4. [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead) - 209 points, 82 comments
-5. [Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller](https://videojs.org/blog/videojs-v10-beta-hello-world-again) - 219 points, 33 comments
-6. [Apple Business](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/) - 525 points, 319 comments
-7. [Arm AGI CPU](https://newsroom.arm.com/blog/introducing-arm-agi-cpu) - 282 points, 227 comments
-8. [Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised](https://github.com/BerriAI/litellm/issues/24512) - 502 points, 378 comments
-9. [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj) - 33 points, 0 comments
-10. [An Aural Companion for Decades, CBS News Radio Crackles to a Close](https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html) - 24 points, 4 comments
+1. [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) - 367 points, 121 comments
+2. [False claims in a widely-cited paper. No corrections. No consequences](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259) - 72 points, 26 comments
+3. [ARC-AGI-3](https://arcprize.org/arc-agi/3) - 266 points, 186 comments
+4. [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) - 715 points, 185 comments
+5. [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar) - 739 points, 211 comments
+6. [My DIY FPGA board can run Quake II](https://blog.mikhe.ch/quake2-on-fpga/part4.html) - 71 points, 22 comments
+7. [Earthquake scientists reveal how overplowing weakens soil at experimental farm](https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/) - 100 points, 40 comments
+8. [90% of Claude-linked output going to GitHub repos w <2 stars](https://www.claudescode.dev/?window=since_launch) - 197 points, 112 comments
+9. [Supreme Court Sides with Cox in Copyright Fight over Pirated Music](https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html) - 280 points, 239 comments
+10. [Two Studies in Compiler Optimisations](https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/) - 9 points, 0 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 40 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 41 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
