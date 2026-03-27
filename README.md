@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-26 10:27:52 (北京时间)
+> 🕐 最后更新：2026-03-27 10:29:17 (北京时间)
 
-1. [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) - 367 points, 121 comments
-2. [False claims in a widely-cited paper. No corrections. No consequences](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259) - 72 points, 26 comments
-3. [ARC-AGI-3](https://arcprize.org/arc-agi/3) - 266 points, 186 comments
-4. [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) - 715 points, 185 comments
-5. [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar) - 739 points, 211 comments
-6. [My DIY FPGA board can run Quake II](https://blog.mikhe.ch/quake2-on-fpga/part4.html) - 71 points, 22 comments
-7. [Earthquake scientists reveal how overplowing weakens soil at experimental farm](https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/) - 100 points, 40 comments
-8. [90% of Claude-linked output going to GitHub repos w <2 stars](https://www.claudescode.dev/?window=since_launch) - 197 points, 112 comments
-9. [Supreme Court Sides with Cox in Copyright Fight over Pirated Music](https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html) - 280 points, 239 comments
-10. [Two Studies in Compiler Optimisations](https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/) - 9 points, 0 comments
+1. [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/) - 108 points, 36 comments
+2. [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) - 616 points, 122 comments
+3. [Chicago artist creates tourism posters for city's neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/) - 56 points, 28 comments
+4. [Apple discontinues the Mac Pro with no plans for future hardware](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) - 107 points, 94 comments
+5. [Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk) - 190 points, 121 comments
+6. [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html) - 534 points, 263 comments
+7. [DOOM Over DNS](https://github.com/resumex/doom-over-dns) - 216 points, 68 comments
+8. [From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3) - 9 points, 5 comments
+9. [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/) - 304 points, 125 comments
+10. [Anthropic Subprocessor Changes](https://trust.anthropic.com) - 45 points, 22 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 41 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 42 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
