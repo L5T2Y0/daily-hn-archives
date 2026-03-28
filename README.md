@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-27 10:29:17 (北京时间)
+> 🕐 最后更新：2026-03-28 10:12:14 (北京时间)
 
-1. [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/) - 108 points, 36 comments
-2. [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) - 616 points, 122 comments
-3. [Chicago artist creates tourism posters for city's neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/) - 56 points, 28 comments
-4. [Apple discontinues the Mac Pro with no plans for future hardware](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) - 107 points, 94 comments
-5. [Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk) - 190 points, 121 comments
-6. [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html) - 534 points, 263 comments
-7. [DOOM Over DNS](https://github.com/resumex/doom-over-dns) - 216 points, 68 comments
-8. [From 0% to 36% on Day 1 of ARC-AGI-3](https://www.symbolica.ai/blog/arc-agi-3) - 9 points, 5 comments
-9. [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/) - 304 points, 125 comments
-10. [Anthropic Subprocessor Changes](https://trust.anthropic.com) - 45 points, 22 comments
+1. [Fear and denial in Silicon Valley over social media addiction trial](https://www.bbc.com/news/articles/c86e3eglv2go) - 13 points, 0 comments
+2. [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/) - 306 points, 216 comments
+3. [Don't YOLO your file system](https://jai.scs.stanford.edu/) - 33 points, 28 comments
+4. [Improving Composer through real-time RL](https://cursor.com/blog/real-time-rl-for-composer) - 52 points, 9 comments
+5. [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/) - 52 points, 28 comments
+6. [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio) - 93 points, 20 comments
+7. [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) - 376 points, 192 comments
+8. [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html) - 130 points, 67 comments
+9. [ISBN Visualization](https://annas-archive.gd/isbn-visualization?) - 97 points, 14 comments
+10. [Nashville library launches Memory Lab for digitizing home movies](https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies) - 105 points, 26 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 42 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 43 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
