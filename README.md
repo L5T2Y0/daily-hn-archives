@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-03-22 09:09:03 (北京时间)
+> 🕐 最后更新：2026-03-29 09:16:40 (北京时间)
 
-**本周热门 (2026-03-09 至 2026-03-15)**
+**本周热门 (2026-03-16 至 2026-03-22)**
 
-1. [Don't post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/newsguidelines.html#generated) - 2805 points, 1031 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🔧 Tools
-2. [Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html) - 1506 points, 200 comments
+1. [Astral to Join OpenAI](https://astral.sh/blog/openai) - 1222 points, 757 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-3. [Malus – Clean Room as a Service](https://malus.sh) - 1044 points, 403 comments
-   - 🌐 Web | 🔒 Security
-4. [Can I run AI locally?](https://www.canirun.ai/) - 936 points, 254 comments
+2. [Rob Pike’s Rules of Programming (1989)](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html) - 848 points, 412 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+3. [Canada's bill C-22 mandates mass metadata surveillance](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/) - 759 points, 225 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-5. [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0) - 832 points, 301 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
-6. [Temporal: A nine-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/) - 528 points, 181 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source
-7. [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock) - 428 points, 392 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-8. [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv) - 415 points, 137 comments
+4. [The 49MB web page](https://thatshubham.com/blog/news-audit) - 603 points, 276 comments
    - 🌐 Web | 🔒 Security
-9. [Innocent woman jailed after being misidentified using AI facial recognition](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case) - 408 points, 208 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🔧 Tools
-10. [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/) - 404 points, 147 comments
+5. [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level) - 550 points, 209 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming | 🔧 Tools
+6. [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) - 525 points, 179 comments
    - 🌐 Web | 🔒 Security
+7. [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/) - 515 points, 606 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 📱 Mobile | 🔧 Tools
+8. [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/) - 505 points, 258 comments
+   - 🌐 Web | 🔒 Security
+9. [Chrome DevTools MCP (2025)](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session) - 498 points, 202 comments
+   - 🌐 Web | 🔒 Security | 🔧 Tools
+10. [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html) - 470 points, 394 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
 
-📁 **[查看完整周报](weekly/week-2026-03-15.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-03-22.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
