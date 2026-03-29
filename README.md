@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-28 10:12:14 (北京时间)
+> 🕐 最后更新：2026-03-29 10:32:14 (北京时间)
 
-1. [Fear and denial in Silicon Valley over social media addiction trial](https://www.bbc.com/news/articles/c86e3eglv2go) - 13 points, 0 comments
-2. [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/) - 306 points, 216 comments
-3. [Don't YOLO your file system](https://jai.scs.stanford.edu/) - 33 points, 28 comments
-4. [Improving Composer through real-time RL](https://cursor.com/blog/real-time-rl-for-composer) - 52 points, 9 comments
-5. [Show HN: Twitch Roulette – Find live streamers who need views the most](https://twitchroulette.net/) - 52 points, 28 comments
-6. [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio) - 93 points, 20 comments
-7. [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) - 376 points, 192 comments
-8. [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html) - 130 points, 67 comments
-9. [ISBN Visualization](https://annas-archive.gd/isbn-visualization?) - 97 points, 14 comments
-10. [Nashville library launches Memory Lab for digitizing home movies](https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies) - 105 points, 26 comments
+1. [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ) - 192 points, 101 comments
+2. [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) - 723 points, 171 comments
+3. [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/) - 201 points, 50 comments
+4. [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194) - 30 points, 14 comments
+5. [OpenBSD on Motorola 88000 Processors](http://miod.online.fr/software/openbsd/stories/m88k1.html) - 47 points, 4 comments
+6. [Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://twitter.com/BoWang87/status/2037648937453232504) - 153 points, 106 comments
+7. [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) - 532 points, 412 comments
+8. [Sealing Paper Packaging Without Adhesives](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html) - 28 points, 4 comments
+9. [The first 40 months of the AI era](https://lzon.ca/posts/other/thoughts-ai-era/) - 123 points, 57 comments
+10. [I decompiled the White House's new app](https://thereallo.dev/blog/decompiling-the-white-house-app) - 386 points, 141 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 43 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 44 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
