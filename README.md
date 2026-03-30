@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-29 10:32:14 (北京时间)
+> 🕐 最后更新：2026-03-30 10:34:42 (北京时间)
 
-1. [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ) - 192 points, 101 comments
-2. [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) - 723 points, 171 comments
-3. [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/) - 201 points, 50 comments
-4. [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194) - 30 points, 14 comments
-5. [OpenBSD on Motorola 88000 Processors](http://miod.online.fr/software/openbsd/stories/m88k1.html) - 47 points, 4 comments
-6. [Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://twitter.com/BoWang87/status/2037648937453232504) - 153 points, 106 comments
-7. [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) - 532 points, 412 comments
-8. [Sealing Paper Packaging Without Adhesives](https://www.fraunhofer.de/en/press/research-news/2026/march-2026/sealing-paper-packaging-without-adhesives.html) - 28 points, 4 comments
-9. [The first 40 months of the AI era](https://lzon.ca/posts/other/thoughts-ai-era/) - 123 points, 57 comments
-10. [I decompiled the White House's new app](https://thereallo.dev/blog/decompiling-the-white-house-app) - 386 points, 141 comments
+1. [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/) - 278 points, 125 comments
+2. [Philly courts will ban all smart eyeglasses starting next week](https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html) - 54 points, 16 comments
+3. [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/) - 404 points, 169 comments
+4. [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/) - 348 points, 262 comments
+5. [15 Years of Forking](https://www.waterfox.com/blog/15-years-of-forking/) - 54 points, 2 comments
+6. [Claude Code runs Git reset –hard origin/main against project repo every 10 mins](https://github.com/anthropics/claude-code/issues/40710) - 186 points, 113 comments
+7. [Midnight train from GA: A view of America from the tracks as airports struggle](https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a) - 74 points, 61 comments
+8. [DoesItAgeVerify: The age verification status of Open Source Operating Systems](https://github.com/BryanLunduke/DoesItAgeVerify) - 10 points, 1 comments
+9. [Pretext: TypeScript library for multiline text measurement and layout](https://github.com/chenglou/pretext) - 206 points, 40 comments
+10. [The road signs that teach travellers about France](https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france) - 58 points, 16 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 44 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 45 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
