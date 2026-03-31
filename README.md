@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-30 10:34:42 (北京时间)
+> 🕐 最后更新：2026-03-31 10:29:48 (北京时间)
 
-1. [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/) - 278 points, 125 comments
-2. [Philly courts will ban all smart eyeglasses starting next week](https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html) - 54 points, 16 comments
-3. [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/) - 404 points, 169 comments
-4. [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/) - 348 points, 262 comments
-5. [15 Years of Forking](https://www.waterfox.com/blog/15-years-of-forking/) - 54 points, 2 comments
-6. [Claude Code runs Git reset –hard origin/main against project repo every 10 mins](https://github.com/anthropics/claude-code/issues/40710) - 186 points, 113 comments
-7. [Midnight train from GA: A view of America from the tracks as airports struggle](https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a) - 74 points, 61 comments
-8. [DoesItAgeVerify: The age verification status of Open Source Operating Systems](https://github.com/BryanLunduke/DoesItAgeVerify) - 10 points, 1 comments
-9. [Pretext: TypeScript library for multiline text measurement and layout](https://github.com/chenglou/pretext) - 206 points, 40 comments
-10. [The road signs that teach travellers about France](https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france) - 58 points, 16 comments
+1. [Universal Claude.md – cut Claude output tokens by 63%](https://github.com/drona23/claude-token-efficient) - 59 points, 25 comments
+2. [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/) - 435 points, 134 comments
+3. [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html) - 155 points, 134 comments
+4. [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/) - 380 points, 131 comments
+5. [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/) - 210 points, 93 comments
+6. [Learn Claude Code by doing, not reading](https://claude.nagdy.me/) - 161 points, 84 comments
+7. [How to turn anything into a router](https://nbailey.ca/post/router/) - 597 points, 211 comments
+8. [Incident March 30th, 2026 – Accidental CDN Caching](https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching) - 12 points, 0 comments
+9. [Why I'm betting on ATProto (and why you should, too)](https://brittanyellich.com/atproto/) - 80 points, 56 comments
+10. [Agents of Chaos](https://agentsofchaos.baulab.info/report.html) - 73 points, 5 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 45 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 46 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
