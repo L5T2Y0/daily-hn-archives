@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-03-31 10:29:48 (北京时间)
+> 🕐 最后更新：2026-04-01 10:40:40 (北京时间)
 
-1. [Universal Claude.md – cut Claude output tokens by 63%](https://github.com/drona23/claude-token-efficient) - 59 points, 25 comments
-2. [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/) - 435 points, 134 comments
-3. [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html) - 155 points, 134 comments
-4. [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/) - 380 points, 131 comments
-5. [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/) - 210 points, 93 comments
-6. [Learn Claude Code by doing, not reading](https://claude.nagdy.me/) - 161 points, 84 comments
-7. [How to turn anything into a router](https://nbailey.ca/post/router/) - 597 points, 211 comments
-8. [Incident March 30th, 2026 – Accidental CDN Caching](https://blog.railway.com/p/incident-report-march-30-2026-accidental-cdn-caching) - 12 points, 0 comments
-9. [Why I'm betting on ATProto (and why you should, too)](https://brittanyellich.com/atproto/) - 80 points, 56 comments
-10. [Agents of Chaos](https://agentsofchaos.baulab.info/report.html) - 73 points, 5 comments
+1. [We intercepted the White House app's traffic. 77% of requests go to 3rd parties](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/) - 19 points, 4 comments
+2. [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) - 854 points, 347 comments
+3. [TinyLoRA – Learning to Reason in 13 Parameters](https://arxiv.org/abs/2602.04118) - 78 points, 7 comments
+4. [TruffleRuby](https://chrisseaton.com/truffleruby/) - 40 points, 3 comments
+5. [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system) - 167 points, 57 comments
+6. [Ministack (Replacement for LocalStack)](https://ministack.org/) - 146 points, 29 comments
+7. [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/) - 113 points, 47 comments
+8. [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) - 337 points, 298 comments
+9. [U.S. exempts oil industry from protecting Gulf animals, for 'national security'](https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security) - 101 points, 31 comments
+10. [4D Doom](https://github.com/danieldugas/HYPERHELL) - 135 points, 30 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 46 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 47 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
