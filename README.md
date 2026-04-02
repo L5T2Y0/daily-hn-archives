@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-01 10:40:40 (北京时间)
+> 🕐 最后更新：2026-04-02 10:26:06 (北京时间)
 
-1. [We intercepted the White House app's traffic. 77% of requests go to 3rd parties](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/) - 19 points, 4 comments
-2. [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) - 854 points, 347 comments
-3. [TinyLoRA – Learning to Reason in 13 Parameters](https://arxiv.org/abs/2602.04118) - 78 points, 7 comments
-4. [TruffleRuby](https://chrisseaton.com/truffleruby/) - 40 points, 3 comments
-5. [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system) - 167 points, 57 comments
-6. [Ministack (Replacement for LocalStack)](https://ministack.org/) - 146 points, 29 comments
-7. [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/) - 113 points, 47 comments
-8. [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) - 337 points, 298 comments
-9. [U.S. exempts oil industry from protecting Gulf animals, for 'national security'](https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security) - 101 points, 31 comments
-10. [4D Doom](https://github.com/danieldugas/HYPERHELL) - 135 points, 30 comments
+1. [Live: Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) - 657 points, 623 comments
+2. [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701) - 96 points, 4 comments
+3. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) - 31 points, 0 comments
+4. [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/) - 315 points, 248 comments
+5. [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) - 472 points, 335 comments
+6. [Set the Line Before It's Crossed](https://nomagicpill.substack.com/p/set-the-line-before-its-crossed) - 35 points, 9 comments
+7. [Fast and Gorgeous Erosion Filter](https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html) - 72 points, 12 comments
+8. [IPv6 address, as a sentence you can remember](https://sentence2ipv6.tib3rius.com/) - 35 points, 31 comments
+9. [Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs](https://github.com/hauntsaninja/git_bayesect) - 209 points, 27 comments
+10. [AI for American-produced cement and concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/) - 155 points, 108 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 47 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 48 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
