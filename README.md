@@ -81,32 +81,32 @@
 > 每月1号自动生成
 
 <!-- MONTHLY_SUMMARY_START -->
-> 🕐 最后更新：2026-03-01 10:26:55 (北京时间)
+> 🕐 最后更新：2026-04-03 17:23:15 (北京时间)
 
-**2026年03月精选（至今）**
+**2026年04月精选（至今）**
 
-1. [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless) - 392 points, 141 comments
-   - 🌐 Web | 🔒 Security | 🔧 Tools
-2. [The happiest I've ever been](https://ben-mini.com/2026/the-happiest-ive-ever-been) - 331 points, 152 comments
-   - 🌐 Web | 🔒 Security | 📱 Mobile
-3. [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831) - 265 points, 114 comments
+1. [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) - 1175 points, 353 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+2. [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) - 854 points, 347 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔧 Tools
+3. [Live: Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) - 657 points, 623 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
+4. [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) - 472 points, 335 comments
+   - 🌐 Web | ⚙️ DevOps | 🔒 Security
+5. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) - 448 points, 97 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
+6. [Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6) - 433 points, 150 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-4. [Woxi: Wolfram Mathematica Reimplementation in Rust](https://github.com/ad-si/Woxi) - 249 points, 104 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source
-5. [Addressing Antigravity Bans and Reinstating Access](https://github.com/google-gemini/gemini-cli/discussions/20632) - 201 points, 172 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source | 🔧 Tools
-6. [The Windows 95 user interface: A case study in usability engineering (1996)](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611) - 140 points, 79 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
-7. [Block the “Upgrade to Tahoe” Alerts](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/) - 139 points, 62 comments
-   - 🌐 Web | 🔒 Security
-8. [Show HN: Xmloxide – an agent made rust replacement for libxml2](https://github.com/jonwiggins/xmloxide) - 25 points, 15 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source | 🔧 Tools
-9. [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/) - 23 points, 4 comments
-   - 🤖 AI | 🌐 Web | 📂 Open Source
-10. [H-Bomb: A Frank Lloyd Wright Typographic Mystery](https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic) - 9 points, 3 comments
+7. [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) - 337 points, 298 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🚀 Startup
+8. [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion) - 332 points, 111 comments
+   - 🌐 Web | ⚙️ DevOps | 🔒 Security | 💻 Programming
+9. [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape) - 332 points, 174 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+10. [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/) - 315 points, 248 comments
    - 🌐 Web | 🔒 Security
 
-📁 **[查看完整月报](monthly/month-2026-03.md)** | Top 50 热门文章
+📁 **[查看完整月报](monthly/month-2026-04.md)** | Top 50 热门文章
 <!-- MONTHLY_SUMMARY_END -->
 
 ---
