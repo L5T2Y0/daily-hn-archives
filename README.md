@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-02 10:26:06 (北京时间)
+> 🕐 最后更新：2026-04-03 10:27:32 (北京时间)
 
-1. [Live: Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) - 657 points, 623 comments
-2. [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701) - 96 points, 4 comments
-3. [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665) - 31 points, 0 comments
-4. [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/) - 315 points, 248 comments
-5. [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) - 472 points, 335 comments
-6. [Set the Line Before It's Crossed](https://nomagicpill.substack.com/p/set-the-line-before-its-crossed) - 35 points, 9 comments
-7. [Fast and Gorgeous Erosion Filter](https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html) - 72 points, 12 comments
-8. [IPv6 address, as a sentence you can remember](https://sentence2ipv6.tib3rius.com/) - 35 points, 31 comments
-9. [Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs](https://github.com/hauntsaninja/git_bayesect) - 209 points, 27 comments
-10. [AI for American-produced cement and concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/) - 155 points, 108 comments
+1. [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) - 1175 points, 353 comments
+2. [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion) - 332 points, 111 comments
+3. [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape) - 332 points, 174 comments
+4. [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/) - 144 points, 59 comments
+5. [Cursor 3](https://cursor.com/blog/cursor-3) - 295 points, 250 comments
+6. [C89cc.sh – standalone C89/ELF64 compiler in pure portable shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19) - 30 points, 6 comments
+7. [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636) - 25 points, 8 comments
+8. [Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6) - 433 points, 150 comments
+9. [Good ideas do not need lots of lies in order to gain public acceptance (2008)](https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html) - 161 points, 77 comments
+10. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) - 448 points, 97 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 48 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 49 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
