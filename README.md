@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-03 10:27:32 (北京时间)
+> 🕐 最后更新：2026-04-04 10:12:18 (北京时间)
 
-1. [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) - 1175 points, 353 comments
-2. [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion) - 332 points, 111 comments
-3. [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape) - 332 points, 174 comments
-4. [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/) - 144 points, 59 comments
-5. [Cursor 3](https://cursor.com/blog/cursor-3) - 295 points, 250 comments
-6. [C89cc.sh – standalone C89/ELF64 compiler in pure portable shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19) - 30 points, 6 comments
-7. [Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636) - 25 points, 8 comments
-8. [Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6) - 433 points, 150 comments
-9. [Good ideas do not need lots of lies in order to gain public acceptance (2008)](https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html) - 161 points, 77 comments
-10. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) - 448 points, 97 comments
+1. [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) - 273 points, 280 comments
+2. [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) - 512 points, 204 comments
+3. [iNaturalist](https://www.inaturalist.org/) - 336 points, 96 comments
+4. [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos) - 81 points, 18 comments
+5. [Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)](https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans) - 45 points, 38 comments
+6. [The FAA’s flight restriction for drones is an attempt to criminalize filming ICE](https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice) - 201 points, 32 comments
+7. [Herbie: Automatically improve imprecise floating point formulas](https://herbie.uwplse.org/doc/latest/tutorial.html) - 28 points, 1 comments
+8. [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/) - 105 points, 24 comments
+9. [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) - 660 points, 170 comments
+10. [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans) - 67 points, 6 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 49 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 50 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
