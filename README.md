@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-03-29 09:16:40 (北京时间)
+> 🕐 最后更新：2026-04-05 09:17:13 (北京时间)
 
-**本周热门 (2026-03-16 至 2026-03-22)**
+**本周热门 (2026-03-23 至 2026-03-29)**
 
-1. [Astral to Join OpenAI](https://astral.sh/blog/openai) - 1222 points, 757 comments
+1. [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar) - 739 points, 211 comments
+   - 🌐 Web | 🔒 Security
+2. [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) - 723 points, 171 comments
+   - 🌐 Web | 🔒 Security | 🚀 Startup | 📂 Open Source
+3. [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) - 715 points, 185 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-2. [Rob Pike’s Rules of Programming (1989)](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html) - 848 points, 412 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-3. [Canada's bill C-22 mandates mass metadata surveillance](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/) - 759 points, 225 comments
+4. [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) - 616 points, 122 comments
+   - 🌐 Web | 🔒 Security
+5. [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html) - 534 points, 263 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source
+6. [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) - 532 points, 412 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
+7. [Apple Business](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/) - 525 points, 319 comments
+   - 🌐 Web | 🔒 Security | 📱 Mobile | 🚀 Startup
+8. [Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised](https://github.com/BerriAI/litellm/issues/24512) - 502 points, 378 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
+9. [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412) - 486 points, 243 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-4. [The 49MB web page](https://thatshubham.com/blog/news-audit) - 603 points, 276 comments
+10. [The future of version control](https://bramcohen.com/p/manyana) - 418 points, 241 comments
    - 🌐 Web | 🔒 Security
-5. [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level) - 550 points, 209 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming | 🔧 Tools
-6. [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) - 525 points, 179 comments
-   - 🌐 Web | 🔒 Security
-7. [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/) - 515 points, 606 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 📱 Mobile | 🔧 Tools
-8. [Do Not Turn Child Protection into Internet Access Control](https://news.dyne.org/child-protection-is-not-access-control/) - 505 points, 258 comments
-   - 🌐 Web | 🔒 Security
-9. [Chrome DevTools MCP (2025)](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session) - 498 points, 202 comments
-   - 🌐 Web | 🔒 Security | 🔧 Tools
-10. [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html) - 470 points, 394 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
 
-📁 **[查看完整周报](weekly/week-2026-03-22.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-03-29.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
