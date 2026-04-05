@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-04 10:12:18 (北京时间)
+> 🕐 最后更新：2026-04-05 10:34:24 (北京时间)
 
-1. [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) - 273 points, 280 comments
-2. [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) - 512 points, 204 comments
-3. [iNaturalist](https://www.inaturalist.org/) - 336 points, 96 comments
-4. [Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C](https://github.com/cmc-labo/tinyos-rtos) - 81 points, 18 comments
-5. [Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)](https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans) - 45 points, 38 comments
-6. [The FAA’s flight restriction for drones is an attempt to criminalize filming ICE](https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice) - 201 points, 32 comments
-7. [Herbie: Automatically improve imprecise floating point formulas](https://herbie.uwplse.org/doc/latest/tutorial.html) - 28 points, 1 comments
-8. [What changes when you turn a Linux box into a router](https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/) - 105 points, 24 comments
-9. [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) - 660 points, 170 comments
-10. [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans) - 67 points, 6 comments
+1. [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) - 521 points, 138 comments
+2. [Introduction to Computer Music [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf) - 14 points, 0 comments
+3. [OpenScreen is an open-source alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen) - 107 points, 15 comments
+4. [LLM Wiki – example of an "idea file"](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) - 79 points, 20 comments
+5. [Advice to Young People, the Lies I Tell Myself (2024)](https://jxnl.co/writing/2024/06/01/advice-to-young-people/) - 31 points, 7 comments
+6. [How many products does Microsoft have named 'Copilot'?](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html) - 433 points, 220 comments
+7. [AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop) - 113 points, 25 comments
+8. [Embarrassingly simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193) - 555 points, 167 comments
+9. [A case study in testing with 100+ Claude agents in parallel](https://imbue.com/product/mngr_part_2/) - 7 points, 0 comments
+10. [Isseven](https://isseven.app/) - 20 points, 11 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 50 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 51 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
