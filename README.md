@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-05 10:34:24 (北京时间)
+> 🕐 最后更新：2026-04-06 10:35:32 (北京时间)
 
-1. [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) - 521 points, 138 comments
-2. [Introduction to Computer Music [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf) - 14 points, 0 comments
-3. [OpenScreen is an open-source alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen) - 107 points, 15 comments
-4. [LLM Wiki – example of an "idea file"](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) - 79 points, 20 comments
-5. [Advice to Young People, the Lies I Tell Myself (2024)](https://jxnl.co/writing/2024/06/01/advice-to-young-people/) - 31 points, 7 comments
-6. [How many products does Microsoft have named 'Copilot'?](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html) - 433 points, 220 comments
-7. [AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop) - 113 points, 25 comments
-8. [Embarrassingly simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193) - 555 points, 167 comments
-9. [A case study in testing with 100+ Claude agents in parallel](https://imbue.com/product/mngr_part_2/) - 7 points, 0 comments
-10. [Isseven](https://isseven.app/) - 20 points, 11 comments
+1. [Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/) - 70 points, 42 comments
+2. [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm) - 59 points, 4 comments
+3. [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) - 440 points, 119 comments
+4. [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love) - 215 points, 91 comments
+5. [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo) - 422 points, 321 comments
+6. [Microsoft hasn't had a coherent GUI strategy since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/) - 224 points, 126 comments
+7. [Endian wars and anti-portability: this again?](https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/) - 15 points, 10 comments
+8. [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) - 634 points, 204 comments
+9. [In Japan, the robot isn't coming for your job; it's filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) - 125 points, 133 comments
+10. [Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code](https://ai.georgeliu.com/p/running-google-gemma-4-locally-with) - 203 points, 54 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 51 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 52 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
