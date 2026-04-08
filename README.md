@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-07 10:30:53 (北京时间)
+> 🕐 最后更新：2026-04-08 10:31:25 (北京时间)
 
-1. [Netflix Void Model: Video Object and Interaction Deletion](https://github.com/Netflix/void-model) - 60 points, 6 comments
-2. [Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod) - 26 points, 5 comments
-3. [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper) - 243 points, 103 comments
-4. [Launch HN: Freestyle – Sandboxes for Coding Agents](https://www.freestyle.sh/) - 207 points, 115 comments
-5. [A cryptography engineer's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/) - 345 points, 144 comments
-6. [Anthropic expands partnership with Google and Broadcom for next-gen compute](https://www.anthropic.com/news/google-broadcom-partnership-compute) - 149 points, 68 comments
-7. [German police name alleged leaders of GandCrab and REvil ransomware groups](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/) - 265 points, 135 comments
-8. [Show HN: GovAuctions lets you browse government auctions at once](https://www.govauctions.app/) - 220 points, 68 comments
-9. [Issue: Claude Code is unusable for complex engineering tasks with Feb updates](https://github.com/anthropics/claude-code/issues/42796) - 772 points, 471 comments
-10. [Show HN: Hippo, biologically inspired memory for AI agents](https://github.com/kitfunso/hippo-memory) - 52 points, 14 comments
+1. [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing) - 936 points, 415 comments
+2. [US and Iran agree to provisional ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire) - 205 points, 520 comments
+3. [Lunar Flyby](https://www.nasa.gov/gallery/lunar-flyby/) - 412 points, 105 comments
+4. [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf) - 551 points, 401 comments
+5. [GLM-5.1: Towards Long-Horizon Tasks](https://z.ai/blog/glm-5.1) - 427 points, 154 comments
+6. [How to get better at guitar](https://www.jakeworth.com/posts/how-to-get-better-at-guitar/) - 207 points, 94 comments
+7. [S3 Files](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html) - 211 points, 63 comments
+8. [Cambodia unveils statue to honour famous landmine-sniffing rat](https://www.bbc.com/news/articles/c0rx7xzd10xo) - 287 points, 65 comments
+9. [A truck driver spent 20 years making a scale model of every building in NYC](https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/) - 255 points, 43 comments
+10. [JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456) - 14 points, 4 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 53 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 54 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
