@@ -43,6 +43,8 @@ daily_run.yml
 GITHUB_OPTIMIZATION_GUIDE.md
 GITHUB_PROFILE_README.md
 QUICK_SETUP.md
+ROADMAP.md
+FEATURE_PLAN.md
 
 # Test
 .pytest_cache/
