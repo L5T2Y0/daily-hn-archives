@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-08 10:31:25 (北京时间)
+> 🕐 最后更新：2026-04-09 10:26:35 (北京时间)
 
-1. [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing) - 936 points, 415 comments
-2. [US and Iran agree to provisional ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire) - 205 points, 520 comments
-3. [Lunar Flyby](https://www.nasa.gov/gallery/lunar-flyby/) - 412 points, 105 comments
-4. [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf) - 551 points, 401 comments
-5. [GLM-5.1: Towards Long-Horizon Tasks](https://z.ai/blog/glm-5.1) - 427 points, 154 comments
-6. [How to get better at guitar](https://www.jakeworth.com/posts/how-to-get-better-at-guitar/) - 207 points, 94 comments
-7. [S3 Files](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html) - 211 points, 63 comments
-8. [Cambodia unveils statue to honour famous landmine-sniffing rat](https://www.bbc.com/news/articles/c0rx7xzd10xo) - 287 points, 65 comments
-9. [A truck driver spent 20 years making a scale model of every building in NYC](https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/) - 255 points, 43 comments
-10. [JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456) - 14 points, 4 comments
+1. [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html) - 169 points, 60 comments
+2. [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) - 1277 points, 216 comments
+3. [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/) - 190 points, 29 comments
+4. [Understanding the Kalman filter with a simple radar example](https://kalmanfilter.net) - 238 points, 34 comments
+5. [What does it mean to “write like you talk”?](https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you) - 30 points, 27 comments
+6. [They're made out of meat (1991)](http://www.terrybisson.com/theyre-made-out-of-meat-2/) - 419 points, 125 comments
+7. [Muse Spark: Scaling towards personal superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1) - 276 points, 296 comments
+8. [Six (and a half) intuitions for KL divergence](https://www.perfectlynormal.co.uk/blog-kl-divergence) - 14 points, 0 comments
+9. [Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones](https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/) - 536 points, 543 comments
+10. [Little Snitch for Linux – Because Nothing Else Came Close](https://obdev.at/blog/little-snitch-for-linux/) - 24 points, 1 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 54 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 55 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
