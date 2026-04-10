@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-09 10:26:35 (北京时间)
+> 🕐 最后更新：2026-04-10 10:37:12 (北京时间)
 
-1. [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html) - 169 points, 60 comments
-2. [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) - 1277 points, 216 comments
-3. [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/) - 190 points, 29 comments
-4. [Understanding the Kalman filter with a simple radar example](https://kalmanfilter.net) - 238 points, 34 comments
-5. [What does it mean to “write like you talk”?](https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you) - 30 points, 27 comments
-6. [They're made out of meat (1991)](http://www.terrybisson.com/theyre-made-out-of-meat-2/) - 419 points, 125 comments
-7. [Muse Spark: Scaling towards personal superintelligence](https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1) - 276 points, 296 comments
-8. [Six (and a half) intuitions for KL divergence](https://www.perfectlynormal.co.uk/blog-kl-divergence) - 14 points, 0 comments
-9. [Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones](https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/) - 536 points, 543 comments
-10. [Little Snitch for Linux – Because Nothing Else Came Close](https://obdev.at/blog/little-snitch-for-linux/) - 24 points, 1 comments
+1. [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) - 333 points, 157 comments
+2. [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/) - 101 points, 33 comments
+3. [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/) - 136 points, 22 comments
+4. [RAM Has a Design Flaw from 1966. I Bypassed It [video]](https://www.youtube.com/watch?v=KKbgulTp3FE) - 17 points, 1 comments
+5. [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/) - 156 points, 23 comments
+6. [Generative Art over the Years](https://blog.veitheller.de/Generative_art_over_the_years.html) - 13 points, 1 comments
+7. [Reverse engineering Gemini's SynthID detection](https://github.com/aloshdenny/reverse-SynthID) - 116 points, 43 comments
+8. [Will I ever own a zettaflop?](https://geohot.github.io//blog/jekyll/update/2026/01/26/own-a-zettaflop.html) - 58 points, 28 comments
+9. [Robots eat cars](https://telemetry.endeff.com/p/robots-eat-cars) - 45 points, 39 comments
+10. [Microsoft PhotoDNA scanning problem](https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/) - 74 points, 30 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 55 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 56 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
