@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-10 10:37:12 (北京时间)
+> 🕐 最后更新：2026-04-11 10:23:17 (北京时间)
 
-1. [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) - 333 points, 157 comments
-2. [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/) - 101 points, 33 comments
-3. [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/) - 136 points, 22 comments
-4. [RAM Has a Design Flaw from 1966. I Bypassed It [video]](https://www.youtube.com/watch?v=KKbgulTp3FE) - 17 points, 1 comments
-5. [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/) - 156 points, 23 comments
-6. [Generative Art over the Years](https://blog.veitheller.de/Generative_art_over_the_years.html) - 13 points, 1 comments
-7. [Reverse engineering Gemini's SynthID detection](https://github.com/aloshdenny/reverse-SynthID) - 116 points, 43 comments
-8. [Will I ever own a zettaflop?](https://geohot.github.io//blog/jekyll/update/2026/01/26/own-a-zettaflop.html) - 58 points, 28 comments
-9. [Robots eat cars](https://telemetry.endeff.com/p/robots-eat-cars) - 45 points, 39 comments
-10. [Microsoft PhotoDNA scanning problem](https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/) - 74 points, 30 comments
+1. [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/) - 379 points, 217 comments
+2. [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/) - 390 points, 144 comments
+3. [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po) - 245 points, 124 comments
+4. [1D Chess](https://rowan441.github.io/1dchess/chess.html) - 666 points, 130 comments
+5. [Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension) - 147 points, 21 comments
+6. [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html) - 408 points, 111 comments
+7. [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) - 313 points, 95 comments
+8. [Investigating Split Locks on x86-64](https://chipsandcheese.com/p/investigating-split-locks-on-x86) - 12 points, 0 comments
+9. [AI assistance when contributing to the Linux kernel](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst) - 167 points, 129 comments
+10. [Italo Calvino: A Traveller in a World of Uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty) - 27 points, 4 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 56 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 57 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
