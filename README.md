@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-11 10:23:17 (北京时间)
+> 🕐 最后更新：2026-04-12 10:40:00 (北京时间)
 
-1. [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/) - 379 points, 217 comments
-2. [Artemis II safely splashes down](https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/) - 390 points, 144 comments
-3. [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po) - 245 points, 124 comments
-4. [1D Chess](https://rowan441.github.io/1dchess/chess.html) - 666 points, 130 comments
-5. [Installing Every* Firefox Extension](https://jack.cab/blog/every-firefox-extension) - 147 points, 21 comments
-6. [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html) - 408 points, 111 comments
-7. [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) - 313 points, 95 comments
-8. [Investigating Split Locks on x86-64](https://chipsandcheese.com/p/investigating-split-locks-on-x86) - 12 points, 0 comments
-9. [AI assistance when contributing to the Linux kernel](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst) - 167 points, 129 comments
-10. [Italo Calvino: A Traveller in a World of Uncertainty](https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty) - 27 points, 4 comments
+1. [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier) - 864 points, 240 comments
+2. [The End of Eleventy](https://brennan.day/the-end-of-eleventy/) - 19 points, 3 comments
+3. [Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)](https://khronokernel.com/macos/2023/08/08/AS-VM.html) - 150 points, 99 comments
+4. [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/) - 236 points, 63 comments
+5. [Pijul a FOSS distributed version control system](https://pijul.org/) - 87 points, 12 comments
+6. [Dark Castle](https://darkcastle.co.uk/) - 129 points, 18 comments
+7. [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269) - 145 points, 74 comments
+8. [How Complex is my Code?](https://philodev.one/posts/2026-04-code-complexity/) - 27 points, 2 comments
+9. [Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS](https://www.v68k.org/advanced-mac-substitute/) - 203 points, 53 comments
+10. [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/) - 83 points, 6 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 57 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 58 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
