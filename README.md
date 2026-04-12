@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-04-05 09:17:13 (北京时间)
+> 🕐 最后更新：2026-04-12 09:21:31 (北京时间)
 
-**本周热门 (2026-03-23 至 2026-03-29)**
+**本周热门 (2026-03-30 至 2026-04-05)**
 
-1. [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar) - 739 points, 211 comments
-   - 🌐 Web | 🔒 Security
-2. [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) - 723 points, 171 comments
-   - 🌐 Web | 🔒 Security | 🚀 Startup | 📂 Open Source
-3. [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) - 715 points, 185 comments
+1. [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) - 1175 points, 353 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+2. [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) - 854 points, 347 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔧 Tools
+3. [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) - 660 points, 170 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming | 📱 Mobile
+4. [Live: Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) - 657 points, 623 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
+5. [How to turn anything into a router](https://nbailey.ca/post/router/) - 597 points, 211 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-4. [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) - 616 points, 122 comments
+6. [Embarrassingly simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193) - 555 points, 167 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
+7. [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) - 521 points, 138 comments
    - 🌐 Web | 🔒 Security
-5. [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html) - 534 points, 263 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source
-6. [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) - 532 points, 412 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
-7. [Apple Business](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/) - 525 points, 319 comments
-   - 🌐 Web | 🔒 Security | 📱 Mobile | 🚀 Startup
-8. [Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised](https://github.com/BerriAI/litellm/issues/24512) - 502 points, 378 comments
+8. [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) - 512 points, 204 comments
+   - 🌐 Web | 🔒 Security
+9. [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) - 472 points, 335 comments
+   - 🌐 Web | ⚙️ DevOps | 🔒 Security
+10. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) - 448 points, 97 comments
    - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
-9. [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412) - 486 points, 243 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-10. [The future of version control](https://bramcohen.com/p/manyana) - 418 points, 241 comments
-   - 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-03-29.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-04-05.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
