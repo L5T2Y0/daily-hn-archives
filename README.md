@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-12 10:40:00 (北京时间)
+> 🕐 最后更新：2026-04-13 10:45:12 (北京时间)
 
-1. [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier) - 864 points, 240 comments
-2. [The End of Eleventy](https://brennan.day/the-end-of-eleventy/) - 19 points, 3 comments
-3. [Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)](https://khronokernel.com/macos/2023/08/08/AS-VM.html) - 150 points, 99 comments
-4. [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/) - 236 points, 63 comments
-5. [Pijul a FOSS distributed version control system](https://pijul.org/) - 87 points, 12 comments
-6. [Dark Castle](https://darkcastle.co.uk/) - 129 points, 18 comments
-7. [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269) - 145 points, 74 comments
-8. [How Complex is my Code?](https://philodev.one/posts/2026-04-code-complexity/) - 27 points, 2 comments
-9. [Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS](https://www.v68k.org/advanced-mac-substitute/) - 203 points, 53 comments
-10. [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/) - 83 points, 6 comments
+1. [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/) - 66 points, 52 comments
+2. [Bring Back Idiomatic Design (2023)](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design) - 472 points, 244 comments
+3. [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/) - 270 points, 71 comments
+4. [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/) - 244 points, 154 comments
+5. [A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/) - 62 points, 18 comments
+6. [Ask HN: What Are You Working On? (April 2026)](https://news.ycombinator.com/item?id=47741527) - 140 points, 405 comments
+7. [Most people can't juggle one ball](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball) - 252 points, 86 comments
+8. [I gave every train in New York an instrument](https://www.trainjazz.com/) - 220 points, 42 comments
+9. [Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets](https://arxiv.org/abs/2604.07902) - 10 points, 0 comments
+10. [Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)](https://github.com/rochus-keller/OberonSystem3Native/releases) - 168 points, 36 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 58 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 59 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
