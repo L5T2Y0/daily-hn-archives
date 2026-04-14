@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-13 10:45:12 (北京时间)
+> 🕐 最后更新：2026-04-14 10:38:05 (北京时间)
 
-1. [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/) - 66 points, 52 comments
-2. [Bring Back Idiomatic Design (2023)](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design) - 472 points, 244 comments
-3. [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/) - 270 points, 71 comments
-4. [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/) - 244 points, 154 comments
-5. [A Perfectable Programming Language](https://alok.github.io/lean-pages/perfectable-lean/) - 62 points, 18 comments
-6. [Ask HN: What Are You Working On? (April 2026)](https://news.ycombinator.com/item?id=47741527) - 140 points, 405 comments
-7. [Most people can't juggle one ball](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball) - 252 points, 86 comments
-8. [I gave every train in New York an instrument](https://www.trainjazz.com/) - 220 points, 42 comments
-9. [Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets](https://arxiv.org/abs/2604.07902) - 10 points, 0 comments
-10. [Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)](https://github.com/rochus-keller/OberonSystem3Native/releases) - 168 points, 36 comments
+1. [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) - 714 points, 203 comments
+2. [GitHub Stacked PRs](https://github.github.com/gh-stack/) - 446 points, 257 comments
+3. [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html) - 99 points, 57 comments
+4. [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin) - 62 points, 20 comments
+5. [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens) - 362 points, 177 comments
+6. [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/) - 140 points, 22 comments
+7. [Write less code, be more responsible](https://blog.orhun.dev/code-responsibly/) - 32 points, 16 comments
+8. [US appeals court declares 158-year-old home distilling ban unconstitutional](https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/) - 308 points, 231 comments
+9. [Servo is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/) - 429 points, 140 comments
+10. [Make tmux pretty and usable (2024)](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/) - 320 points, 204 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 59 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 60 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
