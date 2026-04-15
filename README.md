@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-14 10:38:05 (北京时间)
+> 🕐 最后更新：2026-04-15 10:35:55 (北京时间)
 
-1. [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) - 714 points, 203 comments
-2. [GitHub Stacked PRs](https://github.github.com/gh-stack/) - 446 points, 257 comments
-3. [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html) - 99 points, 57 comments
-4. [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin) - 62 points, 20 comments
-5. [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens) - 362 points, 177 comments
-6. [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/) - 140 points, 22 comments
-7. [Write less code, be more responsible](https://blog.orhun.dev/code-responsibly/) - 32 points, 16 comments
-8. [US appeals court declares 158-year-old home distilling ban unconstitutional](https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/) - 308 points, 231 comments
-9. [Servo is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/) - 429 points, 140 comments
-10. [Make tmux pretty and usable (2024)](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/) - 320 points, 204 comments
+1. [Stop Flock](https://stopflock.com) - 266 points, 38 comments
+2. [Claude Code Routines](https://code.claude.com/docs/en/routines) - 443 points, 273 comments
+3. [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/) - 538 points, 163 comments
+4. [The Orange Pi 6 Plus](https://taoofmac.com/space/reviews/2026/04/11/1900) - 125 points, 89 comments
+5. [Fuck the cloud (2009)](https://ascii.textfiles.com/archives/1717) - 110 points, 63 comments
+6. [Understanding Clojure's Persistent Vectors, pt. 1 (2013)](https://hypirion.com/musings/understanding-persistent-vector-pt-1) - 16 points, 1 comments
+7. [OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports](https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/) - 34 points, 26 comments
+8. [Picasso's Guernica (Gigapixel)](https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59) - 58 points, 13 comments
+9. [The FCC just saved Netgear from its router ban for no obvious reason](https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval) - 51 points, 21 comments
+10. [A Communist Apple II and Fourteen Years of Not Knowing What You're Testing](https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/) - 42 points, 4 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 60 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 61 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
