@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-15 10:35:55 (北京时间)
+> 🕐 最后更新：2026-04-16 10:43:19 (北京时间)
 
-1. [Stop Flock](https://stopflock.com) - 266 points, 38 comments
-2. [Claude Code Routines](https://code.claude.com/docs/en/routines) - 443 points, 273 comments
-3. [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/) - 538 points, 163 comments
-4. [The Orange Pi 6 Plus](https://taoofmac.com/space/reviews/2026/04/11/1900) - 125 points, 89 comments
-5. [Fuck the cloud (2009)](https://ascii.textfiles.com/archives/1717) - 110 points, 63 comments
-6. [Understanding Clojure's Persistent Vectors, pt. 1 (2013)](https://hypirion.com/musings/understanding-persistent-vector-pt-1) - 16 points, 1 comments
-7. [OpenAI's $852B valuation faces investor scrutiny amid strategy shift, FT reports](https://www.reuters.com/legal/transactional/openai-investors-question-852-billion-valuation-strategy-shifts-ft-reports-2026-04-14/) - 34 points, 26 comments
-8. [Picasso's Guernica (Gigapixel)](https://guernica.museoreinasofia.es/gigapixel/#3/63.11/-120.59) - 58 points, 13 comments
-9. [The FCC just saved Netgear from its router ban for no obvious reason](https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval) - 51 points, 21 comments
-10. [A Communist Apple II and Fourteen Years of Not Knowing What You're Testing](https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/) - 42 points, 4 comments
+1. [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html) - 267 points, 101 comments
+2. [Arguing with Agents](https://blowmage.com/2026/04/14/arguing-with-agents/) - 9 points, 0 comments
+3. [I made a terminal pager](https://theleo.zone/posts/pager/) - 68 points, 17 comments
+4. [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data) - 1143 points, 504 comments
+5. [Cal.com is going closed source](https://cal.com/blog/cal-com-goes-closed-source-why) - 224 points, 166 comments
+6. [God sleeps in the minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/) - 468 points, 98 comments
+7. [Introduction to Spherical Harmonics for Graphics Programmers](https://gpfault.net/posts/sph.html) - 16 points, 1 comments
+8. [Ohio prison inmates 'built computers and hid them in ceiling (2017)](https://www.bbc.com/news/technology-39576394) - 72 points, 52 comments
+9. [Amazon AI Cancelling Webcomics](http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html) - 11 points, 0 comments
+10. [PiCore - Raspberry Pi Port of Tiny Core Linux](http://tinycorelinux.net/5.x/armv6/releases/README) - 85 points, 10 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 61 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 62 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
