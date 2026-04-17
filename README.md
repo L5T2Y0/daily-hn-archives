@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-16 10:43:19 (北京时间)
+> 🕐 最后更新：2026-04-17 10:38:25 (北京时间)
 
-1. [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html) - 267 points, 101 comments
-2. [Arguing with Agents](https://blowmage.com/2026/04/14/arguing-with-agents/) - 9 points, 0 comments
-3. [I made a terminal pager](https://theleo.zone/posts/pager/) - 68 points, 17 comments
-4. [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data) - 1143 points, 504 comments
-5. [Cal.com is going closed source](https://cal.com/blog/cal-com-goes-closed-source-why) - 224 points, 166 comments
-6. [God sleeps in the minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/) - 468 points, 98 comments
-7. [Introduction to Spherical Harmonics for Graphics Programmers](https://gpfault.net/posts/sph.html) - 16 points, 1 comments
-8. [Ohio prison inmates 'built computers and hid them in ceiling (2017)](https://www.bbc.com/news/technology-39576394) - 72 points, 52 comments
-9. [Amazon AI Cancelling Webcomics](http://www.kleefeldoncomics.com/2026/04/amazon-ai-cancelling-webcomics.html) - 11 points, 0 comments
-10. [PiCore - Raspberry Pi Port of Tiny Core Linux](http://tinycorelinux.net/5.x/armv6/releases/README) - 85 points, 10 comments
+1. [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) - 1507 points, 1080 comments
+2. [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/) - 696 points, 372 comments
+3. [Everything we like is a psyop](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/) - 136 points, 72 comments
+4. [CadQuery is an open-source Python library for building 3D CAD models](https://cadquery.github.io/) - 45 points, 3 comments
+5. [Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober) - 99 points, 15 comments
+6. [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/) - 87 points, 7 comments
+7. [Show HN: Spice simulation → oscilloscope → verification with Claude Code](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/) - 19 points, 2 comments
+8. [Android CLI: Build Android apps 3x faster using any agent](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html) - 133 points, 31 comments
+9. [Official Clojure Documentary page with Video, Shownotes, and Links](https://clojure.org/about/documentary) - 110 points, 26 comments
+10. [New unsealed records reveal Amazon's price-fixing tactics, California AG claims](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit) - 123 points, 24 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 62 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 63 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
