@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-17 10:38:25 (北京时间)
+> 🕐 最后更新：2026-04-18 10:29:57 (北京时间)
 
-1. [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) - 1507 points, 1080 comments
-2. [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/) - 696 points, 372 comments
-3. [Everything we like is a psyop](https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/) - 136 points, 72 comments
-4. [CadQuery is an open-source Python library for building 3D CAD models](https://cadquery.github.io/) - 45 points, 3 comments
-5. [Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober) - 99 points, 15 comments
-6. [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/) - 87 points, 7 comments
-7. [Show HN: Spice simulation → oscilloscope → verification with Claude Code](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/) - 19 points, 2 comments
-8. [Android CLI: Build Android apps 3x faster using any agent](https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html) - 133 points, 31 comments
-9. [Official Clojure Documentary page with Video, Shownotes, and Links](https://clojure.org/about/documentary) - 110 points, 26 comments
-10. [New unsealed records reveal Amazon's price-fixing tactics, California AG claims](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit) - 123 points, 24 comments
+1. [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs) - 857 points, 575 comments
+2. [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c) - 118 points, 59 comments
+3. [All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon) - 239 points, 134 comments
+4. [Measuring Claude 4.7's tokenizer costs](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you) - 545 points, 377 comments
+5. [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html) - 630 points, 261 comments
+6. [Are the costs of AI agents also rising exponentially? (2025)](https://www.tobyord.com/writing/hourly-costs-for-ai-agents) - 111 points, 17 comments
+7. [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm) - 234 points, 89 comments
+8. [Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock](https://github.com/paniclock/paniclock/) - 139 points, 59 comments
+9. [NASA Force](https://nasaforce.gov/) - 236 points, 246 comments
+10. [Slop Cop](https://awnist.com/slop-cop) - 87 points, 63 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 63 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 64 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
