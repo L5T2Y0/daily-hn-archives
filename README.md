@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-04-12 09:21:31 (北京时间)
+> 🕐 最后更新：2026-04-19 09:23:51 (北京时间)
 
-**本周热门 (2026-03-30 至 2026-04-05)**
+**本周热门 (2026-04-06 至 2026-04-12)**
 
-1. [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) - 1175 points, 353 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-2. [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) - 854 points, 347 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔧 Tools
-3. [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) - 660 points, 170 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming | 📱 Mobile
-4. [Live: Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) - 657 points, 623 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming
-5. [How to turn anything into a router](https://nbailey.ca/post/router/) - 597 points, 211 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-6. [Embarrassingly simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193) - 555 points, 167 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming
-7. [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) - 521 points, 138 comments
-   - 🌐 Web | 🔒 Security
-8. [Artemis II crew take “spectacular” image of Earth](https://www.bbc.com/news/articles/ce8jzr423p9o) - 512 points, 204 comments
-   - 🌐 Web | 🔒 Security
-9. [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) - 472 points, 335 comments
-   - 🌐 Web | ⚙️ DevOps | 🔒 Security
-10. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) - 448 points, 97 comments
+1. [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) - 1277 points, 216 comments
    - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
+2. [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing) - 936 points, 415 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+3. [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier) - 864 points, 240 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+4. [Issue: Claude Code is unusable for complex engineering tasks with Feb updates](https://github.com/anthropics/claude-code/issues/42796) - 772 points, 471 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source
+5. [1D Chess](https://rowan441.github.io/1dchess/chess.html) - 666 points, 130 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
+6. [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) - 634 points, 204 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+7. [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf) - 551 points, 401 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+8. [Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones](https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/) - 536 points, 543 comments
+   - 🌐 Web | 🔒 Security
+9. [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) - 440 points, 119 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 📱 Mobile
+10. [GLM-5.1: Towards Long-Horizon Tasks](https://z.ai/blog/glm-5.1) - 427 points, 154 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-04-05.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-04-12.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
