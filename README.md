@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-18 10:29:57 (北京时间)
+> 🕐 最后更新：2026-04-19 10:45:05 (北京时间)
 
-1. [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs) - 857 points, 575 comments
-2. [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c) - 118 points, 59 comments
-3. [All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon) - 239 points, 134 comments
-4. [Measuring Claude 4.7's tokenizer costs](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you) - 545 points, 377 comments
-5. [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html) - 630 points, 261 comments
-6. [Are the costs of AI agents also rising exponentially? (2025)](https://www.tobyord.com/writing/hourly-costs-for-ai-agents) - 111 points, 17 comments
-7. [Show HN: Smol machines – subsecond coldstart, portable virtual machines](https://github.com/smol-machines/smolvm) - 234 points, 89 comments
-8. [Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock](https://github.com/paniclock/paniclock/) - 139 points, 59 comments
-9. [NASA Force](https://nasaforce.gov/) - 236 points, 246 comments
-10. [Slop Cop](https://awnist.com/slop-cop) - 87 points, 63 comments
+1. [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits) - 186 points, 82 comments
+2. [Anonymous request-token comparisons from Opus 4.6 and Opus 4.7](https://tokens.billchambers.me/leaderboard) - 436 points, 444 comments
+3. [Updating Gun Rocket through 10 years of Unity Engine](https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine) - 23 points, 0 comments
+4. [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/) - 157 points, 157 comments
+5. [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html) - 282 points, 80 comments
+6. [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/) - 325 points, 321 comments
+7. [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html) - 56 points, 20 comments
+8. [Modern Common Lisp with FSet](https://fset.common-lisp.dev/Modern-CL/Top_html/index.html) - 96 points, 8 comments
+9. [Dad brains: How fatherhood rewires the male mind](https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare) - 91 points, 39 comments
+10. [State of Kdenlive](https://kdenlive.org/news/2026/state-2026/) - 342 points, 114 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 64 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 65 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
