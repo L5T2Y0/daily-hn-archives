@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-19 10:45:05 (北京时间)
+> 🕐 最后更新：2026-04-20 10:46:05 (北京时间)
 
-1. [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits) - 186 points, 82 comments
-2. [Anonymous request-token comparisons from Opus 4.6 and Opus 4.7](https://tokens.billchambers.me/leaderboard) - 436 points, 444 comments
-3. [Updating Gun Rocket through 10 years of Unity Engine](https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine) - 23 points, 0 comments
-4. [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/) - 157 points, 157 comments
-5. [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html) - 282 points, 80 comments
-6. [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/) - 325 points, 321 comments
-7. [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html) - 56 points, 20 comments
-8. [Modern Common Lisp with FSet](https://fset.common-lisp.dev/Modern-CL/Top_html/index.html) - 96 points, 8 comments
-9. [Dad brains: How fatherhood rewires the male mind](https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare) - 91 points, 39 comments
-10. [State of Kdenlive](https://kdenlive.org/news/2026/state-2026/) - 342 points, 114 comments
+1. [Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed](https://github.com/shivampkumar/trellis-mac) - 54 points, 5 comments
+2. [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/) - 88 points, 40 comments
+3. [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) - 561 points, 327 comments
+4. [The Bromine Chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/) - 164 points, 76 comments
+5. [The insider trading suspicions looming over Trump's presidency](https://www.bbc.com/news/articles/cge0grppe3po) - 74 points, 13 comments
+6. [Mechanical Keyboard Sounds - A listening Museum](https://sheets.works/data-viz/keyboard-sounds) - 32 points, 3 comments
+7. [Turtle WoW classic server announces shutdown after Blizzard wins injunction](https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/) - 134 points, 106 comments
+8. [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/) - 75 points, 21 comments
+9. [Swiss AI Initiative (2023)](https://www.swiss-ai.org) - 21 points, 6 comments
+10. [Ex-CEO, ex-CFO of bankrupt AI company charged with fraud](https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/) - 125 points, 53 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 65 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 66 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
