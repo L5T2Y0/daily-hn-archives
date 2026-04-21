@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-20 10:46:05 (北京时间)
+> 🕐 最后更新：2026-04-21 10:39:30 (北京时间)
 
-1. [Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed](https://github.com/shivampkumar/trellis-mac) - 54 points, 5 comments
-2. [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/) - 88 points, 40 comments
-3. [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) - 561 points, 327 comments
-4. [The Bromine Chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/) - 164 points, 76 comments
-5. [The insider trading suspicions looming over Trump's presidency](https://www.bbc.com/news/articles/cge0grppe3po) - 74 points, 13 comments
-6. [Mechanical Keyboard Sounds - A listening Museum](https://sheets.works/data-viz/keyboard-sounds) - 32 points, 3 comments
-7. [Turtle WoW classic server announces shutdown after Blizzard wins injunction](https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/) - 134 points, 106 comments
-8. [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/) - 75 points, 21 comments
-9. [Swiss AI Initiative (2023)](https://www.swiss-ai.org) - 21 points, 6 comments
-10. [Ex-CEO, ex-CFO of bankrupt AI company charged with fraud](https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/) - 125 points, 53 comments
+1. [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/) - 1268 points, 637 comments
+2. [How to Make a Fast Dynamic Language Interpreter](https://zef-lang.dev/implementation) - 47 points, 2 comments
+3. [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit) - 143 points, 42 comments
+4. [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview) - 552 points, 286 comments
+5. [KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit](https://arxiv.org/abs/2604.15356) - 6 points, 0 comments
+6. [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier) - 176 points, 17 comments
+7. [Ternary Bonsai: Top Intelligence at 1.58 Bits](https://prismml.com/news/ternary-bonsai) - 61 points, 12 comments
+8. [Soul Player C64 – A real transformer running on a 1 MHz Commodore 64](https://github.com/gizmo64k/soulplayer-c64) - 82 points, 21 comments
+9. [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/) - 365 points, 75 comments
+10. [Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys](https://words.filippo.io/128-bits/) - 143 points, 59 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 66 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 67 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
