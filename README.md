@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-21 10:39:30 (北京时间)
+> 🕐 最后更新：2026-04-22 10:38:01 (北京时间)
 
-1. [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/) - 1268 points, 637 comments
-2. [How to Make a Fast Dynamic Language Interpreter](https://zef-lang.dev/implementation) - 47 points, 2 comments
-3. [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit) - 143 points, 42 comments
-4. [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview) - 552 points, 286 comments
-5. [KV Cache Compression 900000x Beyond TurboQuant and Per-Vector Shannon Limit](https://arxiv.org/abs/2604.15356) - 6 points, 0 comments
-6. [Kimi vendor verifier – verify accuracy of inference providers](https://www.kimi.com/blog/kimi-vendor-verifier) - 176 points, 17 comments
-7. [Ternary Bonsai: Top Intelligence at 1.58 Bits](https://prismml.com/news/ternary-bonsai) - 61 points, 12 comments
-8. [Soul Player C64 – A real transformer running on a 1 MHz Commodore 64](https://github.com/gizmo64k/soulplayer-c64) - 82 points, 21 comments
-9. [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/) - 365 points, 75 comments
-10. [Quantum Computers Are Not a Threat to 128-Bit Symmetric Keys](https://words.filippo.io/128-bits/) - 143 points, 59 comments
+1. [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/) - 481 points, 438 comments
+2. [Windows Server 2025 Runs Better on ARM](https://jasoneckert.github.io/myblog/server-2025-arm64/) - 55 points, 32 comments
+3. [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374) - 294 points, 427 comments
+4. [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html) - 268 points, 103 comments
+5. [CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production](https://www.brex.com/crabtrap) - 84 points, 20 comments
+6. [I'm Sick of AI Everything](https://news.ycombinator.com/item?id=47857461) - 82 points, 29 comments
+7. [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/) - 232 points, 91 comments
+8. [Stephen's Sausage Roll remains one of the most influential puzzle games](https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/) - 141 points, 68 comments
+9. [San Diego rents declined more than 19 of 20 top US markets after surge in supply](https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply) - 64 points, 28 comments
+10. [Laws of Software Engineering](https://lawsofsoftwareengineering.com) - 847 points, 427 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 67 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 68 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
