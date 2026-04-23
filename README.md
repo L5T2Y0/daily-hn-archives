@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-22 10:38:01 (北京时间)
+> 🕐 最后更新：2026-04-23 10:41:47 (北京时间)
 
-1. [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/) - 481 points, 438 comments
-2. [Windows Server 2025 Runs Better on ARM](https://jasoneckert.github.io/myblog/server-2025-arm64/) - 55 points, 32 comments
-3. [SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374) - 294 points, 427 comments
-4. [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html) - 268 points, 103 comments
-5. [CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production](https://www.brex.com/crabtrap) - 84 points, 20 comments
-6. [I'm Sick of AI Everything](https://news.ycombinator.com/item?id=47857461) - 82 points, 29 comments
-7. [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/) - 232 points, 91 comments
-8. [Stephen's Sausage Roll remains one of the most influential puzzle games](https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/) - 141 points, 68 comments
-9. [San Diego rents declined more than 19 of 20 top US markets after surge in supply](https://www.kpbs.org/news/economy/2026/03/27/san-diego-rents-declined-more-than-19-of-nations-top-20-markets-following-surge-in-supply) - 64 points, 28 comments
-10. [Laws of Software Engineering](https://lawsofsoftwareengineering.com) - 847 points, 427 comments
+1. [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) - 1373 points, 476 comments
+2. [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/) - 390 points, 101 comments
+3. [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/) - 460 points, 136 comments
+4. [Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game](https://tempest.homemade.systems) - 22 points, 2 comments
+5. [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b) - 724 points, 347 comments
+6. [5x5 Pixel font for tiny screens](https://maurycyz.com/projects/mcufont/) - 449 points, 108 comments
+7. [Over-editing refers to a model modifying code beyond what is necessary](https://nrehiew.github.io/blog/minimal_editing/) - 301 points, 173 comments
+8. [Website streamed live directly from a model](https://flipbook.page/) - 165 points, 60 comments
+9. [Technical, cognitive, and intent debt](https://martinfowler.com/fragments/2026-04-02.html) - 205 points, 50 comments
+10. [Approximating Hyperbolic Tangent](https://jtomschroeder.com/blog/approximating-tanh/) - 26 points, 4 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 68 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 69 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
