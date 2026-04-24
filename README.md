@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-23 10:41:47 (北京时间)
+> 🕐 最后更新：2026-04-24 10:42:22 (北京时间)
 
-1. [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) - 1373 points, 476 comments
-2. [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/) - 390 points, 101 comments
-3. [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/) - 460 points, 136 comments
-4. [Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game](https://tempest.homemade.systems) - 22 points, 2 comments
-5. [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b) - 724 points, 347 comments
-6. [5x5 Pixel font for tiny screens](https://maurycyz.com/projects/mcufont/) - 449 points, 108 comments
-7. [Over-editing refers to a model modifying code beyond what is necessary](https://nrehiew.github.io/blog/minimal_editing/) - 301 points, 173 comments
-8. [Website streamed live directly from a model](https://flipbook.page/) - 165 points, 60 comments
-9. [Technical, cognitive, and intent debt](https://martinfowler.com/fragments/2026-04-02.html) - 205 points, 50 comments
-10. [Approximating Hyperbolic Tangent](https://jtomschroeder.com/blog/approximating-tanh/) - 26 points, 4 comments
+1. [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/) - 1125 points, 779 comments
+2. [Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://socket.dev/blog/bitwarden-cli-compromised) - 660 points, 324 comments
+3. [Why I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/) - 4 points, 0 comments
+4. [Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria) - 113 points, 35 comments
+5. [Meta tells staff it will cut 10% of jobs](https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency) - 397 points, 371 comments
+6. [MeshCore development team splits over trademark dispute and AI-generated code](https://blog.meshcore.io/2026/04/23/the-split) - 160 points, 96 comments
+7. [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/) - 67 points, 2 comments
+8. [I am building a cloud](https://crawshaw.io/blog/building-a-cloud) - 1009 points, 495 comments
+9. [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem) - 588 points, 448 comments
+10. [My phone replaced a brass plug](https://drobinin.com/posts/my-phone-replaced-a-brass-plug/) - 88 points, 14 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 69 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 70 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
