@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-24 10:42:22 (北京时间)
+> 🕐 最后更新：2026-04-25 10:31:20 (北京时间)
 
-1. [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/) - 1125 points, 779 comments
-2. [Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://socket.dev/blog/bitwarden-cli-compromised) - 660 points, 324 comments
-3. [Why I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/) - 4 points, 0 comments
-4. [Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria) - 113 points, 35 comments
-5. [Meta tells staff it will cut 10% of jobs](https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency) - 397 points, 371 comments
-6. [MeshCore development team splits over trademark dispute and AI-generated code](https://blog.meshcore.io/2026/04/23/the-split) - 160 points, 96 comments
-7. [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/) - 67 points, 2 comments
-8. [I am building a cloud](https://crawshaw.io/blog/building-a-cloud) - 1009 points, 495 comments
-9. [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem) - 588 points, 448 comments
-10. [My phone replaced a brass plug](https://drobinin.com/posts/my-phone-replaced-a-brass-plug/) - 88 points, 14 comments
+1. [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic) - 363 points, 397 comments
+2. [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/) - 167 points, 43 comments
+3. [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877) - 112 points, 31 comments
+4. [Paraloid B-72](https://en.wikipedia.org/wiki/Paraloid_B-72) - 14 points, 1 comments
+5. [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/) - 364 points, 93 comments
+6. [Humpback whales are forming super-groups](https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas) - 13 points, 2 comments
+7. [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/) - 160 points, 104 comments
+8. [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691) - 153 points, 48 comments
+9. [Work with the garage door up (2024)](https://notes.andymatuschak.org/Work_with_the_garage_door_up) - 124 points, 96 comments
+10. [Education must go beyond the mere production of words](https://www.ncregister.com/commentaries/schnell-repairing-the-ruins) - 12 points, 0 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 70 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 71 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
