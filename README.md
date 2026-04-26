@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-04-19 09:23:51 (北京时间)
+> 🕐 最后更新：2026-04-26 09:26:39 (北京时间)
 
-**本周热门 (2026-04-06 至 2026-04-12)**
+**本周热门 (2026-04-13 至 2026-04-19)**
 
-1. [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) - 1277 points, 216 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
-2. [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing) - 936 points, 415 comments
+1. [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) - 1507 points, 1080 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-3. [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier) - 864 points, 240 comments
+2. [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data) - 1143 points, 504 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
+3. [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs) - 857 points, 575 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-4. [Issue: Claude Code is unusable for complex engineering tasks with Feb updates](https://github.com/anthropics/claude-code/issues/42796) - 772 points, 471 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source
-5. [1D Chess](https://rowan441.github.io/1dchess/chess.html) - 666 points, 130 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
-6. [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) - 634 points, 204 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-7. [System Card: Claude Mythos Preview [pdf]](https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf) - 551 points, 401 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-8. [Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones](https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/) - 536 points, 543 comments
+4. [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) - 714 points, 203 comments
    - 🌐 Web | 🔒 Security
-9. [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) - 440 points, 119 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 📱 Mobile
-10. [GLM-5.1: Towards Long-Horizon Tasks](https://z.ai/blog/glm-5.1) - 427 points, 154 comments
+5. [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/) - 696 points, 372 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security | 💻 Programming
+6. [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html) - 630 points, 261 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
+7. [Measuring Claude 4.7's tokenizer costs](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you) - 545 points, 377 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+8. [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/) - 538 points, 163 comments
+   - 🌐 Web | 🔒 Security
+9. [Bring Back Idiomatic Design (2023)](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design) - 472 points, 244 comments
+   - 🌐 Web | 🔒 Security
+10. [God sleeps in the minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/) - 468 points, 98 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
 
-📁 **[查看完整周报](weekly/week-2026-04-12.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-04-19.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
