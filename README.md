@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-25 10:31:20 (北京时间)
+> 🕐 最后更新：2026-04-26 10:47:41 (北京时间)
 
-1. [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic) - 363 points, 397 comments
-2. [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/) - 167 points, 43 comments
-3. [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877) - 112 points, 31 comments
-4. [Paraloid B-72](https://en.wikipedia.org/wiki/Paraloid_B-72) - 14 points, 1 comments
-5. [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/) - 364 points, 93 comments
-6. [Humpback whales are forming super-groups](https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas) - 13 points, 2 comments
-7. [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/) - 160 points, 104 comments
-8. [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691) - 153 points, 48 comments
-9. [Work with the garage door up (2024)](https://notes.andymatuschak.org/Work_with_the_garage_door_up) - 124 points, 96 comments
-10. [Education must go beyond the mere production of words](https://www.ncregister.com/commentaries/schnell-repairing-the-ruins) - 12 points, 0 comments
+1. [Why has there been so little progress on Alzheimer's disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/) - 92 points, 41 comments
+2. [Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) - 40 points, 4 comments
+3. [USB Cheat Sheet (2022)](https://fabiensanglard.net/usbcheat/index.html) - 178 points, 46 comments
+4. [The Free Universal Construction Kit](https://fffff.at/free-universal-construction-kit/) - 281 points, 55 comments
+5. [OpenAI Privacy Filter](https://openai.com/index/introducing-openai-privacy-filter/) - 116 points, 19 comments
+6. [Flickr: The first and last great photo platform](https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/) - 51 points, 16 comments
+7. [1-Bit Hokusai's "The Great Wave" (2023)](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/) - 528 points, 88 comments
+8. [Using coding assistance tools to revive projects you never were going to finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/) - 194 points, 117 comments
+9. [America's Geothermal Breakthrough](https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html) - 74 points, 86 comments
+10. [The Joy of Folding Bikes](https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes) - 89 points, 57 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 71 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 72 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
