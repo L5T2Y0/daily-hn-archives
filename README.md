@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-26 10:47:41 (北京时间)
+> 🕐 最后更新：2026-04-27 10:51:04 (北京时间)
 
-1. [Why has there been so little progress on Alzheimer's disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/) - 92 points, 41 comments
-2. [Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) - 40 points, 4 comments
-3. [USB Cheat Sheet (2022)](https://fabiensanglard.net/usbcheat/index.html) - 178 points, 46 comments
-4. [The Free Universal Construction Kit](https://fffff.at/free-universal-construction-kit/) - 281 points, 55 comments
-5. [OpenAI Privacy Filter](https://openai.com/index/introducing-openai-privacy-filter/) - 116 points, 19 comments
-6. [Flickr: The first and last great photo platform](https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/) - 51 points, 16 comments
-7. [1-Bit Hokusai's "The Great Wave" (2023)](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/) - 528 points, 88 comments
-8. [Using coding assistance tools to revive projects you never were going to finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/) - 194 points, 117 comments
-9. [America's Geothermal Breakthrough](https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html) - 74 points, 86 comments
-10. [The Joy of Folding Bikes](https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes) - 89 points, 57 comments
+1. [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d) - 453 points, 248 comments
+2. [Self-updating screenshots](https://interblah.net/self-updating-screenshots) - 84 points, 11 comments
+3. [Three constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/) - 62 points, 8 comments
+4. [Fast16: High-precision software sabotage 5 years before Stuxnet](https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/) - 171 points, 43 comments
+5. [Box to save memory in Rust](https://dystroy.org/blog/box-to-save-memory/) - 75 points, 15 comments
+6. [When the cheap one is the cool one](https://arun.is/blog/cheap-cool/) - 29 points, 9 comments
+7. [Notepad++ for Mac](https://notepad-plus-plus-mac.org/) - 9 points, 3 comments
+8. [Show HN: The Unix Magic poster, annotated (updated)](https://github.com/drio/unixmagic) - 10 points, 0 comments
+9. [The fastest Linux timestamps](https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/) - 28 points, 7 comments
+10. [Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c) - 70 points, 34 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 72 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 73 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
