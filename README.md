@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-27 10:51:04 (北京时间)
+> 🕐 最后更新：2026-04-28 10:57:36 (北京时间)
 
-1. [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d) - 453 points, 248 comments
-2. [Self-updating screenshots](https://interblah.net/self-updating-screenshots) - 84 points, 11 comments
-3. [Three constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/) - 62 points, 8 comments
-4. [Fast16: High-precision software sabotage 5 years before Stuxnet](https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/) - 171 points, 43 comments
-5. [Box to save memory in Rust](https://dystroy.org/blog/box-to-save-memory/) - 75 points, 15 comments
-6. [When the cheap one is the cool one](https://arun.is/blog/cheap-cool/) - 29 points, 9 comments
-7. [Notepad++ for Mac](https://notepad-plus-plus-mac.org/) - 9 points, 3 comments
-8. [Show HN: The Unix Magic poster, annotated (updated)](https://github.com/drio/unixmagic) - 10 points, 0 comments
-9. [The fastest Linux timestamps](https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/) - 28 points, 7 comments
-10. [Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c) - 70 points, 34 comments
+1. [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai) - 771 points, 671 comments
+2. [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie) - 108 points, 36 comments
+3. [Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch) - 73 points, 24 comments
+4. [Meetings are forcing functions](https://www.mooreds.com/wordpress/archives/3734) - 62 points, 21 comments
+5. [Three men are facing charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/) - 110 points, 51 comments
+6. [Is my blue your blue?](https://ismy.blue/) - 367 points, 247 comments
+7. [Mo RAM, Mo Problems (2025)](https://fabiensanglard.net/curse/) - 20 points, 3 comments
+8. [Ted Nyman – High Performance Git](https://gitperf.com/) - 21 points, 3 comments
+9. [The quiet resurgence of RF engineering](https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/) - 149 points, 83 comments
+10. [Easyduino: Open Source PCB Devboards for KiCad](https://github.com/Hanqaqa/Easyduino) - 177 points, 26 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 73 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 74 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
