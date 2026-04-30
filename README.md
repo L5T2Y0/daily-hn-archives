@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-29 10:55:48 (北京时间)
+> 🕐 最后更新：2026-04-30 10:57:03 (北京时间)
 
-1. [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - 1814 points, 573 comments
-2. [Claude system prompt bug wastes user money and bricks managed agents](https://github.com/anthropics/claude-code/issues/49363) - 139 points, 38 comments
-3. [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/) - 178 points, 118 comments
-4. [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/) - 282 points, 79 comments
-5. [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/) - 192 points, 73 comments
-6. [We decreased our LLM costs with Opus](https://www.mendral.com/blog/frontier-model-lower-costs) - 36 points, 8 comments
-7. [I won a championship that doesn't exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/) - 89 points, 59 comments
-8. [Intel Arc Pro B70 Review](https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/) - 120 points, 68 comments
-9. [Behavioral timescale synaptic plasticity rewires the brain after an experience](https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/) - 65 points, 0 comments
-10. [GitHub RCE Vulnerability: CVE-2026-3854 Breakdown](https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854) - 259 points, 63 comments
+1. [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79) - 76 points, 13 comments
+2. [Zed 1.0](https://zed.dev/blog/zed-1-0) - 1578 points, 504 comments
+3. [Copy Fail](https://copy.fail/) - 644 points, 275 comments
+4. [Joby Kicks Off NYC Electric Air Taxi Demos with Historic JFK Flight](https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/) - 18 points, 17 comments
+5. [Cursor Camp](https://neal.fun/cursor-camp/) - 691 points, 111 comments
+6. [OpenTrafficMap](https://opentrafficmap.org/) - 163 points, 36 comments
+7. [FastCGI: 30 years old and still the better protocol for reverse proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies) - 262 points, 66 comments
+8. [HERMES.md in commit messages causes requests to route to extra usage billing](https://github.com/anthropics/claude-code/issues/53262) - 1001 points, 428 comments
+9. [Vera: a programming language designed for machines to write](https://github.com/aallan/vera) - 60 points, 44 comments
+10. [Consequences of passing too few register parameters to a C function](https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271) - 20 points, 3 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 75 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 76 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
