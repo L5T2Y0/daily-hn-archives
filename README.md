@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-04-30 10:57:03 (北京时间)
+> 🕐 最后更新：2026-05-01 11:28:54 (北京时间)
 
-1. [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79) - 76 points, 13 comments
-2. [Zed 1.0](https://zed.dev/blog/zed-1-0) - 1578 points, 504 comments
-3. [Copy Fail](https://copy.fail/) - 644 points, 275 comments
-4. [Joby Kicks Off NYC Electric Air Taxi Demos with Historic JFK Flight](https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/) - 18 points, 17 comments
-5. [Cursor Camp](https://neal.fun/cursor-camp/) - 691 points, 111 comments
-6. [OpenTrafficMap](https://opentrafficmap.org/) - 163 points, 36 comments
-7. [FastCGI: 30 years old and still the better protocol for reverse proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies) - 262 points, 66 comments
-8. [HERMES.md in commit messages causes requests to route to extra usage billing](https://github.com/anthropics/claude-code/issues/53262) - 1001 points, 428 comments
-9. [Vera: a programming language designed for machines to write](https://github.com/aallan/vera) - 60 points, 44 comments
-10. [Consequences of passing too few register parameters to a C function](https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271) - 20 points, 3 comments
+1. [OpenWarp](https://openwarp.zerx.dev) - 43 points, 38 comments
+2. [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) - 466 points, 151 comments
+3. [Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously) - 210 points, 114 comments
+4. [For Linux kernel vulnerabilities, there is no heads-up to distributions](https://www.openwall.com/lists/oss-security/2026/04/30/10) - 400 points, 318 comments
+5. [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/) - 340 points, 116 comments
+6. [Can I disable all data collection from my vehicle?](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle) - 532 points, 206 comments
+7. [CPanel and WHM Authentication Bypass – CVE-2026-41940](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/) - 57 points, 18 comments
+8. [Show HN: Winpodx – run Windows apps on Linux as native windows](https://github.com/kernalix7/winpodx) - 13 points, 2 comments
+9. [Maladaptive Frugality](https://herbertlui.net/maladaptive-frugality/) - 34 points, 13 comments
+10. [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/) - 231 points, 49 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 76 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 77 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
