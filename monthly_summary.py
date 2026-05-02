@@ -8,7 +8,7 @@ from tag_classifier import add_tags_to_article, group_articles_by_tag, get_tag_s
 
 def get_last_month_range() -> tuple[str, str]:
     """
-    获取本月至今的日期范围
+    获取上个月整月的日期范围
 
     返回:
         (start_date, end_date) 格式为 YYYY-MM-DD
@@ -16,15 +16,21 @@ def get_last_month_range() -> tuple[str, str]:
     beijing_tz = timezone(timedelta(hours=8))
     today = datetime.now(beijing_tz).date()
 
-    # 本月第一天到今天
+    # 本月第一天
     first_day_this_month = today.replace(day=1)
 
-    return first_day_this_month.strftime("%Y-%m-%d"), today.strftime("%Y-%m-%d")
+    # 上个月最后一天 = 本月第一天 - 1 天
+    last_day_last_month = first_day_this_month - timedelta(days=1)
+
+    # 上个月第一天
+    first_day_last_month = last_day_last_month.replace(day=1)
+
+    return first_day_last_month.strftime("%Y-%m-%d"), last_day_last_month.strftime("%Y-%m-%d")
 
 
 def collect_month_articles(start_date: str, end_date: str) -> list[dict]:
     """
-    收集一个月内的所有文章
+    收集周期内的所有文章
 
     参数:
         start_date: 开始日期 YYYY-MM-DD
@@ -92,12 +98,12 @@ def generate_monthly_content(start_date: str, end_date: str, top_articles: list[
     for article in top_articles:
         add_tags_to_article(article)
 
-    # 提取年月
+    # 提取年月（以开始日期为准：上个月）
     year_month = datetime.strptime(start_date, "%Y-%m-%d").strftime("%Y年%m月")
 
     # 标题
     lines.append("# 📊 Hacker News 月报")
-    lines.append(f"## {year_month}至今")
+    lines.append(f"## {year_month}精选")
     lines.append(f"### {start_date} 至 {end_date}")
     lines.append("")
 
@@ -134,7 +140,7 @@ def generate_monthly_content(start_date: str, end_date: str, top_articles: list[
             lines.append("")
 
     # Top 50 文章
-    lines.append("### 🔥 本月 Top 50 热门文章")
+    lines.append("### 🔥 Top 50 热门文章")
     lines.append("")
 
     for i, article in enumerate(top_articles, 1):
@@ -206,20 +212,20 @@ def generate_monthly_summary() -> None:
     print("=" * 50)
     print()
 
-    # 获取本月至今日期范围
+    # 获取上个月整月日期范围
     start_date, end_date = get_last_month_range()
     year_month = datetime.strptime(start_date, "%Y-%m-%d").strftime("%Y年%m月")
-    print(f"周期: {year_month}至今 ({start_date} 至 {end_date})")
+    print(f"周期: {year_month} ({start_date} 至 {end_date})")
     print()
 
-    # 收集本月文章
-    print("步骤 1: 收集本月文章")
+    # 收集周期文章
+    print("步骤 1: 收集周期文章")
     all_articles = collect_month_articles(start_date, end_date)
     print(f"共收集 {len(all_articles)} 篇文章")
     print()
 
     if not all_articles:
-        print("⚠️  本月暂无文章数据")
+        print("⚠️  暂无文章数据")
         return
 
     # 排名文章
@@ -232,25 +238,24 @@ def generate_monthly_summary() -> None:
     print("步骤 3: 生成月报文件")
     monthly_content = generate_monthly_content(start_date, end_date, top_articles)
 
-    # 保存月报文件
+    # 保存月报文件（使用上个月 YYYY-MM）
     monthly_dir = Path("monthly")
     monthly_dir.mkdir(exist_ok=True)
 
-    # 使用年月作为文件名
     month_str = datetime.strptime(start_date, "%Y-%m-%d").strftime("%Y-%m")
     monthly_file = monthly_dir / f"month-{month_str}.md"
     monthly_file.write_text(monthly_content, encoding="utf-8")
     print(f"月报文件已保存: {monthly_file}")
     print()
 
-    # 生成README摘要（Top 10）
+    # 生成 README 摘要（Top 10）
     print("步骤 4: 更新 README")
     beijing_tz = timezone(timedelta(hours=8))
     beijing_time = datetime.now(beijing_tz)
     timestamp = beijing_time.strftime("%Y-%m-%d %H:%M:%S")
 
     summary_lines = [f"> 🕐 最后更新：{timestamp} (北京时间)", ""]
-    summary_lines.append(f"**{year_month}精选（至今）**")
+    summary_lines.append(f"**{year_month}精选**")
     summary_lines.append("")
 
     for i, article in enumerate(top_articles[:10], 1):
