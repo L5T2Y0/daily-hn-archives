@@ -81,32 +81,32 @@
 > 每月1号自动生成
 
 <!-- MONTHLY_SUMMARY_START -->
-> 🕐 最后更新：2026-05-02 19:30:55 (北京时间)
+> 🕐 最后更新：2026-05-02 20:09:56 (北京时间)
 
-**2026年05月精选（至今）**
+**2026年04月精选**
 
-1. [Can I disable all data collection from my vehicle?](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle) - 532 points, 206 comments
+1. [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - 1814 points, 573 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+2. [Zed 1.0](https://zed.dev/blog/zed-1-0) - 1578 points, 504 comments
    - 🌐 Web | 🔒 Security
-2. [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) - 466 points, 151 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
-3. [For Linux kernel vulnerabilities, there is no heads-up to distributions](https://www.openwall.com/lists/oss-security/2026/04/30/10) - 400 points, 318 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
-4. [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/) - 340 points, 116 comments
+3. [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) - 1507 points, 1080 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-5. [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo) - 320 points, 308 comments
-   - 🌐 Web | 🔒 Security
-6. [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we) - 260 points, 141 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source | 🔬 Science
-7. [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/) - 231 points, 49 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
-8. [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571) - 231 points, 258 comments
-   - 🌐 Web | 🔒 Security
-9. [Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously) - 210 points, 114 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-10. [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=47975676) - 127 points, 189 comments
-   - 🌐 Web | 💾 Database | 🔒 Security | 🚀 Startup
+4. [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) - 1373 points, 476 comments
+   - 🌐 Web | 🔒 Security | 🚀 Startup
+5. [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) - 1277 points, 216 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
+6. [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/) - 1268 points, 637 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
+7. [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) - 1175 points, 353 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+8. [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data) - 1143 points, 504 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
+9. [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/) - 1125 points, 779 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
+10. [I am building a cloud](https://crawshaw.io/blog/building-a-cloud) - 1009 points, 495 comments
+   - 🌐 Web | ⚙️ DevOps | 🔒 Security
 
-📁 **[查看完整月报](monthly/month-2026-05.md)** | Top 50 热门文章
+📁 **[查看完整月报](monthly/month-2026-04.md)** | Top 50 热门文章
 <!-- MONTHLY_SUMMARY_END -->
 
 ---
