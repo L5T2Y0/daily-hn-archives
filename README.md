@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-01 11:28:54 (北京时间)
+> 🕐 最后更新：2026-05-02 10:45:10 (北京时间)
 
-1. [OpenWarp](https://openwarp.zerx.dev) - 43 points, 38 comments
-2. [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) - 466 points, 151 comments
-3. [Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously) - 210 points, 114 comments
-4. [For Linux kernel vulnerabilities, there is no heads-up to distributions](https://www.openwall.com/lists/oss-security/2026/04/30/10) - 400 points, 318 comments
-5. [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/) - 340 points, 116 comments
-6. [Can I disable all data collection from my vehicle?](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle) - 532 points, 206 comments
-7. [CPanel and WHM Authentication Bypass – CVE-2026-41940](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/) - 57 points, 18 comments
-8. [Show HN: Winpodx – run Windows apps on Linux as native windows](https://github.com/kernalix7/winpodx) - 13 points, 2 comments
-9. [Maladaptive Frugality](https://herbertlui.net/maladaptive-frugality/) - 34 points, 13 comments
-10. [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/) - 231 points, 49 comments
+1. [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo) - 320 points, 308 comments
+2. [Artemis II Photo Timeline](https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003) - 80 points, 6 comments
+3. [Good developers learn to program. Most courses teach a language](https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language) - 36 points, 22 comments
+4. [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we) - 260 points, 141 comments
+5. [The smelly baby problem](https://www.worksinprogress.news/p/how-disposable-diapers-conquered) - 117 points, 61 comments
+6. [A Report on Burnout in Open Source Software Communities (2025) [pdf]](https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf) - 33 points, 7 comments
+7. [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=47975676) - 127 points, 189 comments
+8. [Direct electrochemical black coffee quality appraisal using cyclic voltammetry](https://www.nature.com/articles/s41467-026-71526-5) - 14 points, 3 comments
+9. [Lib0xc: A set of C standard library-adjacent APIs for safer systems programming](https://github.com/microsoft/lib0xc) - 84 points, 27 comments
+10. [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571) - 231 points, 258 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 77 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 78 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
