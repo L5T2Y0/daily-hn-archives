@@ -81,32 +81,32 @@
 > 每月1号自动生成
 
 <!-- MONTHLY_SUMMARY_START -->
-> 🕐 最后更新：2026-04-03 17:23:15 (北京时间)
+> 🕐 最后更新：2026-05-02 19:30:55 (北京时间)
 
-**2026年04月精选（至今）**
+**2026年05月精选（至今）**
 
-1. [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) - 1175 points, 353 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-2. [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) - 854 points, 347 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔧 Tools
-3. [Live: Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) - 657 points, 623 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming
-4. [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) - 472 points, 335 comments
-   - 🌐 Web | ⚙️ DevOps | 🔒 Security
-5. [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) - 448 points, 97 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
-6. [Qwen3.6-Plus: Towards real world agents](https://qwen.ai/blog?id=qwen3.6) - 433 points, 150 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-7. [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) - 337 points, 298 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🚀 Startup
-8. [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion) - 332 points, 111 comments
-   - 🌐 Web | ⚙️ DevOps | 🔒 Security | 💻 Programming
-9. [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape) - 332 points, 174 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-10. [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/) - 315 points, 248 comments
+1. [Can I disable all data collection from my vehicle?](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle) - 532 points, 206 comments
    - 🌐 Web | 🔒 Security
+2. [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) - 466 points, 151 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+3. [For Linux kernel vulnerabilities, there is no heads-up to distributions](https://www.openwall.com/lists/oss-security/2026/04/30/10) - 400 points, 318 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+4. [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/) - 340 points, 116 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+5. [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo) - 320 points, 308 comments
+   - 🌐 Web | 🔒 Security
+6. [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we) - 260 points, 141 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source | 🔬 Science
+7. [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/) - 231 points, 49 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+8. [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571) - 231 points, 258 comments
+   - 🌐 Web | 🔒 Security
+9. [Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously) - 210 points, 114 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+10. [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=47975676) - 127 points, 189 comments
+   - 🌐 Web | 💾 Database | 🔒 Security | 🚀 Startup
 
-📁 **[查看完整月报](monthly/month-2026-04.md)** | Top 50 热门文章
+📁 **[查看完整月报](monthly/month-2026-05.md)** | Top 50 热门文章
 <!-- MONTHLY_SUMMARY_END -->
 
 ---
