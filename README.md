@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-04-26 09:26:39 (北京时间)
+> 🕐 最后更新：2026-05-03 09:44:33 (北京时间)
 
-**本周热门 (2026-04-13 至 2026-04-19)**
+**本周热门 (2026-04-20 至 2026-04-26)**
 
-1. [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) - 1507 points, 1080 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-2. [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data) - 1143 points, 504 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming
-3. [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs) - 857 points, 575 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-4. [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) - 714 points, 203 comments
-   - 🌐 Web | 🔒 Security
-5. [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/) - 696 points, 372 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security | 💻 Programming
-6. [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html) - 630 points, 261 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-7. [Measuring Claude 4.7's tokenizer costs](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you) - 545 points, 377 comments
+1. [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) - 1373 points, 476 comments
+   - 🌐 Web | 🔒 Security | 🚀 Startup
+2. [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/) - 1268 points, 637 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
+3. [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/) - 1125 points, 779 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
+4. [I am building a cloud](https://crawshaw.io/blog/building-a-cloud) - 1009 points, 495 comments
+   - 🌐 Web | ⚙️ DevOps | 🔒 Security
+5. [Laws of Software Engineering](https://lawsofsoftwareengineering.com) - 847 points, 427 comments
+   - 🌐 Web | ⚙️ DevOps | 🔒 Security
+6. [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b) - 724 points, 347 comments
    - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-8. [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/) - 538 points, 163 comments
-   - 🌐 Web | 🔒 Security
-9. [Bring Back Idiomatic Design (2023)](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design) - 472 points, 244 comments
-   - 🌐 Web | 🔒 Security
-10. [God sleeps in the minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/) - 468 points, 98 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming
+7. [Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://socket.dev/blog/bitwarden-cli-compromised) - 660 points, 324 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔧 Tools
+8. [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem) - 588 points, 448 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+9. [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) - 561 points, 327 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🔧 Tools
+10. [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview) - 552 points, 286 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-04-19.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-04-26.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
