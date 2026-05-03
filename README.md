@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-02 10:45:10 (北京时间)
+> 🕐 最后更新：2026-05-03 10:58:03 (北京时间)
 
-1. [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo) - 320 points, 308 comments
-2. [Artemis II Photo Timeline](https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003) - 80 points, 6 comments
-3. [Good developers learn to program. Most courses teach a language](https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language) - 36 points, 22 comments
-4. [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we) - 260 points, 141 comments
-5. [The smelly baby problem](https://www.worksinprogress.news/p/how-disposable-diapers-conquered) - 117 points, 61 comments
-6. [A Report on Burnout in Open Source Software Communities (2025) [pdf]](https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf) - 33 points, 7 comments
-7. [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=47975676) - 127 points, 189 comments
-8. [Direct electrochemical black coffee quality appraisal using cyclic voltammetry](https://www.nature.com/articles/s41467-026-71526-5) - 14 points, 3 comments
-9. [Lib0xc: A set of C standard library-adjacent APIs for safer systems programming](https://github.com/microsoft/lib0xc) - 84 points, 27 comments
-10. [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571) - 231 points, 258 comments
+1. [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226) - 871 points, 412 comments
+2. [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/) - 68 points, 16 comments
+3. [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/) - 170 points, 26 comments
+4. [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/) - 191 points, 35 comments
+5. [Dav2d](https://code.videolan.org/videolan/dav2d) - 350 points, 112 comments
+6. [Neanderthals ran 'fat factories' 125,000 years ago (2025)](https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago) - 125 points, 30 comments
+7. [Clandestine network smuggling Starlink tech into Iran to beat internet blackout](https://www.bbc.com/news/articles/cvgzk91leweo) - 14 points, 5 comments
+8. [Do_not_track](https://donottrack.sh/) - 220 points, 70 comments
+9. [Clojurists Together – Q2 2026 Open Source Funding Announcement](https://www.clojuriststogether.org/news/q2-2026-funding-announcement/) - 42 points, 6 comments
+10. [Inventions for battery reuse and recycling increase seven-fold in last decade](https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade) - 165 points, 9 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 78 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 79 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
