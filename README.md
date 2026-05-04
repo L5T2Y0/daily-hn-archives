@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-03 10:58:03 (北京时间)
+> 🕐 最后更新：2026-05-04 10:55:18 (北京时间)
 
-1. [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226) - 871 points, 412 comments
-2. [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/) - 68 points, 16 comments
-3. [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/) - 170 points, 26 comments
-4. [Six Years Perfecting Maps on WatchOS](https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/) - 191 points, 35 comments
-5. [Dav2d](https://code.videolan.org/videolan/dav2d) - 350 points, 112 comments
-6. [Neanderthals ran 'fat factories' 125,000 years ago (2025)](https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago) - 125 points, 30 comments
-7. [Clandestine network smuggling Starlink tech into Iran to beat internet blackout](https://www.bbc.com/news/articles/cvgzk91leweo) - 14 points, 5 comments
-8. [Do_not_track](https://donottrack.sh/) - 220 points, 70 comments
-9. [Clojurists Together – Q2 2026 Open Source Funding Announcement](https://www.clojuriststogether.org/news/q2-2026-funding-announcement/) - 42 points, 6 comments
-10. [Inventions for battery reuse and recycling increase seven-fold in last decade](https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade) - 165 points, 9 comments
+1. [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135) - 269 points, 86 comments
+2. [Using "underdrawings" for accurate text and numbers](https://samcollins.blog/underdrawings/) - 46 points, 5 comments
+3. [Let's Buy Spirit Air](https://letsbuyspiritair.com/) - 168 points, 123 comments
+4. [The 'Hidden' Costs of Great Abstractions](https://jdgr.net/the-hidden-costs-of-great-abstractions) - 64 points, 16 comments
+5. [DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude) - 178 points, 83 comments
+6. [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html) - 198 points, 62 comments
+7. [Tar Files Created on macOS Display Errors When Extracting on Linux (2024)](https://aruljohn.com/blog/macos-created-tar-files-linux-errors/) - 47 points, 32 comments
+8. [US–Indian space mission maps extreme subsidence in Mexico City](https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html) - 104 points, 43 comments
+9. [A desktop made for one](https://isene.org/2026/05/Audience-of-One.html) - 245 points, 97 comments
+10. [Introduction to Atom](https://validator.w3.org/feed/docs/atom.html) - 34 points, 8 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 79 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 80 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
