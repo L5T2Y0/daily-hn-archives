@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-05 10:47:32 (北京时间)
+> 🕐 最后更新：2026-05-06 10:53:44 (北京时间)
 
-1. [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5) - 172 points, 98 comments
-2. [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/) - 301 points, 106 comments
-3. [Talking to strangers at the gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/) - 1189 points, 562 comments
-4. [Agent Skills](https://addyosmani.com/blog/agent-skills/) - 130 points, 40 comments
-5. [What I'm Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/) - 10 points, 1 comments
-6. [When Networking Doesn't Work](https://www.os2museum.com/wp/when-networking-doesnt-work/) - 10 points, 2 comments
-7. [Securing a DoD contractor: Finding a multi-tenant authorization vulnerability](https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup) - 176 points, 76 comments
-8. [Testing macOS on the Apple Network Server 2.0 ROMs](http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html) - 61 points, 11 comments
-9. [Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks](https://www.nber.org/papers/w35117) - 222 points, 215 comments
-10. [Redis array: short story of a long development process](https://antirez.com/news/164) - 245 points, 83 comments
+1. [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de) - 550 points, 264 comments
+2. [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter) - 24 points, 9 comments
+3. [Accelerating Gemma 4: faster inference with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/) - 468 points, 205 comments
+4. [Write some software, give it away for free](https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026) - 148 points, 111 comments
+5. [Three Inverse Laws of AI](https://susam.net/inverse-laws-of-robotics.html) - 375 points, 253 comments
+6. [Computer Use is 45x more expensive than structured APIs](https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/) - 328 points, 192 comments
+7. [Telus Uses AI to Alter Call-Agent Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63) - 15 points, 4 comments
+8. [EEVblog: The 555 Timer is 55 years old [video]](https://www.youtube.com/watch?v=6JhK8iCQuqI) - 239 points, 62 comments
+9. [Why most product tours get skipped](https://productonboarding.com/articles/why-product-tours-get-skipped) - 80 points, 72 comments
+10. [Wiki Builder: Skill to Build LLM Knowledge Bases](https://academy.dair.ai/blog/wiki-builder-claude-code-plugin) - 18 points, 1 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 81 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 82 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
