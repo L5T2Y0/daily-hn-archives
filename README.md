@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-07 10:54:44 (北京时间)
+> 🕐 最后更新：2026-05-08 10:56:30 (北京时间)
 
-1. [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license) - 1106 points, 366 comments
-2. [The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html) - 48 points, 25 comments
-3. [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) - 764 points, 298 comments
-4. [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/) - 429 points, 464 comments
-5. [Finding the differences in a series of power supplies](https://www.lttlabs.com/articles/2026/05/05/testing-psu-series) - 10 points, 0 comments
-6. [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth) - 213 points, 137 comments
-7. [The bottleneck was never the code](https://www.thetypicalset.com/blog/thoughts-on-coding-agents) - 525 points, 339 comments
-8. [Google Cloud fraud defense, the next evolution of reCAPTCHA](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/) - 221 points, 216 comments
-9. [Permacomputing Principles](https://permacomputing.net/principles/) - 5 points, 0 comments
-10. [How do I inform Windows that I'm writing a binary file?](https://devblogs.microsoft.com/oldnewthing/20260504-00/?p=112296) - 26 points, 25 comments
+1. [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach) - 296 points, 200 comments
+2. [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/) - 185 points, 84 comments
+3. [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8) - 452 points, 198 comments
+4. [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/) - 550 points, 289 comments
+5. [The Disappearance of the Public Bench](https://placesjournal.org/article/the-disappearance-of-the-public-bench/) - 51 points, 34 comments
+6. [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/) - 349 points, 185 comments
+7. [Researchers discover advanced language processing in the unconscious human brain](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain) - 53 points, 19 comments
+8. [Building for the Future](https://blog.cloudflare.com/building-for-the-future/) - 287 points, 166 comments
+9. [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up) - 24 points, 8 comments
+10. [Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders) - 208 points, 69 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 83 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 84 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
