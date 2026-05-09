@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-08 10:56:30 (北京时间)
+> 🕐 最后更新：2026-05-09 10:52:10 (北京时间)
 
-1. [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach) - 296 points, 200 comments
-2. [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/) - 185 points, 84 comments
-3. [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8) - 452 points, 198 comments
-4. [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/) - 550 points, 289 comments
-5. [The Disappearance of the Public Bench](https://placesjournal.org/article/the-disappearance-of-the-public-bench/) - 51 points, 34 comments
-6. [Agents need control flow, not more prompts](https://bsuh.bearblog.dev/agents-need-control-flow/) - 349 points, 185 comments
-7. [Researchers discover advanced language processing in the unconscious human brain](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain) - 53 points, 19 comments
-8. [Building for the Future](https://blog.cloudflare.com/building-for-the-future/) - 287 points, 166 comments
-9. [GNU IFUNC is the real culprit behind CVE-2024-3094](https://github.com/robertdfrench/ifuncd-up) - 24 points, 8 comments
-10. [Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders) - 208 points, 69 comments
+1. [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) - 674 points, 241 comments
+2. [OpenAI's WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/) - 144 points, 33 comments
+3. [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures) - 261 points, 113 comments
+4. [The React2Shell Story](https://lachlan.nz/blog/the-react2shell-story/) - 59 points, 5 comments
+5. [Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)](https://www.wiisfi.com/) - 103 points, 40 comments
+6. [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games) - 291 points, 98 comments
+7. [David Attenborough's 100th Birthday](https://www.bbc.com/news/articles/cp3pww9g0p5o) - 468 points, 96 comments
+8. [AWS North Virginia data center outage – recovery to take hours](https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html) - 145 points, 94 comments
+9. [Bitter Lessons from the ISSpresso](https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso) - 22 points, 4 comments
+10. [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html) - 145 points, 88 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 84 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 85 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
