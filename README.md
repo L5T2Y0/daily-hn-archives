@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-05-03 09:44:33 (北京时间)
+> 🕐 最后更新：2026-05-10 09:48:06 (北京时间)
 
-**本周热门 (2026-04-20 至 2026-04-26)**
+**本周热门 (2026-04-27 至 2026-05-03)**
 
-1. [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) - 1373 points, 476 comments
-   - 🌐 Web | 🔒 Security | 🚀 Startup
-2. [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/) - 1268 points, 637 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
-3. [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/) - 1125 points, 779 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-4. [I am building a cloud](https://crawshaw.io/blog/building-a-cloud) - 1009 points, 495 comments
-   - 🌐 Web | ⚙️ DevOps | 🔒 Security
-5. [Laws of Software Engineering](https://lawsofsoftwareengineering.com) - 847 points, 427 comments
-   - 🌐 Web | ⚙️ DevOps | 🔒 Security
-6. [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b) - 724 points, 347 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-7. [Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://socket.dev/blog/bitwarden-cli-compromised) - 660 points, 324 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔧 Tools
-8. [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem) - 588 points, 448 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-9. [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) - 561 points, 327 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🔧 Tools
-10. [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview) - 552 points, 286 comments
+1. [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - 1814 points, 573 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+2. [Zed 1.0](https://zed.dev/blog/zed-1-0) - 1578 points, 504 comments
+   - 🌐 Web | 🔒 Security
+3. [HERMES.md in commit messages causes requests to route to extra usage billing](https://github.com/anthropics/claude-code/issues/53262) - 1001 points, 428 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source
+4. [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226) - 871 points, 412 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source | 🔧 Tools
+5. [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai) - 771 points, 671 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
+6. [Cursor Camp](https://neal.fun/cursor-camp/) - 691 points, 111 comments
+   - 🌐 Web | 🔒 Security
+7. [Copy Fail](https://copy.fail/) - 644 points, 275 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+8. [Can I disable all data collection from my vehicle?](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle) - 532 points, 206 comments
+   - 🌐 Web | 🔒 Security
+9. [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) - 466 points, 151 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+10. [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d) - 453 points, 248 comments
+   - 🌐 Web | 💾 Database | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-04-26.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-05-03.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
