@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-09 10:52:10 (北京时间)
+> 🕐 最后更新：2026-05-10 11:22:55 (北京时间)
 
-1. [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) - 674 points, 241 comments
-2. [OpenAI's WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/) - 144 points, 33 comments
-3. [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures) - 261 points, 113 comments
-4. [The React2Shell Story](https://lachlan.nz/blog/the-react2shell-story/) - 59 points, 5 comments
-5. [Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)](https://www.wiisfi.com/) - 103 points, 40 comments
-6. [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games) - 291 points, 98 comments
-7. [David Attenborough's 100th Birthday](https://www.bbc.com/news/articles/cp3pww9g0p5o) - 468 points, 96 comments
-8. [AWS North Virginia data center outage – recovery to take hours](https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html) - 145 points, 94 comments
-9. [Bitter Lessons from the ISSpresso](https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso) - 22 points, 4 comments
-10. [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html) - 145 points, 88 comments
+1. [Show HN: Building a web server in assembly to give my life (a lack of) meaning](https://imtomt.github.io/ymawky/) - 18 points, 3 comments
+2. [Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310) - 450 points, 435 comments
+3. [Internet Archive Switzerland](https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/) - 556 points, 84 comments
+4. [I’ve banned query strings](https://chrismorgan.info/no-query-strings) - 293 points, 171 comments
+5. [Show HN: Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp) - 95 points, 49 comments
+6. [Casio S100X Japanese Lacquer Edition (JP Page Only)](https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/) - 9 points, 4 comments
+7. [I'm writing a history of Visual Basic, Chapter 1 is up](https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch) - 44 points, 12 comments
+8. [Local privilege escalation via execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc) - 99 points, 59 comments
+9. [Zed Editor Theme-Builder](https://zed.dev/theme-builder) - 171 points, 47 comments
+10. [The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962](https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html) - 35 points, 1 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 85 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 86 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
