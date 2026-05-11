@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-10 11:22:55 (北京时间)
+> 🕐 最后更新：2026-05-11 11:35:39 (北京时间)
 
-1. [Show HN: Building a web server in assembly to give my life (a lack of) meaning](https://imtomt.github.io/ymawky/) - 18 points, 3 comments
-2. [Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310) - 450 points, 435 comments
-3. [Internet Archive Switzerland](https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/) - 556 points, 84 comments
-4. [I’ve banned query strings](https://chrismorgan.info/no-query-strings) - 293 points, 171 comments
-5. [Show HN: Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp) - 95 points, 49 comments
-6. [Casio S100X Japanese Lacquer Edition (JP Page Only)](https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/) - 9 points, 4 comments
-7. [I'm writing a history of Visual Basic, Chapter 1 is up](https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch) - 44 points, 12 comments
-8. [Local privilege escalation via execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc) - 99 points, 59 comments
-9. [Zed Editor Theme-Builder](https://zed.dev/theme-builder) - 171 points, 47 comments
-10. [The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962](https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html) - 35 points, 1 comments
+1. [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) - 1011 points, 365 comments
+2. [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/) - 698 points, 333 comments
+3. [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/) - 108 points, 44 comments
+4. [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4) - 153 points, 59 comments
+5. [The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html) - 22 points, 3 comments
+6. [Obsidian plugin was abused to deploy a remote access trojan](https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/) - 107 points, 58 comments
+7. [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html) - 432 points, 108 comments
+8. [An AI coding agent, used to write code, needs to reduce your maintenance costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs) - 66 points, 10 comments
+9. [Ask HN: What are you working on? (May 2026)](https://news.ycombinator.com/item?id=48085993) - 147 points, 507 comments
+10. [First tunnel element of the Fehmarnbelt Tunnel immersed](https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/) - 57 points, 13 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 86 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 87 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
