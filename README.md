@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-11 11:35:39 (北京时间)
+> 🕐 最后更新：2026-05-12 11:22:38 (北京时间)
 
-1. [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) - 1011 points, 365 comments
-2. [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/) - 698 points, 333 comments
-3. [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/) - 108 points, 44 comments
-4. [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4) - 153 points, 59 comments
-5. [The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html) - 22 points, 3 comments
-6. [Obsidian plugin was abused to deploy a remote access trojan](https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/) - 107 points, 58 comments
-7. [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html) - 432 points, 108 comments
-8. [An AI coding agent, used to write code, needs to reduce your maintenance costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs) - 66 points, 10 comments
-9. [Ask HN: What are you working on? (May 2026)](https://news.ycombinator.com/item?id=48085993) - 147 points, 507 comments
-10. [First tunnel element of the Fehmarnbelt Tunnel immersed](https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/) - 57 points, 13 comments
+1. [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem) - 591 points, 220 comments
+2. [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws) - 37 points, 19 comments
+3. [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055) - 225 points, 242 comments
+4. [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage) - 259 points, 51 comments
+5. [Show HN: A modern Music Player Daemon based on Rockbox firmware](https://github.com/tsirysndr/rockbox-zig) - 28 points, 2 comments
+6. [They Live (1988) inspired Adblocker](https://github.com/davmlaw/they_live_adblocker) - 22 points, 1 comments
+7. [I let AI build a tool to help me figure out what was waking me up at night](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/) - 88 points, 101 comments
+8. [Library for fast mapping of Java records to native memory](https://github.com/mamba-studio/TypedMemory) - 115 points, 25 comments
+9. [Software Internals Book Club](https://eatonphil.com/bookclub.html) - 4 points, 0 comments
+10. [Nullsoft, 1997-2004 (2004)](https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html) - 238 points, 72 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 87 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 88 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
