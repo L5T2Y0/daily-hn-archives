@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-12 11:22:38 (北京时间)
+> 🕐 最后更新：2026-05-13 11:30:19 (北京时间)
 
-1. [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem) - 591 points, 220 comments
-2. [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws) - 37 points, 19 comments
-3. [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055) - 225 points, 242 comments
-4. [UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage) - 259 points, 51 comments
-5. [Show HN: A modern Music Player Daemon based on Rockbox firmware](https://github.com/tsirysndr/rockbox-zig) - 28 points, 2 comments
-6. [They Live (1988) inspired Adblocker](https://github.com/davmlaw/they_live_adblocker) - 22 points, 1 comments
-7. [I let AI build a tool to help me figure out what was waking me up at night](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/) - 88 points, 101 comments
-8. [Library for fast mapping of Java records to native memory](https://github.com/mamba-studio/TypedMemory) - 115 points, 25 comments
-9. [Software Internals Book Club](https://eatonphil.com/bookclub.html) - 4 points, 0 comments
-10. [Nullsoft, 1997-2004 (2004)](https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html) - 238 points, 72 comments
+1. [Starship V3](https://www.spacex.com/updates#starship-v3) - 102 points, 30 comments
+2. [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) - 235 points, 94 comments
+3. [Googlebook](https://googlebook.google/) - 647 points, 1090 comments
+4. [My graduation cap runs Rust](https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/) - 86 points, 23 comments
+5. [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem) - 81 points, 25 comments
+6. [How to make your text look futuristic (2016)](https://typesetinthefuture.com/2016/02/18/futuristic/) - 237 points, 29 comments
+7. [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle) - 311 points, 113 comments
+8. [CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html) - 254 points, 119 comments
+9. [Why senior developers fail to communicate their expertise](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise) - 420 points, 189 comments
+10. [Tell NYT, Atlantic, USA Today to keep Wayback Machine](https://www.savethearchive.com/newsleaders/) - 205 points, 49 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 88 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 89 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
