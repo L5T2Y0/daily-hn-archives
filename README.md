@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-14 11:30:20 (北京时间)
+> 🕐 最后更新：2026-05-15 11:33:43 (北京时间)
 
-1. [Scorched Earth 2000 is back](http://www.scorch2000.com/web/) - 135 points, 48 comments
-2. [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/) - 576 points, 377 comments
-3. [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/) - 517 points, 164 comments
-4. [Cisco Workforce Reductions](https://blogs.cisco.com/news/our-path-forward) - 23 points, 10 comments
-5. [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google) - 305 points, 219 comments
-6. [Chess puzzle I found in my dad's old book](https://ardoedo.it/kempelen/) - 111 points, 30 comments
-7. [The Emacsification of Software](https://sockpuppet.org/blog/2026/05/12/emacsification/) - 215 points, 153 comments
-8. [Princeton mandates proctoring for in-person exams, upending 133 year precedent](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent) - 276 points, 380 comments
-9. [Twin brothers wipe 96 government databases minutes after being fired](https://arstechnica.com/tech-policy/2026/05/drop-database-what-not-to-do-after-losing-an-it-job/) - 333 points, 247 comments
-10. [Marco Polo: Finding a friend with only distance and motion](https://www.jackhogan.me/blog/marco-polo) - 47 points, 6 comments
+1. [Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/) - 70 points, 11 comments
+2. [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) - 671 points, 391 comments
+3. [A few words on DS4](https://antirez.com/news/165) - 194 points, 60 comments
+4. [First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption) - 288 points, 54 comments
+5. [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/) - 506 points, 139 comments
+6. [Codex is now in the ChatGPT mobile app](https://openai.com/index/work-with-codex-from-anywhere/) - 217 points, 106 comments
+7. [New Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift) - 311 points, 67 comments
+8. [Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet](https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing) - 71 points, 27 comments
+9. [RISC-V Router](https://router.start9.com/) - 86 points, 50 comments
+10. [UFerris a Versatile Learner Board for Rust Embedded Beginners](https://www.theembeddedrustacean.com/uferris) - 12 points, 1 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 90 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 91 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
