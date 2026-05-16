@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-15 11:33:43 (北京时间)
+> 🕐 最后更新：2026-05-16 10:56:27 (北京时间)
 
-1. [Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/) - 70 points, 11 comments
-2. [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) - 671 points, 391 comments
-3. [A few words on DS4](https://antirez.com/news/165) - 194 points, 60 comments
-4. [First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption) - 288 points, 54 comments
-5. [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/) - 506 points, 139 comments
-6. [Codex is now in the ChatGPT mobile app](https://openai.com/index/work-with-codex-from-anywhere/) - 217 points, 106 comments
-7. [New Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift) - 311 points, 67 comments
-8. [Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet](https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing) - 71 points, 27 comments
-9. [RISC-V Router](https://router.start9.com/) - 86 points, 50 comments
-10. [UFerris a Versatile Learner Board for Rust Embedded Beginners](https://www.theembeddedrustacean.com/uferris) - 12 points, 1 comments
+1. [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) - 742 points, 178 comments
+2. [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578) - 877 points, 383 comments
+3. [The bird eye was pushed to an evolutionary extreme](https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/) - 30 points, 2 comments
+4. [Naturally Occurring Quasicrystals](https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/) - 66 points, 5 comments
+5. [Additive Blending on the Nintendo 64](https://phoboslab.org/log/2026/05/n64-additive-blending) - 30 points, 3 comments
+6. [The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/) - 57 points, 46 comments
+7. [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf) - 56 points, 6 comments
+8. [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html) - 345 points, 158 comments
+9. [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/) - 19 points, 6 comments
+10. [California bill would require patches or refunds when online games shut down](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/) - 359 points, 214 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 91 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 92 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
