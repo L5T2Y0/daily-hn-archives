@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-05-10 09:48:06 (北京时间)
+> 🕐 最后更新：2026-05-17 09:53:44 (北京时间)
 
-**本周热门 (2026-04-27 至 2026-05-03)**
+**本周热门 (2026-05-04 至 2026-05-10)**
 
-1. [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - 1814 points, 573 comments
+1. [Talking to strangers at the gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/) - 1189 points, 562 comments
+   - 🌐 Web | 🔒 Security
+2. [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license) - 1106 points, 366 comments
    - 🌐 Web | 🔒 Security | 📂 Open Source
-2. [Zed 1.0](https://zed.dev/blog/zed-1-0) - 1578 points, 504 comments
+3. [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) - 764 points, 298 comments
+   - 🌐 Web | 🔒 Security | 📱 Mobile
+4. [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) - 674 points, 241 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 📱 Mobile
+5. [Internet Archive Switzerland](https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/) - 556 points, 84 comments
    - 🌐 Web | 🔒 Security
-3. [HERMES.md in commit messages causes requests to route to extra usage billing](https://github.com/anthropics/claude-code/issues/53262) - 1001 points, 428 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source
-4. [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226) - 871 points, 412 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source | 🔧 Tools
-5. [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai) - 771 points, 671 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-6. [Cursor Camp](https://neal.fun/cursor-camp/) - 691 points, 111 comments
+6. [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de) - 550 points, 264 comments
    - 🌐 Web | 🔒 Security
-7. [Copy Fail](https://copy.fail/) - 644 points, 275 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-8. [Can I disable all data collection from my vehicle?](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle) - 532 points, 206 comments
+7. [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/) - 550 points, 289 comments
    - 🌐 Web | 🔒 Security
-9. [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) - 466 points, 151 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
-10. [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d) - 453 points, 248 comments
-   - 🌐 Web | 💾 Database | 🔒 Security
+8. [The bottleneck was never the code](https://www.thetypicalset.com/blog/thoughts-on-coding-agents) - 525 points, 339 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
+9. [Accelerating Gemma 4: faster inference with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/) - 468 points, 205 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔧 Tools
+10. [David Attenborough's 100th Birthday](https://www.bbc.com/news/articles/cp3pww9g0p5o) - 468 points, 96 comments
+   - 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-05-03.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-05-10.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
