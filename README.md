@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-16 10:56:27 (北京时间)
+> 🕐 最后更新：2026-05-17 11:30:55 (北京时间)
 
-1. [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) - 742 points, 178 comments
-2. [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578) - 877 points, 383 comments
-3. [The bird eye was pushed to an evolutionary extreme](https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/) - 30 points, 2 comments
-4. [Naturally Occurring Quasicrystals](https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/) - 66 points, 5 comments
-5. [Additive Blending on the Nintendo 64](https://phoboslab.org/log/2026/05/n64-additive-blending) - 30 points, 3 comments
-6. [The main thing about P2P meth is that there's so much of it (2021)](https://dynomight.net/p2p-meth/) - 57 points, 46 comments
-7. [How to Write to SSDs [pdf]](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf) - 56 points, 6 comments
-8. [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html) - 345 points, 158 comments
-9. [Show HN: Epiq – Distributed Git based issue tracker TUI](https://ljtn.github.io/epiq/) - 19 points, 6 comments
-10. [California bill would require patches or refunds when online games shut down](https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/) - 359 points, 214 comments
+1. [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0) - 207 points, 64 comments
+2. [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/) - 40 points, 1 comments
+3. [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock) - 85 points, 14 comments
+4. [Unknowable Math Can Help Hide Secrets](https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/) - 23 points, 2 comments
+5. [OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/) - 100 points, 86 comments
+6. [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page) - 63 points, 24 comments
+7. [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/) - 310 points, 128 comments
+8. [Stochastic Parrots: Frequently Unasked Questions](https://medium.com/@emilymenonbender/stochastic-parrots-frequently-unasked-questions-49c2e7d22d11) - 42 points, 34 comments
+9. [A molecule with half-Möbius topology](https://www.science.org/doi/10.1126/science.aea3321) - 74 points, 1 comments
+10. [Self-Distillation Enables Continual Learning [pdf]](https://arxiv.org/abs/2601.19897) - 11 points, 2 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 92 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 93 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
