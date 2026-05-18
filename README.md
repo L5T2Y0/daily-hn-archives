@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-17 11:30:55 (北京时间)
+> 🕐 最后更新：2026-05-18 11:43:17 (北京时间)
 
-1. [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0) - 207 points, 64 comments
-2. [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/) - 40 points, 1 comments
-3. [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock) - 85 points, 14 comments
-4. [Unknowable Math Can Help Hide Secrets](https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/) - 23 points, 2 comments
-5. [OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/) - 100 points, 86 comments
-6. [MCP Hello Page](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page) - 63 points, 24 comments
-7. [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/) - 310 points, 128 comments
-8. [Stochastic Parrots: Frequently Unasked Questions](https://medium.com/@emilymenonbender/stochastic-parrots-frequently-unasked-questions-49c2e7d22d11) - 42 points, 34 comments
-9. [A molecule with half-Möbius topology](https://www.science.org/doi/10.1126/science.aea3321) - 74 points, 1 comments
-10. [Self-Distillation Enables Continual Learning [pdf]](https://arxiv.org/abs/2601.19897) - 11 points, 2 comments
+1. [GenCAD](https://gencad.github.io/) - 153 points, 34 comments
+2. [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) - 276 points, 126 comments
+3. [Ask an Astronaut: 333 hours of Q&A footage with astronauts](https://askanastronaut.issinrealtime.org/) - 58 points, 8 comments
+4. [There Is No 'Hard Problem of Consciousness'](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/) - 16 points, 12 comments
+5. [Prolog Coding Horror](https://www.metalevel.at/prolog/horror) - 69 points, 25 comments
+6. [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base) - 129 points, 108 comments
+7. [A Good Lemma Is Worth a Thousand Theorems (2007)](https://sites.math.rutgers.edu/~zeilberg/Opinion82.html) - 19 points, 3 comments
+8. [Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep](https://github.com/MinishLab/semble) - 202 points, 50 comments
+9. [Most Americans don't trust AI – or the people in charge of it](https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai) - 31 points, 7 comments
+10. [Magical Realism: “Northern Exposure” 25 Years Later (2015)](https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later) - 82 points, 35 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 93 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 94 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
