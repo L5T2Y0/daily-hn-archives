@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-18 11:43:17 (北京时间)
+> 🕐 最后更新：2026-05-19 11:37:04 (北京时间)
 
-1. [GenCAD](https://gencad.github.io/) - 153 points, 34 comments
-2. [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) - 276 points, 126 comments
-3. [Ask an Astronaut: 333 hours of Q&A footage with astronauts](https://askanastronaut.issinrealtime.org/) - 58 points, 8 comments
-4. [There Is No 'Hard Problem of Consciousness'](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/) - 16 points, 12 comments
-5. [Prolog Coding Horror](https://www.metalevel.at/prolog/horror) - 69 points, 25 comments
-6. [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base) - 129 points, 108 comments
-7. [A Good Lemma Is Worth a Thousand Theorems (2007)](https://sites.math.rutgers.edu/~zeilberg/Opinion82.html) - 19 points, 3 comments
-8. [Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep](https://github.com/MinishLab/semble) - 202 points, 50 comments
-9. [Most Americans don't trust AI – or the people in charge of it](https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai) - 31 points, 7 comments
-10. [Magical Realism: “Northern Exposure” 25 Years Later (2015)](https://www.rogerebert.com/streaming/magical-realism-nothern-exposure-25-years-later) - 82 points, 35 comments
+1. [Peter Salus has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html) - 30 points, 1 comments
+2. [Click (2016)](https://clickclickclick.click/) - 224 points, 53 comments
+3. [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/) - 41 points, 7 comments
+4. [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless) - 383 points, 261 comments
+5. [Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html) - 39 points, 4 comments
+6. [Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html) - 136 points, 83 comments
+7. [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai) - 433 points, 195 comments
+8. [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp) - 139 points, 29 comments
+9. [The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden) - 563 points, 259 comments
+10. [We let AIs run radio stations](https://andonlabs.com/blog/andon-fm) - 193 points, 175 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 94 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 95 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
