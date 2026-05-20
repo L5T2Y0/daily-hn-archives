@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-19 11:37:04 (北京时间)
+> 🕐 最后更新：2026-05-20 11:37:33 (北京时间)
 
-1. [Peter Salus has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html) - 30 points, 1 comments
-2. [Click (2016)](https://clickclickclick.click/) - 224 points, 53 comments
-3. [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/) - 41 points, 7 comments
-4. [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless) - 383 points, 261 comments
-5. [Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html) - 39 points, 4 comments
-6. [Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25](https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html) - 136 points, 83 comments
-7. [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai) - 433 points, 195 comments
-8. [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp) - 139 points, 29 comments
-9. [The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden) - 563 points, 259 comments
-10. [We let AIs run radio stations](https://andonlabs.com/blog/andon-fm) - 193 points, 175 comments
+1. [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519) - 253 points, 103 comments
+2. [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) - 631 points, 471 comments
+3. [Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/) - 40 points, 10 comments
+4. [I’ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/) - 634 points, 148 comments
+5. [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/) - 410 points, 582 comments
+6. [Remove–AI–Watermarks – CLI and library for removing AI watermarks from images](https://github.com/wiltodelta/remove-ai-watermarks) - 148 points, 94 comments
+7. [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/) - 218 points, 121 comments
+8. [Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks](https://github.com/antoinezambelli/forge) - 319 points, 118 comments
+9. [The Mercury logic programming system](https://github.com/Mercury-Language/mercury) - 39 points, 4 comments
+10. [Mistral AI acquires Emmi AI](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai) - 187 points, 49 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 95 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 96 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
