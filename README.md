@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-20 11:37:33 (北京时间)
+> 🕐 最后更新：2026-05-21 11:46:23 (北京时间)
 
-1. [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519) - 253 points, 103 comments
-2. [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) - 631 points, 471 comments
-3. [Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/) - 40 points, 10 comments
-4. [I’ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/) - 634 points, 148 comments
-5. [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/) - 410 points, 582 comments
-6. [Remove–AI–Watermarks – CLI and library for removing AI watermarks from images](https://github.com/wiltodelta/remove-ai-watermarks) - 148 points, 94 comments
-7. [OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/) - 218 points, 121 comments
-8. [Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks](https://github.com/antoinezambelli/forge) - 319 points, 118 comments
-9. [The Mercury logic programming system](https://github.com/Mercury-Language/mercury) - 39 points, 4 comments
-10. [Mistral AI acquires Emmi AI](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai) - 187 points, 49 comments
+1. [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) - 827 points, 619 comments
+2. [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/) - 601 points, 220 comments
+3. [Show HN: I reverse engineered Apple's video wallpapers](https://github.com/kageroumado/phosphene) - 112 points, 31 comments
+4. [DOS Zone](https://dos.zone/) - 131 points, 27 comments
+5. [The Letter S, by Donald Knuth (1980) [pdf]](https://gwern.net/doc/design/typography/1980-knuth.pdf) - 68 points, 6 comments
+6. [Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects](https://legiscan.com/CO/bill/SB051/2026) - 155 points, 46 comments
+7. [Flipper One Tech Specs](https://docs.flipper.net/one/general/tech-specs) - 289 points, 104 comments
+8. [Your Most Improbable Life](https://kevinkelly.substack.com/p/your-most-improbable-life) - 57 points, 27 comments
+9. [Haskell Foundation 2026 Update](https://discourse.haskell.org/t/haskell-foundation-2026-update/14136) - 14 points, 3 comments
+10. [How fast is N tokens per second really?](https://mikeveerman.github.io/tokenspeed/) - 326 points, 77 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 96 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 97 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
