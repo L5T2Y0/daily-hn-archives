@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-21 11:46:23 (北京时间)
+> 🕐 最后更新：2026-05-22 11:42:16 (北京时间)
 
-1. [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) - 827 points, 619 comments
-2. [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/) - 601 points, 220 comments
-3. [Show HN: I reverse engineered Apple's video wallpapers](https://github.com/kageroumado/phosphene) - 112 points, 31 comments
-4. [DOS Zone](https://dos.zone/) - 131 points, 27 comments
-5. [The Letter S, by Donald Knuth (1980) [pdf]](https://gwern.net/doc/design/typography/1980-knuth.pdf) - 68 points, 6 comments
-6. [Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects](https://legiscan.com/CO/bill/SB051/2026) - 155 points, 46 comments
-7. [Flipper One Tech Specs](https://docs.flipper.net/one/general/tech-specs) - 289 points, 104 comments
-8. [Your Most Improbable Life](https://kevinkelly.substack.com/p/your-most-improbable-life) - 57 points, 27 comments
-9. [Haskell Foundation 2026 Update](https://discourse.haskell.org/t/haskell-foundation-2026-update/14136) - 14 points, 3 comments
-10. [How fast is N tokens per second really?](https://mikeveerman.github.io/tokenspeed/) - 326 points, 77 comments
+1. [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) - 647 points, 150 comments
+2. [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/) - 195 points, 100 comments
+3. [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/) - 153 points, 36 comments
+4. [The Death of the Brick and Mortar Toy Store](https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/) - 36 points, 25 comments
+5. [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/) - 102 points, 60 comments
+6. [Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/) - 328 points, 242 comments
+7. [The IBM-ification of Google?](https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/) - 111 points, 99 comments
+8. [Samsung chip workers will get an average $340k bonus as AI profits soar](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126) - 73 points, 19 comments
+9. [Show HN: Freenet, a peer-to-peer platform for decentralized apps](https://freenet.org/) - 221 points, 120 comments
+10. [Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)](https://blog.simbastack.com/indexed-a-year-of-video-locally/) - 311 points, 95 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 97 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 98 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
