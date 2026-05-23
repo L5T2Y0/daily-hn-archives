@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-22 11:42:16 (北京时间)
+> 🕐 最后更新：2026-05-23 11:20:40 (北京时间)
 
-1. [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) - 647 points, 150 comments
-2. [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/) - 195 points, 100 comments
-3. [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/) - 153 points, 36 comments
-4. [The Death of the Brick and Mortar Toy Store](https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/) - 36 points, 25 comments
-5. [Uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/) - 102 points, 60 comments
-6. [Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/) - 328 points, 242 comments
-7. [The IBM-ification of Google?](https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/) - 111 points, 99 comments
-8. [Samsung chip workers will get an average $340k bonus as AI profits soar](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126) - 73 points, 19 comments
-9. [Show HN: Freenet, a peer-to-peer platform for decentralized apps](https://freenet.org/) - 221 points, 120 comments
-10. [Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)](https://blog.simbastack.com/indexed-a-year-of-video-locally/) - 311 points, 95 comments
+1. [Is AI Profitable Yet?](https://isaiprofitable.com/) - 102 points, 51 comments
+2. [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) - 239 points, 71 comments
+3. [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) - 541 points, 286 comments
+4. [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update) - 343 points, 216 comments
+5. [Neutron scattering explains why gluten-free pasta falls apart (2025)](https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html) - 16 points, 2 comments
+6. [Blood Pumping Mechanism of the Hoof](https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/) - 42 points, 0 comments
+7. [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug) - 81 points, 56 comments
+8. [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/) - 180 points, 104 comments
+9. [Comparing an LZ4 Decompressor on Four Legacy CPUs](https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/) - 37 points, 1 comments
+10. [SpaceX launches Starship v3 rocket](https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505) - 181 points, 78 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 98 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 99 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
