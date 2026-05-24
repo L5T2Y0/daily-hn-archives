@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-23 11:20:40 (北京时间)
+> 🕐 最后更新：2026-05-24 11:39:29 (北京时间)
 
-1. [Is AI Profitable Yet?](https://isaiprofitable.com/) - 102 points, 51 comments
-2. [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) - 239 points, 71 comments
-3. [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) - 541 points, 286 comments
-4. [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update) - 343 points, 216 comments
-5. [Neutron scattering explains why gluten-free pasta falls apart (2025)](https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html) - 16 points, 2 comments
-6. [Blood Pumping Mechanism of the Hoof](https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/) - 42 points, 0 comments
-7. [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug) - 81 points, 56 comments
-8. [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/) - 180 points, 104 comments
-9. [Comparing an LZ4 Decompressor on Four Legacy CPUs](https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/) - 37 points, 1 comments
-10. [SpaceX launches Starship v3 rocket](https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505) - 181 points, 78 comments
+1. [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/) - 76 points, 20 comments
+2. [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/) - 53 points, 8 comments
+3. [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html) - 81 points, 6 comments
+4. [Time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/) - 315 points, 177 comments
+5. [Green card seekers must leave U.S. to apply, Trump administration says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html) - 656 points, 1124 comments
+6. [On The <dl> (2021)](https://benmyers.dev/blog/on-the-dl/) - 367 points, 108 comments
+7. [My two-part desk setup (2025)](https://arslan.io/2025/11/18/my-two-part-desk-setup/) - 237 points, 136 comments
+8. [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html) - 39 points, 7 comments
+9. [Sales and Dungeons: Thermal printer TTRPG utility](https://sales-and-dungeons.app/) - 62 points, 19 comments
+10. [Judson's Last Ride](https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html) - 60 points, 2 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 99 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 100 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
