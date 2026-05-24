@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-05-17 09:53:44 (北京时间)
+> 🕐 最后更新：2026-05-24 10:00:36 (北京时间)
 
-**本周热门 (2026-05-04 至 2026-05-10)**
+**本周热门 (2026-05-11 至 2026-05-17)**
 
-1. [Talking to strangers at the gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/) - 1189 points, 562 comments
+1. [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) - 1011 points, 365 comments
    - 🌐 Web | 🔒 Security
-2. [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license) - 1106 points, 366 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
-3. [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) - 764 points, 298 comments
-   - 🌐 Web | 🔒 Security | 📱 Mobile
-4. [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) - 674 points, 241 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 📱 Mobile
-5. [Internet Archive Switzerland](https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/) - 556 points, 84 comments
+2. [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578) - 877 points, 383 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
+3. [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) - 742 points, 178 comments
    - 🌐 Web | 🔒 Security
-6. [.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de) - 550 points, 264 comments
+4. [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/) - 698 points, 333 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+5. [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) - 671 points, 391 comments
    - 🌐 Web | 🔒 Security
-7. [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/) - 550 points, 289 comments
-   - 🌐 Web | 🔒 Security
-8. [The bottleneck was never the code](https://www.thetypicalset.com/blog/thoughts-on-coding-agents) - 525 points, 339 comments
+6. [Googlebook](https://googlebook.google/) - 647 points, 1090 comments
    - 🌐 Web | 🔒 Security | 💻 Programming
-9. [Accelerating Gemma 4: faster inference with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/) - 468 points, 205 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔧 Tools
-10. [David Attenborough's 100th Birthday](https://www.bbc.com/news/articles/cp3pww9g0p5o) - 468 points, 96 comments
+7. [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem) - 591 points, 220 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+8. [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/) - 576 points, 377 comments
    - 🌐 Web | 🔒 Security
+9. [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/) - 517 points, 164 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🔧 Tools
+10. [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/) - 506 points, 139 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-05-10.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-05-17.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
