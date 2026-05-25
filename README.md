@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-24 11:39:29 (北京时间)
+> 🕐 最后更新：2026-05-25 11:54:01 (北京时间)
 
-1. [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/) - 76 points, 20 comments
-2. [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/) - 53 points, 8 comments
-3. [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html) - 81 points, 6 comments
-4. [Time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/) - 315 points, 177 comments
-5. [Green card seekers must leave U.S. to apply, Trump administration says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html) - 656 points, 1124 comments
-6. [On The <dl> (2021)](https://benmyers.dev/blog/on-the-dl/) - 367 points, 108 comments
-7. [My two-part desk setup (2025)](https://arslan.io/2025/11/18/my-two-part-desk-setup/) - 237 points, 136 comments
-8. [My I3-Emacs Integration](https://khz.ac/software/i3-integration.html) - 39 points, 7 comments
-9. [Sales and Dungeons: Thermal printer TTRPG utility](https://sales-and-dungeons.app/) - 62 points, 19 comments
-10. [Judson's Last Ride](https://www.realclearpolitics.com/articles/2026/05/22/judsons_last_ride_154150.html) - 60 points, 2 comments
+1. [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1) - 219 points, 50 comments
+2. [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/) - 472 points, 204 comments
+3. [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/) - 153 points, 154 comments
+4. [White Rabbit – sub-nanosecond synchronization for large distributed systems](https://ohwr.org/projects/white-rabbit/) - 28 points, 6 comments
+5. [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/) - 97 points, 56 comments
+6. [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares) - 328 points, 353 comments
+7. [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html) - 465 points, 77 comments
+8. [Bug 1950764: Work Around Crash on Intel Raptor Lake CPU](https://phabricator.services.mozilla.com/D301917) - 20 points, 4 comments
+9. [Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445) - 189 points, 101 comments
+10. [Using HTTP/2 Cleartext for a server in Go 1.24](https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run) - 71 points, 6 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 100 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 101 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
