@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-25 11:54:01 (北京时间)
+> 🕐 最后更新：2026-05-26 11:36:46 (北京时间)
 
-1. [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1) - 219 points, 50 comments
-2. [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/) - 472 points, 204 comments
-3. [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/) - 153 points, 154 comments
-4. [White Rabbit – sub-nanosecond synchronization for large distributed systems](https://ohwr.org/projects/white-rabbit/) - 28 points, 6 comments
-5. [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/) - 97 points, 56 comments
-6. [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares) - 328 points, 353 comments
-7. [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html) - 465 points, 77 comments
-8. [Bug 1950764: Work Around Crash on Intel Raptor Lake CPU](https://phabricator.services.mozilla.com/D301917) - 20 points, 4 comments
-9. [Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445) - 189 points, 101 comments
-10. [Using HTTP/2 Cleartext for a server in Go 1.24](https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run) - 71 points, 6 comments
+1. [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/) - 222 points, 90 comments
+2. [Taking a walk may lead to more creativity than sitting, study finds (2014)](https://www.apa.org/news/press/releases/2014/04/creativity-walk) - 106 points, 44 comments
+3. [How Shamir's Secret Sharing Works](https://ente.com/blog/how-shamirs-secret-sharing-works/) - 82 points, 7 comments
+4. [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910) - 180 points, 87 comments
+5. [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout) - 286 points, 46 comments
+6. [Ferrari Luce](https://www.ferrari.com/en-EN/auto/ferrari-luce) - 107 points, 227 comments
+7. [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law) - 710 points, 305 comments
+8. [Squares in Squares](https://kingbird.myphotos.cc/packing/squares_in_squares.html) - 37 points, 2 comments
+9. [Toshifumi Suzuki, founder of Seven-Eleven Japan, has died](https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html) - 144 points, 57 comments
+10. [Designing for and against the manufactured normalcy field (2012)](https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html) - 8 points, 1 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 101 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 102 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
