@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-26 11:36:46 (北京时间)
+> 🕐 最后更新：2026-05-27 11:53:52 (北京时间)
 
-1. [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/) - 222 points, 90 comments
-2. [Taking a walk may lead to more creativity than sitting, study finds (2014)](https://www.apa.org/news/press/releases/2014/04/creativity-walk) - 106 points, 44 comments
-3. [How Shamir's Secret Sharing Works](https://ente.com/blog/how-shamirs-secret-sharing-works/) - 82 points, 7 comments
-4. [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910) - 180 points, 87 comments
-5. [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout) - 286 points, 46 comments
-6. [Ferrari Luce](https://www.ferrari.com/en-EN/auto/ferrari-luce) - 107 points, 227 comments
-7. [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law) - 710 points, 305 comments
-8. [Squares in Squares](https://kingbird.myphotos.cc/packing/squares_in_squares.html) - 37 points, 2 comments
-9. [Toshifumi Suzuki, founder of Seven-Eleven Japan, has died](https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html) - 144 points, 57 comments
-10. [Designing for and against the manufactured normalcy field (2012)](https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html) - 8 points, 1 comments
+1. [Cloudflare Flagship](https://developers.cloudflare.com/flagship/) - 108 points, 49 comments
+2. [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank) - 271 points, 105 comments
+3. [Where does next-token prediction leave us?](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/) - 38 points, 15 comments
+4. [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/) - 283 points, 59 comments
+5. [I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/) - 186 points, 55 comments
+6. [The Forgotten Art of the LAN Party (2023)](https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/) - 40 points, 13 comments
+7. [A portentous reunion](https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/) - 68 points, 21 comments
+8. [Stripe is friendly to “friendly fraud”](https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/) - 159 points, 86 comments
+9. [Gear Commit: Dev gadget box personalized from GitHub activity](https://gearcommit.nanocorp.app/) - 5 points, 0 comments
+10. [From Rust to Ruby](https://xlii.space/eng/from-rust-to-ruby/) - 43 points, 18 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 102 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 103 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
