@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-27 11:53:52 (北京时间)
+> 🕐 最后更新：2026-05-28 11:39:41 (北京时间)
 
-1. [Cloudflare Flagship](https://developers.cloudflare.com/flagship/) - 108 points, 49 comments
-2. [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank) - 271 points, 105 comments
-3. [Where does next-token prediction leave us?](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/) - 38 points, 15 comments
-4. [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/) - 283 points, 59 comments
-5. [I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/) - 186 points, 55 comments
-6. [The Forgotten Art of the LAN Party (2023)](https://www.superjumpmagazine.com/the-forgotten-art-of-the-lan-party/) - 40 points, 13 comments
-7. [A portentous reunion](https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/) - 68 points, 21 comments
-8. [Stripe is friendly to “friendly fraud”](https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/) - 159 points, 86 comments
-9. [Gear Commit: Dev gadget box personalized from GitHub activity](https://gearcommit.nanocorp.app/) - 5 points, 0 comments
-10. [From Rust to Ruby](https://xlii.space/eng/from-rust-to-ruby/) - 43 points, 18 comments
+1. [Can we have the day off?](https://mlsu.io/posts/day-off/) - 611 points, 364 comments
+2. [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) - 584 points, 352 comments
+3. [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) - 694 points, 861 comments
+4. [SimCity 3k in 4k (2025)](https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html) - 304 points, 117 comments
+5. [What Apple and Google are doing to push notifications](https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications) - 196 points, 208 comments
+6. [Why Ctrl+V won't paste images in Claude Code on WSL, with a fix](https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/) - 19 points, 8 comments
+7. [The Ask](https://randsinrepose.com/archives/the-ask/) - 23 points, 15 comments
+8. [A New Typst Template for Pandoc](https://imaginarytext.ca/posts/2025/typst-templates-for-pandoc/) - 50 points, 6 comments
+9. [RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer) - 1 points, 0 comments
+10. [I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)](https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/) - 98 points, 31 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 103 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 104 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
