@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-29 11:40:05 (北京时间)
+> 🕐 最后更新：2026-05-30 11:28:46 (北京时间)
 
-1. [Cars are trying to spy on you, and it's only just the beginning](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse) - 46 points, 16 comments
-2. [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) - 1297 points, 1042 comments
-3. [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) - 694 points, 373 comments
-4. [I made a million dollar product from my dorm room (2025)](https://nick.winans.io/blog/nice-nano/) - 238 points, 32 comments
-5. [Ten Basic Clouds](https://www.noaa.gov/jetstream/clouds/ten-basic-clouds) - 59 points, 18 comments
-6. [Blue Origin's New Glenn blows up during static fire test](https://twitter.com/nasaspaceflight/status/2060164928472854821) - 121 points, 54 comments
-7. [Nitpicking the shell history scene in 'Tron: Legacy'](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/) - 181 points, 67 comments
-8. [Garnix (A Nix CI) is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895) - 37 points, 16 comments
-9. [News about Raspberry Pi 6 and Microcontroller Development](https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/) - 167 points, 129 comments
-10. [I hated writing until I learned there’s a science to it (2024)](https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it) - 163 points, 71 comments
+1. [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) - 404 points, 213 comments
+2. [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) - 765 points, 952 comments
+3. [Naphtha Shortages Having a Growing Impact in Japan](https://www.nippon.com/en/japan-data/h02783/) - 17 points, 5 comments
+4. [Snowboard Kids 2 is 100% Decompiled](https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/) - 87 points, 27 comments
+5. [Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit) - 315 points, 112 comments
+6. [Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer](https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/) - 96 points, 13 comments
+7. [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead) - 109 points, 90 comments
+8. [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning) - 97 points, 141 comments
+9. [It's hard to justify buying a Framework 12](https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/) - 238 points, 414 comments
+10. [Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA](https://github.com/jmaczan/tiny-vllm) - 101 points, 10 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 105 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 106 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
