@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-05-24 10:00:36 (北京时间)
+> 🕐 最后更新：2026-05-31 10:09:08 (北京时间)
 
-**本周热门 (2026-05-11 至 2026-05-17)**
+**本周热门 (2026-05-18 至 2026-05-24)**
 
-1. [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) - 1011 points, 365 comments
-   - 🌐 Web | 🔒 Security
-2. [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578) - 877 points, 383 comments
+1. [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) - 827 points, 619 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
+2. [Green card seekers must leave U.S. to apply, Trump administration says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html) - 656 points, 1124 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
+3. [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) - 647 points, 150 comments
    - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
-3. [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) - 742 points, 178 comments
+4. [I’ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/) - 634 points, 148 comments
    - 🌐 Web | 🔒 Security
-4. [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/) - 698 points, 333 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-5. [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) - 671 points, 391 comments
+5. [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) - 631 points, 471 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
+6. [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/) - 601 points, 220 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source | 🔧 Tools
+7. [The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden) - 563 points, 259 comments
    - 🌐 Web | 🔒 Security
-6. [Googlebook](https://googlebook.google/) - 647 points, 1090 comments
+8. [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) - 541 points, 286 comments
+   - 🌐 Web | 🔒 Security
+9. [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai) - 433 points, 195 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
+10. [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/) - 410 points, 582 comments
    - 🌐 Web | 🔒 Security | 💻 Programming
-7. [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem) - 591 points, 220 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-8. [Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/) - 576 points, 377 comments
-   - 🌐 Web | 🔒 Security
-9. [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/) - 517 points, 164 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🔧 Tools
-10. [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/) - 506 points, 139 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-05-17.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-05-24.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
