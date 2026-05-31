@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-30 11:28:46 (北京时间)
+> 🕐 最后更新：2026-05-31 11:55:26 (北京时间)
 
-1. [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) - 404 points, 213 comments
-2. [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) - 765 points, 952 comments
-3. [Naphtha Shortages Having a Growing Impact in Japan](https://www.nippon.com/en/japan-data/h02783/) - 17 points, 5 comments
-4. [Snowboard Kids 2 is 100% Decompiled](https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/) - 87 points, 27 comments
-5. [Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit) - 315 points, 112 comments
-6. [Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer](https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/) - 96 points, 13 comments
-7. [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead) - 109 points, 90 comments
-8. [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning) - 97 points, 141 comments
-9. [It's hard to justify buying a Framework 12](https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/) - 238 points, 414 comments
-10. [Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA](https://github.com/jmaczan/tiny-vllm) - 101 points, 10 comments
+1. [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)) - 558 points, 181 comments
+2. [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) - 345 points, 215 comments
+3. [Racket v9.2 is now available](https://blog.racket-lang.org/2026/05/racket-v9-2.html) - 54 points, 4 comments
+4. [Shantell Sans (2023)](https://shantellsans.com/process) - 128 points, 14 comments
+5. [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert) - 251 points, 66 comments
+6. [Accenture to acquire Ookla](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises) - 256 points, 128 comments
+7. [The AV2 Video Standard Has Released (Final v1.0 Specification)](https://av2.aomedia.org) - 67 points, 12 comments
+8. [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE) - 72 points, 13 comments
+9. [Jef Raskin, the Visionary Behind the Mac (2013)](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/) - 82 points, 39 comments
+10. [Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/) - 66 points, 14 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 106 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 107 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
