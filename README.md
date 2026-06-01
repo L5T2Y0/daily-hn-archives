@@ -81,32 +81,32 @@
 > 每月1号自动生成
 
 <!-- MONTHLY_SUMMARY_START -->
-> 🕐 最后更新：2026-05-02 20:13:26 (北京时间)
+> 🕐 最后更新：2026-06-01 11:41:43 (北京时间)
 
-**2026年04月精选**
+**2026年05月精选**
 
-1. [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) - 1814 points, 573 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
-2. [Zed 1.0](https://zed.dev/blog/zed-1-0) - 1578 points, 504 comments
-   - 🌐 Web | 🔒 Security
-3. [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) - 1507 points, 1080 comments
+1. [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) - 1297 points, 1042 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-4. [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) - 1373 points, 476 comments
-   - 🌐 Web | 🔒 Security | 🚀 Startup
-5. [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) - 1277 points, 216 comments
+2. [Talking to strangers at the gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/) - 1189 points, 562 comments
+   - 🌐 Web | 🔒 Security
+3. [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license) - 1106 points, 366 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+4. [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) - 1011 points, 365 comments
+   - 🌐 Web | 🔒 Security
+5. [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578) - 877 points, 383 comments
    - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
-6. [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/) - 1268 points, 637 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
-7. [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) - 1175 points, 353 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-8. [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data) - 1143 points, 504 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming
-9. [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/) - 1125 points, 779 comments
+6. [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226) - 871 points, 412 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source | 🔧 Tools
+7. [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) - 827 points, 619 comments
    - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-10. [I am building a cloud](https://crawshaw.io/blog/building-a-cloud) - 1009 points, 495 comments
-   - 🌐 Web | ⚙️ DevOps | 🔒 Security
+8. [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) - 765 points, 952 comments
+   - 🌐 Web | 🔒 Security
+9. [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) - 764 points, 298 comments
+   - 🌐 Web | 🔒 Security | 📱 Mobile
+10. [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) - 742 points, 178 comments
+   - 🌐 Web | 🔒 Security
 
-📁 **[查看完整月报](monthly/month-2026-04.md)** | Top 50 热门文章
+📁 **[查看完整月报](monthly/month-2026-05.md)** | Top 50 热门文章
 <!-- MONTHLY_SUMMARY_END -->
 
 ---
