@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-05-31 11:55:26 (北京时间)
+> 🕐 最后更新：2026-06-01 12:08:36 (北京时间)
 
-1. [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)) - 558 points, 181 comments
-2. [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) - 345 points, 215 comments
-3. [Racket v9.2 is now available](https://blog.racket-lang.org/2026/05/racket-v9-2.html) - 54 points, 4 comments
-4. [Shantell Sans (2023)](https://shantellsans.com/process) - 128 points, 14 comments
-5. [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert) - 251 points, 66 comments
-6. [Accenture to acquire Ookla](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises) - 256 points, 128 comments
-7. [The AV2 Video Standard Has Released (Final v1.0 Specification)](https://av2.aomedia.org) - 67 points, 12 comments
-8. [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE) - 72 points, 13 comments
-9. [Jef Raskin, the Visionary Behind the Mac (2013)](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/) - 82 points, 39 comments
-10. [Cheese Paper: a text editor specifically designed for writing](https://brie.gay/cheese-paper/) - 66 points, 14 comments
+1. [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting) - 556 points, 319 comments
+2. [Shift from a Leader-Follower to a Leader-Leader Approach](https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a) - 39 points, 14 comments
+3. [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b) - 317 points, 111 comments
+4. [New Beam Spring Keyboards](https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/) - 77 points, 48 comments
+5. [Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek](https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek) - 30 points, 2 comments
+6. [Dav2d](https://jbkempf.com/blog/2026/dav2d/) - 413 points, 155 comments
+7. [United Airlines 767 returns to Newark after Bluetooth name sparks alert](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/) - 300 points, 473 comments
+8. [ChatGPT for Google Sheets exfiltrates workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration) - 111 points, 40 comments
+9. [Meta launches Instagram, Facebook, and WhatsApp subscriptions](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/) - 151 points, 234 comments
+10. [The four programming questions from my 1994 Microsoft internship interview (2023)](https://www.computerenhance.com/p/the-four-programming-questions-from) - 95 points, 37 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 107 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 108 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
