@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-01 12:08:36 (北京时间)
+> 🕐 最后更新：2026-06-02 12:01:59 (北京时间)
 
-1. [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting) - 556 points, 319 comments
-2. [Shift from a Leader-Follower to a Leader-Leader Approach](https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a) - 39 points, 14 comments
-3. [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b) - 317 points, 111 comments
-4. [New Beam Spring Keyboards](https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/) - 77 points, 48 comments
-5. [Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek](https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek) - 30 points, 2 comments
-6. [Dav2d](https://jbkempf.com/blog/2026/dav2d/) - 413 points, 155 comments
-7. [United Airlines 767 returns to Newark after Bluetooth name sparks alert](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/) - 300 points, 473 comments
-8. [ChatGPT for Google Sheets exfiltrates workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration) - 111 points, 40 comments
-9. [Meta launches Instagram, Facebook, and WhatsApp subscriptions](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/) - 151 points, 234 comments
-10. [The four programming questions from my 1994 Microsoft internship interview (2023)](https://www.computerenhance.com/p/the-four-programming-questions-from) - 95 points, 37 comments
+1. [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/) - 99 points, 52 comments
+2. [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco) - 1449 points, 345 comments
+3. [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai) - 144 points, 316 comments
+4. [How is Groq raising more money?](https://www.zach.be/p/how-the-hell-is-groq-raising-more) - 47 points, 18 comments
+5. [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/) - 175 points, 61 comments
+6. [Chipotlai Max](https://github.com/cyberpapiii/chipotlai-max) - 96 points, 17 comments
+7. [KL Zero: KL divergence intuition game](https://klzero.sarna.dev) - 8 points, 0 comments
+8. [Debug Project](https://debug.com/) - 168 points, 73 comments
+9. [Fooling around with encrypted reasoning blobs](https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/) - 21 points, 2 comments
+10. [Crystal Nights (2008)](https://www.gregegan.net/MISC/CRYSTAL/Crystal.html) - 21 points, 3 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 108 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 109 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
