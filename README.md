@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-02 12:01:59 (北京时间)
+> 🕐 最后更新：2026-06-03 12:11:12 (北京时间)
 
-1. [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/) - 99 points, 52 comments
-2. [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco) - 1449 points, 345 comments
-3. [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai) - 144 points, 316 comments
-4. [How is Groq raising more money?](https://www.zach.be/p/how-the-hell-is-groq-raising-more) - 47 points, 18 comments
-5. [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/) - 175 points, 61 comments
-6. [Chipotlai Max](https://github.com/cyberpapiii/chipotlai-max) - 96 points, 17 comments
-7. [KL Zero: KL divergence intuition game](https://klzero.sarna.dev) - 8 points, 0 comments
-8. [Debug Project](https://debug.com/) - 168 points, 73 comments
-9. [Fooling around with encrypted reasoning blobs](https://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/) - 21 points, 2 comments
-10. [Crystal Nights (2008)](https://www.gregegan.net/MISC/CRYSTAL/Crystal.html) - 21 points, 3 comments
+1. [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/) - 99 points, 14 comments
+2. [Agentic Mfw](https://agenticmotherfucking.website) - 41 points, 13 comments
+3. [Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram) - 186 points, 52 comments
+4. [HHS is overriding peer review to require changes to research scope, design](https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants) - 11 points, 1 comments
+5. [MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/) - 420 points, 178 comments
+6. [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd) - 275 points, 114 comments
+7. [The American Missile Crisis](https://research.contrary.com/report/the-american-missile-crisis) - 9 points, 4 comments
+8. [Capstone – multi-platform, multi-architecture disassembly framework](https://www.capstone-engine.org/) - 17 points, 0 comments
+9. [Roku LT Operating System open source distribution](https://blog.roku.com/developer/roku-lt-os) - 30 points, 11 comments
+10. [Are blue zones real? Answering that question is harder then ever](https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/) - 43 points, 32 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 109 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 110 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
