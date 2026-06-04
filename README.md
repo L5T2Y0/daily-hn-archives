@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-03 12:11:12 (北京时间)
+> 🕐 最后更新：2026-06-04 12:04:35 (北京时间)
 
-1. [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/) - 99 points, 14 comments
-2. [Agentic Mfw](https://agenticmotherfucking.website) - 41 points, 13 comments
-3. [Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram) - 186 points, 52 comments
-4. [HHS is overriding peer review to require changes to research scope, design](https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants) - 11 points, 1 comments
-5. [MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/) - 420 points, 178 comments
-6. [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd) - 275 points, 114 comments
-7. [The American Missile Crisis](https://research.contrary.com/report/the-american-missile-crisis) - 9 points, 4 comments
-8. [Capstone – multi-platform, multi-architecture disassembly framework](https://www.capstone-engine.org/) - 17 points, 0 comments
-9. [Roku LT Operating System open source distribution](https://blog.roku.com/developer/roku-lt-os) - 30 points, 11 comments
-10. [Are blue zones real? Answering that question is harder then ever](https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/) - 43 points, 32 comments
+1. [U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse](https://e360.yale.edu/digest/trump-ooi-amoc) - 241 points, 137 comments
+2. [American capitalism has taken an apocalyptic turn](https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn) - 50 points, 10 comments
+3. [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) - 614 points, 225 comments
+4. [I built a vulnerable app and spent $1,500 seeing if LLMs could hack it](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/) - 89 points, 38 comments
+5. [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) - 740 points, 298 comments
+6. ["They're made out of weights"](https://maxleiter.com/blog/weights) - 121 points, 34 comments
+7. [Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html) - 54 points, 27 comments
+8. [The ways we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude) - 65 points, 31 comments
+9. [I was recently diagnosed with anti-NMDA receptor encephalitis](https://burntsushi.net/encephalitis/) - 531 points, 166 comments
+10. [Artificial intelligence is not conscious – Ted Chiang](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/) - 298 points, 539 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 110 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 111 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
