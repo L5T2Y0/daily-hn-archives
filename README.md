@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-04 12:04:35 (北京时间)
+> 🕐 最后更新：2026-06-05 11:51:22 (北京时间)
 
-1. [U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse](https://e360.yale.edu/digest/trump-ooi-amoc) - 241 points, 137 comments
-2. [American capitalism has taken an apocalyptic turn](https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn) - 50 points, 10 comments
-3. [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) - 614 points, 225 comments
-4. [I built a vulnerable app and spent $1,500 seeing if LLMs could hack it](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/) - 89 points, 38 comments
-5. [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) - 740 points, 298 comments
-6. ["They're made out of weights"](https://maxleiter.com/blog/weights) - 121 points, 34 comments
-7. [Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html) - 54 points, 27 comments
-8. [The ways we contain Claude across products](https://www.anthropic.com/engineering/how-we-contain-claude) - 65 points, 31 comments
-9. [I was recently diagnosed with anti-NMDA receptor encephalitis](https://burntsushi.net/encephalitis/) - 531 points, 166 comments
-10. [Artificial intelligence is not conscious – Ted Chiang](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/) - 298 points, 539 comments
+1. [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/) - 116 points, 26 comments
+2. [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032) - 120 points, 20 comments
+3. [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness) - 308 points, 98 comments
+4. [Open Code Review – An AI-powered code review CLI tool](https://github.com/alibaba/open-code-review) - 80 points, 19 comments
+5. [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/) - 590 points, 262 comments
+6. [When AI Builds Itself: Our progress toward recursive self-improvement](https://www.anthropic.com/institute/recursive-self-improvement) - 372 points, 484 comments
+7. [I'm skeptical about efforts to revolutionize schooling](https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/) - 93 points, 157 comments
+8. [Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux"](https://github.com/tarpediem/zenvision-linux) - 33 points, 3 comments
+9. [Branchless Quicksort faster than std:sort and pdqsort with C and C++ API](https://tiki.li/blog/blqsort) - 111 points, 18 comments
+10. [Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm) - 530 points, 202 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 111 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 112 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
