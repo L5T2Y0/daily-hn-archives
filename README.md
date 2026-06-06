@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-05 11:51:22 (北京时间)
+> 🕐 最后更新：2026-06-06 11:33:27 (北京时间)
 
-1. [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/) - 116 points, 26 comments
-2. [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032) - 120 points, 20 comments
-3. [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness) - 308 points, 98 comments
-4. [Open Code Review – An AI-powered code review CLI tool](https://github.com/alibaba/open-code-review) - 80 points, 19 comments
-5. [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/) - 590 points, 262 comments
-6. [When AI Builds Itself: Our progress toward recursive self-improvement](https://www.anthropic.com/institute/recursive-self-improvement) - 372 points, 484 comments
-7. [I'm skeptical about efforts to revolutionize schooling](https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/) - 93 points, 157 comments
-8. [Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux"](https://github.com/tarpediem/zenvision-linux) - 33 points, 3 comments
-9. [Branchless Quicksort faster than std:sort and pdqsort with C and C++ API](https://tiki.li/blog/blqsort) - 111 points, 18 comments
-10. [Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm) - 530 points, 202 comments
+1. [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html) - 87 points, 20 comments
+2. [How LLMs Work](https://www.0xkato.xyz/how-llms-actually-work/) - 32 points, 4 comments
+3. [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable) - 350 points, 81 comments
+4. [Astronauts told to return to ISS after sheltering over air leak repairs](https://www.bbc.com/news/live/c4g44ew3g1kt) - 365 points, 238 comments
+5. [New method turns ocean water into drinking water, without waste](https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/) - 287 points, 126 comments
+6. [Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency](https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/) - 292 points, 89 comments
+7. [Show HN: ABC Classic 100 Rankings visualised](https://classic100.gotski.workers.dev/) - 18 points, 13 comments
+8. [Mouseless – keyboard-driven control of macOS/Linux/Windows](https://mouseless.click) - 478 points, 201 comments
+9. [Did Claude increase bugs in rsync?](https://alexispurslane.github.io/rsync-analysis/) - 336 points, 342 comments
+10. [Europe's largest Copper Age tomb: children's bones show ancient health crisis](https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html) - 20 points, 4 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 112 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 113 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
