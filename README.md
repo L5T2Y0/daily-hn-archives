@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-05-31 10:09:08 (北京时间)
+> 🕐 最后更新：2026-06-07 10:13:54 (北京时间)
 
-**本周热门 (2026-05-18 至 2026-05-24)**
+**本周热门 (2026-05-25 至 2026-05-31)**
 
-1. [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) - 827 points, 619 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-2. [Green card seekers must leave U.S. to apply, Trump administration says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html) - 656 points, 1124 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
-3. [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) - 647 points, 150 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
-4. [I’ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/) - 634 points, 148 comments
+1. [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) - 1297 points, 1042 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+2. [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) - 765 points, 952 comments
    - 🌐 Web | 🔒 Security
-5. [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) - 631 points, 471 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
-6. [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/) - 601 points, 220 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source | 🔧 Tools
-7. [The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden) - 563 points, 259 comments
+3. [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law) - 710 points, 305 comments
    - 🌐 Web | 🔒 Security
-8. [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) - 541 points, 286 comments
-   - 🌐 Web | 🔒 Security
-9. [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai) - 433 points, 195 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
-10. [Google changes its search box](https://blog.google/products-and-platforms/products/search/search-io-2026/) - 410 points, 582 comments
+4. [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) - 694 points, 861 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+5. [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) - 694 points, 373 comments
    - 🌐 Web | 🔒 Security | 💻 Programming
+6. [Can we have the day off?](https://mlsu.io/posts/day-off/) - 611 points, 364 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+7. [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) - 584 points, 352 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🔧 Tools
+8. [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)) - 558 points, 181 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+9. [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/) - 472 points, 204 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source | ⚡ Performance
+10. [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html) - 465 points, 77 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-05-24.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-05-31.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
