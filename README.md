@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-07 11:59:37 (北京时间)
+> 🕐 最后更新：2026-06-08 12:04:14 (北京时间)
 
-1. [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398) - 24 points, 4 comments
-2. [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses) - 27 points, 7 comments
-3. [Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering](https://arxiv.org/abs/2601.14470) - 40 points, 6 comments
-4. [Harness engineering: Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/) - 112 points, 65 comments
-5. [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/) - 293 points, 70 comments
-6. [Public Domain Image Archive](https://pdimagearchive.org/) - 54 points, 10 comments
-7. [Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved](https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06) - 50 points, 9 comments
-8. [Show HN: Oproxy – inspect and modify network traffic from the browser](https://github.com/sauravrao637/oproxy) - 14 points, 1 comments
-9. [An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World](https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight) - 71 points, 56 comments
-10. [Biohub releases a world model of protein biology](https://biohub.org/news/world-model-of-protein-biology/) - 14 points, 0 comments
+1. [APC–2 – A professional record cutter for producing original playback discs](https://teenage.engineering/products/apc-2) - 133 points, 65 comments
+2. [New drug 'functionally cures' many hepatitis B virus infections](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08) - 53 points, 1 comments
+3. [The Smallest Brain You Can Build: A Perceptron in Python](https://ranpara.net/posts/perceptron-explained-from-scratch/) - 91 points, 14 comments
+4. [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony) - 480 points, 215 comments
+5. [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/) - 10 points, 0 comments
+6. [1worldflag: A blue dot on a transparent background](https://1worldflag.com/) - 23 points, 8 comments
+7. [Algorithmic Monocultures in Hiring](https://algorithmichiring.github.io/) - 31 points, 3 comments
+8. [A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W](https://github.com/melastmohican/rust-rpico2-embassy-examples) - 65 points, 4 comments
+9. [DeepSeek V4 Pro beats GPT-5.5 Pro on precision](https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision) - 136 points, 33 comments
+10. [Show HN: I Derived a Pancake](https://www.absurdlyoptimized.com/recipes/pancakes/) - 169 points, 53 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 114 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 115 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
