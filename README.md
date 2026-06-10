@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-09 11:34:13 (北京时间)
+> 🕐 最后更新：2026-06-10 11:47:23 (北京时间)
 
-1. [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/) - 399 points, 343 comments
-2. [Siri AI](https://www.apple.com/apple-intelligence/) - 452 points, 396 comments
-3. [Show HN: Performative-UI – A react component library of design tropes](https://vorpus.github.io/performativeUI/) - 825 points, 162 comments
-4. [xAI is looking more like a datacentre REIT than a frontier lab](https://martinalderson.com/posts/xais-new-rental-business/) - 437 points, 347 comments
-5. [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps) - 508 points, 361 comments
-6. [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social) - 578 points, 419 comments
-7. [EU-banned pesticides found in rice, tea and spices](https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices) - 265 points, 97 comments
-8. [Apple Core AI Framework](https://developer.apple.com/documentation/coreai/) - 216 points, 46 comments
-9. [Looking Forward to Postgres 19: Query Hints](https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints) - 77 points, 10 comments
-10. [Show HN: Gitdot – a better GitHub. Open-source, written in Rust](https://gitdot.io/) - 170 points, 136 comments
+1. [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md) - 324 points, 127 comments
+2. [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) - 1881 points, 1473 comments
+3. [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/) - 232 points, 75 comments
+4. [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656) - 34 points, 13 comments
+5. [German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/) - 129 points, 53 comments
+6. [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/) - 85 points, 29 comments
+7. [The oldest surviving animated feature film at 100](https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film) - 39 points, 3 comments
+8. [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/) - 174 points, 24 comments
+9. [More Molly Guards](https://unsung.aresluna.org/more-molly-guards/) - 60 points, 4 comments
+10. [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html) - 589 points, 290 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 116 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 117 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
