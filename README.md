@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-10 11:47:23 (北京时间)
+> 🕐 最后更新：2026-06-11 12:01:39 (北京时间)
 
-1. [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md) - 324 points, 127 comments
-2. [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) - 1881 points, 1473 comments
-3. [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/) - 232 points, 75 comments
-4. [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656) - 34 points, 13 comments
-5. [German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/) - 129 points, 53 comments
-6. [RIP software hackathons. Long live the hardware hackathon](https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/) - 85 points, 29 comments
-7. [The oldest surviving animated feature film at 100](https://www.bbc.com/culture/article/20260603-how-a-26-year-old-german-woman-made-the-worlds-oldest-surviving-animated-feature-film) - 39 points, 3 comments
-8. [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/) - 174 points, 24 comments
-9. [More Molly Guards](https://unsung.aresluna.org/more-molly-guards/) - 60 points, 4 comments
-10. [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html) - 589 points, 290 comments
+1. [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/) - 192 points, 48 comments
+2. [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/) - 288 points, 260 comments
+3. [πFS](https://github.com/philipl/pifs) - 568 points, 139 comments
+4. [Anthropic requires 30 day data retention for Fable and Mythos](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models) - 257 points, 116 comments
+5. [Sequoyah’s syllabary created a written language for the Cherokee](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/) - 122 points, 78 comments
+6. [Klondike Solitaire game for curses in 5k of C](https://nanochess.org/klondike_in_c.html) - 38 points, 0 comments
+7. [Vacuum-Form Signage](https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting) - 29 points, 4 comments
+8. [I'm Eric Ries, author of "The Lean Startup" and new book "Incorruptible" – AMA](https://news.ycombinator.com/item?id=48477135) - 562 points, 437 comments
+9. [How JPL keeps the 13-year-old Curiosity rover doing science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science) - 189 points, 43 comments
+10. [PgDog is funded and coming to a database near you](https://pgdog.dev/blog/our-funding-announcement) - 415 points, 207 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 117 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 118 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
