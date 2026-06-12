@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-11 12:01:39 (北京时间)
+> 🕐 最后更新：2026-06-12 12:01:34 (北京时间)
 
-1. [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/) - 192 points, 48 comments
-2. [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/) - 288 points, 260 comments
-3. [πFS](https://github.com/philipl/pifs) - 568 points, 139 comments
-4. [Anthropic requires 30 day data retention for Fable and Mythos](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models) - 257 points, 116 comments
-5. [Sequoyah’s syllabary created a written language for the Cherokee](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/) - 122 points, 78 comments
-6. [Klondike Solitaire game for curses in 5k of C](https://nanochess.org/klondike_in_c.html) - 38 points, 0 comments
-7. [Vacuum-Form Signage](https://bethmathews.substack.com/p/the-history-behind-the-signs-lighting) - 29 points, 4 comments
-8. [I'm Eric Ries, author of "The Lean Startup" and new book "Incorruptible" – AMA](https://news.ycombinator.com/item?id=48477135) - 562 points, 437 comments
-9. [How JPL keeps the 13-year-old Curiosity rover doing science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science) - 189 points, 43 comments
-10. [PgDog is funded and coming to a database near you](https://pgdog.dev/blog/our-funding-announcement) - 415 points, 207 comments
+1. [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) - 187 points, 65 comments
+2. [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/) - 185 points, 149 comments
+3. [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/) - 1048 points, 244 comments
+4. [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com) - 293 points, 172 comments
+5. [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/) - 362 points, 111 comments
+6. [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode) - 440 points, 252 comments
+7. [Anthropic apologizes for invisible Claude Fable guardrails](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail) - 342 points, 341 comments
+8. [Petition to Withdraw Canada's Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416) - 386 points, 134 comments
+9. [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/) - 62 points, 38 comments
+10. [Ear Training Practice](https://tonedear.com/) - 179 points, 90 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 118 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 119 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
