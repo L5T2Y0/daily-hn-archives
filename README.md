@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-12 12:01:34 (北京时间)
+> 🕐 最后更新：2026-06-13 11:49:42 (北京时间)
 
-1. [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) - 187 points, 65 comments
-2. [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/) - 185 points, 149 comments
-3. [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/) - 1048 points, 244 comments
-4. [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com) - 293 points, 172 comments
-5. [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/) - 362 points, 111 comments
-6. [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode) - 440 points, 252 comments
-7. [Anthropic apologizes for invisible Claude Fable guardrails](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail) - 342 points, 341 comments
-8. [Petition to Withdraw Canada's Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416) - 386 points, 134 comments
-9. [A jacket that harvests drinking water from the air](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/) - 62 points, 38 comments
-10. [Ear Training Practice](https://tonedear.com/) - 179 points, 90 comments
+1. [Open Source AI Must Win](https://opensourceaimustwin.com/?share=v2) - 307 points, 70 comments
+2. [US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access) - 1269 points, 825 comments
+3. [We've suspended access to Claude Mythos 5 and Claude Fable 5](https://status.claude.com/incidents/s9w82lp9dcn9) - 147 points, 41 comments
+4. [Renault: Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/) - 276 points, 70 comments
+5. [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/) - 731 points, 184 comments
+6. [Show HN: Putt.day a daily mini golf game](https://putt.day/) - 95 points, 57 comments
+7. [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg) - 135 points, 64 comments
+8. [Swift at Apple: Migrating the TrueType hinting interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/) - 162 points, 67 comments
+9. [How to setup a local coding agent on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos) - 298 points, 77 comments
+10. [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571) - 331 points, 196 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 119 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 120 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
