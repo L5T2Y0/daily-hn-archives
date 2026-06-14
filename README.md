@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-06-07 10:13:54 (北京时间)
+> 🕐 最后更新：2026-06-14 10:29:36 (北京时间)
 
-**本周热门 (2026-05-25 至 2026-05-31)**
+**本周热门 (2026-06-01 至 2026-06-07)**
 
-1. [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) - 1297 points, 1042 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-2. [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) - 765 points, 952 comments
-   - 🌐 Web | 🔒 Security
-3. [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law) - 710 points, 305 comments
-   - 🌐 Web | 🔒 Security
-4. [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) - 694 points, 861 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-5. [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) - 694 points, 373 comments
+1. [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco) - 1449 points, 345 comments
    - 🌐 Web | 🔒 Security | 💻 Programming
-6. [Can we have the day off?](https://mlsu.io/posts/day-off/) - 611 points, 364 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-7. [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) - 584 points, 352 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🔧 Tools
-8. [Microsoft degrades functionality of perpetually-licensed offline products](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)) - 558 points, 181 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
-9. [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/) - 472 points, 204 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source | ⚡ Performance
-10. [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html) - 465 points, 77 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
+2. [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) - 740 points, 298 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔧 Tools
+3. [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) - 614 points, 225 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
+4. [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/) - 590 points, 262 comments
+   - 🌐 Web | ⚙️ DevOps | 🔒 Security
+5. [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting) - 556 points, 319 comments
+   - 🌐 Web | ⚙️ DevOps | 🔒 Security
+6. [I was recently diagnosed with anti-NMDA receptor encephalitis](https://burntsushi.net/encephalitis/) - 531 points, 166 comments
+   - 🌐 Web | 🔒 Security
+7. [Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm) - 530 points, 202 comments
+   - 🌐 Web | 🔒 Security
+8. [Mouseless – keyboard-driven control of macOS/Linux/Windows](https://mouseless.click) - 478 points, 201 comments
+   - 🌐 Web | 🔒 Security | 🔧 Tools
+9. [MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/) - 420 points, 178 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+10. [Dav2d](https://jbkempf.com/blog/2026/dav2d/) - 413 points, 155 comments
+   - 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-05-31.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-06-07.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
