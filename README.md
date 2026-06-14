@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-13 11:49:42 (北京时间)
+> 🕐 最后更新：2026-06-14 12:08:31 (北京时间)
 
-1. [Open Source AI Must Win](https://opensourceaimustwin.com/?share=v2) - 307 points, 70 comments
-2. [US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access) - 1269 points, 825 comments
-3. [We've suspended access to Claude Mythos 5 and Claude Fable 5](https://status.claude.com/incidents/s9w82lp9dcn9) - 147 points, 41 comments
-4. [Renault: Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/) - 276 points, 70 comments
-5. [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/) - 731 points, 184 comments
-6. [Show HN: Putt.day a daily mini golf game](https://putt.day/) - 95 points, 57 comments
-7. [Twenty One Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg) - 135 points, 64 comments
-8. [Swift at Apple: Migrating the TrueType hinting interpreter](https://www.swift.org/blog/migrating-truetype-hinting-to-swift/) - 162 points, 67 comments
-9. [How to setup a local coding agent on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos) - 298 points, 77 comments
-10. [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571) - 331 points, 196 comments
+1. [The Redistribution of Housing Wealth Caused by Rent Control [pdf]](https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf) - 34 points, 27 comments
+2. [10th Gen Honda Civic Updates Are Signed with AOSP Test Keys](https://juniperspring.org/posts/honda-evil-valet/) - 98 points, 16 comments
+3. [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html) - 768 points, 482 comments
+4. [GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314) - 419 points, 229 comments
+5. [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/) - 617 points, 202 comments
+6. [FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language](https://github.com/kekcleader/FreeOberon) - 43 points, 18 comments
+7. [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch) - 321 points, 115 comments
+8. [Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI](https://blog.pyodide.org/posts/314-release/) - 94 points, 23 comments
+9. [Building a serial and VGA "everything console"](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html) - 5 points, 0 comments
+10. [Python 3.14 garbage collection rigamarole](https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html) - 15 points, 9 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 120 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 121 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
