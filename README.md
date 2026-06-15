@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-14 12:08:31 (北京时间)
+> 🕐 最后更新：2026-06-15 12:20:19 (北京时间)
 
-1. [The Redistribution of Housing Wealth Caused by Rent Control [pdf]](https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf) - 34 points, 27 comments
-2. [10th Gen Honda Civic Updates Are Signed with AOSP Test Keys](https://juniperspring.org/posts/honda-evil-valet/) - 98 points, 16 comments
-3. [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html) - 768 points, 482 comments
-4. [GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314) - 419 points, 229 comments
-5. [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/) - 617 points, 202 comments
-6. [FreeOberon – Open-Source, Cross-Platform, Free Pascal/Turbo Pascal-Like Language](https://github.com/kekcleader/FreeOberon) - 43 points, 18 comments
-7. [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch) - 321 points, 115 comments
-8. [Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI](https://blog.pyodide.org/posts/314-release/) - 94 points, 23 comments
-9. [Building a serial and VGA "everything console"](http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html) - 5 points, 0 comments
-10. [Python 3.14 garbage collection rigamarole](https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html) - 15 points, 9 comments
+1. [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) - 287 points, 127 comments
+2. [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/) - 32 points, 3 comments
+3. [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage) - 453 points, 99 comments
+4. [21 years and counting of 'eight fallacies of distributed computing' (2025)](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/) - 34 points, 3 comments
+5. [Bitsy](https://bitsy.org/) - 67 points, 3 comments
+6. [Firewood Splitting Simulator](https://screen.toys/firewood/) - 703 points, 222 comments
+7. [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4) - 303 points, 159 comments
+8. [A short history of Cerro Torre, the most controversial mountain (2012)](https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/) - 14 points, 2 comments
+9. [Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call](https://traceapp.info) - 123 points, 48 comments
+10. [Prove you're human by winning a claw machine](https://feralui.vercel.app/#/captcha) - 10 points, 1 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 121 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 122 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
