@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-15 12:20:19 (北京时间)
+> 🕐 最后更新：2026-06-16 12:11:40 (北京时间)
 
-1. [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) - 287 points, 127 comments
-2. [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/) - 32 points, 3 comments
-3. [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage) - 453 points, 99 comments
-4. [21 years and counting of 'eight fallacies of distributed computing' (2025)](https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/) - 34 points, 3 comments
-5. [Bitsy](https://bitsy.org/) - 67 points, 3 comments
-6. [Firewood Splitting Simulator](https://screen.toys/firewood/) - 703 points, 222 comments
-7. [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4) - 303 points, 159 comments
-8. [A short history of Cerro Torre, the most controversial mountain (2012)](https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/) - 14 points, 2 comments
-9. [Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call](https://traceapp.info) - 123 points, 48 comments
-10. [Prove you're human by winning a claw machine](https://feralui.vercel.app/#/captcha) - 10 points, 1 comments
+1. [Microsoft turns to AWS as GitHub faces AI capacity crunch](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch) - 99 points, 30 comments
+2. [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/) - 832 points, 166 comments
+3. [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/) - 224 points, 105 comments
+4. [Iroh 1.0](https://www.iroh.computer/blog/v1) - 1011 points, 298 comments
+5. [Amazon Announces Multibillion-Dollar Data Center in Missouri](https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/) - 68 points, 43 comments
+6. [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io) - 658 points, 137 comments
+7. [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](https://news.ycombinator.com/item?id=48542100) - 767 points, 365 comments
+8. [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/) - 169 points, 103 comments
+9. [Why I email complete strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/) - 98 points, 48 comments
+10. [The 90-year-old idea behind JEPA models: Canonical Correlation Analysis](https://shonczinner.github.io/posts/embedding-prediction/) - 20 points, 3 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 122 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 123 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
