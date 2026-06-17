@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-16 12:11:40 (北京时间)
+> 🕐 最后更新：2026-06-17 12:11:03 (北京时间)
 
-1. [Microsoft turns to AWS as GitHub faces AI capacity crunch](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch) - 99 points, 30 comments
-2. [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/) - 832 points, 166 comments
-3. [Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/) - 224 points, 105 comments
-4. [Iroh 1.0](https://www.iroh.computer/blog/v1) - 1011 points, 298 comments
-5. [Amazon Announces Multibillion-Dollar Data Center in Missouri](https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/) - 68 points, 43 comments
-6. [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io) - 658 points, 137 comments
-7. [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](https://news.ycombinator.com/item?id=48542100) - 767 points, 365 comments
-8. [I Love the Computer](https://michaelenger.com/blog/i-love-the-computer/) - 169 points, 103 comments
-9. [Why I email complete strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/) - 98 points, 48 comments
-10. [The 90-year-old idea behind JEPA models: Canonical Correlation Analysis](https://shonczinner.github.io/posts/embedding-prediction/) - 20 points, 3 comments
+1. [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon) - 505 points, 204 comments
+2. [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) - 1102 points, 447 comments
+3. [SpaceX to buy Cursor for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/) - 939 points, 1418 comments
+4. [Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/) - 136 points, 28 comments
+5. [Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/) - 112 points, 30 comments
+6. [TIL: You can make HTTP requests without curl using Bash /dev/TCP](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/) - 311 points, 155 comments
+7. [Calvin and Hobbes and the price of integrity](https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of) - 328 points, 147 comments
+8. [GPT‑NL: a sovereign language model for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/) - 155 points, 142 comments
+9. [Stop Using JWTs](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452) - 291 points, 166 comments
+10. [Has AI already killed self-help nonfiction books?](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/) - 197 points, 210 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 123 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 124 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
