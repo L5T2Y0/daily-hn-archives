@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-17 12:11:03 (北京时间)
+> 🕐 最后更新：2026-06-18 12:02:00 (北京时间)
 
-1. [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon) - 505 points, 204 comments
-2. [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) - 1102 points, 447 comments
-3. [SpaceX to buy Cursor for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/) - 939 points, 1418 comments
-4. [Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/) - 136 points, 28 comments
-5. [Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/) - 112 points, 30 comments
-6. [TIL: You can make HTTP requests without curl using Bash /dev/TCP](https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/) - 311 points, 155 comments
-7. [Calvin and Hobbes and the price of integrity](https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of) - 328 points, 147 comments
-8. [GPT‑NL: a sovereign language model for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/) - 155 points, 142 comments
-9. [Stop Using JWTs](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452) - 291 points, 166 comments
-10. [Has AI already killed self-help nonfiction books?](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/) - 197 points, 210 comments
+1. [Midjourney Medical](https://www.midjourney.com/medical/blogpost) - 238 points, 212 comments
+2. [Lore – Open source version control system designed for scalability](https://lore.org/) - 1033 points, 553 comments
+3. [Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921) - 95 points, 17 comments
+4. [US holds off blacklisting DeepSeek, more than 100 firms deemed security risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/) - 399 points, 442 comments
+5. [Storied Colors – a catalogue of named colors](https://storiedcolors.com/) - 114 points, 27 comments
+6. [[x86] AI Compute Extensions (ACE) Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/) - 13 points, 5 comments
+7. [Clojure Hosted on Go](https://github.com/glojurelang/glojure) - 52 points, 9 comments
+8. [Show HN: Spin Lab](https://srijanshukla.com/artifacts/spin-lab/) - 13 points, 3 comments
+9. [Loreline – Tools for writing interactive fiction](https://loreline.app/en/) - 96 points, 12 comments
+10. [U.S. science is in chaos](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/) - 738 points, 886 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 124 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 125 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
