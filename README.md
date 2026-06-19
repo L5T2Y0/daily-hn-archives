@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-18 12:02:00 (北京时间)
+> 🕐 最后更新：2026-06-19 12:21:08 (北京时间)
 
-1. [Midjourney Medical](https://www.midjourney.com/medical/blogpost) - 238 points, 212 comments
-2. [Lore – Open source version control system designed for scalability](https://lore.org/) - 1033 points, 553 comments
-3. [Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921) - 95 points, 17 comments
-4. [US holds off blacklisting DeepSeek, more than 100 firms deemed security risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/) - 399 points, 442 comments
-5. [Storied Colors – a catalogue of named colors](https://storiedcolors.com/) - 114 points, 27 comments
-6. [[x86] AI Compute Extensions (ACE) Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/) - 13 points, 5 comments
-7. [Clojure Hosted on Go](https://github.com/glojurelang/glojure) - 52 points, 9 comments
-8. [Show HN: Spin Lab](https://srijanshukla.com/artifacts/spin-lab/) - 13 points, 3 comments
-9. [Loreline – Tools for writing interactive fiction](https://loreline.app/en/) - 96 points, 12 comments
-10. [U.S. science is in chaos](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/) - 738 points, 886 comments
+1. [To study how chips work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610) - 82 points, 6 comments
+2. [Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885) - 6 points, 0 comments
+3. [How Japan's railways stayed one while splitting apart](https://arun.is/blog/jr-logo/) - 63 points, 44 comments
+4. [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/) - 137 points, 57 comments
+5. [Let's Encrypt has been down most of today](https://letsencrypt.status.io/#2026) - 3 points, 0 comments
+6. [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/) - 706 points, 161 comments
+7. [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/) - 44 points, 10 comments
+8. [Building a robotics research setup that lives next to my desk](https://dfdxlabs.com/research/2026/robotics-setup/) - 31 points, 4 comments
+9. [Cell-based architecture for resilient payment systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/) - 104 points, 38 comments
+10. [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas) - 290 points, 259 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 125 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 126 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
