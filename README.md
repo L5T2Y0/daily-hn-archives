@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-19 12:21:08 (北京时间)
+> 🕐 最后更新：2026-06-20 11:42:35 (北京时间)
 
-1. [To study how chips work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610) - 82 points, 6 comments
-2. [Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885) - 6 points, 0 comments
-3. [How Japan's railways stayed one while splitting apart](https://arun.is/blog/jr-logo/) - 63 points, 44 comments
-4. [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/) - 137 points, 57 comments
-5. [Let's Encrypt has been down most of today](https://letsencrypt.status.io/#2026) - 3 points, 0 comments
-6. [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/) - 706 points, 161 comments
-7. [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/) - 44 points, 10 comments
-8. [Building a robotics research setup that lives next to my desk](https://dfdxlabs.com/research/2026/robotics-setup/) - 31 points, 4 comments
-9. [Cell-based architecture for resilient payment systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/) - 104 points, 38 comments
-10. [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas) - 290 points, 259 comments
+1. [How to feed a dictator](https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film) - 89 points, 34 comments
+2. [Think of the children: How to force real ID for all internet traffic (2023)](https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/) - 143 points, 86 comments
+3. [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/) - 364 points, 201 comments
+4. [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/) - 496 points, 342 comments
+5. [I used sound waves to make espresso](https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929) - 215 points, 143 comments
+6. [Surprising Economics of Load-Balanced Systems](https://brooker.co.za/blog/2020/08/06/erlang.html) - 55 points, 17 comments
+7. [Data Compression Explained](https://mattmahoney.net/dc/dce.html) - 9 points, 0 comments
+8. [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/) - 699 points, 323 comments
+9. [Digital Printing of Arabic: explaining the problem](https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/) - 29 points, 5 comments
+10. [Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died](https://www.legacy.com/legacy/robert-bobby-prince-lll) - 244 points, 28 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 126 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 127 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
