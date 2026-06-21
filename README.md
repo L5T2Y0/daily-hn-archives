@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-06-14 10:29:36 (北京时间)
+> 🕐 最后更新：2026-06-21 10:31:00 (北京时间)
 
-**本周热门 (2026-06-01 至 2026-06-07)**
+**本周热门 (2026-06-08 至 2026-06-14)**
 
-1. [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco) - 1449 points, 345 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming
-2. [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) - 740 points, 298 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔧 Tools
-3. [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) - 614 points, 225 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming
-4. [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/) - 590 points, 262 comments
-   - 🌐 Web | ⚙️ DevOps | 🔒 Security
-5. [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting) - 556 points, 319 comments
-   - 🌐 Web | ⚙️ DevOps | 🔒 Security
-6. [I was recently diagnosed with anti-NMDA receptor encephalitis](https://burntsushi.net/encephalitis/) - 531 points, 166 comments
-   - 🌐 Web | 🔒 Security
-7. [Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm) - 530 points, 202 comments
-   - 🌐 Web | 🔒 Security
-8. [Mouseless – keyboard-driven control of macOS/Linux/Windows](https://mouseless.click) - 478 points, 201 comments
-   - 🌐 Web | 🔒 Security | 🔧 Tools
-9. [MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/) - 420 points, 178 comments
+1. [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) - 1881 points, 1473 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+2. [US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access) - 1269 points, 825 comments
    - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-10. [Dav2d](https://jbkempf.com/blog/2026/dav2d/) - 413 points, 155 comments
+3. [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/) - 1048 points, 244 comments
    - 🌐 Web | 🔒 Security
+4. [Show HN: Performative-UI – A react component library of design tropes](https://vorpus.github.io/performativeUI/) - 825 points, 162 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+5. [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html) - 768 points, 482 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+6. [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/) - 731 points, 184 comments
+   - 🌐 Web | 🔒 Security
+7. [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/) - 617 points, 202 comments
+   - 🌐 Web | 🔒 Security
+8. [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html) - 589 points, 290 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
+9. [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social) - 578 points, 419 comments
+   - 🌐 Web | 🔒 Security
+10. [πFS](https://github.com/philipl/pifs) - 568 points, 139 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
 
-📁 **[查看完整周报](weekly/week-2026-06-07.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-06-14.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
