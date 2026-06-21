@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-20 11:42:35 (北京时间)
+> 🕐 最后更新：2026-06-21 12:16:31 (北京时间)
 
-1. [How to feed a dictator](https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film) - 89 points, 34 comments
-2. [Think of the children: How to force real ID for all internet traffic (2023)](https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/) - 143 points, 86 comments
-3. [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/) - 364 points, 201 comments
-4. [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/) - 496 points, 342 comments
-5. [I used sound waves to make espresso](https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929) - 215 points, 143 comments
-6. [Surprising Economics of Load-Balanced Systems](https://brooker.co.za/blog/2020/08/06/erlang.html) - 55 points, 17 comments
-7. [Data Compression Explained](https://mattmahoney.net/dc/dce.html) - 9 points, 0 comments
-8. [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/) - 699 points, 323 comments
-9. [Digital Printing of Arabic: explaining the problem](https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/) - 29 points, 5 comments
-10. [Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died](https://www.legacy.com/legacy/robert-bobby-prince-lll) - 244 points, 28 comments
+1. [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland) - 145 points, 68 comments
+2. [Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/) - 81 points, 22 comments
+3. [Show HN: TownSquare, a tiny presence layer for websites](https://townsquare.cauenapier.com/) - 106 points, 40 comments
+4. [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe) - 120 points, 30 comments
+5. [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors) - 41 points, 15 comments
+6. [15-minute at-home Lyme disease tick test](https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/) - 66 points, 20 comments
+7. [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9) - 91 points, 17 comments
+8. [Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two) - 44 points, 15 comments
+9. [When I reject AI code even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/) - 77 points, 39 comments
+10. [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community) - 241 points, 70 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 127 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 128 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
