@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-21 12:16:31 (北京时间)
+> 🕐 最后更新：2026-06-22 12:18:09 (北京时间)
 
-1. [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland) - 145 points, 68 comments
-2. [Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/) - 81 points, 22 comments
-3. [Show HN: TownSquare, a tiny presence layer for websites](https://townsquare.cauenapier.com/) - 106 points, 40 comments
-4. [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe) - 120 points, 30 comments
-5. [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors) - 41 points, 15 comments
-6. [15-minute at-home Lyme disease tick test](https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/) - 66 points, 20 comments
-7. [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9) - 91 points, 17 comments
-8. [Project Fetch: Phase Two](https://www.anthropic.com/research/project-fetch-phase-two) - 44 points, 15 comments
-9. [When I reject AI code even if it works](https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/) - 77 points, 39 comments
-10. [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community) - 241 points, 70 comments
+1. [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/) - 315 points, 146 comments
+2. [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/) - 264 points, 89 comments
+3. [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/) - 48 points, 4 comments
+4. [Sakana Fugu](https://sakana.ai/fugu/) - 54 points, 20 comments
+5. [Memory Safe Inline Assembly](https://fil-c.org/inlineasm) - 48 points, 6 comments
+6. [Everything is logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html) - 149 points, 29 comments
+7. [There is minimal downside to switching to open models](https://www.marble.onl/posts/cancel_claude.html) - 106 points, 62 comments
+8. [The Flat Curve Society](https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b) - 13 points, 5 comments
+9. [1983 Northern Telecom Commodore Phone](https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/) - 32 points, 8 comments
+10. [How I play video games with spinal muscular atrophy](https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/) - 58 points, 9 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 128 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 129 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
