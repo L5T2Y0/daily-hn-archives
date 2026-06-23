@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-22 12:18:09 (北京时间)
+> 🕐 最后更新：2026-06-23 11:36:52 (北京时间)
 
-1. [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/) - 315 points, 146 comments
-2. [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/) - 264 points, 89 comments
-3. [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/) - 48 points, 4 comments
-4. [Sakana Fugu](https://sakana.ai/fugu/) - 54 points, 20 comments
-5. [Memory Safe Inline Assembly](https://fil-c.org/inlineasm) - 48 points, 6 comments
-6. [Everything is logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html) - 149 points, 29 comments
-7. [There is minimal downside to switching to open models](https://www.marble.onl/posts/cancel_claude.html) - 106 points, 62 comments
-8. [The Flat Curve Society](https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b) - 13 points, 5 comments
-9. [1983 Northern Telecom Commodore Phone](https://www.oldtelephoneroom.ca/1983-northern-telecom-commodore-phone/) - 32 points, 8 comments
-10. [How I play video games with spinal muscular atrophy](https://www.openassistivetech.org/how-i-actually-play-video-games-with-sma-the-tools-i-use-every-day/) - 58 points, 9 comments
+1. [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245) - 1302 points, 1178 comments
+2. [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/) - 65 points, 20 comments
+3. [Runing GLM-5.2 on local hardware](https://unsloth.ai/docs/models/glm-5.2) - 224 points, 101 comments
+4. [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140) - 20 points, 5 comments
+5. [Cyberdecks, going analog, and convivial technology](https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/) - 58 points, 28 comments
+6. [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero) - 120 points, 24 comments
+7. [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/) - 231 points, 84 comments
+8. [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/) - 122 points, 51 comments
+9. [1,700 free online courses from top universities](https://www.openculture.com/freeonlinecourses) - 77 points, 15 comments
+10. [Windows NT for GameCube/Wii](https://github.com/Wack0/entii-for-workcubes) - 30 points, 5 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 129 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 130 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
