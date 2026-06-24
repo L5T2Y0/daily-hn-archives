@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-23 11:36:52 (北京时间)
+> 🕐 最后更新：2026-06-24 11:37:46 (北京时间)
 
-1. [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245) - 1302 points, 1178 comments
-2. [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/) - 65 points, 20 comments
-3. [Runing GLM-5.2 on local hardware](https://unsloth.ai/docs/models/glm-5.2) - 224 points, 101 comments
-4. [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140) - 20 points, 5 comments
-5. [Cyberdecks, going analog, and convivial technology](https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/) - 58 points, 28 comments
-6. [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero) - 120 points, 24 comments
-7. [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/) - 231 points, 84 comments
-8. [Japanese symbols that speak without words](https://arun.is/blog/japan-symbols/) - 122 points, 51 comments
-9. [1,700 free online courses from top universities](https://www.openculture.com/freeonlinecourses) - 77 points, 15 comments
-10. [Windows NT for GameCube/Wii](https://github.com/Wack0/entii-for-workcubes) - 30 points, 5 comments
+1. [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/) - 110 points, 39 comments
+2. [Jerry's Map](http://www.jerrysmap.com/the-map) - 356 points, 49 comments
+3. [A man was gifted his dream car by Kevin Mitnick, who he helped put in prison](https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison) - 105 points, 44 comments
+4. [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/) - 329 points, 97 comments
+5. [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451) - 204 points, 19 comments
+6. [Printing Gaussian Splats](https://www.patreon.com/DanyBittel/posts/printing-splats-161333338) - 208 points, 19 comments
+7. [Usbliter8: an A12/A13 SecureROM Exploit](https://ps.tc/pages/blog-usbliter8.html) - 94 points, 18 comments
+8. [Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple) - 185 points, 57 comments
+9. [Extreme Heat conference cancelled due to extreme heat warning](https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/) - 202 points, 136 comments
+10. [Rhombus Language 1.0](https://blog.racket-lang.org/2026/06/rhombus-v1.0.html) - 92 points, 15 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 130 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 131 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
