@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-24 11:37:46 (北京时间)
+> 🕐 最后更新：2026-06-25 11:36:46 (北京时间)
 
-1. [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/) - 110 points, 39 comments
-2. [Jerry's Map](http://www.jerrysmap.com/the-map) - 356 points, 49 comments
-3. [A man was gifted his dream car by Kevin Mitnick, who he helped put in prison](https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison) - 105 points, 44 comments
-4. [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/) - 329 points, 97 comments
-5. [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451) - 204 points, 19 comments
-6. [Printing Gaussian Splats](https://www.patreon.com/DanyBittel/posts/printing-splats-161333338) - 208 points, 19 comments
-7. [Usbliter8: an A12/A13 SecureROM Exploit](https://ps.tc/pages/blog-usbliter8.html) - 94 points, 18 comments
-8. [Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple) - 185 points, 57 comments
-9. [Extreme Heat conference cancelled due to extreme heat warning](https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/) - 202 points, 136 comments
-10. [Rhombus Language 1.0](https://blog.racket-lang.org/2026/06/rhombus-v1.0.html) - 92 points, 15 comments
+1. [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) - 574 points, 344 comments
+2. [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475) - 83 points, 46 comments
+3. [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/) - 128 points, 233 comments
+4. [Ending All Respiratory Infections](https://blog.interceptfund.com/p/ending-respiratory-infections) - 63 points, 23 comments
+5. [Blogging can just be stating the obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/) - 102 points, 42 comments
+6. [Dostoyevsky isn't difficult](https://www.autodidacts.io/dostoyevsky-isnt-difficult/) - 62 points, 53 comments
+7. [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/) - 17 points, 3 comments
+8. [Qualcomm to Acquire Modular](https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/) - 160 points, 39 comments
+9. [Mixing Visual and Textual Code](https://arxiv.org/abs/2603.15855) - 18 points, 1 comments
+10. [RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/) - 356 points, 57 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 131 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 132 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
