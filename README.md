@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-25 11:36:46 (北京时间)
+> 🕐 最后更新：2026-06-26 11:44:39 (北京时间)
 
-1. [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) - 574 points, 344 comments
-2. [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475) - 83 points, 46 comments
-3. [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/) - 128 points, 233 comments
-4. [Ending All Respiratory Infections](https://blog.interceptfund.com/p/ending-respiratory-infections) - 63 points, 23 comments
-5. [Blogging can just be stating the obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/) - 102 points, 42 comments
-6. [Dostoyevsky isn't difficult](https://www.autodidacts.io/dostoyevsky-isnt-difficult/) - 62 points, 53 comments
-7. [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/) - 17 points, 3 comments
-8. [Qualcomm to Acquire Modular](https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/) - 160 points, 39 comments
-9. [Mixing Visual and Textual Code](https://arxiv.org/abs/2603.15855) - 18 points, 1 comments
-10. [RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/) - 356 points, 57 comments
+1. [Om Malik has died](https://om.co/2026/06/24/1966-2026/) - 587 points, 58 comments
+2. [Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true) - 127 points, 82 comments
+3. [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) - 1053 points, 232 comments
+4. [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/) - 64 points, 17 comments
+5. [Libre Barcode Project](https://graphicore.github.io/librebarcode/) - 7 points, 0 comments
+6. [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet) - 482 points, 232 comments
+7. [Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB](https://news.ycombinator.com/item?id=48644463) - 33 points, 13 comments
+8. [The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)](https://gchandbook.org/) - 73 points, 11 comments
+9. [A data race that doesn't compile](https://corentin-core.github.io/posts/ruxe-type-level-disjointness/) - 20 points, 5 comments
+10. [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/) - 124 points, 31 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 132 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 133 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
