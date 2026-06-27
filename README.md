@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-26 11:44:39 (北京时间)
+> 🕐 最后更新：2026-06-27 11:30:29 (北京时间)
 
-1. [Om Malik has died](https://om.co/2026/06/24/1966-2026/) - 587 points, 58 comments
-2. [Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true) - 127 points, 82 comments
-3. [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) - 1053 points, 232 comments
-4. [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/) - 64 points, 17 comments
-5. [Libre Barcode Project](https://graphicore.github.io/librebarcode/) - 7 points, 0 comments
-6. [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet) - 482 points, 232 comments
-7. [Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB](https://news.ycombinator.com/item?id=48644463) - 33 points, 13 comments
-8. [The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)](https://gchandbook.org/) - 73 points, 11 comments
-9. [A data race that doesn't compile](https://corentin-core.github.io/posts/ruxe-type-level-disjointness/) - 20 points, 5 comments
-10. [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/) - 124 points, 31 comments
+1. [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies) - 260 points, 252 comments
+2. [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/) - 881 points, 531 comments
+3. [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed) - 125 points, 50 comments
+4. [Show HN: Hacker News on a Train Station Style Flip Board](https://popflame.quickish.space/hn-flipboard/) - 25 points, 2 comments
+5. [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics) - 67 points, 30 comments
+6. [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map) - 71 points, 11 comments
+7. [MicroVMs: Run isolated sandboxes with full lifecycle control](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/) - 279 points, 159 comments
+8. [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/) - 875 points, 960 comments
+9. [Show HN: DBOSify – Drop-in Temporal replacement built on Postgres](https://github.com/dbos-inc/dbosify-py) - 32 points, 6 comments
+10. [Hellishly Slow Level 13 Deflate Compression](https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/) - 9 points, 0 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 133 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 134 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
