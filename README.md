@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-27 11:30:29 (北京时间)
+> 🕐 最后更新：2026-06-28 11:53:33 (北京时间)
 
-1. [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies) - 260 points, 252 comments
-2. [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/) - 881 points, 531 comments
-3. [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed) - 125 points, 50 comments
-4. [Show HN: Hacker News on a Train Station Style Flip Board](https://popflame.quickish.space/hn-flipboard/) - 25 points, 2 comments
-5. [AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics) - 67 points, 30 comments
-6. [A C++ implementation of a fast hash map and hash set using hopscotch hashing](https://github.com/Tessil/hopscotch-map) - 71 points, 11 comments
-7. [MicroVMs: Run isolated sandboxes with full lifecycle control](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/) - 279 points, 159 comments
-8. [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/) - 875 points, 960 comments
-9. [Show HN: DBOSify – Drop-in Temporal replacement built on Postgres](https://github.com/dbos-inc/dbosify-py) - 32 points, 6 comments
-10. [Hellishly Slow Level 13 Deflate Compression](https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/) - 9 points, 0 comments
+1. [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep) - 62 points, 9 comments
+2. [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev) - 57 points, 16 comments
+3. [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md) - 63 points, 3 comments
+4. [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html) - 91 points, 28 comments
+5. [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium) - 702 points, 279 comments
+6. [OpenRA](https://www.openra.net/) - 607 points, 123 comments
+7. [AI learns the “dark art” of RFIC design](https://spectrum.ieee.org/ai-radio-chip-design) - 204 points, 134 comments
+8. [Space Shuttle Endeavour's 20-story vertical display](https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack) - 28 points, 3 comments
+9. [Enhancing X11 Application Security with LXC](https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/) - 48 points, 13 comments
+10. [Response to AI slop is from Robin Williams](https://jayacunzo.com/blog/your-move-chief) - 89 points, 51 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 134 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 135 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
