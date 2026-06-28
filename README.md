@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-06-21 10:31:00 (北京时间)
+> 🕐 最后更新：2026-06-28 10:10:59 (北京时间)
 
-**本周热门 (2026-06-08 至 2026-06-14)**
+**本周热门 (2026-06-15 至 2026-06-21)**
 
-1. [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) - 1881 points, 1473 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-2. [US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access) - 1269 points, 825 comments
+1. [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) - 1102 points, 447 comments
    - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-3. [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/) - 1048 points, 244 comments
+2. [Lore – Open source version control system designed for scalability](https://lore.org/) - 1033 points, 553 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source | ⚡ Performance
+3. [Iroh 1.0](https://www.iroh.computer/blog/v1) - 1011 points, 298 comments
    - 🌐 Web | 🔒 Security
-4. [Show HN: Performative-UI – A react component library of design tropes](https://vorpus.github.io/performativeUI/) - 825 points, 162 comments
+4. [SpaceX to buy Cursor for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/) - 939 points, 1418 comments
+   - 🌐 Web | 🔒 Security
+5. [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/) - 832 points, 166 comments
+   - 🌐 Web | 🔒 Security
+6. [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](https://news.ycombinator.com/item?id=48542100) - 767 points, 365 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+7. [U.S. science is in chaos](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/) - 738 points, 886 comments
+   - 🌐 Web | 🔒 Security | 🔬 Science
+8. [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/) - 706 points, 161 comments
    - 🌐 Web | 🔒 Security | 📂 Open Source
-5. [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html) - 768 points, 482 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-6. [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/) - 731 points, 184 comments
+9. [Firewood Splitting Simulator](https://screen.toys/firewood/) - 703 points, 222 comments
    - 🌐 Web | 🔒 Security
-7. [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/) - 617 points, 202 comments
-   - 🌐 Web | 🔒 Security
-8. [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html) - 589 points, 290 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
-9. [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social) - 578 points, 419 comments
-   - 🌐 Web | 🔒 Security
-10. [πFS](https://github.com/philipl/pifs) - 568 points, 139 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
+10. [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/) - 699 points, 323 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🚀 Startup
 
-📁 **[查看完整周报](weekly/week-2026-06-14.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-06-21.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
