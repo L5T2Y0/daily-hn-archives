@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-29 11:58:32 (北京时间)
+> 🕐 最后更新：2026-06-30 11:41:11 (北京时间)
 
-1. [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026) - 16 points, 0 comments
-2. [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/) - 569 points, 263 comments
-3. [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html) - 219 points, 83 comments
-4. [Better Images of AI](https://betterimagesofai.org/) - 34 points, 18 comments
-5. [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/) - 342 points, 87 comments
-6. [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus) - 370 points, 487 comments
-7. [Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013) - 63 points, 12 comments
-8. [Deciphering Basmala](https://blog.plover.com/lang/bismillah.html) - 21 points, 5 comments
-9. [AI boom risks global financial crash, warn central bankers](https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/) - 86 points, 73 comments
-10. [TOP500 at ISC’26: We have a New Number 1 Supercomputer](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number) - 88 points, 46 comments
+1. [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/) - 683 points, 542 comments
+2. [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/) - 372 points, 211 comments
+3. [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/) - 279 points, 75 comments
+4. [Memory Safe Context Switching (longjmp, setjmp) in Fil-C](https://fil-c.org/context_switches) - 50 points, 19 comments
+5. [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/) - 44 points, 12 comments
+6. [Exploring PDP-1 Lisp (1960)](https://obsolescence.dev/pdp1-lisp-introduction.html) - 26 points, 14 comments
+7. [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully) - 380 points, 239 comments
+8. [Scientists find molecular-level evidence for two structures in liquid water](https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html) - 77 points, 28 comments
+9. [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1) - 170 points, 32 comments
+10. [30-year sentence for transporting zines is a five-alarm fire for free speech](https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/) - 384 points, 220 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 136 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 137 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
