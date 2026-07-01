@@ -81,32 +81,32 @@
 > 每月1号自动生成
 
 <!-- MONTHLY_SUMMARY_START -->
-> 🕐 最后更新：2026-06-01 11:41:43 (北京时间)
+> 🕐 最后更新：2026-07-01 11:29:48 (北京时间)
 
-**2026年05月精选**
+**2026年06月精选**
 
-1. [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) - 1297 points, 1042 comments
+1. [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) - 1881 points, 1473 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-2. [Talking to strangers at the gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/) - 1189 points, 562 comments
+2. [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco) - 1449 points, 345 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
+3. [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245) - 1302 points, 1178 comments
    - 🌐 Web | 🔒 Security
-3. [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license) - 1106 points, 366 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
-4. [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) - 1011 points, 365 comments
+4. [US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access) - 1269 points, 825 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+5. [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) - 1102 points, 447 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+6. [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) - 1053 points, 232 comments
    - 🌐 Web | 🔒 Security
-5. [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578) - 877 points, 383 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
-6. [VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226) - 871 points, 412 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source | 🔧 Tools
-7. [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) - 827 points, 619 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-8. [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) - 765 points, 952 comments
+7. [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/) - 1048 points, 244 comments
    - 🌐 Web | 🔒 Security
-9. [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) - 764 points, 298 comments
-   - 🌐 Web | 🔒 Security | 📱 Mobile
-10. [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) - 742 points, 178 comments
+8. [Lore – Open source version control system designed for scalability](https://lore.org/) - 1033 points, 553 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source | ⚡ Performance
+9. [Iroh 1.0](https://www.iroh.computer/blog/v1) - 1011 points, 298 comments
+   - 🌐 Web | 🔒 Security
+10. [SpaceX to buy Cursor for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/) - 939 points, 1418 comments
    - 🌐 Web | 🔒 Security
 
-📁 **[查看完整月报](monthly/month-2026-05.md)** | Top 50 热门文章
+📁 **[查看完整月报](monthly/month-2026-06.md)** | Top 50 热门文章
 <!-- MONTHLY_SUMMARY_END -->
 
 ---
