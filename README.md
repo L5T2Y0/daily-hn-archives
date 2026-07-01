@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-06-30 11:41:11 (北京时间)
+> 🕐 最后更新：2026-07-01 11:57:03 (北京时间)
 
-1. [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/) - 683 points, 542 comments
-2. [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/) - 372 points, 211 comments
-3. [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/) - 279 points, 75 comments
-4. [Memory Safe Context Switching (longjmp, setjmp) in Fil-C](https://fil-c.org/context_switches) - 50 points, 19 comments
-5. [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/) - 44 points, 12 comments
-6. [Exploring PDP-1 Lisp (1960)](https://obsolescence.dev/pdp1-lisp-introduction.html) - 26 points, 14 comments
-7. [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully) - 380 points, 239 comments
-8. [Scientists find molecular-level evidence for two structures in liquid water](https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html) - 77 points, 28 comments
-9. [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1) - 170 points, 32 comments
-10. [30-year sentence for transporting zines is a five-alarm fire for free speech](https://theintercept.com/2026/06/26/daniel-sanchez-estrada-zines-prairieland-free-speech/) - 384 points, 220 comments
+1. [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) - 938 points, 529 comments
+2. [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography) - 1505 points, 433 comments
+3. [Google copybara: moving code between repositories](https://github.com/google/copybara) - 88 points, 13 comments
+4. [From Julia to Rust: a differentiable tensor stack for scientific computing](https://tensor4all.org/blog/introducing-tenferro-rs/) - 27 points, 2 comments
+5. [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341) - 359 points, 154 comments
+6. [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens) - 25 points, 2 comments
+7. [Claude Science](https://claude.com/product/claude-science) - 389 points, 125 comments
+8. [From brain waves to words: a new path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1) - 121 points, 64 comments
+9. [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/) - 321 points, 127 comments
+10. [Leanstral 1.5](https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06) - 119 points, 26 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 137 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 138 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
