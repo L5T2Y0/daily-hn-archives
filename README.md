@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-01 11:57:03 (北京时间)
+> 🕐 最后更新：2026-07-02 11:38:02 (北京时间)
 
-1. [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) - 938 points, 529 comments
-2. [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography) - 1505 points, 433 comments
-3. [Google copybara: moving code between repositories](https://github.com/google/copybara) - 88 points, 13 comments
-4. [From Julia to Rust: a differentiable tensor stack for scientific computing](https://tensor4all.org/blog/introducing-tenferro-rs/) - 27 points, 2 comments
-5. [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341) - 359 points, 154 comments
-6. [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens) - 25 points, 2 comments
-7. [Claude Science](https://claude.com/product/claude-science) - 389 points, 125 comments
-8. [From brain waves to words: a new path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1) - 121 points, 64 comments
-9. [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/) - 321 points, 127 comments
-10. [Leanstral 1.5](https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06) - 119 points, 26 comments
+1. [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en) - 254 points, 234 comments
+2. [Building an Open-Source Robot Vacuum – Meet Oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/) - 81 points, 8 comments
+3. [Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/) - 262 points, 55 comments
+4. [For first time, a cell built from scratch grows and divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/) - 768 points, 259 comments
+5. [Global review confirms mRNA vaccines are safe, effective and full of promise](https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/) - 175 points, 129 comments
+6. [Bring Back Crappy Forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/) - 21 points, 9 comments
+7. [What to learn to be a graphics programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/) - 260 points, 141 comments
+8. [Show HN: Meow – The 4th and final JavaScript runtime and toolchain](https://meow.style) - 6 points, 2 comments
+9. [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/) - 623 points, 654 comments
+10. [The <Usermedia> HTML Element](https://developer.chrome.com/blog/usermedia-html-element) - 47 points, 22 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 138 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 139 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
