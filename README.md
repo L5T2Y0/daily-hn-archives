@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-02 11:38:02 (北京时间)
+> 🕐 最后更新：2026-07-03 11:18:16 (北京时间)
 
-1. [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en) - 254 points, 234 comments
-2. [Building an Open-Source Robot Vacuum – Meet Oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/) - 81 points, 8 comments
-3. [Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/) - 262 points, 55 comments
-4. [For first time, a cell built from scratch grows and divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/) - 768 points, 259 comments
-5. [Global review confirms mRNA vaccines are safe, effective and full of promise](https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/) - 175 points, 129 comments
-6. [Bring Back Crappy Forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/) - 21 points, 9 comments
-7. [What to learn to be a graphics programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/) - 260 points, 141 comments
-8. [Show HN: Meow – The 4th and final JavaScript runtime and toolchain](https://meow.style) - 6 points, 2 comments
-9. [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/) - 623 points, 654 comments
-10. [The <Usermedia> HTML Element](https://developer.chrome.com/blog/usermedia-html-element) - 47 points, 22 comments
+1. [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) - 565 points, 99 comments
+2. [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc) - 164 points, 31 comments
+3. [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts) - 49 points, 69 comments
+4. [Ask HN: Looking for work, donations, friendship, or advisors](https://cjohnson.io/history) - 5 points, 2 comments
+5. [Right to Local Intelligence](https://righttointelligence.org/) - 57 points, 21 comments
+6. [Reality has a surprising amount of detail (2017)](https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) - 164 points, 61 comments
+7. [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438) - 416 points, 190 comments
+8. [Exapunks (2018)](https://www.zachtronics.com/exapunks/) - 229 points, 82 comments
+9. [An American Privacy Emergency](https://scottaaronson.blog/?p=9902) - 192 points, 60 comments
+10. [PeerTube is a free, decentralized and federated video platform](https://github.com/Chocobozzz/PeerTube) - 536 points, 243 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 139 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 140 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
