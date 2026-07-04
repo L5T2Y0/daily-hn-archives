@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-03 11:18:16 (北京时间)
+> 🕐 最后更新：2026-07-04 10:57:00 (北京时间)
 
-1. [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) - 565 points, 99 comments
-2. [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc) - 164 points, 31 comments
-3. [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts) - 49 points, 69 comments
-4. [Ask HN: Looking for work, donations, friendship, or advisors](https://cjohnson.io/history) - 5 points, 2 comments
-5. [Right to Local Intelligence](https://righttointelligence.org/) - 57 points, 21 comments
-6. [Reality has a surprising amount of detail (2017)](https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) - 164 points, 61 comments
-7. [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438) - 416 points, 190 comments
-8. [Exapunks (2018)](https://www.zachtronics.com/exapunks/) - 229 points, 82 comments
-9. [An American Privacy Emergency](https://scottaaronson.blog/?p=9902) - 192 points, 60 comments
-10. [PeerTube is a free, decentralized and federated video platform](https://github.com/Chocobozzz/PeerTube) - 536 points, 243 comments
+1. [Giant trees have no trouble pumping water to top branches](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/) - 108 points, 52 comments
+2. [Leanstral 1.5: Proof Abundance for All](https://mistral.ai/news/leanstral-1-5/) - 105 points, 31 comments
+3. [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/) - 33 points, 7 comments
+4. [GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell](https://www.wafer.ai/blog/glm52-amd) - 114 points, 30 comments
+5. [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge) - 78 points, 17 comments
+6. [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see) - 49 points, 8 comments
+7. [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng) - 143 points, 43 comments
+8. [The firefighting system of the Van der Heyden brothers in 17th century Amsterdam](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/) - 50 points, 11 comments
+9. [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) - 292 points, 127 comments
+10. [Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/) - 36 points, 2 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 140 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 141 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
