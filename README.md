@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-06-28 10:10:59 (北京时间)
+> 🕐 最后更新：2026-07-05 09:51:47 (北京时间)
 
-**本周热门 (2026-06-15 至 2026-06-21)**
+**本周热门 (2026-06-22 至 2026-06-28)**
 
-1. [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) - 1102 points, 447 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-2. [Lore – Open source version control system designed for scalability](https://lore.org/) - 1033 points, 553 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source | ⚡ Performance
-3. [Iroh 1.0](https://www.iroh.computer/blog/v1) - 1011 points, 298 comments
+1. [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245) - 1302 points, 1178 comments
    - 🌐 Web | 🔒 Security
-4. [SpaceX to buy Cursor for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/) - 939 points, 1418 comments
+2. [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) - 1053 points, 232 comments
    - 🌐 Web | 🔒 Security
-5. [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/) - 832 points, 166 comments
-   - 🌐 Web | 🔒 Security
-6. [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](https://news.ycombinator.com/item?id=48542100) - 767 points, 365 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-7. [U.S. science is in chaos](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/) - 738 points, 886 comments
-   - 🌐 Web | 🔒 Security | 🔬 Science
-8. [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/) - 706 points, 161 comments
+3. [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/) - 881 points, 531 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
+4. [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/) - 875 points, 960 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔧 Tools
+5. [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium) - 702 points, 279 comments
    - 🌐 Web | 🔒 Security | 📂 Open Source
-9. [Firewood Splitting Simulator](https://screen.toys/firewood/) - 703 points, 222 comments
+6. [OpenRA](https://www.openra.net/) - 607 points, 123 comments
    - 🌐 Web | 🔒 Security
-10. [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/) - 699 points, 323 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🚀 Startup
+7. [Om Malik has died](https://om.co/2026/06/24/1966-2026/) - 587 points, 58 comments
+   - 🌐 Web | 🔒 Security
+8. [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) - 574 points, 344 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+9. [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet) - 482 points, 232 comments
+   - 🌐 Web | 🔒 Security | 🔬 Science
+10. [Jerry's Map](http://www.jerrysmap.com/the-map) - 356 points, 49 comments
+   - 🌐 Web
 
-📁 **[查看完整周报](weekly/week-2026-06-21.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-06-28.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
