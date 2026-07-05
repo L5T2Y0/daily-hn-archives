@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-04 10:57:00 (北京时间)
+> 🕐 最后更新：2026-07-05 11:27:18 (北京时间)
 
-1. [Giant trees have no trouble pumping water to top branches](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/) - 108 points, 52 comments
-2. [Leanstral 1.5: Proof Abundance for All](https://mistral.ai/news/leanstral-1-5/) - 105 points, 31 comments
-3. [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/) - 33 points, 7 comments
-4. [GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell](https://www.wafer.ai/blog/glm52-amd) - 114 points, 30 comments
-5. [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge) - 78 points, 17 comments
-6. [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see) - 49 points, 8 comments
-7. [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng) - 143 points, 43 comments
-8. [The firefighting system of the Van der Heyden brothers in 17th century Amsterdam](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/) - 50 points, 11 comments
-9. [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) - 292 points, 127 comments
-10. [Soatok's Informal Guide to Threat Models](https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/) - 36 points, 2 comments
+1. [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main) - 388 points, 147 comments
+2. [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364) - 173 points, 55 comments
+3. [Jellyfish can heal wounds in minutes. Scientists want their secrets](https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets) - 54 points, 12 comments
+4. [Google Books (or similar) all book scans – $200k bounty (2025)](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234) - 363 points, 196 comments
+5. [Leaking YouTube creators' private videos](https://javoriuski.com/post/youtube) - 514 points, 285 comments
+6. [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/) - 115 points, 35 comments
+7. [Atomic Force Microscope high-speed video, stainless etching, bacteria, and more](https://www.youtube.com/watch?v=DyIQkqBXhS0) - 15 points, 0 comments
+8. [Explanation of everything you can see in htop/top on Linux (2019)](https://peteris.rocks/blog/htop/) - 413 points, 53 comments
+9. [Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams](https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/) - 20 points, 4 comments
+10. [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066) - 278 points, 128 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 141 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 142 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
