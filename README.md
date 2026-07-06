@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-05 11:27:18 (北京时间)
+> 🕐 最后更新：2026-07-06 11:35:00 (北京时间)
 
-1. [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main) - 388 points, 147 comments
-2. [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364) - 173 points, 55 comments
-3. [Jellyfish can heal wounds in minutes. Scientists want their secrets](https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets) - 54 points, 12 comments
-4. [Google Books (or similar) all book scans – $200k bounty (2025)](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234) - 363 points, 196 comments
-5. [Leaking YouTube creators' private videos](https://javoriuski.com/post/youtube) - 514 points, 285 comments
-6. [Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/) - 115 points, 35 comments
-7. [Atomic Force Microscope high-speed video, stainless etching, bacteria, and more](https://www.youtube.com/watch?v=DyIQkqBXhS0) - 15 points, 0 comments
-8. [Explanation of everything you can see in htop/top on Linux (2019)](https://peteris.rocks/blog/htop/) - 413 points, 53 comments
-9. [Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams](https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/) - 20 points, 4 comments
-10. [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066) - 278 points, 128 comments
+1. [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151) - 106 points, 56 comments
+2. [OpenPrinter](https://www.opentools.studio/) - 518 points, 123 comments
+3. [Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt) - 113 points, 35 comments
+4. [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/) - 114 points, 29 comments
+5. [Organic Maps](https://organicmaps.app/) - 840 points, 231 comments
+6. [The Sneakerweb](https://sneakerweb.org/) - 20 points, 5 comments
+7. [Does Code Cleanliness Affect Coding Agents?](https://arxiv.org/abs/2605.20049) - 49 points, 22 comments
+8. [Show HN: Homegames. An open-source game platform I've been making for 8 years](https://homegames.io) - 102 points, 32 comments
+9. [Completing a computer science degree on Coursera](https://notesbylex.com/completing-a-computer-science-degree-on-coursera) - 125 points, 94 comments
+10. [The Age of Personalized Hardware Is Coming](https://geastack.com/blog-the-age-of-personalized-hardware-is-coming) - 11 points, 1 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 142 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 143 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
