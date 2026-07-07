@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-06 11:35:00 (北京时间)
+> 🕐 最后更新：2026-07-07 11:25:57 (北京时间)
 
-1. [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151) - 106 points, 56 comments
-2. [OpenPrinter](https://www.opentools.studio/) - 518 points, 123 comments
-3. [Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt) - 113 points, 35 comments
-4. [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/) - 114 points, 29 comments
-5. [Organic Maps](https://organicmaps.app/) - 840 points, 231 comments
-6. [The Sneakerweb](https://sneakerweb.org/) - 20 points, 5 comments
-7. [Does Code Cleanliness Affect Coding Agents?](https://arxiv.org/abs/2605.20049) - 49 points, 22 comments
-8. [Show HN: Homegames. An open-source game platform I've been making for 8 years](https://homegames.io) - 102 points, 32 comments
-9. [Completing a computer science degree on Coursera](https://notesbylex.com/completing-a-computer-science-degree-on-coursera) - 125 points, 94 comments
-10. [The Age of Personalized Hardware Is Coming](https://geastack.com/blog-the-age-of-personalized-hardware-is-coming) - 11 points, 1 comments
+1. [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle) - 204 points, 123 comments
+2. [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one) - 473 points, 190 comments
+3. [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home) - 82 points, 20 comments
+4. [CoMaps – FOSS Offline Maps](https://www.comaps.app/) - 349 points, 71 comments
+5. [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) - 216 points, 138 comments
+6. [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/) - 109 points, 33 comments
+7. [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals) - 35 points, 8 comments
+8. [A global workspace in language models](https://www.anthropic.com/research/global-workspace) - 295 points, 105 comments
+9. [Pruning RAG context down to what the answer actually needs](https://www.kapa.ai/blog/how-we-prune-rag-context) - 62 points, 6 comments
+10. [A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku](https://arxiv.org/abs/2607.02112) - 32 points, 5 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 143 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 144 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
