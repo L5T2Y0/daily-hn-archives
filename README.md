@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-07 11:25:57 (北京时间)
+> 🕐 最后更新：2026-07-08 10:43:08 (北京时间)
 
-1. [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle) - 204 points, 123 comments
-2. [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one) - 473 points, 190 comments
-3. [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home) - 82 points, 20 comments
-4. [CoMaps – FOSS Offline Maps](https://www.comaps.app/) - 349 points, 71 comments
-5. [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) - 216 points, 138 comments
-6. [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/) - 109 points, 33 comments
-7. [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals) - 35 points, 8 comments
-8. [A global workspace in language models](https://www.anthropic.com/research/global-workspace) - 295 points, 105 comments
-9. [Pruning RAG context down to what the answer actually needs](https://www.kapa.ai/blog/how-we-prune-rag-context) - 62 points, 6 comments
-10. [A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku](https://arxiv.org/abs/2607.02112) - 32 points, 5 comments
+1. [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193) - 118 points, 49 comments
+2. [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560) - 40 points, 7 comments
+3. [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/) - 304 points, 69 comments
+4. [Canada's only watchmaking school still ticking after 80 years](https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211) - 42 points, 6 comments
+5. [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/) - 705 points, 171 comments
+6. [Structure and Interpretation of Computer Programs Video Lectures (1986)](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) - 35 points, 0 comments
+7. [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview) - 462 points, 149 comments
+8. [Show HN: Chiptune Radio](https://chiptune-radio.alephvoid.com/) - 16 points, 4 comments
+9. [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong) - 5 points, 1 comments
+10. [Show HN: Davit, a Apple Containers UI](https://davit.app) - 211 points, 47 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 144 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 145 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
