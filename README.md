@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-08 10:43:08 (北京时间)
+> 🕐 最后更新：2026-07-09 11:19:36 (北京时间)
 
-1. [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193) - 118 points, 49 comments
-2. [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560) - 40 points, 7 comments
-3. [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/) - 304 points, 69 comments
-4. [Canada's only watchmaking school still ticking after 80 years](https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211) - 42 points, 6 comments
-5. [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/) - 705 points, 171 comments
-6. [Structure and Interpretation of Computer Programs Video Lectures (1986)](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) - 35 points, 0 comments
-7. [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview) - 462 points, 149 comments
-8. [Show HN: Chiptune Radio](https://chiptune-radio.alephvoid.com/) - 16 points, 4 comments
-9. [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong) - 5 points, 1 comments
-10. [Show HN: Davit, a Apple Containers UI](https://davit.app) - 211 points, 47 comments
+1. [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02) - 413 points, 81 comments
+2. [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/) - 115 points, 69 comments
+3. [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source) - 781 points, 207 comments
+4. [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/) - 175 points, 66 comments
+5. [Remote Attestation](https://www.liamcvw.com/p/remote-attestation) - 37 points, 18 comments
+6. [Mistral's Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/) - 426 points, 97 comments
+7. [Cloudflare Drop](https://www.cloudflare.com/drop/) - 291 points, 143 comments
+8. [Patching MechCommander's "left arm bug" for fun and profit](https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/) - 20 points, 8 comments
+9. [Unicode's transliteration rules are Turing-complete](https://seriot.ch/computation/uts35/) - 48 points, 13 comments
+10. [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/) - 219 points, 78 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 145 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 146 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
