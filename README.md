@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-09 11:19:36 (北京时间)
+> 🕐 最后更新：2026-07-10 11:21:21 (北京时间)
 
-1. [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02) - 413 points, 81 comments
-2. [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/) - 115 points, 69 comments
-3. [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source) - 781 points, 207 comments
-4. [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/) - 175 points, 66 comments
-5. [Remote Attestation](https://www.liamcvw.com/p/remote-attestation) - 37 points, 18 comments
-6. [Mistral's Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/) - 426 points, 97 comments
-7. [Cloudflare Drop](https://www.cloudflare.com/drop/) - 291 points, 143 comments
-8. [Patching MechCommander's "left arm bug" for fun and profit](https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/) - 20 points, 8 comments
-9. [Unicode's transliteration rules are Turing-complete](https://seriot.ch/computation/uts35/) - 48 points, 13 comments
-10. [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/) - 219 points, 78 comments
+1. [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri) - 434 points, 111 comments
+2. [Focus](https://boz.com/articles/focus) - 52 points, 29 comments
+3. [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) - 1043 points, 505 comments
+4. [GPT-5.6](https://openai.com/index/gpt-5-6/) - 1102 points, 800 comments
+5. [Show HN: 18 Words](https://18words.com/) - 853 points, 288 comments
+6. [Train sim created by just one person is being called the best ever made](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429) - 332 points, 125 comments
+7. [Star Just Ate a Planet, and It's Not Done Yet](https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html) - 19 points, 24 comments
+8. [My Story of 3D Realms / Apogee Part I (2020)](https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/) - 45 points, 1 comments
+9. [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/) - 145 points, 57 comments
+10. [Hy3](https://hy.tencent.com/research/hy3) - 402 points, 87 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 146 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 147 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
