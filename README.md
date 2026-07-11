@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-10 11:21:21 (北京时间)
+> 🕐 最后更新：2026-07-11 10:40:08 (北京时间)
 
-1. [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri) - 434 points, 111 comments
-2. [Focus](https://boz.com/articles/focus) - 52 points, 29 comments
-3. [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) - 1043 points, 505 comments
-4. [GPT-5.6](https://openai.com/index/gpt-5-6/) - 1102 points, 800 comments
-5. [Show HN: 18 Words](https://18words.com/) - 853 points, 288 comments
-6. [Train sim created by just one person is being called the best ever made](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429) - 332 points, 125 comments
-7. [Star Just Ate a Planet, and It's Not Done Yet](https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html) - 19 points, 24 comments
-8. [My Story of 3D Realms / Apogee Part I (2020)](https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/) - 45 points, 1 comments
-9. [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/) - 145 points, 57 comments
-10. [Hy3](https://hy.tencent.com/research/hy3) - 402 points, 87 comments
+1. [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) - 115 points, 41 comments
+2. [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) - 466 points, 175 comments
+3. [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) - 605 points, 289 comments
+4. [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan) - 27 points, 3 comments
+5. [The footgun of right-to-left decorative characters](https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters) - 12 points, 0 comments
+6. [An update on residential proxies and the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/) - 97 points, 88 comments
+7. [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) - 360 points, 293 comments
+8. [SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/) - 87 points, 279 comments
+9. [Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit](https://mimo.xiaomi.com/blog/mimo-v2-5-inference) - 47 points, 18 comments
+10. [Combustion engine web-based simulator](https://combustionlab.net) - 122 points, 54 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 147 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 148 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
