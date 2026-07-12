@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-11 10:40:08 (北京时间)
+> 🕐 最后更新：2026-07-12 10:47:45 (北京时间)
 
-1. [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) - 115 points, 41 comments
-2. [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) - 466 points, 175 comments
-3. [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) - 605 points, 289 comments
-4. [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan) - 27 points, 3 comments
-5. [The footgun of right-to-left decorative characters](https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters) - 12 points, 0 comments
-6. [An update on residential proxies and the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/) - 97 points, 88 comments
-7. [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) - 360 points, 293 comments
-8. [SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth](https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/) - 87 points, 279 comments
-9. [Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit](https://mimo.xiaomi.com/blog/mimo-v2-5-inference) - 47 points, 18 comments
-10. [Combustion engine web-based simulator](https://combustionlab.net) - 122 points, 54 comments
+1. [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm) - 113 points, 28 comments
+2. [A pure scheme web programming tool](https://goeteia.dev) - 21 points, 11 comments
+3. [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html) - 30 points, 23 comments
+4. [What xAI's Grok Build CLI Actually Sends to xAI](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547) - 18 points, 1 comments
+5. [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/) - 7 points, 0 comments
+6. [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org) - 189 points, 83 comments
+7. [I Did Not Kill Stanley Lieber: How to Draw (With 9front)](https://triapul.cz/automa/i_did_not_kill_stanley_lieber) - 17 points, 2 comments
+8. [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy) - 67 points, 17 comments
+9. [Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom) - 170 points, 57 comments
+10. [Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts](https://arxiv.org/abs/2607.07267) - 58 points, 7 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 148 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 149 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
