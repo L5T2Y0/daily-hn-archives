@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-07-05 09:51:47 (北京时间)
+> 🕐 最后更新：2026-07-12 09:25:54 (北京时间)
 
-**本周热门 (2026-06-22 至 2026-06-28)**
+**本周热门 (2026-06-29 至 2026-07-05)**
 
-1. [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245) - 1302 points, 1178 comments
-   - 🌐 Web | 🔒 Security
-2. [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) - 1053 points, 232 comments
-   - 🌐 Web | 🔒 Security
-3. [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/) - 881 points, 531 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-4. [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/) - 875 points, 960 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔧 Tools
-5. [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium) - 702 points, 279 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
-6. [OpenRA](https://www.openra.net/) - 607 points, 123 comments
-   - 🌐 Web | 🔒 Security
-7. [Om Malik has died](https://om.co/2026/06/24/1966-2026/) - 587 points, 58 comments
-   - 🌐 Web | 🔒 Security
-8. [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) - 574 points, 344 comments
+1. [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography) - 1505 points, 433 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+2. [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) - 938 points, 529 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-9. [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet) - 482 points, 232 comments
-   - 🌐 Web | 🔒 Security | 🔬 Science
-10. [Jerry's Map](http://www.jerrysmap.com/the-map) - 356 points, 49 comments
-   - 🌐 Web
+3. [For first time, a cell built from scratch grows and divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/) - 768 points, 259 comments
+   - 🌐 Web | 🔒 Security | 🔧 Tools
+4. [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/) - 683 points, 542 comments
+   - 🌐 Web | 🔒 Security
+5. [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/) - 623 points, 654 comments
+   - 🌐 Web | 🔒 Security
+6. [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/) - 569 points, 263 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | ⚡ Performance
+7. [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) - 565 points, 99 comments
+   - 🌐 Web | 🔒 Security
+8. [PeerTube is a free, decentralized and federated video platform](https://github.com/Chocobozzz/PeerTube) - 536 points, 243 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source | 🔧 Tools
+9. [Leaking YouTube creators' private videos](https://javoriuski.com/post/youtube) - 514 points, 285 comments
+   - 🌐 Web | 🔒 Security | 🔧 Tools
+10. [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438) - 416 points, 190 comments
+   - 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-06-28.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-07-05.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
