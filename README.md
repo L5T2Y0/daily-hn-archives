@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-12 10:47:45 (北京时间)
+> 🕐 最后更新：2026-07-13 10:49:16 (北京时间)
 
-1. [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm) - 113 points, 28 comments
-2. [A pure scheme web programming tool](https://goeteia.dev) - 21 points, 11 comments
-3. [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html) - 30 points, 23 comments
-4. [What xAI's Grok Build CLI Actually Sends to xAI](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547) - 18 points, 1 comments
-5. [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/) - 7 points, 0 comments
-6. [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org) - 189 points, 83 comments
-7. [I Did Not Kill Stanley Lieber: How to Draw (With 9front)](https://triapul.cz/automa/i_did_not_kill_stanley_lieber) - 17 points, 2 comments
-8. [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy) - 67 points, 17 comments
-9. [Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom) - 170 points, 57 comments
-10. [Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts](https://arxiv.org/abs/2607.07267) - 58 points, 7 comments
+1. [Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/) - 333 points, 160 comments
+2. [GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/) - 109 points, 24 comments
+3. [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/) - 86 points, 22 comments
+4. [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html) - 157 points, 9 comments
+5. [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html) - 57 points, 10 comments
+6. [So you want to learn physics (second edition, 2021)](https://www.susanrigetti.com/physics) - 115 points, 13 comments
+7. [Why Vanilla JavaScript](https://guseyn.com/html/posts/why-vanilla-js.html) - 69 points, 28 comments
+8. [Modernizing Property Tax Assessments in Allegheny County](https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county) - 15 points, 1 comments
+9. [Ask HN: What Are You Working On? (July 2026)](https://news.ycombinator.com/item?id=48884984) - 84 points, 230 comments
+10. [Old and new apps, via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) - 420 points, 123 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 149 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 150 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
