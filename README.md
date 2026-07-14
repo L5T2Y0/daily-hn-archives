@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-13 10:49:16 (北京时间)
+> 🕐 最后更新：2026-07-14 10:30:34 (北京时间)
 
-1. [Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/) - 333 points, 160 comments
-2. [GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/) - 109 points, 24 comments
-3. [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/) - 86 points, 22 comments
-4. [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html) - 157 points, 9 comments
-5. [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html) - 57 points, 10 comments
-6. [So you want to learn physics (second edition, 2021)](https://www.susanrigetti.com/physics) - 115 points, 13 comments
-7. [Why Vanilla JavaScript](https://guseyn.com/html/posts/why-vanilla-js.html) - 69 points, 28 comments
-8. [Modernizing Property Tax Assessments in Allegheny County](https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county) - 15 points, 1 comments
-9. [Ask HN: What Are You Working On? (July 2026)](https://news.ycombinator.com/item?id=48884984) - 84 points, 230 comments
-10. [Old and new apps, via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) - 420 points, 123 comments
+1. [The Git history command deserves more attention](https://lalitm.com/post/git-history/) - 62 points, 32 comments
+2. [Building and shipping Mac and iOS apps without opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) - 327 points, 142 comments
+3. [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) - 463 points, 185 comments
+4. [Success may not matter if you aren't doing what you love](https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter) - 35 points, 9 comments
+5. [An Englishwoman who sketched India before photography took hold](https://www.bbc.com/news/articles/cm2drrv6q54o) - 56 points, 13 comments
+6. [MorphoHDL: A minimalistic language for growing circuits](https://paradigms-of-intelligence.github.io/morpho/) - 15 points, 1 comments
+7. [Fundamentals of Wireless Communication](https://web.stanford.edu/~dntse/wireless_book.html) - 4 points, 0 comments
+8. [Building Food Metadata with LLM Juries](https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/) - 5 points, 0 comments
+9. [World-First 'Super Alloy' Could Transform the Way Metals Are Made](https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made) - 14 points, 4 comments
+10. [Is x86 ready to ACE it?](https://chipsandcheese.com/p/is-x86-ready-to-ace-it) - 4 points, 0 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 150 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 151 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
