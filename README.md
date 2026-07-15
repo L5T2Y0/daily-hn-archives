@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-14 10:30:34 (北京时间)
+> 🕐 最后更新：2026-07-15 10:28:46 (北京时间)
 
-1. [The Git history command deserves more attention](https://lalitm.com/post/git-history/) - 62 points, 32 comments
-2. [Building and shipping Mac and iOS apps without opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) - 327 points, 142 comments
-3. [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) - 463 points, 185 comments
-4. [Success may not matter if you aren't doing what you love](https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter) - 35 points, 9 comments
-5. [An Englishwoman who sketched India before photography took hold](https://www.bbc.com/news/articles/cm2drrv6q54o) - 56 points, 13 comments
-6. [MorphoHDL: A minimalistic language for growing circuits](https://paradigms-of-intelligence.github.io/morpho/) - 15 points, 1 comments
-7. [Fundamentals of Wireless Communication](https://web.stanford.edu/~dntse/wireless_book.html) - 4 points, 0 comments
-8. [Building Food Metadata with LLM Juries](https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/) - 5 points, 0 comments
-9. [World-First 'Super Alloy' Could Transform the Way Metals Are Made](https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made) - 14 points, 4 comments
-10. [Is x86 ready to ACE it?](https://chipsandcheese.com/p/is-x86-ready-to-ace-it) - 4 points, 0 comments
+1. [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/) - 103 points, 35 comments
+2. [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins) - 37 points, 14 comments
+3. [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) - 447 points, 169 comments
+4. [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/) - 104 points, 66 comments
+5. [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) - 354 points, 168 comments
+6. [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf) - 96 points, 41 comments
+7. [Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel](https://www.starfleetmath.com/) - 31 points, 6 comments
+8. [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left) - 263 points, 110 comments
+9. [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/) - 734 points, 447 comments
+10. [C++20 Improved the For-Loop Syntax](https://lzon.ca/posts/tips/cpp-for-range-init/) - 30 points, 35 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 151 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 152 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
