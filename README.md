@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-15 10:28:46 (北京时间)
+> 🕐 最后更新：2026-07-16 10:36:49 (北京时间)
 
-1. [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/) - 103 points, 35 comments
-2. [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins) - 37 points, 14 comments
-3. [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) - 447 points, 169 comments
-4. [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/) - 104 points, 66 comments
-5. [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) - 354 points, 168 comments
-6. [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf) - 96 points, 41 comments
-7. [Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel](https://www.starfleetmath.com/) - 31 points, 6 comments
-8. [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left) - 263 points, 110 comments
-9. [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/) - 734 points, 447 comments
-10. [C++20 Improved the For-Loop Syntax](https://lzon.ca/posts/tips/cpp-for-range-init/) - 30 points, 35 comments
+1. [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) - 728 points, 185 comments
+2. [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/) - 132 points, 54 comments
+3. [Grok Build is open source](https://github.com/xai-org/grok-build) - 287 points, 326 comments
+4. [G# – A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/) - 28 points, 3 comments
+5. [Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf) - 95 points, 43 comments
+6. [Stripe and Advent have made a joint offer to acquire PayPal – sources](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/) - 361 points, 212 comments
+7. [Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials) - 42 points, 10 comments
+8. [LLM Networking with MikroTik](https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html) - 52 points, 17 comments
+9. [Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU](https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/) - 238 points, 157 comments
+10. [Show HN: One More Letter](https://playonemoreletter.com/) - 43 points, 30 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 152 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 153 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
