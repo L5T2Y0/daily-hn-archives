@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-16 10:36:49 (北京时间)
+> 🕐 最后更新：2026-07-17 10:39:35 (北京时间)
 
-1. [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) - 728 points, 185 comments
-2. [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/) - 132 points, 54 comments
-3. [Grok Build is open source](https://github.com/xai-org/grok-build) - 287 points, 326 comments
-4. [G# – A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/) - 28 points, 3 comments
-5. [Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf) - 95 points, 43 comments
-6. [Stripe and Advent have made a joint offer to acquire PayPal – sources](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/) - 361 points, 212 comments
-7. [Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials) - 42 points, 10 comments
-8. [LLM Networking with MikroTik](https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html) - 52 points, 17 comments
-9. [Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU](https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/) - 238 points, 157 comments
-10. [Show HN: One More Letter](https://playonemoreletter.com/) - 43 points, 30 comments
+1. [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) - 1212 points, 753 comments
+2. [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) - 557 points, 124 comments
+3. [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic) - 167 points, 64 comments
+4. [Decoy Font](https://www.mixfont.com/experiments/decoy-font) - 423 points, 101 comments
+5. [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive) - 32 points, 8 comments
+6. [$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6) - 146 points, 150 comments
+7. [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/) - 62 points, 10 comments
+8. [NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/) - 252 points, 129 comments
+9. [The Human-in-the-Loop Is Tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired) - 16 points, 6 comments
+10. ['Likweli': A new monkey species discovered in the Congo Basin](https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin) - 52 points, 7 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 153 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 154 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
