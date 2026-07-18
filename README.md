@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-17 10:39:35 (北京时间)
+> 🕐 最后更新：2026-07-18 10:30:26 (北京时间)
 
-1. [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) - 1212 points, 753 comments
-2. [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) - 557 points, 124 comments
-3. [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic) - 167 points, 64 comments
-4. [Decoy Font](https://www.mixfont.com/experiments/decoy-font) - 423 points, 101 comments
-5. [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive) - 32 points, 8 comments
-6. [$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6) - 146 points, 150 comments
-7. [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/) - 62 points, 10 comments
-8. [NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/) - 252 points, 129 comments
-9. [The Human-in-the-Loop Is Tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired) - 16 points, 6 comments
-10. ['Likweli': A new monkey species discovered in the Congo Basin](https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin) - 52 points, 7 comments
+1. [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) - 305 points, 190 comments
+2. [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) - 1062 points, 644 comments
+3. [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551) - 357 points, 32 comments
+4. [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html) - 170 points, 54 comments
+5. [The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold](https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier) - 36 points, 2 comments
+6. [Vāgdhenu: A Sanskrit Chanting TTS System](https://prathosh.in/vagdhenu/) - 70 points, 6 comments
+7. [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) - 375 points, 236 comments
+8. [A grumpy screed about AI in software engineering](https://sam.sutch.net/posts/a-grumpy-ai-screed) - 34 points, 20 comments
+9. [DrDroid (YC W23) Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory) - 1 points, 0 comments
+10. [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/) - 7 points, 1 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 154 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 155 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
