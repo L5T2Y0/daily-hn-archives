@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-07-12 09:25:54 (北京时间)
+> 🕐 最后更新：2026-07-19 09:23:37 (北京时间)
 
-**本周热门 (2026-06-29 至 2026-07-05)**
+**本周热门 (2026-07-06 至 2026-07-12)**
 
-1. [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography) - 1505 points, 433 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-2. [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) - 938 points, 529 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-3. [For first time, a cell built from scratch grows and divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/) - 768 points, 259 comments
+1. [GPT-5.6](https://openai.com/index/gpt-5-6/) - 1102 points, 800 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
+2. [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) - 1043 points, 505 comments
+   - 🌐 Web | 🔒 Security
+3. [Show HN: 18 Words](https://18words.com/) - 853 points, 288 comments
+   - 🌐 Web | 🔒 Security
+4. [Organic Maps](https://organicmaps.app/) - 840 points, 231 comments
+   - 🌐 Web | 🔒 Security | 📱 Mobile
+5. [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source) - 781 points, 207 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+6. [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/) - 705 points, 171 comments
+   - 🌐 Web | 🔒 Security | 📱 Mobile
+7. [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) - 605 points, 289 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
+8. [OpenPrinter](https://www.opentools.studio/) - 518 points, 123 comments
    - 🌐 Web | 🔒 Security | 🔧 Tools
-4. [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/) - 683 points, 542 comments
+9. [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one) - 473 points, 190 comments
    - 🌐 Web | 🔒 Security
-5. [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/) - 623 points, 654 comments
-   - 🌐 Web | 🔒 Security
-6. [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/) - 569 points, 263 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | ⚡ Performance
-7. [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) - 565 points, 99 comments
-   - 🌐 Web | 🔒 Security
-8. [PeerTube is a free, decentralized and federated video platform](https://github.com/Chocobozzz/PeerTube) - 536 points, 243 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source | 🔧 Tools
-9. [Leaking YouTube creators' private videos](https://javoriuski.com/post/youtube) - 514 points, 285 comments
-   - 🌐 Web | 🔒 Security | 🔧 Tools
-10. [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438) - 416 points, 190 comments
+10. [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) - 466 points, 175 comments
    - 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-07-05.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-07-12.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
