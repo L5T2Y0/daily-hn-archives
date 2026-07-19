@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-18 10:30:26 (北京时间)
+> 🕐 最后更新：2026-07-19 10:44:31 (北京时间)
 
-1. [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) - 305 points, 190 comments
-2. [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) - 1062 points, 644 comments
-3. [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551) - 357 points, 32 comments
-4. [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html) - 170 points, 54 comments
-5. [The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold](https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier) - 36 points, 2 comments
-6. [Vāgdhenu: A Sanskrit Chanting TTS System](https://prathosh.in/vagdhenu/) - 70 points, 6 comments
-7. [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) - 375 points, 236 comments
-8. [A grumpy screed about AI in software engineering](https://sam.sutch.net/posts/a-grumpy-ai-screed) - 34 points, 20 comments
-9. [DrDroid (YC W23) Is Hiring](https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory) - 1 points, 0 comments
-10. [Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig](https://moonstone.sh/) - 7 points, 1 comments
+1. [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp) - 101 points, 16 comments
+2. [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro) - 296 points, 33 comments
+3. [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/) - 61 points, 8 comments
+4. [Better and Cheaper Than IPTV](https://github.com/stupside/castor) - 33 points, 14 comments
+5. [If You Build It, They Will Come](https://www.benlandautaylor.com/p/if-you-build-it-they-will-come) - 284 points, 108 comments
+6. [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) - 511 points, 326 comments
+7. [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/) - 254 points, 116 comments
+8. [Mathematicians still don't know the fastest way to multiply numbers](https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/) - 11 points, 0 comments
+9. [I'm Making Strandfall, a Solarpunk Orienteering Larp](https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/) - 99 points, 18 comments
+10. [Judge a book by its first pages](https://uncovered.ink) - 45 points, 32 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 155 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 156 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
