@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-19 10:44:31 (北京时间)
+> 🕐 最后更新：2026-07-20 10:57:22 (北京时间)
 
-1. [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp) - 101 points, 16 comments
-2. [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro) - 296 points, 33 comments
-3. [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/) - 61 points, 8 comments
-4. [Better and Cheaper Than IPTV](https://github.com/stupside/castor) - 33 points, 14 comments
-5. [If You Build It, They Will Come](https://www.benlandautaylor.com/p/if-you-build-it-they-will-come) - 284 points, 108 comments
-6. [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) - 511 points, 326 comments
-7. [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/) - 254 points, 116 comments
-8. [Mathematicians still don't know the fastest way to multiply numbers](https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/) - 11 points, 0 comments
-9. [I'm Making Strandfall, a Solarpunk Orienteering Larp](https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/) - 99 points, 18 comments
-10. [Judge a book by its first pages](https://uncovered.ink) - 45 points, 32 comments
+1. [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606) - 1633 points, 177 comments
+2. [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/) - 404 points, 565 comments
+3. [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming) - 116 points, 13 comments
+4. [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) - 416 points, 196 comments
+5. [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4) - 276 points, 186 comments
+6. [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html) - 52 points, 40 comments
+7. [Biggest Probabilistic Computer Turns Noise into Answers](https://spectrum.ieee.org/biggest-probabilistic-computer) - 41 points, 6 comments
+8. [Who Is America's Homer?](https://www.plough.com/articles/who-is-americas-homer) - 40 points, 92 comments
+9. [World GeoHistoGram](https://textbooks.wmisd.org/worldgeohist.html) - 3 points, 0 comments
+10. [Bananas sprout in Rayleigh Garden UK after 15 years](https://www.bbc.com/news/articles/cvg8edqq5g5o) - 128 points, 92 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 156 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 157 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
