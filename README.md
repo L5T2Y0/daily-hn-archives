@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-20 10:57:22 (北京时间)
+> 🕐 最后更新：2026-07-21 10:42:03 (北京时间)
 
-1. [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606) - 1633 points, 177 comments
-2. [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/) - 404 points, 565 comments
-3. [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming) - 116 points, 13 comments
-4. [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) - 416 points, 196 comments
-5. [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4) - 276 points, 186 comments
-6. [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html) - 52 points, 40 comments
-7. [Biggest Probabilistic Computer Turns Noise into Answers](https://spectrum.ieee.org/biggest-probabilistic-computer) - 41 points, 6 comments
-8. [Who Is America's Homer?](https://www.plough.com/articles/who-is-americas-homer) - 40 points, 92 comments
-9. [World GeoHistoGram](https://textbooks.wmisd.org/worldgeohist.html) - 3 points, 0 comments
-10. [Bananas sprout in Rayleigh Garden UK after 15 years](https://www.bbc.com/news/articles/cvg8edqq5g5o) - 128 points, 92 comments
+1. [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) - 319 points, 203 comments
+2. [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes) - 88 points, 37 comments
+3. [Kimi Work](https://www.kimi.com/products/kimi-work) - 416 points, 188 comments
+4. [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/) - 234 points, 83 comments
+5. [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/) - 361 points, 139 comments
+6. [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/) - 582 points, 328 comments
+7. [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/) - 191 points, 74 comments
+8. [Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country) - 104 points, 8 comments
+9. [The Psychology of Software Teams](https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389) - 39 points, 8 comments
+10. [Airport Simulator](https://airport.apunen.com/) - 728 points, 142 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 157 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 158 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
