@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-21 10:42:03 (北京时间)
+> 🕐 最后更新：2026-07-22 10:39:33 (北京时间)
 
-1. [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) - 319 points, 203 comments
-2. [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes) - 88 points, 37 comments
-3. [Kimi Work](https://www.kimi.com/products/kimi-work) - 416 points, 188 comments
-4. [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/) - 234 points, 83 comments
-5. [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/) - 361 points, 139 comments
-6. [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/) - 582 points, 328 comments
-7. [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/) - 191 points, 74 comments
-8. [Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public](https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country) - 104 points, 8 comments
-9. [The Psychology of Software Teams](https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389) - 39 points, 8 comments
-10. [Airport Simulator](https://airport.apunen.com/) - 728 points, 142 comments
+1. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/) - 751 points, 520 comments
+2. [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable) - 325 points, 184 comments
+3. [FreeInk: Open ecosystem for e-readers](https://freeink.org/) - 426 points, 105 comments
+4. [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/) - 181 points, 60 comments
+5. [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) - 622 points, 501 comments
+6. [Advertise in ChatGPT](https://ads.openai.com/) - 328 points, 331 comments
+7. [Ten Steps Towards Happiness](http://hintjens.com/blog:99) - 21 points, 9 comments
+8. ["Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok) - 123 points, 44 comments
+9. [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef) - 309 points, 57 comments
+10. [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git) - 253 points, 221 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 158 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 159 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
