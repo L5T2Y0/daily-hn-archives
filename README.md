@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-22 10:39:33 (北京时间)
+> 🕐 最后更新：2026-07-23 10:45:17 (北京时间)
 
-1. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/) - 751 points, 520 comments
-2. [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable) - 325 points, 184 comments
-3. [FreeInk: Open ecosystem for e-readers](https://freeink.org/) - 426 points, 105 comments
-4. [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/) - 181 points, 60 comments
-5. [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) - 622 points, 501 comments
-6. [Advertise in ChatGPT](https://ads.openai.com/) - 328 points, 331 comments
-7. [Ten Steps Towards Happiness](http://hintjens.com/blog:99) - 21 points, 9 comments
-8. ["Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok) - 123 points, 44 comments
-9. [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef) - 309 points, 57 comments
-10. [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git) - 253 points, 221 comments
+1. [Run large language models at home, BitTorrent‑style](https://petals.dev/) - 28 points, 11 comments
+2. [Codeberg Bans Cryptocurrency Projects](https://codeberg.org/Codeberg/org/pulls/1254) - 97 points, 91 comments
+3. [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) - 641 points, 393 comments
+4. [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the) - 179 points, 79 comments
+5. [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) - 386 points, 76 comments
+6. [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/) - 675 points, 152 comments
+7. [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria) - 83 points, 20 comments
+8. [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html) - 409 points, 158 comments
+9. [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) - 271 points, 76 comments
+10. [Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong](https://github.com/cactus-compute/cactus-hybrid) - 80 points, 13 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 159 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 160 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
