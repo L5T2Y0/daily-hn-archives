@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-23 10:45:17 (北京时间)
+> 🕐 最后更新：2026-07-24 10:41:00 (北京时间)
 
-1. [Run large language models at home, BitTorrent‑style](https://petals.dev/) - 28 points, 11 comments
-2. [Codeberg Bans Cryptocurrency Projects](https://codeberg.org/Codeberg/org/pulls/1254) - 97 points, 91 comments
-3. [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) - 641 points, 393 comments
-4. [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the) - 179 points, 79 comments
-5. [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) - 386 points, 76 comments
-6. [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/) - 675 points, 152 comments
-7. [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria) - 83 points, 20 comments
-8. [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html) - 409 points, 158 comments
-9. [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) - 271 points, 76 comments
-10. [Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong](https://github.com/cactus-compute/cactus-hybrid) - 80 points, 13 comments
+1. [98.css](https://jdan.github.io/98.css/#status-bar) - 263 points, 58 comments
+2. [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) - 1005 points, 487 comments
+3. [The Visual 6502](http://visual6502.org/JSSim/index.html) - 56 points, 15 comments
+4. [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810) - 251 points, 120 comments
+5. [The Beam Engine](https://glinscott.github.io/beam-engine/) - 181 points, 59 comments
+6. [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all) - 302 points, 131 comments
+7. [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) - 747 points, 667 comments
+8. [Why Software Factories Fail (or: harness engineering is not enough)](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md) - 190 points, 152 comments
+9. [Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/) - 249 points, 47 comments
+10. [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/) - 132 points, 60 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 160 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 161 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
