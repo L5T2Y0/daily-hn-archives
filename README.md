@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-24 10:41:00 (北京时间)
+> 🕐 最后更新：2026-07-25 10:39:14 (北京时间)
 
-1. [98.css](https://jdan.github.io/98.css/#status-bar) - 263 points, 58 comments
-2. [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) - 1005 points, 487 comments
-3. [The Visual 6502](http://visual6502.org/JSSim/index.html) - 56 points, 15 comments
-4. [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810) - 251 points, 120 comments
-5. [The Beam Engine](https://glinscott.github.io/beam-engine/) - 181 points, 59 comments
-6. [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all) - 302 points, 131 comments
-7. [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) - 747 points, 667 comments
-8. [Why Software Factories Fail (or: harness engineering is not enough)](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md) - 190 points, 152 comments
-9. [Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer/) - 249 points, 47 comments
-10. [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/) - 132 points, 60 comments
+1. [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) - 1333 points, 718 comments
+2. [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability) - 214 points, 38 comments
+3. [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/) - 34 points, 1 comments
+4. [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](https://globaloilnetwork.staffinganalytics.io/) - 108 points, 52 comments
+5. [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/) - 520 points, 179 comments
+6. [India's first privately-developed rocket reaches orbit on debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/) - 503 points, 145 comments
+7. [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models) - 155 points, 101 comments
+8. [Designing an Ethernet Switch ASIC](https://essenceia.github.io/projects/ethernet_switch_asic/) - 117 points, 34 comments
+9. [If coding has been solved, why does software keep getting worse?](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/) - 561 points, 436 comments
+10. [An old patent inspired the new "Y-zipper", a three-sided fastener](https://news.mit.edu/2026/three-sided-y-zipper-design-0504) - 138 points, 30 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 161 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 162 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
