@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-25 10:39:14 (北京时间)
+> 🕐 最后更新：2026-07-26 10:48:08 (北京时间)
 
-1. [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) - 1333 points, 718 comments
-2. [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability) - 214 points, 38 comments
-3. [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/) - 34 points, 1 comments
-4. [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](https://globaloilnetwork.staffinganalytics.io/) - 108 points, 52 comments
-5. [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/) - 520 points, 179 comments
-6. [India's first privately-developed rocket reaches orbit on debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/) - 503 points, 145 comments
-7. [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models) - 155 points, 101 comments
-8. [Designing an Ethernet Switch ASIC](https://essenceia.github.io/projects/ethernet_switch_asic/) - 117 points, 34 comments
-9. [If coding has been solved, why does software keep getting worse?](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/) - 561 points, 436 comments
-10. [An old patent inspired the new "Y-zipper", a three-sided fastener](https://news.mit.edu/2026/three-sided-y-zipper-design-0504) - 138 points, 30 comments
+1. [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) - 600 points, 145 comments
+2. [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html) - 21 points, 5 comments
+3. [Clinical failure rates over the decades: yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes) - 53 points, 28 comments
+4. [Cloudflare's new AI traffic options for customers](https://blog.cloudflare.com/content-independence-day-ai-options/) - 46 points, 19 comments
+5. [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) - 178 points, 122 comments
+6. [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy) - 135 points, 53 comments
+7. [Inflect-Micro-v2: complete voice in 9.36M parameters](https://huggingface.co/owensong/Inflect-Micro-v2) - 19 points, 1 comments
+8. [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/) - 65 points, 19 comments
+9. [Git rebase -I is not that scary](https://cachebag.sh/journal/interactive-rebasing/) - 16 points, 9 comments
+10. [Running a 28.9M parameter LLM on an $8 microcontroller](https://github.com/slvDev/esp32-ai) - 88 points, 20 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 162 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 163 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
