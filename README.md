@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-07-19 09:23:37 (北京时间)
+> 🕐 最后更新：2026-07-26 09:29:14 (北京时间)
 
-**本周热门 (2026-07-06 至 2026-07-12)**
+**本周热门 (2026-07-13 至 2026-07-19)**
 
-1. [GPT-5.6](https://openai.com/index/gpt-5-6/) - 1102 points, 800 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-2. [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) - 1043 points, 505 comments
+1. [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) - 1212 points, 753 comments
    - 🌐 Web | 🔒 Security
-3. [Show HN: 18 Words](https://18words.com/) - 853 points, 288 comments
-   - 🌐 Web | 🔒 Security
-4. [Organic Maps](https://organicmaps.app/) - 840 points, 231 comments
+2. [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) - 1062 points, 644 comments
+   - 🌐 Web | ⚙️ DevOps | 🔒 Security
+3. [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/) - 734 points, 447 comments
    - 🌐 Web | 🔒 Security | 📱 Mobile
-5. [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source) - 781 points, 207 comments
+4. [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) - 728 points, 185 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+5. [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) - 557 points, 124 comments
    - 🌐 Web | 🔒 Security | 📂 Open Source
-6. [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/) - 705 points, 171 comments
-   - 🌐 Web | 🔒 Security | 📱 Mobile
-7. [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) - 605 points, 289 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
-8. [OpenPrinter](https://www.opentools.studio/) - 518 points, 123 comments
-   - 🌐 Web | 🔒 Security | 🔧 Tools
-9. [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one) - 473 points, 190 comments
-   - 🌐 Web | 🔒 Security
-10. [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) - 466 points, 175 comments
-   - 🌐 Web | 🔒 Security
+6. [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) - 511 points, 326 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | ⚡ Performance
+7. [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) - 463 points, 185 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile | ⚡ Performance
+8. [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) - 447 points, 169 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+9. [Decoy Font](https://www.mixfont.com/experiments/decoy-font) - 423 points, 101 comments
+   - 🌐 Web | 🔒 Security | 🔬 Science
+10. [Old and new apps, via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) - 420 points, 123 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming | 📱 Mobile
 
-📁 **[查看完整周报](weekly/week-2026-07-12.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-07-19.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
