@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-26 10:48:08 (北京时间)
+> 🕐 最后更新：2026-07-27 10:55:48 (北京时间)
 
-1. [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) - 600 points, 145 comments
-2. [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html) - 21 points, 5 comments
-3. [Clinical failure rates over the decades: yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes) - 53 points, 28 comments
-4. [Cloudflare's new AI traffic options for customers](https://blog.cloudflare.com/content-independence-day-ai-options/) - 46 points, 19 comments
-5. [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) - 178 points, 122 comments
-6. [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy) - 135 points, 53 comments
-7. [Inflect-Micro-v2: complete voice in 9.36M parameters](https://huggingface.co/owensong/Inflect-Micro-v2) - 19 points, 1 comments
-8. [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/) - 65 points, 19 comments
-9. [Git rebase -I is not that scary](https://cachebag.sh/journal/interactive-rebasing/) - 16 points, 9 comments
-10. [Running a 28.9M parameter LLM on an $8 microcontroller](https://github.com/slvDev/esp32-ai) - 88 points, 20 comments
+1. [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/) - 161 points, 24 comments
+2. [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in) - 63 points, 11 comments
+3. [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) - 239 points, 59 comments
+4. [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html) - 89 points, 13 comments
+5. [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time) - 197 points, 111 comments
+6. [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html) - 249 points, 151 comments
+7. [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/) - 61 points, 19 comments
+8. [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf) - 120 points, 36 comments
+9. [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc) - 31 points, 8 comments
+10. [Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy](https://swag.htmx.org/en-cad/products/htmx-4-the-game) - 371 points, 115 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 163 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 164 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
