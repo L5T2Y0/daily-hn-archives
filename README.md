@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-27 10:55:48 (北京时间)
+> 🕐 最后更新：2026-07-28 10:32:34 (北京时间)
 
-1. [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/) - 161 points, 24 comments
-2. [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in) - 63 points, 11 comments
-3. [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) - 239 points, 59 comments
-4. [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html) - 89 points, 13 comments
-5. [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time) - 197 points, 111 comments
-6. [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html) - 249 points, 151 comments
-7. [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/) - 61 points, 19 comments
-8. [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf) - 120 points, 36 comments
-9. [Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary](https://github.com/vercel-labs/scriptc) - 31 points, 8 comments
-10. [Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy](https://swag.htmx.org/en-cad/products/htmx-4-the-game) - 371 points, 115 comments
+1. [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) - 487 points, 691 comments
+2. [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md) - 142 points, 36 comments
+3. [Astronauts describe persistent 'observer' sensation after 6 month missions](https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/) - 81 points, 35 comments
+4. [DConf 2026 in London](https://dconf.org/2026/index.html) - 48 points, 21 comments
+5. [RTX 2080 Ti Memory Upgrade to 22 GB](https://gpusolutions.net/rbservices/graphics-card-upgrade/) - 27 points, 16 comments
+6. [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html) - 177 points, 17 comments
+7. [C/C++ projects packaged for Zig](https://github.com/allyourcodebase) - 32 points, 21 comments
+8. [The Burau representation of the braid group is faithful for n = 4](https://arxiv.org/abs/2607.05283) - 18 points, 6 comments
+9. [Three Theses on the Literacy Crisis](https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis) - 17 points, 9 comments
+10. [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com) - 60 points, 22 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 164 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 165 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
