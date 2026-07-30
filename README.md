@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-29 10:38:31 (北京时间)
+> 🕐 最后更新：2026-07-30 10:25:01 (北京时间)
 
-1. [Codex Security](https://github.com/openai/codex-security) - 363 points, 105 comments
-2. [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere) - 145 points, 49 comments
-3. [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/) - 163 points, 77 comments
-4. [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/) - 427 points, 215 comments
-5. [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/) - 21 points, 10 comments
-6. [Truth is not a direction: a Tarski attack on LLM probes](https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html) - 18 points, 2 comments
-7. [Teach yourself programming in ten years (1998)](https://www.norvig.com/21-days.html) - 55 points, 17 comments
-8. [Hubble: Open-source notetaking app for you and your agents](https://www.hubble.md/) - 41 points, 7 comments
-9. [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7) - 203 points, 84 comments
-10. [ReFrame – The EPaper Camera](https://reframe.camera/) - 39 points, 9 comments
+1. [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) - 230 points, 129 comments
+2. [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/) - 408 points, 193 comments
+3. [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) - 663 points, 230 comments
+4. [Superlogical](https://www.superlogical.com/) - 541 points, 332 comments
+5. [LLM Honeypot](https://llm2human.pages.dev/) - 70 points, 23 comments
+6. [A pharmacy chain in Vermont implemented AI for efficiency](https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/) - 15 points, 9 comments
+7. [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice) - 298 points, 112 comments
+8. [Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) - 298 points, 179 comments
+9. [The Cold Email](https://zachholman.com/posts/cold-email) - 96 points, 39 comments
+10. [The Productivity Mirage](https://frantic.im/mirage/) - 53 points, 18 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 166 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 167 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
