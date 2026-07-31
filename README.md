@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-30 10:25:01 (北京时间)
+> 🕐 最后更新：2026-07-31 10:50:08 (北京时间)
 
-1. [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) - 230 points, 129 comments
-2. [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/) - 408 points, 193 comments
-3. [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) - 663 points, 230 comments
-4. [Superlogical](https://www.superlogical.com/) - 541 points, 332 comments
-5. [LLM Honeypot](https://llm2human.pages.dev/) - 70 points, 23 comments
-6. [A pharmacy chain in Vermont implemented AI for efficiency](https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/) - 15 points, 9 comments
-7. [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice) - 298 points, 112 comments
-8. [Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) - 298 points, 179 comments
-9. [The Cold Email](https://zachholman.com/posts/cold-email) - 96 points, 39 comments
-10. [The Productivity Mirage](https://frantic.im/mirage/) - 53 points, 18 comments
+1. [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/) - 141 points, 67 comments
+2. [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) - 589 points, 347 comments
+3. [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/) - 102 points, 38 comments
+4. [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish) - 220 points, 82 comments
+5. [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) - 490 points, 167 comments
+6. [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) - 486 points, 397 comments
+7. [The American Grilled Cheese Sandwich Essay (2024)](https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/) - 20 points, 4 comments
+8. [Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free](https://rune.build/blog/rune-1-1-release) - 51 points, 17 comments
+9. [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/) - 138 points, 42 comments
+10. [Bad Apple but It's Traceroute](https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html) - 70 points, 16 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 167 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 168 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
