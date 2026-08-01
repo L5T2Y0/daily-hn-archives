@@ -81,32 +81,32 @@
 > 每月1号自动生成
 
 <!-- MONTHLY_SUMMARY_START -->
-> 🕐 最后更新：2026-07-01 11:29:48 (北京时间)
+> 🕐 最后更新：2026-08-01 10:28:52 (北京时间)
 
-**2026年06月精选**
+**2026年07月精选**
 
-1. [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) - 1881 points, 1473 comments
+1. [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606) - 1633 points, 177 comments
+   - 🌐 Web | 🔒 Security
+2. [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography) - 1505 points, 433 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+3. [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) - 1333 points, 718 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-2. [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco) - 1449 points, 345 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming
-3. [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245) - 1302 points, 1178 comments
+4. [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) - 1212 points, 753 comments
    - 🌐 Web | 🔒 Security
-4. [US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access) - 1269 points, 825 comments
+5. [GPT-5.6](https://openai.com/index/gpt-5-6/) - 1102 points, 800 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
+6. [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) - 1062 points, 644 comments
+   - 🌐 Web | ⚙️ DevOps | 🔒 Security
+7. [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) - 1043 points, 505 comments
+   - 🌐 Web | 🔒 Security
+8. [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) - 1005 points, 487 comments
    - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-5. [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) - 1102 points, 447 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-6. [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) - 1053 points, 232 comments
-   - 🌐 Web | 🔒 Security
-7. [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/) - 1048 points, 244 comments
-   - 🌐 Web | 🔒 Security
-8. [Lore – Open source version control system designed for scalability](https://lore.org/) - 1033 points, 553 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source | ⚡ Performance
-9. [Iroh 1.0](https://www.iroh.computer/blog/v1) - 1011 points, 298 comments
-   - 🌐 Web | 🔒 Security
-10. [SpaceX to buy Cursor for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/) - 939 points, 1418 comments
+9. [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) - 938 points, 529 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+10. [Show HN: 18 Words](https://18words.com/) - 853 points, 288 comments
    - 🌐 Web | 🔒 Security
 
-📁 **[查看完整月报](monthly/month-2026-06.md)** | Top 50 热门文章
+📁 **[查看完整月报](monthly/month-2026-07.md)** | Top 50 热门文章
 <!-- MONTHLY_SUMMARY_END -->
 
 ---
