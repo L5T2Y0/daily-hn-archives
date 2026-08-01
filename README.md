@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-07-31 10:50:08 (北京时间)
+> 🕐 最后更新：2026-08-01 10:48:29 (北京时间)
 
-1. [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/) - 141 points, 67 comments
-2. [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) - 589 points, 347 comments
-3. [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/) - 102 points, 38 comments
-4. [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish) - 220 points, 82 comments
-5. [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) - 490 points, 167 comments
-6. [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) - 486 points, 397 comments
-7. [The American Grilled Cheese Sandwich Essay (2024)](https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/) - 20 points, 4 comments
-8. [Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free](https://rune.build/blog/rune-1-1-release) - 51 points, 17 comments
-9. [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/) - 138 points, 42 comments
-10. [Bad Apple but It's Traceroute](https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html) - 70 points, 16 comments
+1. [Elevators](https://john.fun/elevators) - 930 points, 231 comments
+2. [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm) - 476 points, 103 comments
+3. [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/) - 36 points, 10 comments
+4. [Software for One](https://www.ajwaxman.com/writing/software-for-one) - 10 points, 0 comments
+5. [The Absurdity of Albert Camus](https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus) - 62 points, 38 comments
+6. [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/) - 99 points, 15 comments
+7. [June in Servo: real world compat, media queries, SharedWorker, and more](https://servo.org/blog/2026/07/31/june-in-servo/) - 112 points, 34 comments
+8. [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/) - 197 points, 133 comments
+9. [Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/) - 149 points, 85 comments
+10. [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233) - 40 points, 17 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 168 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 169 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
