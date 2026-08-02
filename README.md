@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-07-26 09:29:14 (北京时间)
+> 🕐 最后更新：2026-08-02 09:28:36 (北京时间)
 
-**本周热门 (2026-07-13 至 2026-07-19)**
+**本周热门 (2026-07-20 至 2026-07-26)**
 
-1. [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) - 1212 points, 753 comments
+1. [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606) - 1633 points, 177 comments
    - 🌐 Web | 🔒 Security
-2. [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) - 1062 points, 644 comments
-   - 🌐 Web | ⚙️ DevOps | 🔒 Security
-3. [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/) - 734 points, 447 comments
-   - 🌐 Web | 🔒 Security | 📱 Mobile
-4. [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) - 728 points, 185 comments
+2. [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) - 1333 points, 718 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-5. [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) - 557 points, 124 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
-6. [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) - 511 points, 326 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | ⚡ Performance
-7. [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) - 463 points, 185 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile | ⚡ Performance
-8. [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) - 447 points, 169 comments
+3. [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) - 1005 points, 487 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+4. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/) - 751 points, 520 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security | 🔧 Tools
+5. [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) - 747 points, 667 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🚀 Startup
+6. [Airport Simulator](https://airport.apunen.com/) - 728 points, 142 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-9. [Decoy Font](https://www.mixfont.com/experiments/decoy-font) - 423 points, 101 comments
-   - 🌐 Web | 🔒 Security | 🔬 Science
-10. [Old and new apps, via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) - 420 points, 123 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming | 📱 Mobile
+7. [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/) - 675 points, 152 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🔧 Tools
+8. [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) - 641 points, 393 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+9. [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) - 622 points, 501 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
+10. [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) - 600 points, 145 comments
+   - 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-07-19.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-07-26.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
