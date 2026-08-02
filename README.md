@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-01 10:48:29 (北京时间)
+> 🕐 最后更新：2026-08-02 10:47:28 (北京时间)
 
-1. [Elevators](https://john.fun/elevators) - 930 points, 231 comments
-2. [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm) - 476 points, 103 comments
-3. [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/) - 36 points, 10 comments
-4. [Software for One](https://www.ajwaxman.com/writing/software-for-one) - 10 points, 0 comments
-5. [The Absurdity of Albert Camus](https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus) - 62 points, 38 comments
-6. [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/) - 99 points, 15 comments
-7. [June in Servo: real world compat, media queries, SharedWorker, and more](https://servo.org/blog/2026/07/31/june-in-servo/) - 112 points, 34 comments
-8. [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/) - 197 points, 133 comments
-9. [Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/) - 149 points, 85 comments
-10. [Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena](https://arxiv.org/abs/2607.28233) - 40 points, 17 comments
+1. [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html) - 43 points, 7 comments
+2. [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) - 203 points, 95 comments
+3. [Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox) - 17 points, 0 comments
+4. [ASRock BC-250: Building the Budget Steam Machine](https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/) - 15 points, 1 comments
+5. [Diátaxis](https://diataxis.fr/) - 215 points, 30 comments
+6. [AI financial advice is surprisingly good, especially if you ask right questions](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions) - 186 points, 146 comments
+7. [RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2](https://www.rfc-editor.org/rfc/rfc10015.html) - 32 points, 0 comments
+8. [Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/) - 5 points, 0 comments
+9. [Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28) - 41 points, 13 comments
+10. [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/) - 121 points, 44 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 169 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 170 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
