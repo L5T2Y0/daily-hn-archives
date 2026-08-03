@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-02 10:47:28 (北京时间)
+> 🕐 最后更新：2026-08-03 10:48:49 (北京时间)
 
-1. [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html) - 43 points, 7 comments
-2. [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) - 203 points, 95 comments
-3. [Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox) - 17 points, 0 comments
-4. [ASRock BC-250: Building the Budget Steam Machine](https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/) - 15 points, 1 comments
-5. [Diátaxis](https://diataxis.fr/) - 215 points, 30 comments
-6. [AI financial advice is surprisingly good, especially if you ask right questions](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions) - 186 points, 146 comments
-7. [RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2](https://www.rfc-editor.org/rfc/rfc10015.html) - 32 points, 0 comments
-8. [Four Time Scales for Technology Development and Deployment](https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/) - 5 points, 0 comments
-9. [Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28) - 41 points, 13 comments
-10. [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/) - 121 points, 44 comments
+1. [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386) - 33 points, 9 comments
+2. [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319) - 460 points, 351 comments
+3. [Show HN: Isopolis – isometric pixel map of SF](https://sf.isopolis.city/) - 41 points, 14 comments
+4. [Why Book Corners won't sync contributions back to OpenStreetMap](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/) - 47 points, 27 comments
+5. [Autoregressive Language Model on the 6502 Processor](https://mattbeton.com/blog/bitnet-6502.html) - 66 points, 7 comments
+6. [Show HN: ssh ssh.place](https://ssh.place) - 30 points, 14 comments
+7. [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html) - 14 points, 3 comments
+8. [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi) - 186 points, 40 comments
+9. [Note-Taking and Personal Knowledge Management](https://unattributed.cc/note-taking-and-personal-knowledge-management) - 140 points, 41 comments
+10. [Developers are attached to tools because tools encode trust](https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/) - 164 points, 85 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 170 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 171 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
