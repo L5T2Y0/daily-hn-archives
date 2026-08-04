@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-03 10:48:49 (北京时间)
+> 🕐 最后更新：2026-08-04 10:32:00 (北京时间)
 
-1. [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386) - 33 points, 9 comments
-2. [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319) - 460 points, 351 comments
-3. [Show HN: Isopolis – isometric pixel map of SF](https://sf.isopolis.city/) - 41 points, 14 comments
-4. [Why Book Corners won't sync contributions back to OpenStreetMap](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/) - 47 points, 27 comments
-5. [Autoregressive Language Model on the 6502 Processor](https://mattbeton.com/blog/bitnet-6502.html) - 66 points, 7 comments
-6. [Show HN: ssh ssh.place](https://ssh.place) - 30 points, 14 comments
-7. [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html) - 14 points, 3 comments
-8. [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi) - 186 points, 40 comments
-9. [Note-Taking and Personal Knowledge Management](https://unattributed.cc/note-taking-and-personal-knowledge-management) - 140 points, 41 comments
-10. [Developers are attached to tools because tools encode trust](https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/) - 164 points, 85 comments
+1. [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) - 483 points, 208 comments
+2. [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization) - 42 points, 18 comments
+3. [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) - 444 points, 723 comments
+4. [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) - 513 points, 187 comments
+5. [Ask HN: Who is hiring? (August 2026)](https://news.ycombinator.com/item?id=49156683) - 114 points, 107 comments
+6. [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/) - 63 points, 31 comments
+7. [Ask HN: Who wants to be hired? (August 2026)](https://news.ycombinator.com/item?id=49156682) - 61 points, 187 comments
+8. [There Will Come Soft Rains (1950) [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf) - 38 points, 15 comments
+9. [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/) - 151 points, 40 comments
+10. [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) - 260 points, 79 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 171 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 172 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
