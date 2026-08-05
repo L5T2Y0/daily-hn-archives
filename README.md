@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-04 10:32:00 (北京时间)
+> 🕐 最后更新：2026-08-05 10:31:29 (北京时间)
 
-1. [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) - 483 points, 208 comments
-2. [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization) - 42 points, 18 comments
-3. [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) - 444 points, 723 comments
-4. [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) - 513 points, 187 comments
-5. [Ask HN: Who is hiring? (August 2026)](https://news.ycombinator.com/item?id=49156683) - 114 points, 107 comments
-6. [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/) - 63 points, 31 comments
-7. [Ask HN: Who wants to be hired? (August 2026)](https://news.ycombinator.com/item?id=49156682) - 61 points, 187 comments
-8. [There Will Come Soft Rains (1950) [pdf]](https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf) - 38 points, 15 comments
-9. [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/) - 151 points, 40 comments
-10. [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) - 260 points, 79 comments
+1. [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/) - 142 points, 7 comments
+2. [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963) - 78 points, 35 comments
+3. [Pi's Minimalism Is Its Advantage](https://earendil.com/posts/pi-autoresearch-and-databricks/) - 124 points, 38 comments
+4. [I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel](https://twitter.com/gwern/status/2084739205071343837) - 185 points, 100 comments
+5. [Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/) - 320 points, 76 comments
+6. [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/) - 44 points, 5 comments
+7. [DuckDB – Data power tools for your laptop, now in Clojure (2023)](https://techascent.com/blog/just-ducking-around.html) - 54 points, 5 comments
+8. [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/) - 471 points, 90 comments
+9. [Bugtraq Is Back](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/) - 19 points, 3 comments
+10. [In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/) - 974 points, 53 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 172 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 173 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
