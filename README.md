@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-05 10:31:29 (北京时间)
+> 🕐 最后更新：2026-08-06 10:33:59 (北京时间)
 
-1. [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/) - 142 points, 7 comments
-2. [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963) - 78 points, 35 comments
-3. [Pi's Minimalism Is Its Advantage](https://earendil.com/posts/pi-autoresearch-and-databricks/) - 124 points, 38 comments
-4. [I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel](https://twitter.com/gwern/status/2084739205071343837) - 185 points, 100 comments
-5. [Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/) - 320 points, 76 comments
-6. [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/) - 44 points, 5 comments
-7. [DuckDB – Data power tools for your laptop, now in Clojure (2023)](https://techascent.com/blog/just-ducking-around.html) - 54 points, 5 comments
-8. [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/) - 471 points, 90 comments
-9. [Bugtraq Is Back](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/) - 19 points, 3 comments
-10. [In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/) - 974 points, 53 comments
+1. [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto) - 17 points, 9 comments
+2. [Discovery Loop](https://www.discoveryloop.com/) - 618 points, 389 comments
+3. [Zed DeltaDB](https://zed.dev/deltadb) - 321 points, 163 comments
+4. [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/) - 160 points, 72 comments
+5. [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) - 496 points, 601 comments
+6. [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2) - 184 points, 111 comments
+7. [Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency) - 230 points, 55 comments
+8. [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent) - 109 points, 19 comments
+9. [Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html) - 146 points, 149 comments
+10. [Atlassian Rovo Exfiltrates Data, Bypassing Controls](https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data) - 178 points, 71 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 173 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 174 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
