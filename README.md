@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-06 10:33:59 (北京时间)
+> 🕐 最后更新：2026-08-07 10:39:40 (北京时间)
 
-1. [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto) - 17 points, 9 comments
-2. [Discovery Loop](https://www.discoveryloop.com/) - 618 points, 389 comments
-3. [Zed DeltaDB](https://zed.dev/deltadb) - 321 points, 163 comments
-4. [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/) - 160 points, 72 comments
-5. [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) - 496 points, 601 comments
-6. [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2) - 184 points, 111 comments
-7. [Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency) - 230 points, 55 comments
-8. [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent) - 109 points, 19 comments
-9. [Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html) - 146 points, 149 comments
-10. [Atlassian Rovo Exfiltrates Data, Bypassing Controls](https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data) - 178 points, 71 comments
+1. [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) - 401 points, 321 comments
+2. [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/) - 155 points, 31 comments
+3. [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto) - 895 points, 150 comments
+4. [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/) - 96 points, 16 comments
+5. [I stopped trusting USB-C cable labels and started testing them](https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/) - 88 points, 53 comments
+6. [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left) - 228 points, 179 comments
+7. [Bioengineered chewing gum may offer a way to fight HPV and other microbes](https://www.sciencedaily.com/releases/2026/08/260803080917.htm) - 62 points, 9 comments
+8. [Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm) - 70 points, 2 comments
+9. [Herdr is joining Y Combinator. The runtime stays open](https://herdr.dev/blog/herdr-is-joining-y-combinator/) - 152 points, 103 comments
+10. [Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/) - 165 points, 118 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 174 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 175 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
