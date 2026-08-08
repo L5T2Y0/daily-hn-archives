@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-07 10:39:40 (北京时间)
+> 🕐 最后更新：2026-08-08 09:39:08 (北京时间)
 
-1. [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) - 401 points, 321 comments
-2. [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/) - 155 points, 31 comments
-3. [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto) - 895 points, 150 comments
-4. [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/) - 96 points, 16 comments
-5. [I stopped trusting USB-C cable labels and started testing them](https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/) - 88 points, 53 comments
-6. [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left) - 228 points, 179 comments
-7. [Bioengineered chewing gum may offer a way to fight HPV and other microbes](https://www.sciencedaily.com/releases/2026/08/260803080917.htm) - 62 points, 9 comments
-8. [Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm) - 70 points, 2 comments
-9. [Herdr is joining Y Combinator. The runtime stays open](https://herdr.dev/blog/herdr-is-joining-y-combinator/) - 152 points, 103 comments
-10. [Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/) - 165 points, 118 comments
+1. [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) - 464 points, 271 comments
+2. [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/) - 81 points, 38 comments
+3. [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) - 248 points, 57 comments
+4. [Should AI labs be treated like the owners of dangerous animals?](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals) - 29 points, 37 comments
+5. [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/) - 146 points, 49 comments
+6. [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/) - 417 points, 533 comments
+7. [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) - 390 points, 257 comments
+8. [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/) - 153 points, 167 comments
+9. [Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale) - 165 points, 171 comments
+10. [An all-sky map of half a million supermassive black holes](https://www.sdss.org/black-hole-mapper-release-20/) - 139 points, 35 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 175 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 176 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
