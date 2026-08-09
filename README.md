@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-08-02 09:28:36 (北京时间)
+> 🕐 最后更新：2026-08-09 08:46:55 (北京时间)
 
-**本周热门 (2026-07-20 至 2026-07-26)**
+**本周热门 (2026-07-27 至 2026-08-02)**
 
-1. [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606) - 1633 points, 177 comments
+1. [Elevators](https://john.fun/elevators) - 930 points, 231 comments
    - 🌐 Web | 🔒 Security
-2. [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) - 1333 points, 718 comments
+2. [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) - 663 points, 230 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+3. [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) - 589 points, 347 comments
+   - 🌐 Web | 🔒 Security
+4. [Superlogical](https://www.superlogical.com/) - 541 points, 332 comments
+   - 🌐 Web | 🔒 Security
+5. [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) - 490 points, 167 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+6. [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) - 487 points, 691 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-3. [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) - 1005 points, 487 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-4. [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/) - 751 points, 520 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security | 🔧 Tools
-5. [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) - 747 points, 667 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🚀 Startup
-6. [Airport Simulator](https://airport.apunen.com/) - 728 points, 142 comments
+7. [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) - 486 points, 397 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
+8. [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm) - 476 points, 103 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+9. [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/) - 427 points, 215 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-7. [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/) - 675 points, 152 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🔧 Tools
-8. [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) - 641 points, 393 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-9. [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) - 622 points, 501 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
-10. [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) - 600 points, 145 comments
+10. [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/) - 408 points, 193 comments
    - 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-07-26.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-08-02.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
