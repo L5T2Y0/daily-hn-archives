@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-08 09:39:08 (北京时间)
+> 🕐 最后更新：2026-08-09 09:44:21 (北京时间)
 
-1. [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) - 464 points, 271 comments
-2. [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/) - 81 points, 38 comments
-3. [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) - 248 points, 57 comments
-4. [Should AI labs be treated like the owners of dangerous animals?](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals) - 29 points, 37 comments
-5. [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/) - 146 points, 49 comments
-6. [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/) - 417 points, 533 comments
-7. [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) - 390 points, 257 comments
-8. [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/) - 153 points, 167 comments
-9. [Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale) - 165 points, 171 comments
-10. [An all-sky map of half a million supermassive black holes](https://www.sdss.org/black-hole-mapper-release-20/) - 139 points, 35 comments
+1. [My server is a phone now](https://seg6.space/posts/phone-server/) - 86 points, 41 comments
+2. [Improving Heuristics for A* Pathfinding](https://www.redblobgames.com/pathfinding/heuristics/differential.html) - 57 points, 10 comments
+3. [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/) - 320 points, 144 comments
+4. [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations) - 38 points, 6 comments
+5. [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/) - 28 points, 7 comments
+6. [_for-sale DNS records](https://specification.website/spec/foundations/for-sale-dns/) - 346 points, 132 comments
+7. [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute) - 89 points, 18 comments
+8. [The Sound and Music of 'Hyper Light Drifter' [video]](https://gdcvault.com/play/1024135/The-Sound-and-Music-of) - 13 points, 1 comments
+9. [Making difficulty curves in games](http://www.davetech.co.uk/difficultycurves) - 58 points, 18 comments
+10. [Can Intel finally beat ARM on performance per Watt?](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/) - 161 points, 98 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 176 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 177 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
