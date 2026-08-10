@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-09 09:44:21 (北京时间)
+> 🕐 最后更新：2026-08-10 09:47:59 (北京时间)
 
-1. [My server is a phone now](https://seg6.space/posts/phone-server/) - 86 points, 41 comments
-2. [Improving Heuristics for A* Pathfinding](https://www.redblobgames.com/pathfinding/heuristics/differential.html) - 57 points, 10 comments
-3. [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/) - 320 points, 144 comments
-4. [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations) - 38 points, 6 comments
-5. [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/) - 28 points, 7 comments
-6. [_for-sale DNS records](https://specification.website/spec/foundations/for-sale-dns/) - 346 points, 132 comments
-7. [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute) - 89 points, 18 comments
-8. [The Sound and Music of 'Hyper Light Drifter' [video]](https://gdcvault.com/play/1024135/The-Sound-and-Music-of) - 13 points, 1 comments
-9. [Making difficulty curves in games](http://www.davetech.co.uk/difficultycurves) - 58 points, 18 comments
-10. [Can Intel finally beat ARM on performance per Watt?](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/) - 161 points, 98 comments
+1. [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) - 416 points, 232 comments
+2. [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/) - 14 points, 0 comments
+3. [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html) - 560 points, 251 comments
+4. ["The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes" (1892)](https://publicdomainreview.org/collection/marnameh/) - 24 points, 1 comments
+5. [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423) - 170 points, 636 comments
+6. [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media) - 73 points, 35 comments
+7. [Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650) - 183 points, 136 comments
+8. [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com) - 46 points, 11 comments
+9. [Picophysics: Single file physics for games on platforms like N64, PSX, DC](https://gitlab.com/Kazade/picophysics) - 11 points, 4 comments
+10. [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI) - 185 points, 43 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 177 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 178 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
