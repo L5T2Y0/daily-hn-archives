@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-10 09:47:59 (北京时间)
+> 🕐 最后更新：2026-08-11 09:44:22 (北京时间)
 
-1. [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) - 416 points, 232 comments
-2. [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/) - 14 points, 0 comments
-3. [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html) - 560 points, 251 comments
-4. ["The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes" (1892)](https://publicdomainreview.org/collection/marnameh/) - 24 points, 1 comments
-5. [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423) - 170 points, 636 comments
-6. [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media) - 73 points, 35 comments
-7. [Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650) - 183 points, 136 comments
-8. [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com) - 46 points, 11 comments
-9. [Picophysics: Single file physics for games on platforms like N64, PSX, DC](https://gitlab.com/Kazade/picophysics) - 11 points, 4 comments
-10. [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI) - 185 points, 43 comments
+1. [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby) - 156 points, 89 comments
+2. [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS) - 28 points, 4 comments
+3. [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) - 1039 points, 576 comments
+4. [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/) - 49 points, 10 comments
+5. [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle) - 169 points, 77 comments
+6. [The “mechanical miracle” that ruined Mark Twain’s life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined) - 36 points, 10 comments
+7. [Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878) - 363 points, 383 comments
+8. [Publishing Schematics Before “Open Source” Was a Word](https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704) - 64 points, 16 comments
+9. [Sonic Pi v5](https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392) - 309 points, 79 comments
+10. [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/) - 119 points, 61 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 178 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 179 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
