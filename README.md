@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-11 09:44:22 (北京时间)
+> 🕐 最后更新：2026-08-12 09:56:24 (北京时间)
 
-1. [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby) - 156 points, 89 comments
-2. [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS) - 28 points, 4 comments
-3. [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) - 1039 points, 576 comments
-4. [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/) - 49 points, 10 comments
-5. [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle) - 169 points, 77 comments
-6. [The “mechanical miracle” that ruined Mark Twain’s life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined) - 36 points, 10 comments
-7. [Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878) - 363 points, 383 comments
-8. [Publishing Schematics Before “Open Source” Was a Word](https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704) - 64 points, 16 comments
-9. [Sonic Pi v5](https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392) - 309 points, 79 comments
-10. [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/) - 119 points, 61 comments
+1. [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) - 120 points, 40 comments
+2. [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/) - 182 points, 93 comments
+3. [Compression is prediction](https://ngrok.com/blog/compression-is-prediction) - 258 points, 116 comments
+4. [CFTC declares market emergency, orders Kalshi to continue to operate in New York](https://www.cftc.gov/PressRoom/PressReleases/9281-26) - 107 points, 81 comments
+5. [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here) - 295 points, 129 comments
+6. [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) - 492 points, 207 comments
+7. [OpenAI’s head of ethics leaves less than a year after joining](https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0) - 280 points, 345 comments
+8. [Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/) - 116 points, 11 comments
+9. [Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo](https://photosynthesis.camera) - 206 points, 206 comments
+10. [Show HN: Line9 – A Mermaid rendering engine with its own layout](https://line9.ai/diagram) - 26 points, 6 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 179 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 180 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
