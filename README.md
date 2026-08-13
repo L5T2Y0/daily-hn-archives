@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-12 09:56:24 (北京时间)
+> 🕐 最后更新：2026-08-13 09:58:47 (北京时间)
 
-1. [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) - 120 points, 40 comments
-2. [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/) - 182 points, 93 comments
-3. [Compression is prediction](https://ngrok.com/blog/compression-is-prediction) - 258 points, 116 comments
-4. [CFTC declares market emergency, orders Kalshi to continue to operate in New York](https://www.cftc.gov/PressRoom/PressReleases/9281-26) - 107 points, 81 comments
-5. [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here) - 295 points, 129 comments
-6. [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) - 492 points, 207 comments
-7. [OpenAI’s head of ethics leaves less than a year after joining](https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0) - 280 points, 345 comments
-8. [Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/) - 116 points, 11 comments
-9. [Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo](https://photosynthesis.camera) - 206 points, 206 comments
-10. [Show HN: Line9 – A Mermaid rendering engine with its own layout](https://line9.ai/diagram) - 26 points, 6 comments
+1. [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) - 755 points, 285 comments
+2. [Delta](https://zed.dev/blog/introducing-delta) - 397 points, 132 comments
+3. [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug) - 803 points, 145 comments
+4. [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45) - 28 points, 6 comments
+5. [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) - 499 points, 110 comments
+6. [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html) - 45 points, 14 comments
+7. [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47) - 40 points, 26 comments
+8. [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow) - 25 points, 0 comments
+9. [Why Target Common Lisp for Code Generation?](http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html) - 33 points, 25 comments
+10. [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/) - 458 points, 124 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 180 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 181 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
