@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-13 09:58:47 (北京时间)
+> 🕐 最后更新：2026-08-14 09:56:21 (北京时间)
 
-1. [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) - 755 points, 285 comments
-2. [Delta](https://zed.dev/blog/introducing-delta) - 397 points, 132 comments
-3. [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug) - 803 points, 145 comments
-4. [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45) - 28 points, 6 comments
-5. [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) - 499 points, 110 comments
-6. [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html) - 45 points, 14 comments
-7. [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47) - 40 points, 26 comments
-8. [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow) - 25 points, 0 comments
-9. [Why Target Common Lisp for Code Generation?](http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html) - 33 points, 25 comments
-10. [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/) - 458 points, 124 comments
+1. [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) - 621 points, 347 comments
+2. [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services) - 65 points, 15 comments
+3. [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/) - 38 points, 7 comments
+4. [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) - 424 points, 174 comments
+5. [NP-Overrated](https://gruhn.me/blog/2026-08-13/) - 150 points, 92 comments
+6. [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck) - 207 points, 114 comments
+7. [DeepSeek Harness developer preview](https://deepseek.com/harness/en/) - 559 points, 244 comments
+8. [Donkey.bas is 45 Years Old – 131 line of Glory](https://donkeybas.com/) - 191 points, 82 comments
+9. [Mistral OCR 4.1](https://docs.mistral.ai/models/ocr-4-1) - 252 points, 99 comments
+10. [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology) - 254 points, 136 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 181 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 182 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
