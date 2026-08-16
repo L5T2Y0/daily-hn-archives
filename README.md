@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-15 09:13:05 (北京时间)
+> 🕐 最后更新：2026-08-16 09:17:44 (北京时间)
 
-1. [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) - 887 points, 578 comments
-2. [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) - 183 points, 113 comments
-3. [The case for overhauling American science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science) - 29 points, 12 comments
-4. [RISC-V: They should have known better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV) - 107 points, 61 comments
-5. [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) - 777 points, 712 comments
-6. [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/) - 273 points, 166 comments
-7. [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/) - 216 points, 94 comments
-8. [Stop sending me huge PRs; a rant](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va) - 48 points, 31 comments
-9. [Super Mario Derivations](https://fzakaria.com/2026/08/05/super-mario-derivations) - 45 points, 7 comments
-10. [Jane Street suffers $15B hit after meltdown at Situational Awareness](https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697) - 69 points, 24 comments
+1. [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) - 341 points, 238 comments
+2. [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas) - 72 points, 19 comments
+3. [AI in drug discovery – what it is, where we stand and the path forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really) - 84 points, 43 comments
+4. [At-home test for infected ticks could improve Lyme Disease diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/) - 210 points, 74 comments
+5. [Abdominal fat predicts heart disease risk better than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi) - 139 points, 103 comments
+6. [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/) - 15 points, 4 comments
+7. [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV) - 226 points, 295 comments
+8. [Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/) - 60 points, 19 comments
+9. [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/) - 391 points, 86 comments
+10. [AI has access to a vastly larger working memory than the human brain](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) - 407 points, 365 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 183 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 184 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
