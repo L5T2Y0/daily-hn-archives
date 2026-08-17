@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-16 09:17:44 (北京时间)
+> 🕐 最后更新：2026-08-17 09:15:07 (北京时间)
 
-1. [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) - 341 points, 238 comments
-2. [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas) - 72 points, 19 comments
-3. [AI in drug discovery – what it is, where we stand and the path forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really) - 84 points, 43 comments
-4. [At-home test for infected ticks could improve Lyme Disease diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/) - 210 points, 74 comments
-5. [Abdominal fat predicts heart disease risk better than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi) - 139 points, 103 comments
-6. [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/) - 15 points, 4 comments
-7. [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV) - 226 points, 295 comments
-8. [Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/) - 60 points, 19 comments
-9. [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/) - 391 points, 86 comments
-10. [AI has access to a vastly larger working memory than the human brain](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) - 407 points, 365 comments
+1. [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf) - 26 points, 3 comments
+2. [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/) - 365 points, 190 comments
+3. [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) - 530 points, 222 comments
+4. [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd) - 68 points, 31 comments
+5. [Low-Tech Ceramic Water Filter](https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en) - 89 points, 23 comments
+6. [A quick look at zero-knowledge proofs](https://bernsteinbear.com/blog/zkp/) - 40 points, 15 comments
+7. [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose) - 259 points, 147 comments
+8. [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers) - 223 points, 88 comments
+9. [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp) - 104 points, 77 comments
+10. [MathCode, Mathematical Coding Agent](https://math-ai-org.github.io/mathcode/) - 54 points, 18 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 184 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 185 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
