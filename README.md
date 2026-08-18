@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-17 09:15:07 (北京时间)
+> 🕐 最后更新：2026-08-18 09:12:36 (北京时间)
 
-1. [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf) - 26 points, 3 comments
-2. [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/) - 365 points, 190 comments
-3. [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) - 530 points, 222 comments
-4. [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd) - 68 points, 31 comments
-5. [Low-Tech Ceramic Water Filter](https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en) - 89 points, 23 comments
-6. [A quick look at zero-knowledge proofs](https://bernsteinbear.com/blog/zkp/) - 40 points, 15 comments
-7. [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose) - 259 points, 147 comments
-8. [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers) - 223 points, 88 comments
-9. [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp) - 104 points, 77 comments
-10. [MathCode, Mathematical Coding Agent](https://math-ai-org.github.io/mathcode/) - 54 points, 18 comments
+1. [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) - 195 points, 137 comments
+2. [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) - 126 points, 60 comments
+3. [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera) - 75 points, 16 comments
+4. [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759) - 155 points, 35 comments
+5. [Flock cameras haven't improved Atlanta's crime clearance rates](https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/) - 31 points, 11 comments
+6. [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) - 526 points, 94 comments
+7. [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) - 87 points, 29 comments
+8. [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx) - 524 points, 907 comments
+9. [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) - 311 points, 124 comments
+10. [Olo (Color)](https://en.wikipedia.org/wiki/Olo_(color)) - 307 points, 64 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 185 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 186 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
