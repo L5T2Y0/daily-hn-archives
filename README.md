@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-18 09:12:36 (北京时间)
+> 🕐 最后更新：2026-08-19 09:14:07 (北京时间)
 
-1. [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) - 195 points, 137 comments
-2. [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) - 126 points, 60 comments
-3. [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera) - 75 points, 16 comments
-4. [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759) - 155 points, 35 comments
-5. [Flock cameras haven't improved Atlanta's crime clearance rates](https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/) - 31 points, 11 comments
-6. [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) - 526 points, 94 comments
-7. [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) - 87 points, 29 comments
-8. [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx) - 524 points, 907 comments
-9. [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) - 311 points, 124 comments
-10. [Olo (Color)](https://en.wikipedia.org/wiki/Olo_(color)) - 307 points, 64 comments
+1. [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) - 134 points, 31 comments
+2. [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) - 916 points, 529 comments
+3. [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo) - 26 points, 30 comments
+4. [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html) - 222 points, 140 comments
+5. [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc) - 27 points, 2 comments
+6. [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec) - 202 points, 27 comments
+7. [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/) - 254 points, 139 comments
+8. [Using the railway network as a flatbed scanner](https://philo.gay/linecam/) - 396 points, 64 comments
+9. [AI usage patterns in software teams](https://linear.app/data) - 32 points, 17 comments
+10. [Cursor launches Origin, GitHub alternative](https://cursor.com/changelog/origin-code-hosting) - 458 points, 361 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 186 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 187 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
