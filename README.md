@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-19 09:14:07 (北京时间)
+> 🕐 最后更新：2026-08-20 09:13:09 (北京时间)
 
-1. [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) - 134 points, 31 comments
-2. [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) - 916 points, 529 comments
-3. [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo) - 26 points, 30 comments
-4. [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html) - 222 points, 140 comments
-5. [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc) - 27 points, 2 comments
-6. [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec) - 202 points, 27 comments
-7. [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/) - 254 points, 139 comments
-8. [Using the railway network as a flatbed scanner](https://philo.gay/linecam/) - 396 points, 64 comments
-9. [AI usage patterns in software teams](https://linear.app/data) - 32 points, 17 comments
-10. [Cursor launches Origin, GitHub alternative](https://cursor.com/changelog/origin-code-hosting) - 458 points, 361 comments
+1. [Gardner police discontinue Flock cameras as license plate readers face scrutiny](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724) - 91 points, 43 comments
+2. [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) - 613 points, 330 comments
+3. [Go 1.27](https://go.dev/blog/go1.27) - 431 points, 107 comments
+4. [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023) - 283 points, 115 comments
+5. [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/) - 127 points, 34 comments
+6. [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs) - 182 points, 65 comments
+7. [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) - 741 points, 115 comments
+8. [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka) - 16 points, 0 comments
+9. [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/) - 39 points, 25 comments
+10. [Casio F-B100W-1A](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/) - 269 points, 218 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 187 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 188 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
