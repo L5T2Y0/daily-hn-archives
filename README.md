@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-20 09:13:09 (北京时间)
+> 🕐 最后更新：2026-08-21 09:16:51 (北京时间)
 
-1. [Gardner police discontinue Flock cameras as license plate readers face scrutiny](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724) - 91 points, 43 comments
-2. [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) - 613 points, 330 comments
-3. [Go 1.27](https://go.dev/blog/go1.27) - 431 points, 107 comments
-4. [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023) - 283 points, 115 comments
-5. [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/) - 127 points, 34 comments
-6. [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs) - 182 points, 65 comments
-7. [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) - 741 points, 115 comments
-8. [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka) - 16 points, 0 comments
-9. [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/) - 39 points, 25 comments
-10. [Casio F-B100W-1A](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/) - 269 points, 218 comments
+1. [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) - 304 points, 341 comments
+2. [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678) - 46 points, 46 comments
+3. [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page) - 211 points, 28 comments
+4. [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) - 552 points, 255 comments
+5. [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/) - 911 points, 208 comments
+6. [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) - 873 points, 286 comments
+7. [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/) - 195 points, 73 comments
+8. [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) - 561 points, 161 comments
+9. [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) - 391 points, 362 comments
+10. [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/) - 216 points, 115 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 188 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 189 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
