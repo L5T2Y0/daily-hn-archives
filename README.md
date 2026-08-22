@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-21 09:16:51 (北京时间)
+> 🕐 最后更新：2026-08-22 09:12:44 (北京时间)
 
-1. [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) - 304 points, 341 comments
-2. [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678) - 46 points, 46 comments
-3. [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page) - 211 points, 28 comments
-4. [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) - 552 points, 255 comments
-5. [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/) - 911 points, 208 comments
-6. [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) - 873 points, 286 comments
-7. [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/) - 195 points, 73 comments
-8. [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) - 561 points, 161 comments
-9. [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) - 391 points, 362 comments
-10. [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/) - 216 points, 115 comments
+1. [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/) - 420 points, 143 comments
+2. [Felony Bench](https://www.felonybench.com/) - 508 points, 225 comments
+3. [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/) - 35 points, 8 comments
+4. [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) - 143 points, 46 comments
+5. [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) - 1001 points, 338 comments
+6. [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa) - 436 points, 50 comments
+7. [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com) - 30 points, 10 comments
+8. [People of ACM – Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox) - 90 points, 11 comments
+9. [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) - 541 points, 721 comments
+10. [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/) - 6 points, 9 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 189 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 190 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
