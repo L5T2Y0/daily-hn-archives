@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-08-16 08:33:45 (北京时间)
+> 🕐 最后更新：2026-08-23 08:34:56 (北京时间)
 
-**本周热门 (2026-08-03 至 2026-08-09)**
+**本周热门 (2026-08-10 至 2026-08-16)**
 
-1. [In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/) - 974 points, 53 comments
+1. [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) - 1039 points, 576 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
+2. [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) - 887 points, 578 comments
    - 🌐 Web | 🔒 Security
-2. [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto) - 895 points, 150 comments
-   - 🌐 Web | 🔒 Security
-3. [Discovery Loop](https://www.discoveryloop.com/) - 618 points, 389 comments
-   - 🌐 Web | 🔒 Security
-4. [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) - 513 points, 187 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source | 🔧 Tools
-5. [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) - 496 points, 601 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔧 Tools
-6. [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) - 483 points, 208 comments
+3. [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug) - 803 points, 145 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
+4. [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) - 777 points, 712 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+5. [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) - 755 points, 285 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+6. [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) - 621 points, 347 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
+7. [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html) - 560 points, 251 comments
    - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-7. [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/) - 471 points, 90 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source
-8. [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) - 464 points, 271 comments
+8. [DeepSeek Harness developer preview](https://deepseek.com/harness/en/) - 559 points, 244 comments
    - 🌐 Web | 🔒 Security
-9. [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319) - 460 points, 351 comments
+9. [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) - 499 points, 110 comments
    - 🌐 Web | 🔒 Security
-10. [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) - 444 points, 723 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security | 🔬 Science
+10. [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) - 492 points, 207 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-08-09.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-08-16.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
