@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-22 09:12:44 (北京时间)
+> 🕐 最后更新：2026-08-23 09:19:19 (北京时间)
 
-1. [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/) - 420 points, 143 comments
-2. [Felony Bench](https://www.felonybench.com/) - 508 points, 225 comments
-3. [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/) - 35 points, 8 comments
-4. [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) - 143 points, 46 comments
-5. [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) - 1001 points, 338 comments
-6. [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa) - 436 points, 50 comments
-7. [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com) - 30 points, 10 comments
-8. [People of ACM – Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox) - 90 points, 11 comments
-9. [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) - 541 points, 721 comments
-10. [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/) - 6 points, 9 comments
+1. [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun) - 43 points, 9 comments
+2. [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491) - 307 points, 171 comments
+3. [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) - 173 points, 56 comments
+4. [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/) - 5 points, 0 comments
+5. [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) - 295 points, 101 comments
+6. [Hister – A private, full content search index that you control](https://hister.org/) - 229 points, 66 comments
+7. [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html) - 94 points, 23 comments
+8. [RF Cafe](https://www.rfcafe.com/) - 148 points, 23 comments
+9. [typ.ing](https://typ.ing/) - 173 points, 54 comments
+10. [How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) - 106 points, 39 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 190 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 191 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
