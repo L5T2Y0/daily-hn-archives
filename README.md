@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-23 09:19:19 (北京时间)
+> 🕐 最后更新：2026-08-24 09:16:46 (北京时间)
 
-1. [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun) - 43 points, 9 comments
-2. [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491) - 307 points, 171 comments
-3. [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917) - 173 points, 56 comments
-4. [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/) - 5 points, 0 comments
-5. [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) - 295 points, 101 comments
-6. [Hister – A private, full content search index that you control](https://hister.org/) - 229 points, 66 comments
-7. [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html) - 94 points, 23 comments
-8. [RF Cafe](https://www.rfcafe.com/) - 148 points, 23 comments
-9. [typ.ing](https://typ.ing/) - 173 points, 54 comments
-10. [How a Texas student blew the whistle on a rogue AI hacking attempt](https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/) - 106 points, 39 comments
+1. [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/) - 231 points, 69 comments
+2. [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/) - 255 points, 99 comments
+3. [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) - 191 points, 158 comments
+4. [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/) - 170 points, 40 comments
+5. [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html) - 147 points, 75 comments
+6. [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/) - 293 points, 133 comments
+7. [AI Chip Architectures](https://www.jepeake.com/ai-chip-architectures) - 37 points, 8 comments
+8. [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) - 235 points, 62 comments
+9. [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/) - 211 points, 106 comments
+10. [Implementation of GPT-2 in pure CMake](https://github.com/AlpinDale/gpt2.cmake) - 27 points, 9 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 191 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 192 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
