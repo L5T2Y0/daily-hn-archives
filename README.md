@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-24 09:16:46 (北京时间)
+> 🕐 最后更新：2026-08-25 09:15:00 (北京时间)
 
-1. [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/) - 231 points, 69 comments
-2. [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/) - 255 points, 99 comments
-3. [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) - 191 points, 158 comments
-4. [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/) - 170 points, 40 comments
-5. [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html) - 147 points, 75 comments
-6. [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/) - 293 points, 133 comments
-7. [AI Chip Architectures](https://www.jepeake.com/ai-chip-architectures) - 37 points, 8 comments
-8. [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) - 235 points, 62 comments
-9. [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/) - 211 points, 106 comments
-10. [Implementation of GPT-2 in pure CMake](https://github.com/AlpinDale/gpt2.cmake) - 27 points, 9 comments
+1. [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm) - 200 points, 44 comments
+2. [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926) - 720 points, 486 comments
+3. [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) - 551 points, 219 comments
+4. [Moon (2024)](https://ciechanow.ski/moon/) - 90 points, 15 comments
+5. [The entire city of San Francisco as a video game](https://sf.thijs.gg/) - 332 points, 116 comments
+6. [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) - 1048 points, 654 comments
+7. [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf) - 26 points, 5 comments
+8. [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk) - 119 points, 97 comments
+9. [Where did all the public bathrooms go?](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/) - 146 points, 297 comments
+10. [Jabber/XMPP: 25 Years of Digital Independence](https://gultsch.de/posts/25-years-of-digital-independence/) - 166 points, 64 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 192 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 193 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
