@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-25 09:15:00 (北京时间)
+> 🕐 最后更新：2026-08-26 09:17:36 (北京时间)
 
-1. [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm) - 200 points, 44 comments
-2. [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926) - 720 points, 486 comments
-3. [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) - 551 points, 219 comments
-4. [Moon (2024)](https://ciechanow.ski/moon/) - 90 points, 15 comments
-5. [The entire city of San Francisco as a video game](https://sf.thijs.gg/) - 332 points, 116 comments
-6. [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) - 1048 points, 654 comments
-7. [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf) - 26 points, 5 comments
-8. [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk) - 119 points, 97 comments
-9. [Where did all the public bathrooms go?](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/) - 146 points, 297 comments
-10. [Jabber/XMPP: 25 Years of Digital Independence](https://gultsch.de/posts/25-years-of-digital-independence/) - 166 points, 64 comments
+1. [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar) - 250 points, 139 comments
+2. [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) - 944 points, 895 comments
+3. [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) - 319 points, 219 comments
+4. [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) - 699 points, 445 comments
+5. [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html) - 134 points, 102 comments
+6. [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao) - 23 points, 3 comments
+7. [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590) - 182 points, 125 comments
+8. [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability) - 55 points, 27 comments
+9. [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain) - 41 points, 9 comments
+10. [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html) - 73 points, 32 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 193 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 194 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
