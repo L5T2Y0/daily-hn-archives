@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-26 09:17:36 (北京时间)
+> 🕐 最后更新：2026-08-27 15:51:23 (北京时间)
 
-1. [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar) - 250 points, 139 comments
-2. [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) - 944 points, 895 comments
-3. [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) - 319 points, 219 comments
-4. [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) - 699 points, 445 comments
-5. [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html) - 134 points, 102 comments
-6. [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao) - 23 points, 3 comments
-7. [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590) - 182 points, 125 comments
-8. [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability) - 55 points, 27 comments
-9. [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain) - 41 points, 9 comments
-10. [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html) - 73 points, 32 comments
+1. [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) - 920 points, 396 comments
+2. [Mechanical Turk shutting down September 30](https://www.mturk.com/) - 306 points, 85 comments
+3. [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) - 990 points, 498 comments
+4. [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/) - 232 points, 74 comments
+5. [Tailcat – Like netcat, but over Tailscale’s data plane](https://github.com/tailscale/tailcat) - 554 points, 98 comments
+6. [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) - 485 points, 312 comments
+7. [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html) - 148 points, 67 comments
+8. [U.S. State Department pauses immigrant visa applications](https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23) - 466 points, 703 comments
+9. [Laion Big Video Dataset](https://projects.laion.ai/bvd/) - 54 points, 13 comments
+10. [An ongoing 3D-printer AGPL violation](https://lwn.net/SubscriberLink/1089390/46116614cc74b814/) - 385 points, 174 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 194 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 195 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
