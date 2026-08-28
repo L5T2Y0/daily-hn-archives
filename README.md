@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-27 15:51:23 (北京时间)
+> 🕐 最后更新：2026-08-28 17:55:48 (北京时间)
 
-1. [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) - 920 points, 396 comments
-2. [Mechanical Turk shutting down September 30](https://www.mturk.com/) - 306 points, 85 comments
-3. [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) - 990 points, 498 comments
-4. [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/) - 232 points, 74 comments
-5. [Tailcat – Like netcat, but over Tailscale’s data plane](https://github.com/tailscale/tailcat) - 554 points, 98 comments
-6. [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) - 485 points, 312 comments
-7. [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html) - 148 points, 67 comments
-8. [U.S. State Department pauses immigrant visa applications](https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23) - 466 points, 703 comments
-9. [Laion Big Video Dataset](https://projects.laion.ai/bvd/) - 54 points, 13 comments
-10. [An ongoing 3D-printer AGPL violation](https://lwn.net/SubscriberLink/1089390/46116614cc74b814/) - 385 points, 174 comments
+1. [That's a Lot of YAML](https://noyaml.com/) - 42 points, 33 comments
+2. [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) - 760 points, 223 comments
+3. [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html) - 5 points, 0 comments
+4. [Small Models Have Arrived](https://calv.info/small-models-have-arrived) - 640 points, 292 comments
+5. [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/) - 113 points, 65 comments
+6. [507 Mechanical Movements](https://507movements.com/) - 580 points, 74 comments
+7. [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/) - 161 points, 38 comments
+8. [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/) - 282 points, 86 comments
+9. [Microduck](https://pollen-robotics.com/microduck/) - 657 points, 212 comments
+10. [Doctors are finally learning to manage antidepressant withdrawal](https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/) - 123 points, 111 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 195 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 196 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
