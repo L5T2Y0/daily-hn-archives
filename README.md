@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-28 17:55:48 (北京时间)
+> 🕐 最后更新：2026-08-29 13:55:10 (北京时间)
 
-1. [That's a Lot of YAML](https://noyaml.com/) - 42 points, 33 comments
-2. [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) - 760 points, 223 comments
-3. [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html) - 5 points, 0 comments
-4. [Small Models Have Arrived](https://calv.info/small-models-have-arrived) - 640 points, 292 comments
-5. [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/) - 113 points, 65 comments
-6. [507 Mechanical Movements](https://507movements.com/) - 580 points, 74 comments
-7. [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/) - 161 points, 38 comments
-8. [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/) - 282 points, 86 comments
-9. [Microduck](https://pollen-robotics.com/microduck/) - 657 points, 212 comments
-10. [Doctors are finally learning to manage antidepressant withdrawal](https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/) - 123 points, 111 comments
+1. [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli) - 200 points, 65 comments
+2. [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html) - 715 points, 347 comments
+3. [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv) - 56 points, 16 comments
+4. [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released) - 598 points, 145 comments
+5. [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck) - 60 points, 12 comments
+6. [9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/) - 108 points, 80 comments
+7. [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) - 325 points, 121 comments
+8. [U.S. sanctions against the A/I Collective](https://www.inventati.org/) - 541 points, 532 comments
+9. [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/) - 88 points, 14 comments
+10. [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/) - 76 points, 28 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 196 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 197 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
