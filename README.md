@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-29 13:55:10 (北京时间)
+> 🕐 最后更新：2026-08-30 11:59:13 (北京时间)
 
-1. [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli) - 200 points, 65 comments
-2. [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html) - 715 points, 347 comments
-3. [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv) - 56 points, 16 comments
-4. [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released) - 598 points, 145 comments
-5. [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck) - 60 points, 12 comments
-6. [9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/) - 108 points, 80 comments
-7. [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) - 325 points, 121 comments
-8. [U.S. sanctions against the A/I Collective](https://www.inventati.org/) - 541 points, 532 comments
-9. [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/) - 88 points, 14 comments
-10. [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/) - 76 points, 28 comments
+1. [Bug Blindness](https://danluu.com/bug-blind/) - 109 points, 39 comments
+2. [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/) - 227 points, 135 comments
+3. [FreeCORE TrueNAS Core – Continued](https://freecore.org/) - 48 points, 21 comments
+4. [RISC-V is now officially supported by CPython](https://blog.python.org/2026/08/riscv-now-officially-supported/) - 55 points, 7 comments
+5. [Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws) - 14 points, 4 comments
+6. [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/) - 386 points, 164 comments
+7. [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/) - 152 points, 68 comments
+8. [Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter](https://github.com/gbin/defragger) - 20 points, 10 comments
+9. [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/) - 172 points, 77 comments
+10. [Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/) - 130 points, 53 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 197 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 198 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
