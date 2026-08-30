@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-08-23 08:34:56 (北京时间)
+> 🕐 最后更新：2026-08-30 10:05:49 (北京时间)
 
-**本周热门 (2026-08-10 至 2026-08-16)**
+**本周热门 (2026-08-17 至 2026-08-23)**
 
-1. [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) - 1039 points, 576 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
-2. [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) - 887 points, 578 comments
+1. [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) - 1001 points, 338 comments
    - 🌐 Web | 🔒 Security
-3. [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug) - 803 points, 145 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-4. [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) - 777 points, 712 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
-5. [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) - 755 points, 285 comments
+2. [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) - 916 points, 529 comments
+   - 🌐 Web | 🔒 Security
+3. [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/) - 911 points, 208 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-6. [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) - 621 points, 347 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
-7. [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html) - 560 points, 251 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-8. [DeepSeek Harness developer preview](https://deepseek.com/harness/en/) - 559 points, 244 comments
-   - 🌐 Web | 🔒 Security
-9. [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) - 499 points, 110 comments
-   - 🌐 Web | 🔒 Security
-10. [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) - 492 points, 207 comments
+4. [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) - 873 points, 286 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+5. [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) - 741 points, 115 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+6. [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) - 613 points, 330 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+7. [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) - 561 points, 161 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+8. [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) - 552 points, 255 comments
+   - 🌐 Web | 🔒 Security | 🔬 Science
+9. [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) - 541 points, 721 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+10. [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) - 530 points, 222 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-08-16.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-08-23.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
