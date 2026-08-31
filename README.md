@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-30 11:59:13 (北京时间)
+> 🕐 最后更新：2026-08-31 12:03:52 (北京时间)
 
-1. [Bug Blindness](https://danluu.com/bug-blind/) - 109 points, 39 comments
-2. [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/) - 227 points, 135 comments
-3. [FreeCORE TrueNAS Core – Continued](https://freecore.org/) - 48 points, 21 comments
-4. [RISC-V is now officially supported by CPython](https://blog.python.org/2026/08/riscv-now-officially-supported/) - 55 points, 7 comments
-5. [Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws) - 14 points, 4 comments
-6. [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/) - 386 points, 164 comments
-7. [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/) - 152 points, 68 comments
-8. [Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter](https://github.com/gbin/defragger) - 20 points, 10 comments
-9. [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/) - 172 points, 77 comments
-10. [Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/) - 130 points, 53 comments
+1. [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/) - 408 points, 103 comments
+2. [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) - 977 points, 482 comments
+3. [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) - 78 points, 27 comments
+4. [It takes 5 cloud services to hear my doorbell](https://blog.vghaisas.com/rube-goldberg-doorbell/) - 35 points, 22 comments
+5. [Matrox: Graphics for Professionals](https://www.abortretry.fail/p/matrox) - 45 points, 10 comments
+6. [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) - 270 points, 83 comments
+7. [CobaltC – The Successor to C?](https://strawberry9.github.io/the-wrong-memory/Appendix_06.html) - 9 points, 12 comments
+8. [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html) - 91 points, 13 comments
+9. [Show HN: NFC Energy-Harvesting PCB Business Card with an MCU](https://wilsonharper.net/projects/businesscard/) - 127 points, 14 comments
+10. [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names) - 3 points, 0 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 198 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 199 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
