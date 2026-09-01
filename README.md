@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-08-31 12:03:52 (北京时间)
+> 🕐 最后更新：2026-09-01 11:53:12 (北京时间)
 
-1. [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/) - 408 points, 103 comments
-2. [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) - 977 points, 482 comments
-3. [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) - 78 points, 27 comments
-4. [It takes 5 cloud services to hear my doorbell](https://blog.vghaisas.com/rube-goldberg-doorbell/) - 35 points, 22 comments
-5. [Matrox: Graphics for Professionals](https://www.abortretry.fail/p/matrox) - 45 points, 10 comments
-6. [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) - 270 points, 83 comments
-7. [CobaltC – The Successor to C?](https://strawberry9.github.io/the-wrong-memory/Appendix_06.html) - 9 points, 12 comments
-8. [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html) - 91 points, 13 comments
-9. [Show HN: NFC Energy-Harvesting PCB Business Card with an MCU](https://wilsonharper.net/projects/businesscard/) - 127 points, 14 comments
-10. [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names) - 3 points, 0 comments
+1. [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/) - 396 points, 98 comments
+2. [Playa Phone](https://playaphone.com/) - 535 points, 194 comments
+3. [2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - 47 points, 31 comments
+4. [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A) - 244 points, 32 comments
+5. [Terence Tao explains 6 essential mathematical concepts [video]](https://www.youtube.com/watch?v=OOMx2BHHWtE) - 267 points, 31 comments
+6. [Lion-man](https://en.wikipedia.org/wiki/Lion-man) - 74 points, 34 comments
+7. [Dwarf Fortress is getting the mother of all magic updates](https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe) - 330 points, 121 comments
+8. [Borges Labyrinth in Venice reopens to the public](https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening) - 24 points, 3 comments
+9. [Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138) - 96 points, 76 comments
+10. [Develop Cross-Platform CLI and GUI Tools with Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide) - 60 points, 34 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 199 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 200 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
