@@ -81,32 +81,32 @@
 > 每月1号自动生成
 
 <!-- MONTHLY_SUMMARY_START -->
-> 🕐 最后更新：2026-08-01 10:28:52 (北京时间)
+> 🕐 最后更新：2026-09-01 11:23:50 (北京时间)
 
-**2026年07月精选**
+**2026年08月精选**
 
-1. [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606) - 1633 points, 177 comments
+1. [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) - 1048 points, 654 comments
+   - 🌐 Web | 🔒 Security | 🚀 Startup
+2. [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) - 1039 points, 576 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
+3. [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) - 1001 points, 338 comments
    - 🌐 Web | 🔒 Security
-2. [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography) - 1505 points, 433 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-3. [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) - 1333 points, 718 comments
+4. [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) - 990 points, 498 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-4. [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) - 1212 points, 753 comments
+5. [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) - 977 points, 482 comments
    - 🌐 Web | 🔒 Security
-5. [GPT-5.6](https://openai.com/index/gpt-5-6/) - 1102 points, 800 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-6. [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) - 1062 points, 644 comments
-   - 🌐 Web | ⚙️ DevOps | 🔒 Security
-7. [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) - 1043 points, 505 comments
+6. [In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/) - 974 points, 53 comments
    - 🌐 Web | 🔒 Security
-8. [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) - 1005 points, 487 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-9. [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) - 938 points, 529 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-10. [Show HN: 18 Words](https://18words.com/) - 853 points, 288 comments
+7. [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) - 944 points, 895 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile | ⚡ Performance
+8. [Elevators](https://john.fun/elevators) - 930 points, 231 comments
+   - 🌐 Web | 🔒 Security
+9. [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) - 920 points, 396 comments
+   - 🌐 Web | 🔒 Security | 🚀 Startup | 🔧 Tools
+10. [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) - 916 points, 529 comments
    - 🌐 Web | 🔒 Security
 
-📁 **[查看完整月报](monthly/month-2026-07.md)** | Top 50 热门文章
+📁 **[查看完整月报](monthly/month-2026-08.md)** | Top 50 热门文章
 <!-- MONTHLY_SUMMARY_END -->
 
 ---
