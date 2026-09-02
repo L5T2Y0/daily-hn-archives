@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-01 11:53:12 (北京时间)
+> 🕐 最后更新：2026-09-02 11:13:01 (北京时间)
 
-1. [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/) - 396 points, 98 comments
-2. [Playa Phone](https://playaphone.com/) - 535 points, 194 comments
-3. [2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - 47 points, 31 comments
-4. [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A) - 244 points, 32 comments
-5. [Terence Tao explains 6 essential mathematical concepts [video]](https://www.youtube.com/watch?v=OOMx2BHHWtE) - 267 points, 31 comments
-6. [Lion-man](https://en.wikipedia.org/wiki/Lion-man) - 74 points, 34 comments
-7. [Dwarf Fortress is getting the mother of all magic updates](https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe) - 330 points, 121 comments
-8. [Borges Labyrinth in Venice reopens to the public](https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening) - 24 points, 3 comments
-9. [Evidence of Fraud in an Influential Study About Procrastination](https://datacolada.org/138) - 96 points, 76 comments
-10. [Develop Cross-Platform CLI and GUI Tools with Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide) - 60 points, 34 comments
+1. [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox) - 686 points, 359 comments
+2. [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) - 977 points, 913 comments
+3. [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) - 473 points, 555 comments
+4. ['Idiocracy' Predicted All of This](https://www.texasmonthly.com/culture/mike-judge-idiocracy-turns-20/) - 18 points, 3 comments
+5. [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/) - 56 points, 8 comments
+6. [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) - 74 points, 24 comments
+7. [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/) - 88 points, 36 comments
+8. [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/) - 338 points, 115 comments
+9. [Sonic Pi](https://sonic-pi.net/) - 50 points, 6 comments
+10. [The creator of Jujutsu has joined ERSC](https://ersc.io/blog/martin-joins-ersc) - 195 points, 152 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 200 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 201 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
