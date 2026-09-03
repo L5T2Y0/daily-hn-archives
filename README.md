@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-02 11:13:01 (北京时间)
+> 🕐 最后更新：2026-09-03 11:14:34 (北京时间)
 
-1. [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox) - 686 points, 359 comments
-2. [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) - 977 points, 913 comments
-3. [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) - 473 points, 555 comments
-4. ['Idiocracy' Predicted All of This](https://www.texasmonthly.com/culture/mike-judge-idiocracy-turns-20/) - 18 points, 3 comments
-5. [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/) - 56 points, 8 comments
-6. [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) - 74 points, 24 comments
-7. [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/) - 88 points, 36 comments
-8. [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/) - 338 points, 115 comments
-9. [Sonic Pi](https://sonic-pi.net/) - 50 points, 6 comments
-10. [The creator of Jujutsu has joined ERSC](https://ersc.io/blog/martin-joins-ersc) - 195 points, 152 comments
+1. [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/) - 425 points, 282 comments
+2. [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) - 859 points, 502 comments
+3. [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html) - 289 points, 207 comments
+4. [Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight) - 74 points, 13 comments
+5. [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530) - 33 points, 39 comments
+6. [Reverse Engineering Unknown File Formats with ImHex](https://werwolv.net/posts/file_format_reverse_engineering/) - 121 points, 23 comments
+7. [Three sites made 215,128 “best software” pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/) - 324 points, 158 comments
+8. [Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds) - 155 points, 54 comments
+9. [The shrinking landscape of linguistic diversity in the age of LLMs](https://www.nature.com/articles/s41562-026-02550-0) - 51 points, 28 comments
+10. [Can I opt out of my input or output data being used for training?](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training) - 383 points, 168 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 201 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 202 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
