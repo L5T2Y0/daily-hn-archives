@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-03 11:14:34 (北京时间)
+> 🕐 最后更新：2026-09-04 11:13:22 (北京时间)
 
-1. [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/) - 425 points, 282 comments
-2. [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) - 859 points, 502 comments
-3. [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html) - 289 points, 207 comments
-4. [Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight) - 74 points, 13 comments
-5. [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530) - 33 points, 39 comments
-6. [Reverse Engineering Unknown File Formats with ImHex](https://werwolv.net/posts/file_format_reverse_engineering/) - 121 points, 23 comments
-7. [Three sites made 215,128 “best software” pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/) - 324 points, 158 comments
-8. [Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds) - 155 points, 54 comments
-9. [The shrinking landscape of linguistic diversity in the age of LLMs](https://www.nature.com/articles/s41562-026-02550-0) - 51 points, 28 comments
-10. [Can I opt out of my input or output data being used for training?](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training) - 383 points, 168 comments
+1. [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) - 1410 points, 1168 comments
+2. [.name Termination](https://neil.fraser.name/news/2026/09/03/) - 1442 points, 394 comments
+3. [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) - 471 points, 141 comments
+4. [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu) - 17 points, 1 comments
+5. [New type of dice guarantees no tie when deciding who goes first](https://www.cbc.ca/lite/story/9.7328614) - 60 points, 38 comments
+6. [The largest electric aircraft just flew [video]](https://www.youtube.com/watch?v=nM86DBOqgPM) - 215 points, 149 comments
+7. [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install) - 120 points, 44 comments
+8. [Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%](https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california) - 179 points, 60 comments
+9. [Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly](https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/) - 209 points, 66 comments
+10. [K2 Horizon: A connected fleet of six open models](https://ifm.ai/blog/k2/) - 268 points, 86 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 202 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 203 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
