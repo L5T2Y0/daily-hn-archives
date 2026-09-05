@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-04 11:13:22 (北京时间)
+> 🕐 最后更新：2026-09-05 11:16:27 (北京时间)
 
-1. [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) - 1410 points, 1168 comments
-2. [.name Termination](https://neil.fraser.name/news/2026/09/03/) - 1442 points, 394 comments
-3. [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) - 471 points, 141 comments
-4. [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu) - 17 points, 1 comments
-5. [New type of dice guarantees no tie when deciding who goes first](https://www.cbc.ca/lite/story/9.7328614) - 60 points, 38 comments
-6. [The largest electric aircraft just flew [video]](https://www.youtube.com/watch?v=nM86DBOqgPM) - 215 points, 149 comments
-7. [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install) - 120 points, 44 comments
-8. [Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%](https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california) - 179 points, 60 comments
-9. [Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly](https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/) - 209 points, 66 comments
-10. [K2 Horizon: A connected fleet of six open models](https://ifm.ai/blog/k2/) - 268 points, 86 comments
+1. [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046) - 290 points, 163 comments
+2. [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) - 523 points, 327 comments
+3. [Discovery of a new OpenAI agent message board](https://collusion.wiki/) - 1519 points, 1207 comments
+4. [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2) - 66 points, 16 comments
+5. [Statichost.eu – European static site hosting](https://www.statichost.eu/) - 181 points, 62 comments
+6. [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra) - 141 points, 73 comments
+7. [Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead) - 266 points, 116 comments
+8. [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/) - 182 points, 117 comments
+9. [Can guitar frets perform multiplication?](https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html) - 41 points, 11 comments
+10. [Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90) - 47 points, 20 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 203 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 204 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
