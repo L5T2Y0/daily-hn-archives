@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-05 11:16:27 (北京时间)
+> 🕐 最后更新：2026-09-06 11:16:03 (北京时间)
 
-1. [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046) - 290 points, 163 comments
-2. [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) - 523 points, 327 comments
-3. [Discovery of a new OpenAI agent message board](https://collusion.wiki/) - 1519 points, 1207 comments
-4. [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2) - 66 points, 16 comments
-5. [Statichost.eu – European static site hosting](https://www.statichost.eu/) - 181 points, 62 comments
-6. [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra) - 141 points, 73 comments
-7. [Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead) - 266 points, 116 comments
-8. [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/) - 182 points, 117 comments
-9. [Can guitar frets perform multiplication?](https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html) - 41 points, 11 comments
-10. [Portal by Spotify cut my Claude Code token usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90) - 47 points, 20 comments
+1. [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post) - 176 points, 68 comments
+2. [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/) - 38 points, 12 comments
+3. [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/) - 162 points, 58 comments
+4. [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket) - 395 points, 218 comments
+5. [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/) - 189 points, 78 comments
+6. [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html) - 112 points, 8 comments
+7. [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/) - 294 points, 88 comments
+8. [RecurseCenter.return()](https://mm-dev.rocks/series/recursecenter.return/) - 14 points, 1 comments
+9. [Discovery of a new OpenAI agent message board](https://collusion.wiki/) - 2131 points, 1526 comments
+10. [Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/) - 62 points, 26 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 204 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 205 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
