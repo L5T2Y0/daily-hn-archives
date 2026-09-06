@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-08-30 10:05:49 (北京时间)
+> 🕐 最后更新：2026-09-06 09:38:52 (北京时间)
 
-**本周热门 (2026-08-17 至 2026-08-23)**
+**本周热门 (2026-08-24 至 2026-08-30)**
 
-1. [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) - 1001 points, 338 comments
+1. [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) - 1048 points, 654 comments
+   - 🌐 Web | 🔒 Security | 🚀 Startup
+2. [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) - 990 points, 498 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+3. [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) - 944 points, 895 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile | ⚡ Performance
+4. [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) - 920 points, 396 comments
+   - 🌐 Web | 🔒 Security | 🚀 Startup | 🔧 Tools
+5. [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) - 760 points, 223 comments
+   - 🌐 Web | ⚙️ DevOps | 🔒 Security | ⚡ Performance
+6. [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926) - 720 points, 486 comments
+   - 🌐 Web | 🔒 Security | 📱 Mobile
+7. [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html) - 715 points, 347 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+8. [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) - 699 points, 445 comments
+   - 🌐 Web | 🔒 Security | 📱 Mobile
+9. [Microduck](https://pollen-robotics.com/microduck/) - 657 points, 212 comments
    - 🌐 Web | 🔒 Security
-2. [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) - 916 points, 529 comments
-   - 🌐 Web | 🔒 Security
-3. [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/) - 911 points, 208 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-4. [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) - 873 points, 286 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-5. [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) - 741 points, 115 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-6. [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) - 613 points, 330 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-7. [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) - 561 points, 161 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-8. [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) - 552 points, 255 comments
-   - 🌐 Web | 🔒 Security | 🔬 Science
-9. [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) - 541 points, 721 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-10. [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) - 530 points, 222 comments
+10. [Small Models Have Arrived](https://calv.info/small-models-have-arrived) - 640 points, 292 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-08-23.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-08-30.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
