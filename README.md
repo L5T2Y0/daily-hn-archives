@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-06 11:16:03 (北京时间)
+> 🕐 最后更新：2026-09-07 11:14:11 (北京时间)
 
-1. [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post) - 176 points, 68 comments
-2. [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/) - 38 points, 12 comments
-3. [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/) - 162 points, 58 comments
-4. [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket) - 395 points, 218 comments
-5. [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/) - 189 points, 78 comments
-6. [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html) - 112 points, 8 comments
-7. [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/) - 294 points, 88 comments
-8. [RecurseCenter.return()](https://mm-dev.rocks/series/recursecenter.return/) - 14 points, 1 comments
-9. [Discovery of a new OpenAI agent message board](https://collusion.wiki/) - 2131 points, 1526 comments
-10. [Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/) - 62 points, 26 comments
+1. [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html) - 123 points, 50 comments
+2. [The NX bit is not just about security](https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/) - 20 points, 4 comments
+3. [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/) - 163 points, 98 comments
+4. [Your intellectual fly is open when you use an LLM to author a post (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) - 568 points, 377 comments
+5. [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador) - 74 points, 22 comments
+6. [Nitter and XCancel resume service after legal advice](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3) - 511 points, 263 comments
+7. [Babylonian Lamb Stew with Beets (1750–1730 BCE)](https://babylonian-collection.yale.edu/about/babylonian-cooking) - 114 points, 56 comments
+8. [Please don't rearrange our shoes when we turn up, paramedics in Japan urge](https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette) - 40 points, 35 comments
+9. [MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server](https://github.com/Staatsgeheim/MathKernel) - 13 points, 0 comments
+10. [Harnessing the Universal Geometry of Embeddings](https://arxiv.org/abs/2505.12540) - 50 points, 15 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 205 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 206 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
