@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-07 11:14:11 (北京时间)
+> 🕐 最后更新：2026-09-08 11:22:08 (北京时间)
 
-1. [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html) - 123 points, 50 comments
-2. [The NX bit is not just about security](https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/) - 20 points, 4 comments
-3. [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/) - 163 points, 98 comments
-4. [Your intellectual fly is open when you use an LLM to author a post (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) - 568 points, 377 comments
-5. [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador) - 74 points, 22 comments
-6. [Nitter and XCancel resume service after legal advice](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3) - 511 points, 263 comments
-7. [Babylonian Lamb Stew with Beets (1750–1730 BCE)](https://babylonian-collection.yale.edu/about/babylonian-cooking) - 114 points, 56 comments
-8. [Please don't rearrange our shoes when we turn up, paramedics in Japan urge](https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette) - 40 points, 35 comments
-9. [MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server](https://github.com/Staatsgeheim/MathKernel) - 13 points, 0 comments
-10. [Harnessing the Universal Geometry of Embeddings](https://arxiv.org/abs/2505.12540) - 50 points, 15 comments
+1. [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) - 122 points, 25 comments
+2. [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/) - 103 points, 10 comments
+3. [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/) - 110 points, 46 comments
+4. [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/) - 237 points, 125 comments
+5. [Leaving VMware just got harder after Broadcom pulled VDDK downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/) - 116 points, 53 comments
+6. [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet) - 114 points, 37 comments
+7. [Trusting-Trust Attack against an Entire Linux Distribution](https://arxiv.org/abs/2607.24888) - 167 points, 35 comments
+8. [John Margolies' photographs of roadside America](https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/) - 31 points, 11 comments
+9. [WeatherNext 3](https://deepmind.google/science/weathernext/) - 250 points, 62 comments
+10. [Scientists observe Einstein's gravity in the quantum world](https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world) - 161 points, 41 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 206 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 207 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
