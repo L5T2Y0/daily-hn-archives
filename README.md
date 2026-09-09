@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-08 11:22:08 (北京时间)
+> 🕐 最后更新：2026-09-09 11:25:49 (北京时间)
 
-1. [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) - 122 points, 25 comments
-2. [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/) - 103 points, 10 comments
-3. [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/) - 110 points, 46 comments
-4. [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/) - 237 points, 125 comments
-5. [Leaving VMware just got harder after Broadcom pulled VDDK downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/) - 116 points, 53 comments
-6. [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet) - 114 points, 37 comments
-7. [Trusting-Trust Attack against an Entire Linux Distribution](https://arxiv.org/abs/2607.24888) - 167 points, 35 comments
-8. [John Margolies' photographs of roadside America](https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/) - 31 points, 11 comments
-9. [WeatherNext 3](https://deepmind.google/science/weathernext/) - 250 points, 62 comments
-10. [Scientists observe Einstein's gravity in the quantum world](https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world) - 161 points, 41 comments
+1. [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/) - 357 points, 366 comments
+2. [Trees use a "muscle", tension wood, to correct their posture](https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html) - 13 points, 0 comments
+3. [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/) - 175 points, 38 comments
+4. [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH) - 110 points, 55 comments
+5. [AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) - 506 points, 117 comments
+6. [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/) - 23 points, 6 comments
+7. [An Accidental Blackboard](https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html) - 16 points, 4 comments
+8. [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03) - 366 points, 161 comments
+9. [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) - 1163 points, 1001 comments
+10. [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560) - 200 points, 138 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 207 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 208 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
