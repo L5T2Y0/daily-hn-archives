@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-09 11:25:49 (北京时间)
+> 🕐 最后更新：2026-09-10 11:24:13 (北京时间)
 
-1. [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/) - 357 points, 366 comments
-2. [Trees use a "muscle", tension wood, to correct their posture](https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html) - 13 points, 0 comments
-3. [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/) - 175 points, 38 comments
-4. [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH) - 110 points, 55 comments
-5. [AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) - 506 points, 117 comments
-6. [27.5KB language-agnostic WebGPU syntax highlighter](https://gpu-lexer.vercel.app/) - 23 points, 6 comments
-7. [An Accidental Blackboard](https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html) - 16 points, 4 comments
-8. [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03) - 366 points, 161 comments
-9. [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) - 1163 points, 1001 comments
-10. [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560) - 200 points, 138 comments
+1. [iPhone Duo](https://www.apple.com/iphone-duo/) - 972 points, 1760 comments
+2. [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/) - 32 points, 22 comments
+3. [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify) - 923 points, 367 comments
+4. [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html) - 411 points, 238 comments
+5. [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe) - 251 points, 449 comments
+6. [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/) - 397 points, 318 comments
+7. [No Man's Sky Cosmos](https://www.nomanssky.com/cosmos-update/) - 315 points, 333 comments
+8. [Show HN: Compute polynomials twice as fast](https://thomasahle.com/fast-polynomials/) - 25 points, 8 comments
+9. [iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/) - 300 points, 321 comments
+10. [GPT-6 Astra, looped transformers, and hidden reasoning](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and) - 362 points, 128 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 208 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 209 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
