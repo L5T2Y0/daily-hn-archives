@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-11 11:20:45 (北京时间)
+> 🕐 最后更新：2026-09-12 11:26:35 (北京时间)
 
-1. [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native) - 840 points, 560 comments
-2. [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) - 721 points, 664 comments
-3. [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview) - 162 points, 101 comments
-4. [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/) - 57 points, 47 comments
-5. [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai) - 51 points, 29 comments
-6. [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/) - 353 points, 265 comments
-7. [Mexican student creates an acoustic fire extinguisher to put out fire in seconds](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/) - 63 points, 22 comments
-8. [The Deathray: A simple way for an untrusted site to freeze a Mac](https://auberon.xyz/blog/posts/deathray/) - 103 points, 64 comments
-9. [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o) - 114 points, 82 comments
-10. [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2) - 363 points, 154 comments
+1. [A misalignment of AI in mathematics](https://mathandai.org/) - 716 points, 741 comments
+2. [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/) - 20 points, 5 comments
+3. [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) - 360 points, 185 comments
+4. [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/) - 177 points, 37 comments
+5. [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) - 425 points, 244 comments
+6. [Google stole open source code without crediting the authors (Artemis/Minitap)](https://www.minitap.ai/blog/i-expected-better-from-google) - 9 points, 2 comments
+7. [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13) - 217 points, 133 comments
+8. [AI researchers debate how close we are to recursive self-improvement](https://www.dwarkesh.com/p/john-beren-charlie) - 62 points, 48 comments
+9. [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm) - 106 points, 39 comments
+10. [Project Blinkenlights](https://blinkenlights.de/en/) - 58 points, 25 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 210 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 211 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
