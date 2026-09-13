@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-09-06 09:38:52 (北京时间)
+> 🕐 最后更新：2026-09-13 09:46:57 (北京时间)
 
-**本周热门 (2026-08-24 至 2026-08-30)**
+**本周热门 (2026-08-31 至 2026-09-06)**
 
-1. [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) - 1048 points, 654 comments
-   - 🌐 Web | 🔒 Security | 🚀 Startup
-2. [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) - 990 points, 498 comments
+1. [Discovery of a new OpenAI agent message board](https://collusion.wiki/) - 2131 points, 1526 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-3. [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) - 944 points, 895 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile | ⚡ Performance
-4. [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) - 920 points, 396 comments
-   - 🌐 Web | 🔒 Security | 🚀 Startup | 🔧 Tools
-5. [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) - 760 points, 223 comments
-   - 🌐 Web | ⚙️ DevOps | 🔒 Security | ⚡ Performance
-6. [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926) - 720 points, 486 comments
-   - 🌐 Web | 🔒 Security | 📱 Mobile
-7. [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html) - 715 points, 347 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-8. [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) - 699 points, 445 comments
-   - 🌐 Web | 🔒 Security | 📱 Mobile
-9. [Microduck](https://pollen-robotics.com/microduck/) - 657 points, 212 comments
+2. [.name Termination](https://neil.fraser.name/news/2026/09/03/) - 1442 points, 394 comments
    - 🌐 Web | 🔒 Security
-10. [Small Models Have Arrived](https://calv.info/small-models-have-arrived) - 640 points, 292 comments
+3. [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) - 1410 points, 1168 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
+4. [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) - 977 points, 482 comments
+   - 🌐 Web | 🔒 Security
+5. [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) - 977 points, 913 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+6. [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) - 859 points, 502 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
+7. [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox) - 686 points, 359 comments
+   - 🌐 Web | 🔒 Security
+8. [Playa Phone](https://playaphone.com/) - 535 points, 194 comments
+   - 🌐 Web | 🔒 Security
+9. [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) - 523 points, 327 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
+10. [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) - 473 points, 555 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-08-30.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-09-06.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
