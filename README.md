@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-12 11:26:35 (北京时间)
+> 🕐 最后更新：2026-09-13 11:31:55 (北京时间)
 
-1. [A misalignment of AI in mathematics](https://mathandai.org/) - 716 points, 741 comments
-2. [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/) - 20 points, 5 comments
-3. [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) - 360 points, 185 comments
-4. [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/) - 177 points, 37 comments
-5. [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) - 425 points, 244 comments
-6. [Google stole open source code without crediting the authors (Artemis/Minitap)](https://www.minitap.ai/blog/i-expected-better-from-google) - 9 points, 2 comments
-7. [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13) - 217 points, 133 comments
-8. [AI researchers debate how close we are to recursive self-improvement](https://www.dwarkesh.com/p/john-beren-charlie) - 62 points, 48 comments
-9. [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm) - 106 points, 39 comments
-10. [Project Blinkenlights](https://blinkenlights.de/en/) - 58 points, 25 comments
+1. [The Interim Computer Museum](https://icm.museum/) - 22 points, 4 comments
+2. [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) - 361 points, 84 comments
+3. [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe) - 148 points, 74 comments
+4. [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) - 415 points, 283 comments
+5. [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/) - 149 points, 36 comments
+6. [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) - 202 points, 93 comments
+7. [Align AI and Mathematics–To Something Else](https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/) - 26 points, 12 comments
+8. [Getting 50 GB/S Back from the Apple Neural Engine](https://eiln.github.io/posts/ane-dma.html) - 92 points, 17 comments
+9. [Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/) - 151 points, 39 comments
+10. [Recurrent Looped Transformer](https://yifanzhang-pro.github.io/recurrent-looped-tranformer/) - 14 points, 7 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 211 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 212 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
