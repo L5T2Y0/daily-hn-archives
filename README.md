@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-13 11:31:55 (北京时间)
+> 🕐 最后更新：2026-09-14 11:41:58 (北京时间)
 
-1. [The Interim Computer Museum](https://icm.museum/) - 22 points, 4 comments
-2. [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) - 361 points, 84 comments
-3. [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe) - 148 points, 74 comments
-4. [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) - 415 points, 283 comments
-5. [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/) - 149 points, 36 comments
-6. [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) - 202 points, 93 comments
-7. [Align AI and Mathematics–To Something Else](https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/) - 26 points, 12 comments
-8. [Getting 50 GB/S Back from the Apple Neural Engine](https://eiln.github.io/posts/ane-dma.html) - 92 points, 17 comments
-9. [Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/) - 151 points, 39 comments
-10. [Recurrent Looped Transformer](https://yifanzhang-pro.github.io/recurrent-looped-tranformer/) - 14 points, 7 comments
+1. [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) - 567 points, 248 comments
+2. [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/) - 64 points, 16 comments
+3. [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) - 654 points, 305 comments
+4. [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) - 117 points, 61 comments
+5. [Open-Source AI and Open Models Reading List](https://www.interconnects.ai/p/open-source-ai-reading-list) - 42 points, 2 comments
+6. [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) - 396 points, 180 comments
+7. [Julia 1.13 highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/) - 173 points, 12 comments
+8. [The Malicious Use of Artificial Intelligence](https://arxiv.org/abs/1802.07228) - 18 points, 4 comments
+9. [Data collected by cars and sold to third parties](https://www.theverge.com/column/994172/your-car-is-selling-your-data) - 333 points, 172 comments
+10. [Mullenweg has returned as CEO after attempted board ouster](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/) - 69 points, 123 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 212 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 213 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
