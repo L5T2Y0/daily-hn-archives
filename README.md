@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-14 11:41:58 (北京时间)
+> 🕐 最后更新：2026-09-15 11:42:42 (北京时间)
 
-1. [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) - 567 points, 248 comments
-2. [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/) - 64 points, 16 comments
-3. [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) - 654 points, 305 comments
-4. [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) - 117 points, 61 comments
-5. [Open-Source AI and Open Models Reading List](https://www.interconnects.ai/p/open-source-ai-reading-list) - 42 points, 2 comments
-6. [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) - 396 points, 180 comments
-7. [Julia 1.13 highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/) - 173 points, 12 comments
-8. [The Malicious Use of Artificial Intelligence](https://arxiv.org/abs/1802.07228) - 18 points, 4 comments
-9. [Data collected by cars and sold to third parties](https://www.theverge.com/column/994172/your-car-is-selling-your-data) - 333 points, 172 comments
-10. [Mullenweg has returned as CEO after attempted board ouster](https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/) - 69 points, 123 comments
+1. [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) - 442 points, 495 comments
+2. [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion) - 316 points, 349 comments
+3. [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/) - 45 points, 5 comments
+4. [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/) - 137 points, 44 comments
+5. [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd) - 45 points, 9 comments
+6. [XCancel service is suspended until further notice](https://xcancel.com/#) - 504 points, 803 comments
+7. [Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/) - 52 points, 16 comments
+8. [Compressing a Flag to 11 Bits](https://read.vantezzen.io/miniflags) - 89 points, 39 comments
+9. [OpenAI bots knew about the RubyGems caching vulnerability](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/) - 392 points, 331 comments
+10. [Distributed Systems Classics (2017)](https://nvartolomei.com/dist-sys-classics/) - 249 points, 56 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 213 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 214 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
