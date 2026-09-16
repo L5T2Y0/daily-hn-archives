@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-15 11:42:42 (北京时间)
+> 🕐 最后更新：2026-09-16 11:39:29 (北京时间)
 
-1. [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) - 442 points, 495 comments
-2. [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion) - 316 points, 349 comments
-3. [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/) - 45 points, 5 comments
-4. [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/) - 137 points, 44 comments
-5. [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd) - 45 points, 9 comments
-6. [XCancel service is suspended until further notice](https://xcancel.com/#) - 504 points, 803 comments
-7. [Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/) - 52 points, 16 comments
-8. [Compressing a Flag to 11 Bits](https://read.vantezzen.io/miniflags) - 89 points, 39 comments
-9. [OpenAI bots knew about the RubyGems caching vulnerability](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/) - 392 points, 331 comments
-10. [Distributed Systems Classics (2017)](https://nvartolomei.com/dist-sys-classics/) - 249 points, 56 comments
+1. [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) - 893 points, 284 comments
+2. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) - 1386 points, 184 comments
+3. [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/) - 18 points, 6 comments
+4. [An update on Wayback Machine access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/) - 424 points, 226 comments
+5. [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/) - 26 points, 18 comments
+6. [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/) - 334 points, 205 comments
+7. [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html) - 150 points, 44 comments
+8. [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/) - 192 points, 116 comments
+9. [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/) - 58 points, 10 comments
+10. [Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/) - 27 points, 13 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 214 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 215 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
