@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-16 11:39:29 (北京时间)
+> 🕐 最后更新：2026-09-17 11:44:42 (北京时间)
 
-1. [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) - 893 points, 284 comments
-2. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) - 1386 points, 184 comments
-3. [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/) - 18 points, 6 comments
-4. [An update on Wayback Machine access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/) - 424 points, 226 comments
-5. [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/) - 26 points, 18 comments
-6. [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/) - 334 points, 205 comments
-7. [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html) - 150 points, 44 comments
-8. [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/) - 192 points, 116 comments
-9. [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/) - 58 points, 10 comments
-10. [Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/) - 27 points, 13 comments
+1. [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) - 402 points, 150 comments
+2. [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included) - 16 points, 0 comments
+3. [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) - 437 points, 92 comments
+4. [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/) - 305 points, 81 comments
+5. [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html) - 39 points, 3 comments
+6. [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338) - 153 points, 21 comments
+7. [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html) - 116 points, 55 comments
+8. [Small programming tricks](https://will-keleher.com/posts/small-programming-tricks-matter/) - 427 points, 191 comments
+9. [Developing provably correct Rust code with Verus](https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus) - 45 points, 4 comments
+10. [The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve) - 135 points, 52 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 215 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 216 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
