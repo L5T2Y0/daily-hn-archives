@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-17 11:44:42 (北京时间)
+> 🕐 最后更新：2026-09-18 11:30:44 (北京时间)
 
-1. [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) - 402 points, 150 comments
-2. [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included) - 16 points, 0 comments
-3. [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) - 437 points, 92 comments
-4. [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/) - 305 points, 81 comments
-5. [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html) - 39 points, 3 comments
-6. [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338) - 153 points, 21 comments
-7. [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html) - 116 points, 55 comments
-8. [Small programming tricks](https://will-keleher.com/posts/small-programming-tricks-matter/) - 427 points, 191 comments
-9. [Developing provably correct Rust code with Verus](https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus) - 45 points, 4 comments
-10. [The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve) - 135 points, 52 comments
+1. [Astra for Law](https://openai.com/index/astra-for-law/) - 371 points, 394 comments
+2. [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b) - 279 points, 86 comments
+3. [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/) - 340 points, 172 comments
+4. [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister) - 502 points, 139 comments
+5. [Alibaba releases Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash) - 67 points, 16 comments
+6. [Wax motor](https://en.wikipedia.org/wiki/Wax_motor) - 281 points, 54 comments
+7. [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02) - 529 points, 202 comments
+8. [Flet 1.0 – Build cross-platform apps in Python](https://flet.dev/) - 71 points, 37 comments
+9. [Better Icon and Label Alignment](https://ishadeed.com/article/aligning-list-icons/) - 13 points, 2 comments
+10. [Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006) - 19 points, 8 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 216 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 217 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
