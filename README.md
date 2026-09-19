@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-18 11:30:44 (北京时间)
+> 🕐 最后更新：2026-09-19 11:27:42 (北京时间)
 
-1. [Astra for Law](https://openai.com/index/astra-for-law/) - 371 points, 394 comments
-2. [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b) - 279 points, 86 comments
-3. [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/) - 340 points, 172 comments
-4. [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister) - 502 points, 139 comments
-5. [Alibaba releases Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash) - 67 points, 16 comments
-6. [Wax motor](https://en.wikipedia.org/wiki/Wax_motor) - 281 points, 54 comments
-7. [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02) - 529 points, 202 comments
-8. [Flet 1.0 – Build cross-platform apps in Python](https://flet.dev/) - 71 points, 37 comments
-9. [Better Icon and Label Alignment](https://ishadeed.com/article/aligning-list-icons/) - 13 points, 2 comments
-10. [Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006) - 19 points, 8 comments
+1. [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) - 611 points, 289 comments
+2. [Science Is Open Software](https://jepedersen.dk/blog/202505_research/) - 20 points, 6 comments
+3. [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/) - 13 points, 2 comments
+4. [Cloudflare Quick Tunnels](https://try.cloudflare.com/) - 619 points, 259 comments
+5. [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) - 257 points, 55 comments
+6. [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/) - 415 points, 287 comments
+7. [Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/) - 13 points, 5 comments
+8. [Xcode 27.1 Beta Release Notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes) - 120 points, 72 comments
+9. [The Farnese letter](https://simonklee.dk/farnese-letter) - 31 points, 5 comments
+10. [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design) - 67 points, 62 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 217 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 218 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
