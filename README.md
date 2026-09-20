@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-09-13 09:46:57 (北京时间)
+> 🕐 最后更新：2026-09-20 10:03:53 (北京时间)
 
-**本周热门 (2026-08-31 至 2026-09-06)**
+**本周热门 (2026-09-07 至 2026-09-13)**
 
-1. [Discovery of a new OpenAI agent message board](https://collusion.wiki/) - 2131 points, 1526 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-2. [.name Termination](https://neil.fraser.name/news/2026/09/03/) - 1442 points, 394 comments
-   - 🌐 Web | 🔒 Security
-3. [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) - 1410 points, 1168 comments
+1. [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) - 1163 points, 1001 comments
    - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-4. [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) - 977 points, 482 comments
-   - 🌐 Web | 🔒 Security
-5. [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) - 977 points, 913 comments
+2. [iPhone Duo](https://www.apple.com/iphone-duo/) - 972 points, 1760 comments
+   - 🌐 Web | 🔒 Security | 📱 Mobile
+3. [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify) - 923 points, 367 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-6. [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) - 859 points, 502 comments
+4. [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native) - 840 points, 560 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming | 📱 Mobile
+5. [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) - 721 points, 664 comments
    - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
-7. [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox) - 686 points, 359 comments
-   - 🌐 Web | 🔒 Security
-8. [Playa Phone](https://playaphone.com/) - 535 points, 194 comments
-   - 🌐 Web | 🔒 Security
-9. [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) - 523 points, 327 comments
+6. [A misalignment of AI in mathematics](https://mathandai.org/) - 716 points, 741 comments
    - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
-10. [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) - 473 points, 555 comments
+7. [Your intellectual fly is open when you use an LLM to author a post (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) - 568 points, 377 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
+8. [Nitter and XCancel resume service after legal advice](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3) - 511 points, 263 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+9. [AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) - 506 points, 117 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
+10. [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) - 425 points, 244 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
 
-📁 **[查看完整周报](weekly/week-2026-09-06.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-09-13.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
