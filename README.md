@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-21 11:39:50 (北京时间)
+> 🕐 最后更新：2026-09-22 11:38:07 (北京时间)
 
-1. [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io) - 283 points, 107 comments
-2. [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say) - 377 points, 250 comments
-3. [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/) - 655 points, 342 comments
-4. [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive) - 223 points, 134 comments
-5. [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) - 531 points, 158 comments
-6. [The Effect of CRTs on Pixel Art (2024)](https://datagubbe.se/crt/) - 118 points, 31 comments
-7. [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/) - 472 points, 138 comments
-8. [Bill to Ban Private Equity from Owning Medical Practices](https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/) - 358 points, 227 comments
-9. [Amiga Unix, Again](https://amigaux.org/) - 25 points, 10 comments
-10. [Singapore’s National Library Board offers micropayments to build reading habits](https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books) - 192 points, 85 comments
+1. [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) - 622 points, 311 comments
+2. [Spymarks, Not Watermarks](https://brand.io/article/spymarks/) - 188 points, 38 comments
+3. [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/) - 377 points, 126 comments
+4. [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) - 521 points, 310 comments
+5. [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) - 237 points, 39 comments
+6. [Attention is all you have](https://alicegg.tech/2026/09/21/attention) - 617 points, 188 comments
+7. [NASA’s Mars Sample Return mission is dead](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead) - 329 points, 264 comments
+8. [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked) - 162 points, 175 comments
+9. [Divide by depth for instant 3D](https://gabrieloc.com/2026/09/15/perspective.html) - 99 points, 17 comments
+10. [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh) - 74 points, 59 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 220 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 221 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
