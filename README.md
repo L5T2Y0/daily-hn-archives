@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-22 11:38:07 (北京时间)
+> 🕐 最后更新：2026-09-23 11:37:40 (北京时间)
 
-1. [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) - 622 points, 311 comments
-2. [Spymarks, Not Watermarks](https://brand.io/article/spymarks/) - 188 points, 38 comments
-3. [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/) - 377 points, 126 comments
-4. [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) - 521 points, 310 comments
-5. [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) - 237 points, 39 comments
-6. [Attention is all you have](https://alicegg.tech/2026/09/21/attention) - 617 points, 188 comments
-7. [NASA’s Mars Sample Return mission is dead](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead) - 329 points, 264 comments
-8. [AI coding has made CI a bottleneck, so we reworked ours to keep up](https://linear.app/now/ci-bottleneck-reworked) - 162 points, 175 comments
-9. [Divide by depth for instant 3D](https://gabrieloc.com/2026/09/15/perspective.html) - 99 points, 17 comments
-10. [Claude Status – Elevated errors for multiple models](https://status.claude.com/incidents/7g1qpkyz5gxh) - 74 points, 59 comments
+1. [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) - 1271 points, 638 comments
+2. [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) - 1289 points, 853 comments
+3. [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.com/news/articles/cqj3dgy8x3vro) - 43 points, 24 comments
+4. [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) - 586 points, 371 comments
+5. ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/) - 467 points, 337 comments
+6. [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/) - 216 points, 144 comments
+7. [ReBarUEFI: Resizable BAR for almost any UEFI system](https://github.com/xCuri0/ReBarUEFI) - 87 points, 27 comments
+8. [What California is learning from solar panels built over irrigation canals](https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals) - 145 points, 220 comments
+9. [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/) - 178 points, 104 comments
+10. [Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)](https://artificialanalysis.ai/models/claude-opus-5-5) - 246 points, 77 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 221 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 222 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
