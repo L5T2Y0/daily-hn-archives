@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-23 11:37:40 (北京时间)
+> 🕐 最后更新：2026-09-24 11:28:16 (北京时间)
 
-1. [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) - 1271 points, 638 comments
-2. [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) - 1289 points, 853 comments
-3. [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.com/news/articles/cqj3dgy8x3vro) - 43 points, 24 comments
-4. [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) - 586 points, 371 comments
-5. ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/) - 467 points, 337 comments
-6. [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/) - 216 points, 144 comments
-7. [ReBarUEFI: Resizable BAR for almost any UEFI system](https://github.com/xCuri0/ReBarUEFI) - 87 points, 27 comments
-8. [What California is learning from solar panels built over irrigation canals](https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals) - 145 points, 220 comments
-9. [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/) - 178 points, 104 comments
-10. [Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)](https://artificialanalysis.ai/models/claude-opus-5-5) - 246 points, 77 comments
+1. [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) - 202 points, 100 comments
+2. [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) - 543 points, 571 comments
+3. [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign) - 82 points, 55 comments
+4. [Meta VR Glasses](https://www.meta.com/vr-glasses/) - 278 points, 248 comments
+5. [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/) - 81 points, 11 comments
+6. [VSCode's SSH Agent Is Bananas (2025)](https://fly.io/blog/vscode-ssh-wtf/) - 144 points, 95 comments
+7. [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu) - 20 points, 14 comments
+8. [The "Windows XP Box" (2003)](https://www.mini-itx.com/projects/windowsxpbox/) - 71 points, 12 comments
+9. [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html) - 388 points, 91 comments
+10. [Mercury 2.5 LLM hits 770 tokens per second](https://artificialanalysis.ai/models/mercury-2-5) - 64 points, 32 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 222 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 223 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
