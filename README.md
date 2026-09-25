@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-24 11:28:16 (北京时间)
+> 🕐 最后更新：2026-09-25 11:45:34 (北京时间)
 
-1. [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) - 202 points, 100 comments
-2. [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) - 543 points, 571 comments
-3. [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign) - 82 points, 55 comments
-4. [Meta VR Glasses](https://www.meta.com/vr-glasses/) - 278 points, 248 comments
-5. [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/) - 81 points, 11 comments
-6. [VSCode's SSH Agent Is Bananas (2025)](https://fly.io/blog/vscode-ssh-wtf/) - 144 points, 95 comments
-7. [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu) - 20 points, 14 comments
-8. [The "Windows XP Box" (2003)](https://www.mini-itx.com/projects/windowsxpbox/) - 71 points, 12 comments
-9. [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html) - 388 points, 91 comments
-10. [Mercury 2.5 LLM hits 770 tokens per second](https://artificialanalysis.ai/models/mercury-2-5) - 64 points, 32 comments
+1. [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) - 1008 points, 275 comments
+2. [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com) - 527 points, 76 comments
+3. [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) - 228 points, 85 comments
+4. [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver) - 302 points, 165 comments
+5. [2DWillNeverDie](https://2dwillneverdie.com/) - 143 points, 14 comments
+6. [Fearless SIMD v1.0](https://linebender.org/blog/fearless-simd-1-0/) - 206 points, 32 comments
+7. [Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY) - 272 points, 287 comments
+8. [Toyota is taking the Corolla electric](https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/) - 259 points, 426 comments
+9. [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical) - 95 points, 14 comments
+10. [My weird new hobby: Wandering around Tokyo on Google Maps](https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/) - 251 points, 106 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 223 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 224 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
