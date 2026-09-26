@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-25 11:45:34 (北京时间)
+> 🕐 最后更新：2026-09-26 11:51:36 (北京时间)
 
-1. [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) - 1008 points, 275 comments
-2. [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com) - 527 points, 76 comments
-3. [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) - 228 points, 85 comments
-4. [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver) - 302 points, 165 comments
-5. [2DWillNeverDie](https://2dwillneverdie.com/) - 143 points, 14 comments
-6. [Fearless SIMD v1.0](https://linebender.org/blog/fearless-simd-1-0/) - 206 points, 32 comments
-7. [Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY) - 272 points, 287 comments
-8. [Toyota is taking the Corolla electric](https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/) - 259 points, 426 comments
-9. [Using LLMs to trace alchemical knowledge and decode 17th century letters](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical) - 95 points, 14 comments
-10. [My weird new hobby: Wandering around Tokyo on Google Maps](https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/) - 251 points, 106 comments
+1. [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) - 280 points, 168 comments
+2. [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) - 368 points, 103 comments
+3. [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html) - 155 points, 155 comments
+4. [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/) - 169 points, 74 comments
+5. [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/) - 94 points, 13 comments
+6. [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/) - 112 points, 203 comments
+7. [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/) - 6 points, 0 comments
+8. [Postgres SELECT DISTINCT Does Not Scale](https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale) - 17 points, 3 comments
+9. [One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days](https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide) - 74 points, 23 comments
+10. [Excel now supports multiple values in a single cell](https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395) - 122 points, 91 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 224 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 225 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
