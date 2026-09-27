@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-09-20 10:03:53 (北京时间)
+> 🕐 最后更新：2026-09-27 10:14:25 (北京时间)
 
-**本周热门 (2026-09-07 至 2026-09-13)**
+**本周热门 (2026-09-14 至 2026-09-20)**
 
-1. [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) - 1163 points, 1001 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-2. [iPhone Duo](https://www.apple.com/iphone-duo/) - 972 points, 1760 comments
-   - 🌐 Web | 🔒 Security | 📱 Mobile
-3. [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify) - 923 points, 367 comments
+1. [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) - 1431 points, 791 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-4. [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native) - 840 points, 560 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming | 📱 Mobile
-5. [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) - 721 points, 664 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
-6. [A misalignment of AI in mathematics](https://mathandai.org/) - 716 points, 741 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
-7. [Your intellectual fly is open when you use an LLM to author a post (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) - 568 points, 377 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-8. [Nitter and XCancel resume service after legal advice](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3) - 511 points, 263 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
-9. [AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) - 506 points, 117 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
-10. [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) - 425 points, 244 comments
+2. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) - 1386 points, 184 comments
+   - 🌐 Web | ⚙️ DevOps | 🔒 Security | 📂 Open Source
+3. [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) - 1127 points, 279 comments
    - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+4. [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) - 893 points, 284 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+5. [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) - 654 points, 305 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
+6. [Cloudflare Quick Tunnels](https://try.cloudflare.com/) - 619 points, 259 comments
+   - 🌐 Web | ⚙️ DevOps | 🔒 Security
+7. [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) - 611 points, 289 comments
+   - 🌐 Web | 🔒 Security | 📱 Mobile
+8. [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) - 567 points, 248 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+9. [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02) - 529 points, 202 comments
+   - 🌐 Web | 🔒 Security
+10. [XCancel service is suspended until further notice](https://xcancel.com/#) - 504 points, 803 comments
+   - 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-09-13.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-09-20.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
