@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-26 11:51:36 (北京时间)
+> 🕐 最后更新：2026-09-27 12:00:52 (北京时间)
 
-1. [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) - 280 points, 168 comments
-2. [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) - 368 points, 103 comments
-3. [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html) - 155 points, 155 comments
-4. [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/) - 169 points, 74 comments
-5. [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/) - 94 points, 13 comments
-6. [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/) - 112 points, 203 comments
-7. [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/) - 6 points, 0 comments
-8. [Postgres SELECT DISTINCT Does Not Scale](https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale) - 17 points, 3 comments
-9. [One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days](https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide) - 74 points, 23 comments
-10. [Excel now supports multiple values in a single cell](https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395) - 122 points, 91 comments
+1. [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe) - 341 points, 192 comments
+2. [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/) - 75 points, 19 comments
+3. [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978) - 185 points, 57 comments
+4. [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw) - 216 points, 61 comments
+5. [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later) - 195 points, 127 comments
+6. [Turning GLM-5.3-Flash into a Jev-like decision model](https://www.privatemode.ai/blog/system-one-from-glm-flash) - 52 points, 25 comments
+7. [Snap Wants to be a State Actor??–Kansas v. Snap](https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm) - 24 points, 3 comments
+8. [Evolving programming languages in the AI era](https://dashbit.co/blog/evolving-ai-era) - 49 points, 35 comments
+9. [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/) - 24 points, 1 comments
+10. [We Should Be Able to Change Our Languages](http://jimmyhmiller.com/change-our-languages) - 17 points, 5 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 225 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 226 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
