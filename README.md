@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-27 12:00:52 (北京时间)
+> 🕐 最后更新：2026-09-28 12:01:48 (北京时间)
 
-1. [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe) - 341 points, 192 comments
-2. [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/) - 75 points, 19 comments
-3. [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978) - 185 points, 57 comments
-4. [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw) - 216 points, 61 comments
-5. [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later) - 195 points, 127 comments
-6. [Turning GLM-5.3-Flash into a Jev-like decision model](https://www.privatemode.ai/blog/system-one-from-glm-flash) - 52 points, 25 comments
-7. [Snap Wants to be a State Actor??–Kansas v. Snap](https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm) - 24 points, 3 comments
-8. [Evolving programming languages in the AI era](https://dashbit.co/blog/evolving-ai-era) - 49 points, 35 comments
-9. [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/) - 24 points, 1 comments
-10. [We Should Be Able to Change Our Languages](http://jimmyhmiller.com/change-our-languages) - 17 points, 5 comments
+1. [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html) - 207 points, 100 comments
+2. [Ember-1](https://fireworks.ai/blog/ember-1) - 386 points, 195 comments
+3. [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/) - 924 points, 493 comments
+4. [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/) - 13 points, 9 comments
+5. [Thinking Fast and Slow in AI: The Role of Metacognition](https://arxiv.org/abs/2110.01834) - 4 points, 0 comments
+6. [Alan Kay's answer to “Did the ENIAC have a BIOS”?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11) - 87 points, 31 comments
+7. [There is more to code review than (automatable) detection](https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/) - 85 points, 46 comments
+8. [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/) - 107 points, 23 comments
+9. [Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06](https://github.com/dashersw/coyopedal) - 31 points, 11 comments
+10. [Musk, the Movie](https://bleeckerstreetmedia.com/musk) - 84 points, 16 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 226 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 227 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
