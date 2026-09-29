@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-28 12:01:48 (北京时间)
+> 🕐 最后更新：2026-09-29 12:35:05 (北京时间)
 
-1. [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html) - 207 points, 100 comments
-2. [Ember-1](https://fireworks.ai/blog/ember-1) - 386 points, 195 comments
-3. [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/) - 924 points, 493 comments
-4. [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/) - 13 points, 9 comments
-5. [Thinking Fast and Slow in AI: The Role of Metacognition](https://arxiv.org/abs/2110.01834) - 4 points, 0 comments
-6. [Alan Kay's answer to “Did the ENIAC have a BIOS”?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11) - 87 points, 31 comments
-7. [There is more to code review than (automatable) detection](https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/) - 85 points, 46 comments
-8. [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/) - 107 points, 23 comments
-9. [Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06](https://github.com/dashersw/coyopedal) - 31 points, 11 comments
-10. [Musk, the Movie](https://bleeckerstreetmedia.com/musk) - 84 points, 16 comments
+1. [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff) - 371 points, 145 comments
+2. [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/) - 63 points, 34 comments
+3. [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) - 469 points, 241 comments
+4. [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/) - 174 points, 68 comments
+5. [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/) - 103 points, 27 comments
+6. [Tank Body Problem](http://www.jimsitu.com) - 44 points, 9 comments
+7. [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops) - 113 points, 265 comments
+8. [ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster) - 55 points, 8 comments
+9. [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/) - 6 points, 1 comments
+10. [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) - 664 points, 447 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 227 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 228 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
