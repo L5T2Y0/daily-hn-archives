@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-29 12:35:05 (北京时间)
+> 🕐 最后更新：2026-09-30 12:18:53 (北京时间)
 
-1. [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff) - 371 points, 145 comments
-2. [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/) - 63 points, 34 comments
-3. [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) - 469 points, 241 comments
-4. [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/) - 174 points, 68 comments
-5. [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/) - 103 points, 27 comments
-6. [Tank Body Problem](http://www.jimsitu.com) - 44 points, 9 comments
-7. [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops) - 113 points, 265 comments
-8. [ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster) - 55 points, 8 comments
-9. [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/) - 6 points, 1 comments
-10. [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) - 664 points, 447 comments
+1. [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf) - 355 points, 152 comments
+2. [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa) - 23 points, 5 comments
+3. [Dots: Always-on agents](https://openai.com/index/introducing-dots/) - 490 points, 369 comments
+4. [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/) - 191 points, 114 comments
+5. [America.gov](https://america.gov/) - 445 points, 356 comments
+6. [Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/) - 158 points, 38 comments
+7. [Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)](https://mightygodking.com/2008/04/21/fun-from-yesterday/) - 17 points, 8 comments
+8. [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) - 836 points, 758 comments
+9. [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss) - 467 points, 270 comments
+10. [PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit) - 259 points, 143 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 228 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 229 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
