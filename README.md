@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-09-30 12:18:53 (北京时间)
+> 🕐 最后更新：2026-10-01 12:30:44 (北京时间)
 
-1. [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf) - 355 points, 152 comments
-2. [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa) - 23 points, 5 comments
-3. [Dots: Always-on agents](https://openai.com/index/introducing-dots/) - 490 points, 369 comments
-4. [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/) - 191 points, 114 comments
-5. [America.gov](https://america.gov/) - 445 points, 356 comments
-6. [Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/) - 158 points, 38 comments
-7. [Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)](https://mightygodking.com/2008/04/21/fun-from-yesterday/) - 17 points, 8 comments
-8. [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) - 836 points, 758 comments
-9. [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss) - 467 points, 270 comments
-10. [PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit) - 259 points, 143 comments
+1. [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) - 1125 points, 748 comments
+2. [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1) - 163 points, 70 comments
+3. [56k.rip – the 1996 dial-up internet experience](https://56k.rip/) - 111 points, 60 comments
+4. [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age) - 127 points, 68 comments
+5. [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/) - 141 points, 49 comments
+6. [Singapore govt dating app uses Gale-Shapley stable marriage algorithm](https://twitter.com/tuakdotsol/status/2105105417760391258) - 278 points, 203 comments
+7. [EDG C++ front-end goes public](https://edgcpp.org/#transition) - 176 points, 80 comments
+8. [Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program](https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/) - 55 points, 10 comments
+9. [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude) - 136 points, 61 comments
+10. [Show HN: Yantra – an LALR(1) parser generator for C++](https://github.com/TantrixAuto/yantra) - 7 points, 2 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 229 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 230 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
