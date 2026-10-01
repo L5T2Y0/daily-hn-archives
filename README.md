@@ -81,32 +81,32 @@
 > 每月1号自动生成
 
 <!-- MONTHLY_SUMMARY_START -->
-> 🕐 最后更新：2026-09-01 11:23:50 (北京时间)
+> 🕐 最后更新：2026-10-01 11:57:05 (北京时间)
 
-**2026年08月精选**
+**2026年09月精选**
 
-1. [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) - 1048 points, 654 comments
-   - 🌐 Web | 🔒 Security | 🚀 Startup
-2. [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) - 1039 points, 576 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
-3. [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) - 1001 points, 338 comments
-   - 🌐 Web | 🔒 Security
-4. [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) - 990 points, 498 comments
+1. [Discovery of a new OpenAI agent message board](https://collusion.wiki/) - 2131 points, 1526 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-5. [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) - 977 points, 482 comments
+2. [.name Termination](https://neil.fraser.name/news/2026/09/03/) - 1442 points, 394 comments
    - 🌐 Web | 🔒 Security
-6. [In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years](https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/) - 974 points, 53 comments
-   - 🌐 Web | 🔒 Security
-7. [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) - 944 points, 895 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile | ⚡ Performance
-8. [Elevators](https://john.fun/elevators) - 930 points, 231 comments
-   - 🌐 Web | 🔒 Security
-9. [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) - 920 points, 396 comments
-   - 🌐 Web | 🔒 Security | 🚀 Startup | 🔧 Tools
-10. [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) - 916 points, 529 comments
-   - 🌐 Web | 🔒 Security
+3. [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) - 1431 points, 791 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+4. [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) - 1410 points, 1168 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
+5. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) - 1386 points, 184 comments
+   - 🌐 Web | ⚙️ DevOps | 🔒 Security | 📂 Open Source
+6. [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) - 1289 points, 853 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+7. [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) - 1271 points, 638 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
+8. [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) - 1163 points, 1001 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
+9. [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) - 1127 points, 279 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+10. [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) - 1008 points, 275 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
 
-📁 **[查看完整月报](monthly/month-2026-08.md)** | Top 50 热门文章
+📁 **[查看完整月报](monthly/month-2026-09.md)** | Top 50 热门文章
 <!-- MONTHLY_SUMMARY_END -->
 
 ---
