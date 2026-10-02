@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-01 12:30:44 (北京时间)
+> 🕐 最后更新：2026-10-02 12:23:22 (北京时间)
 
-1. [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) - 1125 points, 748 comments
-2. [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1) - 163 points, 70 comments
-3. [56k.rip – the 1996 dial-up internet experience](https://56k.rip/) - 111 points, 60 comments
-4. [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age) - 127 points, 68 comments
-5. [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/) - 141 points, 49 comments
-6. [Singapore govt dating app uses Gale-Shapley stable marriage algorithm](https://twitter.com/tuakdotsol/status/2105105417760391258) - 278 points, 203 comments
-7. [EDG C++ front-end goes public](https://edgcpp.org/#transition) - 176 points, 80 comments
-8. [Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program](https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/) - 55 points, 10 comments
-9. [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude) - 136 points, 61 comments
-10. [Show HN: Yantra – an LALR(1) parser generator for C++](https://github.com/TantrixAuto/yantra) - 7 points, 2 comments
+1. [Pi 1.0](https://earendil.com/posts/pi-1-0/) - 903 points, 302 comments
+2. [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/) - 180 points, 105 comments
+3. [DeepSeek Harness Desktop for macOS and Windows](https://www.deepseek.com/en/harness/) - 18 points, 10 comments
+4. [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works) - 26 points, 10 comments
+5. [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) - 461 points, 170 comments
+6. [Automatic Transmission – a data-privacy study of connected vehicles](https://automatictransmission.khoury.northeastern.edu/index.html) - 150 points, 146 comments
+7. [SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here) - 162 points, 60 comments
+8. [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569) - 168 points, 177 comments
+9. [Pi Durable](https://earendil.com/posts/pi-durable/) - 281 points, 35 comments
+10. [Using Opus 5.5 to discover a new eyewitness record of the dodo](https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness) - 99 points, 17 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 230 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 231 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
