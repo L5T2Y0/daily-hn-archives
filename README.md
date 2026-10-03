@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-02 12:23:22 (北京时间)
+> 🕐 最后更新：2026-10-03 12:05:40 (北京时间)
 
-1. [Pi 1.0](https://earendil.com/posts/pi-1-0/) - 903 points, 302 comments
-2. [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/) - 180 points, 105 comments
-3. [DeepSeek Harness Desktop for macOS and Windows](https://www.deepseek.com/en/harness/) - 18 points, 10 comments
-4. [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works) - 26 points, 10 comments
-5. [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) - 461 points, 170 comments
-6. [Automatic Transmission – a data-privacy study of connected vehicles](https://automatictransmission.khoury.northeastern.edu/index.html) - 150 points, 146 comments
-7. [SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here) - 162 points, 60 comments
-8. [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569) - 168 points, 177 comments
-9. [Pi Durable](https://earendil.com/posts/pi-durable/) - 281 points, 35 comments
-10. [Using Opus 5.5 to discover a new eyewitness record of the dodo](https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness) - 99 points, 17 comments
+1. [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) - 79 points, 15 comments
+2. [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html) - 149 points, 65 comments
+3. [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) - 552 points, 242 comments
+4. [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/) - 353 points, 91 comments
+5. [NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf) - 26 points, 10 comments
+6. [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f) - 225 points, 50 comments
+7. [Apple Pass Designer](https://developer.apple.com/pass-designer/) - 351 points, 225 comments
+8. [Things that apparently cause cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer) - 123 points, 51 comments
+9. [Muse Gadgets](https://gadgets.muse.ai) - 155 points, 73 comments
+10. [With most information hidden, the game Stratego had stumped AI until now](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/) - 194 points, 93 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 231 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 232 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
