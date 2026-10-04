@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-03 12:05:40 (北京时间)
+> 🕐 最后更新：2026-10-04 12:38:27 (北京时间)
 
-1. [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) - 79 points, 15 comments
-2. [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html) - 149 points, 65 comments
-3. [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) - 552 points, 242 comments
-4. [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/) - 353 points, 91 comments
-5. [NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf) - 26 points, 10 comments
-6. [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f) - 225 points, 50 comments
-7. [Apple Pass Designer](https://developer.apple.com/pass-designer/) - 351 points, 225 comments
-8. [Things that apparently cause cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer) - 123 points, 51 comments
-9. [Muse Gadgets](https://gadgets.muse.ai) - 155 points, 73 comments
-10. [With most information hidden, the game Stratego had stumped AI until now](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/) - 194 points, 93 comments
+1. [Why don't more developers "use the platform"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/) - 13 points, 3 comments
+2. [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) - 293 points, 155 comments
+3. [So You Think You Could Be an Electrician?](https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician) - 72 points, 34 comments
+4. [Bob Cringely Has Died](https://news.ycombinator.com/item?id=49949438) - 252 points, 44 comments
+5. [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict) - 124 points, 64 comments
+6. [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) - 190 points, 21 comments
+7. [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/) - 255 points, 62 comments
+8. [Reasons I didn't become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/) - 123 points, 59 comments
+9. [Celebrating the 100th birthday of the kidney donated to him as a teenager](https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/) - 166 points, 41 comments
+10. [Agents don't need memory, they need documentation](https://liao.gg/blog/agents-dont-need-memory) - 91 points, 57 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 232 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 233 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
