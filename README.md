@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-09-27 10:14:25 (北京时间)
+> 🕐 最后更新：2026-10-04 11:11:12 (北京时间)
 
-**本周热门 (2026-09-14 至 2026-09-20)**
+**本周热门 (2026-09-21 至 2026-09-27)**
 
-1. [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) - 1431 points, 791 comments
+1. [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) - 1289 points, 853 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-2. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) - 1386 points, 184 comments
-   - 🌐 Web | ⚙️ DevOps | 🔒 Security | 📂 Open Source
-3. [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) - 1127 points, 279 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-4. [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) - 893 points, 284 comments
+2. [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) - 1271 points, 638 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
+3. [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) - 1008 points, 275 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
+4. [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/) - 655 points, 342 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-5. [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) - 654 points, 305 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming
-6. [Cloudflare Quick Tunnels](https://try.cloudflare.com/) - 619 points, 259 comments
-   - 🌐 Web | ⚙️ DevOps | 🔒 Security
-7. [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) - 611 points, 289 comments
-   - 🌐 Web | 🔒 Security | 📱 Mobile
-8. [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) - 567 points, 248 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-9. [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02) - 529 points, 202 comments
+5. [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) - 622 points, 311 comments
    - 🌐 Web | 🔒 Security
-10. [XCancel service is suspended until further notice](https://xcancel.com/#) - 504 points, 803 comments
+6. [Attention is all you have](https://alicegg.tech/2026/09/21/attention) - 617 points, 188 comments
    - 🌐 Web | 🔒 Security
+7. [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) - 586 points, 371 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+8. [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) - 543 points, 571 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+9. [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) - 531 points, 158 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+10. [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com) - 527 points, 76 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
 
-📁 **[查看完整周报](weekly/week-2026-09-20.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-09-27.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
