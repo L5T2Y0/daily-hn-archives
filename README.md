@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-04 12:38:27 (北京时间)
+> 🕐 最后更新：2026-10-05 12:25:01 (北京时间)
 
-1. [Why don't more developers "use the platform"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/) - 13 points, 3 comments
-2. [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) - 293 points, 155 comments
-3. [So You Think You Could Be an Electrician?](https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician) - 72 points, 34 comments
-4. [Bob Cringely Has Died](https://news.ycombinator.com/item?id=49949438) - 252 points, 44 comments
-5. [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict) - 124 points, 64 comments
-6. [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) - 190 points, 21 comments
-7. [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/) - 255 points, 62 comments
-8. [Reasons I didn't become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/) - 123 points, 59 comments
-9. [Celebrating the 100th birthday of the kidney donated to him as a teenager](https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/) - 166 points, 41 comments
-10. [Agents don't need memory, they need documentation](https://liao.gg/blog/agents-dont-need-memory) - 91 points, 57 comments
+1. [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/) - 120 points, 52 comments
+2. [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) - 658 points, 306 comments
+3. [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/) - 63 points, 6 comments
+4. [Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857) - 93 points, 48 comments
+5. [Infidel goes wild](https://blog.zarfhome.com/2026/10/infidel-goes-wild) - 96 points, 14 comments
+6. [A browser-native classic Visual Basic VB6 IDE](https://wieslawsoltes.github.io/VB6/) - 124 points, 47 comments
+7. [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI) - 444 points, 280 comments
+8. [The Tao of Backup](http://www.taobackup.com/index.html) - 68 points, 15 comments
+9. [Quantitative Finance with OCaml](https://qcaml.com/index.html) - 41 points, 8 comments
+10. [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/) - 294 points, 413 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 233 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 234 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
