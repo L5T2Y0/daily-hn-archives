@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-06 13:12:04 (北京时间)
+> 🕐 最后更新：2026-10-07 12:39:41 (北京时间)
 
-1. [Why Common Lisp is now the best programming language](https://www.vivienhenz.com/common-lisp) - 53 points, 58 comments
-2. [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) - 378 points, 115 comments
-3. [Find the flattest route between any two points in SF](https://flattensf.com/) - 149 points, 50 comments
-4. [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history) - 140 points, 81 comments
-5. [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors) - 266 points, 182 comments
-6. [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust) - 140 points, 31 comments
-7. [An algorithmic failure beneath the secret ballot](https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/) - 54 points, 17 comments
-8. [Friendship ended with Deno, now Node is my best friend](https://dbushell.com/2026/10/03/deno-to-node/) - 107 points, 45 comments
-9. [AI tutoring with Khanmigo in a two-year school experiment](https://edworkingpapers.com/ai26-1551) - 56 points, 39 comments
-10. [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/) - 512 points, 234 comments
+1. [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) - 611 points, 551 comments
+2. [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/) - 64 points, 8 comments
+3. [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions) - 193 points, 83 comments
+4. [The cost of lies: A Mineserver story](https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272) - 43 points, 13 comments
+5. [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/) - 112 points, 53 comments
+6. [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html) - 13 points, 1 comments
+7. [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) - 1647 points, 982 comments
+8. [EmbeddingGemma 2: An open, lightweight multimodal embedding model](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/) - 259 points, 31 comments
+9. [ESP32-C3 Adblock](https://github.com/M-Abozaid/esp32-c3-adblock) - 29 points, 6 comments
+10. [What Is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/) - 28 points, 0 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 235 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 236 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
