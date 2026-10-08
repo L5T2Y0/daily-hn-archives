@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-07 12:39:41 (北京时间)
+> 🕐 最后更新：2026-10-08 12:50:05 (北京时间)
 
-1. [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) - 611 points, 551 comments
-2. [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/) - 64 points, 8 comments
-3. [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions) - 193 points, 83 comments
-4. [The cost of lies: A Mineserver story](https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272) - 43 points, 13 comments
-5. [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/) - 112 points, 53 comments
-6. [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html) - 13 points, 1 comments
-7. [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) - 1647 points, 982 comments
-8. [EmbeddingGemma 2: An open, lightweight multimodal embedding model](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/) - 259 points, 31 comments
-9. [ESP32-C3 Adblock](https://github.com/M-Abozaid/esp32-c3-adblock) - 29 points, 6 comments
-10. [What Is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/) - 28 points, 0 comments
+1. [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) - 764 points, 379 comments
+2. [Living off-grid: Hundred Rabbits](https://100r.ca/site/home.html) - 79 points, 16 comments
+3. [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) - 1049 points, 117 comments
+4. [Cleo (Mathematician)](https://en.wikipedia.org/wiki/Cleo_(mathematician)) - 86 points, 6 comments
+5. [How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't](https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t) - 111 points, 46 comments
+6. ['Jonathan' is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/) - 98 points, 40 comments
+7. [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) - 554 points, 284 comments
+8. [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/) - 418 points, 121 comments
+9. [In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick](https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html) - 53 points, 3 comments
+10. [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome) - 510 points, 346 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 236 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 237 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
