@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-08 12:50:05 (北京时间)
+> 🕐 最后更新：2026-10-09 12:53:10 (北京时间)
 
-1. [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) - 764 points, 379 comments
-2. [Living off-grid: Hundred Rabbits](https://100r.ca/site/home.html) - 79 points, 16 comments
-3. [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) - 1049 points, 117 comments
-4. [Cleo (Mathematician)](https://en.wikipedia.org/wiki/Cleo_(mathematician)) - 86 points, 6 comments
-5. [How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't](https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t) - 111 points, 46 comments
-6. ['Jonathan' is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/) - 98 points, 40 comments
-7. [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) - 554 points, 284 comments
-8. [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/) - 418 points, 121 comments
-9. [In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick](https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html) - 53 points, 3 comments
-10. [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome) - 510 points, 346 comments
+1. [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) - 638 points, 138 comments
+2. [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/) - 53 points, 28 comments
+3. [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/) - 37 points, 23 comments
+4. [Theranos.world](https://www.theranos.world/) - 351 points, 126 comments
+5. [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/) - 520 points, 326 comments
+6. [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my) - 485 points, 84 comments
+7. [Yes, and](https://htmx.org/essays/yes-and/) - 278 points, 81 comments
+8. [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/) - 511 points, 432 comments
+9. [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/) - 139 points, 46 comments
+10. [AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/) - 97 points, 14 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 237 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 238 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
