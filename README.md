@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-10-04 11:11:12 (北京时间)
+> 🕐 最后更新：2026-10-11 10:36:21 (北京时间)
 
-**本周热门 (2026-09-21 至 2026-09-27)**
+**本周热门 (2026-09-28 至 2026-10-04)**
 
-1. [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) - 1289 points, 853 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-2. [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) - 1271 points, 638 comments
+1. [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) - 1125 points, 748 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
+2. [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/) - 924 points, 493 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
+3. [Pi 1.0](https://earendil.com/posts/pi-1-0/) - 903 points, 302 comments
+   - 🌐 Web | 🔒 Security
+4. [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) - 836 points, 758 comments
    - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-3. [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) - 1008 points, 275 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
-4. [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/) - 655 points, 342 comments
+5. [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) - 664 points, 447 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-5. [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) - 622 points, 311 comments
-   - 🌐 Web | 🔒 Security
-6. [Attention is all you have](https://alicegg.tech/2026/09/21/attention) - 617 points, 188 comments
-   - 🌐 Web | 🔒 Security
-7. [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) - 586 points, 371 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-8. [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) - 543 points, 571 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-9. [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1) - 531 points, 158 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-10. [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com) - 527 points, 76 comments
+6. [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) - 552 points, 242 comments
    - 🌐 Web | 🔒 Security | 📂 Open Source
+7. [Dots: Always-on agents](https://openai.com/index/introducing-dots/) - 490 points, 369 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
+8. [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) - 469 points, 241 comments
+   - 🌐 Web | 🔒 Security
+9. [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss) - 467 points, 270 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+10. [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) - 461 points, 170 comments
+   - 🤖 AI | 🌐 Web | ⚙️ DevOps | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-09-27.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-10-04.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
