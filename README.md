@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-10 12:38:59 (北京时间)
+> 🕐 最后更新：2026-10-11 12:23:48 (北京时间)
 
-1. [REA Reverse – Engineer Anything](https://rea.tools/) - 210 points, 63 comments
-2. [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) - 1119 points, 574 comments
-3. [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) - 773 points, 152 comments
-4. [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo) - 47 points, 8 comments
-5. [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/) - 40 points, 17 comments
-6. [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/) - 248 points, 32 comments
-7. [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai) - 309 points, 229 comments
-8. [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/) - 8 points, 1 comments
-9. [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/) - 38 points, 4 comments
-10. [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/) - 126 points, 67 comments
+1. [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/) - 172 points, 78 comments
+2. [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) - 170 points, 33 comments
+3. [2D Vehicles](https://patkerr.co.uk/2d-vehicles/) - 396 points, 88 comments
+4. [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/) - 238 points, 84 comments
+5. [CIA World Facebook Is Dead – Here Is an Attempt at Recreation](https://worldfacts.app) - 12 points, 5 comments
+6. [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6) - 34 points, 5 comments
+7. [The Lightbulb Computer](https://lightbulbcomputer.com/) - 310 points, 46 comments
+8. [Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list](https://github.com/vscarpenter/gsd-task-manager) - 4 points, 1 comments
+9. [Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger) - 158 points, 29 comments
+10. [Satya Nadella says we should assume all AI models are 'compromised'](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised) - 14 points, 4 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 239 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 240 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
