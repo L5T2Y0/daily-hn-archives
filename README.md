@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-12 12:39:40 (北京时间)
+> 🕐 最后更新：2026-10-13 13:44:50 (北京时间)
 
-1. [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies) - 180 points, 80 comments
-2. [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg) - 420 points, 179 comments
-3. [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography) - 98 points, 46 comments
-4. [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/) - 36 points, 1 comments
-5. [Cartographers of North Korea (2019)](https://cartographers-nk.wonyoung.so/) - 214 points, 38 comments
-6. [Tattoos you can turn on and off](https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off) - 38 points, 11 comments
-7. [No portable way to detect string-to-float conversion errors in standard C](https://sebsite.pw/w/20261009-strtod.html) - 14 points, 1 comments
-8. [Doory – Open-Source Canva](https://github.com/shaongitbd/doory) - 36 points, 3 comments
-9. [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) - 331 points, 501 comments
-10. [Illustration Beyond Proof](https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/) - 47 points, 0 comments
+1. [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928) - 90 points, 41 comments
+2. [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/) - 178 points, 22 comments
+3. [GLM-Legal](https://z.ai/blog/glm-legal) - 502 points, 291 comments
+4. [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html) - 144 points, 64 comments
+5. [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c) - 477 points, 195 comments
+6. [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) - 556 points, 724 comments
+7. [Who is vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/) - 158 points, 16 comments
+8. [The Dock on Mac, from OS 10 to macOS 27](https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/) - 38 points, 18 comments
+9. [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas) - 88 points, 30 comments
+10. [Making big downloads resumable in Firefox](https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html) - 145 points, 51 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 241 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 242 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
