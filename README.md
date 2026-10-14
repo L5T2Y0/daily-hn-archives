@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-13 13:44:50 (北京时间)
+> 🕐 最后更新：2026-10-14 11:48:07 (北京时间)
 
-1. [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928) - 90 points, 41 comments
-2. [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/) - 178 points, 22 comments
-3. [GLM-Legal](https://z.ai/blog/glm-legal) - 502 points, 291 comments
-4. [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html) - 144 points, 64 comments
-5. [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c) - 477 points, 195 comments
-6. [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) - 556 points, 724 comments
-7. [Who is vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/) - 158 points, 16 comments
-8. [The Dock on Mac, from OS 10 to macOS 27](https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/) - 38 points, 18 comments
-9. [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas) - 88 points, 30 comments
-10. [Making big downloads resumable in Firefox](https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html) - 145 points, 51 comments
+1. [Gemini 4 Argon](https://deepmind.google/models/gemini/) - 1098 points, 804 comments
+2. [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/) - 338 points, 96 comments
+3. [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/) - 507 points, 373 comments
+4. [Grace Hopper Celebration Cancelled](https://anitab.org/press-release) - 18 points, 2 comments
+5. [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) - 600 points, 575 comments
+6. [Apple HomeView](https://www.apple.com/apple-homeview/) - 693 points, 812 comments
+7. [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html) - 73 points, 7 comments
+8. [I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people) - 26 points, 20 comments
+9. [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) - 79 points, 42 comments
+10. [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/) - 371 points, 162 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 242 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 243 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
