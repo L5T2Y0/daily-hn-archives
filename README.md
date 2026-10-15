@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-14 11:48:07 (北京时间)
+> 🕐 最后更新：2026-10-15 11:29:45 (北京时间)
 
-1. [Gemini 4 Argon](https://deepmind.google/models/gemini/) - 1098 points, 804 comments
-2. [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/) - 338 points, 96 comments
-3. [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/) - 507 points, 373 comments
-4. [Grace Hopper Celebration Cancelled](https://anitab.org/press-release) - 18 points, 2 comments
-5. [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) - 600 points, 575 comments
-6. [Apple HomeView](https://www.apple.com/apple-homeview/) - 693 points, 812 comments
-7. [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html) - 73 points, 7 comments
-8. [I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people) - 26 points, 20 comments
-9. [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) - 79 points, 42 comments
-10. [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/) - 371 points, 162 comments
+1. [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) - 915 points, 228 comments
+2. [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) - 372 points, 151 comments
+3. [Tiny Little Office](https://tinylittleoffice.com/) - 205 points, 24 comments
+4. [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14) - 216 points, 72 comments
+5. [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b) - 99 points, 24 comments
+6. [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists) - 484 points, 355 comments
+7. [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/) - 20 points, 1 comments
+8. [Donaldson Futuro House in Idyllwild, California, USA](https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/) - 8 points, 0 comments
+9. [Americans' social activity has steeply declined in the past 30 years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years) - 272 points, 279 comments
+10. [your C is not standard C](https://sebsite.pw/w/20261012-notstdc.html) - 45 points, 12 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 243 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 244 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
