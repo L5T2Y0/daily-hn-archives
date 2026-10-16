@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-15 11:29:45 (北京时间)
+> 🕐 最后更新：2026-10-16 11:25:29 (北京时间)
 
-1. [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) - 915 points, 228 comments
-2. [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) - 372 points, 151 comments
-3. [Tiny Little Office](https://tinylittleoffice.com/) - 205 points, 24 comments
-4. [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14) - 216 points, 72 comments
-5. [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b) - 99 points, 24 comments
-6. [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists) - 484 points, 355 comments
-7. [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/) - 20 points, 1 comments
-8. [Donaldson Futuro House in Idyllwild, California, USA](https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/) - 8 points, 0 comments
-9. [Americans' social activity has steeply declined in the past 30 years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years) - 272 points, 279 comments
-10. [your C is not standard C](https://sebsite.pw/w/20261012-notstdc.html) - 45 points, 12 comments
+1. [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) - 663 points, 364 comments
+2. [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes) - 63 points, 18 comments
+3. [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill) - 34 points, 5 comments
+4. [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/) - 72 points, 24 comments
+5. [Neural networks are clean](https://already-clean.goodfire.com/) - 542 points, 204 comments
+6. [Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat](https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge) - 69 points, 41 comments
+7. [What I self-host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/) - 313 points, 201 comments
+8. [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk) - 537 points, 209 comments
+9. [BIPM decides to stop adding leap seconds to UTC](https://www.bipm.org/en/cgpm-2026/resolution-5) - 93 points, 44 comments
+10. [AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/) - 405 points, 573 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 244 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 245 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
