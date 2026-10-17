@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-16 11:25:29 (北京时间)
+> 🕐 最后更新：2026-10-17 11:16:00 (北京时间)
 
-1. [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) - 663 points, 364 comments
-2. [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes) - 63 points, 18 comments
-3. [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill) - 34 points, 5 comments
-4. [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/) - 72 points, 24 comments
-5. [Neural networks are clean](https://already-clean.goodfire.com/) - 542 points, 204 comments
-6. [Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat](https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge) - 69 points, 41 comments
-7. [What I self-host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/) - 313 points, 201 comments
-8. [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk) - 537 points, 209 comments
-9. [BIPM decides to stop adding leap seconds to UTC](https://www.bipm.org/en/cgpm-2026/resolution-5) - 93 points, 44 comments
-10. [AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/) - 405 points, 573 comments
+1. [Tesla Roadster](https://www.tesla.com/roadster) - 1247 points, 2239 comments
+2. [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM) - 222 points, 58 comments
+3. [Ultramarine 1 Flash: Frontier Model 100X Cheaper](https://www.paperinstruments.com/ultramarine) - 14 points, 2 comments
+4. [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) - 726 points, 279 comments
+5. [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad) - 76 points, 32 comments
+6. [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) - 174 points, 46 comments
+7. [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein) - 124 points, 37 comments
+8. [Waymo in Toronto](https://waymo.com/blog/2026/10/waymo-in-toronto/) - 290 points, 395 comments
+9. [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear) - 183 points, 150 comments
+10. [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/) - 1 points, 0 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 245 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 246 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
