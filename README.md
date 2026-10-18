@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-10-11 10:36:21 (北京时间)
+> 🕐 最后更新：2026-10-18 09:52:24 (北京时间)
 
-**本周热门 (2026-09-28 至 2026-10-04)**
+**本周热门 (2026-10-05 至 2026-10-11)**
 
-1. [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) - 1125 points, 748 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
-2. [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/) - 924 points, 493 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming
-3. [Pi 1.0](https://earendil.com/posts/pi-1-0/) - 903 points, 302 comments
-   - 🌐 Web | 🔒 Security
-4. [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) - 836 points, 758 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-5. [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) - 664 points, 447 comments
+1. [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) - 1647 points, 982 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-6. [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) - 552 points, 242 comments
+2. [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) - 1119 points, 574 comments
+   - 🌐 Web | ⚙️ DevOps | 🔒 Security
+3. [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) - 1049 points, 117 comments
    - 🌐 Web | 🔒 Security | 📂 Open Source
-7. [Dots: Always-on agents](https://openai.com/index/introducing-dots/) - 490 points, 369 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-8. [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) - 469 points, 241 comments
+4. [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) - 773 points, 152 comments
    - 🌐 Web | 🔒 Security
-9. [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss) - 467 points, 270 comments
+5. [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) - 764 points, 379 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+6. [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) - 658 points, 306 comments
    - 🌐 Web | 🔒 Security | 📂 Open Source
-10. [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) - 461 points, 170 comments
-   - 🤖 AI | 🌐 Web | ⚙️ DevOps | 🔒 Security
+7. [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) - 638 points, 138 comments
+   - 🌐 Web | 🔒 Security
+8. [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) - 611 points, 551 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security | 🔬 Science
+9. [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) - 554 points, 284 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
+10. [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/) - 520 points, 326 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-10-04.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-10-11.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
