@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-18 11:20:29 (北京时间)
+> 🕐 最后更新：2026-10-19 11:32:40 (北京时间)
 
-1. [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x) - 350 points, 76 comments
-2. [Lean now ships with verified kernels](https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/) - 34 points, 1 comments
-3. [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/) - 224 points, 58 comments
-4. [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) - 738 points, 605 comments
-5. [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/) - 289 points, 59 comments
-6. [Pele – Mermaid diagrams as themeable SVG](https://pele.run/) - 286 points, 27 comments
-7. [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator) - 154 points, 24 comments
-8. [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using) - 266 points, 68 comments
-9. [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends) - 102 points, 23 comments
-10. [Types of types: Haskell's Kind system](https://thunk.blog/posts/types-of-types-haskell-kind-system/) - 62 points, 33 comments
+1. [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) - 257 points, 152 comments
+2. [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html) - 90 points, 13 comments
+3. [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc) - 221 points, 224 comments
+4. [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/) - 347 points, 141 comments
+5. [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/) - 66 points, 46 comments
+6. [Laptop Based on 6502 CPU](https://www.maddox.pro/?p=448) - 54 points, 23 comments
+7. [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/) - 11 points, 5 comments
+8. [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) - 345 points, 55 comments
+9. [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/) - 120 points, 24 comments
+10. [Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky](https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky) - 152 points, 88 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 247 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 248 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
