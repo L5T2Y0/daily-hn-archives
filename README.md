@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-19 11:32:40 (北京时间)
+> 🕐 最后更新：2026-10-20 11:42:45 (北京时间)
 
-1. [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) - 257 points, 152 comments
-2. [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html) - 90 points, 13 comments
-3. [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc) - 221 points, 224 comments
-4. [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/) - 347 points, 141 comments
-5. [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/) - 66 points, 46 comments
-6. [Laptop Based on 6502 CPU](https://www.maddox.pro/?p=448) - 54 points, 23 comments
-7. [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/) - 11 points, 5 comments
-8. [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) - 345 points, 55 comments
-9. [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/) - 120 points, 24 comments
-10. [Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky](https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky) - 152 points, 88 comments
+1. [Lula supporters protest against Meta to denounce its 'electoral interference'](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/) - 221 points, 109 comments
+2. [Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD](https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd) - 36 points, 17 comments
+3. [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) - 406 points, 173 comments
+4. [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) - 82 points, 11 comments
+5. [OpenBSD 8.0](https://www.openbsd.org/80.html) - 19 points, 5 comments
+6. [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU) - 440 points, 97 comments
+7. [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/) - 106 points, 10 comments
+8. [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) - 521 points, 174 comments
+9. [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming) - 490 points, 455 comments
+10. [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963) - 110 points, 27 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 248 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 249 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
