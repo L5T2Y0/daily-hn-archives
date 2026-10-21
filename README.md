@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-20 11:42:45 (北京时间)
+> 🕐 最后更新：2026-10-21 11:34:32 (北京时间)
 
-1. [Lula supporters protest against Meta to denounce its 'electoral interference'](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/) - 221 points, 109 comments
-2. [Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD](https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd) - 36 points, 17 comments
-3. [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) - 406 points, 173 comments
-4. [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) - 82 points, 11 comments
-5. [OpenBSD 8.0](https://www.openbsd.org/80.html) - 19 points, 5 comments
-6. [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU) - 440 points, 97 comments
-7. [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/) - 106 points, 10 comments
-8. [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) - 521 points, 174 comments
-9. [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming) - 490 points, 455 comments
-10. [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963) - 110 points, 27 comments
+1. [Show HN: SimCity, but with Permits](https://permit.petercai.com/) - 625 points, 316 comments
+2. [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/) - 25 points, 8 comments
+3. [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) - 48 points, 11 comments
+4. [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/) - 123 points, 49 comments
+5. [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/) - 33 points, 5 comments
+6. [Voxtral 3](https://mistral.ai/news/voxtral-3/) - 554 points, 146 comments
+7. [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/) - 90 points, 61 comments
+8. [eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/) - 704 points, 346 comments
+9. [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu) - 280 points, 64 comments
+10. [What shall I teach my son?](https://stevekrouse.com/ends) - 304 points, 366 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 249 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 250 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
