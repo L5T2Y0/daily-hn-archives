@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-21 11:34:32 (北京时间)
+> 🕐 最后更新：2026-10-22 11:34:13 (北京时间)
 
-1. [Show HN: SimCity, but with Permits](https://permit.petercai.com/) - 625 points, 316 comments
-2. [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/) - 25 points, 8 comments
-3. [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) - 48 points, 11 comments
-4. [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/) - 123 points, 49 comments
-5. [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/) - 33 points, 5 comments
-6. [Voxtral 3](https://mistral.ai/news/voxtral-3/) - 554 points, 146 comments
-7. [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/) - 90 points, 61 comments
-8. [eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/) - 704 points, 346 comments
-9. [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu) - 280 points, 64 comments
-10. [What shall I teach my son?](https://stevekrouse.com/ends) - 304 points, 366 comments
+1. [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b) - 296 points, 79 comments
+2. [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf) - 32 points, 18 comments
+3. [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/) - 244 points, 125 comments
+4. [Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552) - 59 points, 18 comments
+5. [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) - 353 points, 198 comments
+6. [Rust Style Guide](https://google.github.io/styleguide/rustguide.html) - 236 points, 126 comments
+7. [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/) - 265 points, 65 comments
+8. [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) - 455 points, 153 comments
+9. [Using LLM for confidence scoring is a bad idea](https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html) - 17 points, 6 comments
+10. [LLM Agents Play Pokemon Showdown](https://olivergrabner.com/research/pokemon/) - 13 points, 10 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 250 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 251 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
