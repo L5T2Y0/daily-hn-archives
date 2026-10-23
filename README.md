@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-22 11:34:13 (北京时间)
+> 🕐 最后更新：2026-10-23 11:39:05 (北京时间)
 
-1. [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b) - 296 points, 79 comments
-2. [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf) - 32 points, 18 comments
-3. [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/) - 244 points, 125 comments
-4. [Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552) - 59 points, 18 comments
-5. [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) - 353 points, 198 comments
-6. [Rust Style Guide](https://google.github.io/styleguide/rustguide.html) - 236 points, 126 comments
-7. [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/) - 265 points, 65 comments
-8. [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) - 455 points, 153 comments
-9. [Using LLM for confidence scoring is a bad idea](https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html) - 17 points, 6 comments
-10. [LLM Agents Play Pokemon Showdown](https://olivergrabner.com/research/pokemon/) - 13 points, 10 comments
+1. [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) - 200 points, 105 comments
+2. [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) - 183 points, 89 comments
+3. [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) - 1041 points, 374 comments
+4. [The Secret Life of Circuits is now in stock everywhere](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now) - 36 points, 12 comments
+5. [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) - 325 points, 166 comments
+6. [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html) - 556 points, 574 comments
+7. [Mortality Among People with Attention-Deficit/Hyperactivity Disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472) - 27 points, 7 comments
+8. [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) - 278 points, 328 comments
+9. [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html) - 238 points, 86 comments
+10. [Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel) - 347 points, 131 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 251 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 252 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
