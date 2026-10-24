@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-23 11:39:05 (北京时间)
+> 🕐 最后更新：2026-10-24 11:32:54 (北京时间)
 
-1. [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) - 200 points, 105 comments
-2. [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) - 183 points, 89 comments
-3. [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) - 1041 points, 374 comments
-4. [The Secret Life of Circuits is now in stock everywhere](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now) - 36 points, 12 comments
-5. [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) - 325 points, 166 comments
-6. [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html) - 556 points, 574 comments
-7. [Mortality Among People with Attention-Deficit/Hyperactivity Disorder](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472) - 27 points, 7 comments
-8. [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) - 278 points, 328 comments
-9. [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html) - 238 points, 86 comments
-10. [Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel) - 347 points, 131 comments
+1. [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) - 771 points, 473 comments
+2. [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8) - 114 points, 60 comments
+3. [Twelve Years of Distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/) - 27 points, 1 comments
+4. [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) - 632 points, 207 comments
+5. [CVE Tracker](https://cve.0xosprey.com/) - 121 points, 52 comments
+6. [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa) - 277 points, 113 comments
+7. [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration) - 51 points, 13 comments
+8. [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) - 1286 points, 226 comments
+9. [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) - 773 points, 522 comments
+10. [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/) - 259 points, 73 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 252 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 253 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
