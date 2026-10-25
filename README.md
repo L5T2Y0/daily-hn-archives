@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-24 11:32:54 (北京时间)
+> 🕐 最后更新：2026-10-25 11:29:46 (北京时间)
 
-1. [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) - 771 points, 473 comments
-2. [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8) - 114 points, 60 comments
-3. [Twelve Years of Distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/) - 27 points, 1 comments
-4. [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) - 632 points, 207 comments
-5. [CVE Tracker](https://cve.0xosprey.com/) - 121 points, 52 comments
-6. [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa) - 277 points, 113 comments
-7. [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration) - 51 points, 13 comments
-8. [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) - 1286 points, 226 comments
-9. [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) - 773 points, 522 comments
-10. [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/) - 259 points, 73 comments
+1. [We should be more ambitious with the software we build](https://danluu.com/ambitious/) - 243 points, 204 comments
+2. [Xbox Turns Down Netflix $500M Offer](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/) - 12 points, 0 comments
+3. [The Goose Programming Language](https://aardappel.github.io/goose/) - 275 points, 179 comments
+4. [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch) - 139 points, 87 comments
+5. [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt) - 41 points, 10 comments
+6. [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class) - 217 points, 203 comments
+7. [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras) - 13 points, 4 comments
+8. [Small Programs and Languages](https://ratfactor.com/cards/pl-small) - 53 points, 5 comments
+9. [SpeedCrunch 1.1](https://www.speedcrunch.org/) - 93 points, 12 comments
+10. [I Built a Stereo Vision Board for Hardware Hackers](https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/) - 43 points, 1 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 253 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 254 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
