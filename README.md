@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-10-18 09:52:24 (北京时间)
+> 🕐 最后更新：2026-10-25 10:03:27 (北京时间)
 
-**本周热门 (2026-10-05 至 2026-10-11)**
+**本周热门 (2026-10-12 至 2026-10-18)**
 
-1. [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) - 1647 points, 982 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-2. [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) - 1119 points, 574 comments
-   - 🌐 Web | ⚙️ DevOps | 🔒 Security
-3. [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) - 1049 points, 117 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
-4. [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) - 773 points, 152 comments
+1. [Tesla Roadster](https://www.tesla.com/roadster) - 1247 points, 2239 comments
    - 🌐 Web | 🔒 Security
-5. [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) - 764 points, 379 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-6. [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) - 658 points, 306 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source
-7. [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) - 638 points, 138 comments
+2. [Gemini 4 Argon](https://deepmind.google/models/gemini/) - 1098 points, 804 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+3. [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) - 915 points, 228 comments
    - 🌐 Web | 🔒 Security
-8. [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) - 611 points, 551 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security | 🔬 Science
-9. [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) - 554 points, 284 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-10. [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/) - 520 points, 326 comments
+4. [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) - 738 points, 605 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
+5. [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) - 726 points, 279 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
+6. [Apple HomeView](https://www.apple.com/apple-homeview/) - 693 points, 812 comments
+   - 🌐 Web | 🔒 Security | 📱 Mobile
+7. [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) - 663 points, 364 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
+8. [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) - 600 points, 575 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+9. [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) - 556 points, 724 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source | 🔧 Tools
+10. [Neural networks are clean](https://already-clean.goodfire.com/) - 542 points, 204 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
 
-📁 **[查看完整周报](weekly/week-2026-10-11.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-10-18.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
