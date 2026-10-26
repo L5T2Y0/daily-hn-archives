@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-25 11:29:46 (北京时间)
+> 🕐 最后更新：2026-10-26 11:32:15 (北京时间)
 
-1. [We should be more ambitious with the software we build](https://danluu.com/ambitious/) - 243 points, 204 comments
-2. [Xbox Turns Down Netflix $500M Offer](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/) - 12 points, 0 comments
-3. [The Goose Programming Language](https://aardappel.github.io/goose/) - 275 points, 179 comments
-4. [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch) - 139 points, 87 comments
-5. [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt) - 41 points, 10 comments
-6. [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class) - 217 points, 203 comments
-7. [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras) - 13 points, 4 comments
-8. [Small Programs and Languages](https://ratfactor.com/cards/pl-small) - 53 points, 5 comments
-9. [SpeedCrunch 1.1](https://www.speedcrunch.org/) - 93 points, 12 comments
-10. [I Built a Stereo Vision Board for Hardware Hackers](https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/) - 43 points, 1 comments
+1. [Removing Next.js Got My Blog to 100 on Every Lighthouse Category](https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category) - 50 points, 14 comments
+2. [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) - 437 points, 83 comments
+3. [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/) - 4 points, 0 comments
+4. [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html) - 76 points, 38 comments
+5. [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/) - 174 points, 51 comments
+6. [Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428) - 41 points, 15 comments
+7. [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html) - 154 points, 56 comments
+8. [What goes into making an animated film?](https://www.disneyanimation.com/process/) - 110 points, 43 comments
+9. [IBM CEO says open weight models are now irresistibly good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640) - 54 points, 11 comments
+10. [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html) - 98 points, 32 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 254 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 255 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
