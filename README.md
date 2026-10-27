@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-26 11:32:15 (北京时间)
+> 🕐 最后更新：2026-10-27 11:57:46 (北京时间)
 
-1. [Removing Next.js Got My Blog to 100 on Every Lighthouse Category](https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category) - 50 points, 14 comments
-2. [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) - 437 points, 83 comments
-3. [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/) - 4 points, 0 comments
-4. [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html) - 76 points, 38 comments
-5. [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/) - 174 points, 51 comments
-6. [Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428) - 41 points, 15 comments
-7. [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html) - 154 points, 56 comments
-8. [What goes into making an animated film?](https://www.disneyanimation.com/process/) - 110 points, 43 comments
-9. [IBM CEO says open weight models are now irresistibly good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640) - 54 points, 11 comments
-10. [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html) - 98 points, 32 comments
+1. [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) - 612 points, 262 comments
+2. [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) - 408 points, 150 comments
+3. [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) - 605 points, 86 comments
+4. [Incremental rust builds up to 92x faster than cargo/rustc](https://github.com/indexable-inc/blaze) - 10 points, 1 comments
+5. [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/) - 336 points, 203 comments
+6. [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm) - 38 points, 2 comments
+7. [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/) - 96 points, 30 comments
+8. [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md) - 208 points, 144 comments
+9. [A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219) - 81 points, 21 comments
+10. [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/) - 404 points, 93 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 255 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 256 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
