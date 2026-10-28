@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-27 11:57:46 (北京时间)
+> 🕐 最后更新：2026-10-28 12:21:02 (北京时间)
 
-1. [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) - 612 points, 262 comments
-2. [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) - 408 points, 150 comments
-3. [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) - 605 points, 86 comments
-4. [Incremental rust builds up to 92x faster than cargo/rustc](https://github.com/indexable-inc/blaze) - 10 points, 1 comments
-5. [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/) - 336 points, 203 comments
-6. [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm) - 38 points, 2 comments
-7. [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/) - 96 points, 30 comments
-8. [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md) - 208 points, 144 comments
-9. [A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219) - 81 points, 21 comments
-10. [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/) - 404 points, 93 comments
+1. [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code) - 97 points, 41 comments
+2. [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) - 792 points, 483 comments
+3. [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/) - 119 points, 22 comments
+4. [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0) - 848 points, 265 comments
+5. [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update) - 230 points, 116 comments
+6. [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development) - 167 points, 155 comments
+7. [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm) - 234 points, 116 comments
+8. [Assembly Nights](https://ratfactor.com/assembly-nights) - 26 points, 3 comments
+9. [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/) - 120 points, 52 comments
+10. [A Love Letter to the Super Dimension Fortress](https://brennan.day/a-love-letter-to-the-super-dimension-fortress/) - 12 points, 1 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 256 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 257 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
