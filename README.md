@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-28 12:21:02 (北京时间)
+> 🕐 最后更新：2026-10-29 12:40:50 (北京时间)
 
-1. [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code) - 97 points, 41 comments
-2. [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) - 792 points, 483 comments
-3. [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/) - 119 points, 22 comments
-4. [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0) - 848 points, 265 comments
-5. [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update) - 230 points, 116 comments
-6. [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development) - 167 points, 155 comments
-7. [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm) - 234 points, 116 comments
-8. [Assembly Nights](https://ratfactor.com/assembly-nights) - 26 points, 3 comments
-9. [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/) - 120 points, 52 comments
-10. [A Love Letter to the Super Dimension Fortress](https://brennan.day/a-love-letter-to-the-super-dimension-fortress/) - 12 points, 1 comments
+1. [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer) - 211 points, 47 comments
+2. [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) - 960 points, 201 comments
+3. [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html) - 120 points, 45 comments
+4. [Claude Code burns ~15–20% of your tokens on a 3-word status line](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce) - 101 points, 18 comments
+5. [A Health Update](https://furbo.org/2026/10/28/a-health-update/) - 155 points, 24 comments
+6. [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/) - 437 points, 122 comments
+7. [The 'else' keyword is probably a literal translation from German (2020)](https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md) - 36 points, 17 comments
+8. [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1) - 215 points, 204 comments
+9. [Human-enhanced tsunami hazard in large lakes](https://www.nature.com/articles/s41467-026-78272-8) - 20 points, 1 comments
+10. [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) - 850 points, 705 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 257 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 258 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
