@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-29 12:40:50 (北京时间)
+> 🕐 最后更新：2026-10-30 12:40:39 (北京时间)
 
-1. [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer) - 211 points, 47 comments
-2. [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) - 960 points, 201 comments
-3. [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html) - 120 points, 45 comments
-4. [Claude Code burns ~15–20% of your tokens on a 3-word status line](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce) - 101 points, 18 comments
-5. [A Health Update](https://furbo.org/2026/10/28/a-health-update/) - 155 points, 24 comments
-6. [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/) - 437 points, 122 comments
-7. [The 'else' keyword is probably a literal translation from German (2020)](https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md) - 36 points, 17 comments
-8. [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1) - 215 points, 204 comments
-9. [Human-enhanced tsunami hazard in large lakes](https://www.nature.com/articles/s41467-026-78272-8) - 20 points, 1 comments
-10. [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) - 850 points, 705 comments
+1. [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) - 947 points, 555 comments
+2. [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) - 1274 points, 357 comments
+3. [Cuis: The Modern Smalltalk-80](https://cuis.st/) - 34 points, 8 comments
+4. [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm) - 36 points, 2 comments
+5. [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html) - 221 points, 70 comments
+6. [Herdr has released native app](https://github.com/herdrdev/herdr-app) - 70 points, 53 comments
+7. [I'm so bad at billiards that I ended up in the hyperbolic plane [video]](https://www.youtube.com/watch?v=kL9BTbIGxLg) - 28 points, 3 comments
+8. [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer) - 165 points, 9 comments
+9. [CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation](https://www.penligent.ai/hackinglabs/cve-2026-98432/) - 22 points, 15 comments
+10. [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754) - 70 points, 21 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 258 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 259 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
