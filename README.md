@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-30 12:40:39 (北京时间)
+> 🕐 最后更新：2026-10-31 12:24:31 (北京时间)
 
-1. [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) - 947 points, 555 comments
-2. [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) - 1274 points, 357 comments
-3. [Cuis: The Modern Smalltalk-80](https://cuis.st/) - 34 points, 8 comments
-4. [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm) - 36 points, 2 comments
-5. [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html) - 221 points, 70 comments
-6. [Herdr has released native app](https://github.com/herdrdev/herdr-app) - 70 points, 53 comments
-7. [I'm so bad at billiards that I ended up in the hyperbolic plane [video]](https://www.youtube.com/watch?v=kL9BTbIGxLg) - 28 points, 3 comments
-8. [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer) - 165 points, 9 comments
-9. [CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation](https://www.penligent.ai/hackinglabs/cve-2026-98432/) - 22 points, 15 comments
-10. [Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754) - 70 points, 21 comments
+1. [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/) - 121 points, 40 comments
+2. [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve) - 129 points, 35 comments
+3. [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) - 832 points, 504 comments
+4. [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) - 266 points, 77 comments
+5. [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756) - 72 points, 16 comments
+6. [Northflank Breached](https://status.northflank.com) - 387 points, 289 comments
+7. [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) - 374 points, 255 comments
+8. [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/) - 214 points, 98 comments
+9. [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer) - 213 points, 117 comments
+10. [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun) - 90 points, 15 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 259 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 260 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
