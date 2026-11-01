@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-10-25 10:03:27 (北京时间)
+> 🕐 最后更新：2026-11-01 10:55:53 (北京时间)
 
-**本周热门 (2026-10-12 至 2026-10-18)**
+**本周热门 (2026-10-19 至 2026-10-25)**
 
-1. [Tesla Roadster](https://www.tesla.com/roadster) - 1247 points, 2239 comments
+1. [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) - 1286 points, 226 comments
    - 🌐 Web | 🔒 Security
-2. [Gemini 4 Argon](https://deepmind.google/models/gemini/) - 1098 points, 804 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-3. [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) - 915 points, 228 comments
+2. [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) - 1041 points, 374 comments
    - 🌐 Web | 🔒 Security
-4. [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) - 738 points, 605 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-5. [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) - 726 points, 279 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
-6. [Apple HomeView](https://www.apple.com/apple-homeview/) - 693 points, 812 comments
+3. [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) - 773 points, 522 comments
+   - 🌐 Web | 🔒 Security
+4. [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) - 771 points, 473 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | ⚡ Performance
+5. [eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/) - 704 points, 346 comments
+   - 🌐 Web | 🔒 Security
+6. [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) - 632 points, 207 comments
    - 🌐 Web | 🔒 Security | 📱 Mobile
-7. [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) - 663 points, 364 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
-8. [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) - 600 points, 575 comments
+7. [Show HN: SimCity, but with Permits](https://permit.petercai.com/) - 625 points, 316 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
+8. [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html) - 556 points, 574 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
+9. [Voxtral 3](https://mistral.ai/news/voxtral-3/) - 554 points, 146 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-9. [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) - 556 points, 724 comments
-   - 🌐 Web | 🔒 Security | 📂 Open Source | 🔧 Tools
-10. [Neural networks are clean](https://already-clean.goodfire.com/) - 542 points, 204 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+10. [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) - 521 points, 174 comments
+   - 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-10-18.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-10-25.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
