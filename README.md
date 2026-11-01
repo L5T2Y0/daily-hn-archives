@@ -81,32 +81,32 @@
 > 每月1号自动生成
 
 <!-- MONTHLY_SUMMARY_START -->
-> 🕐 最后更新：2026-10-01 11:57:05 (北京时间)
+> 🕐 最后更新：2026-11-01 12:08:17 (北京时间)
 
-**2026年09月精选**
+**2026年10月精选**
 
-1. [Discovery of a new OpenAI agent message board](https://collusion.wiki/) - 2131 points, 1526 comments
+1. [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) - 1647 points, 982 comments
    - 🤖 AI | 🌐 Web | 🔒 Security
-2. [.name Termination](https://neil.fraser.name/news/2026/09/03/) - 1442 points, 394 comments
+2. [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) - 1286 points, 226 comments
    - 🌐 Web | 🔒 Security
-3. [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) - 1431 points, 791 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-4. [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) - 1410 points, 1168 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-5. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) - 1386 points, 184 comments
-   - 🌐 Web | ⚙️ DevOps | 🔒 Security | 📂 Open Source
-6. [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) - 1289 points, 853 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-7. [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) - 1271 points, 638 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-8. [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) - 1163 points, 1001 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security
-9. [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) - 1127 points, 279 comments
+3. [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) - 1274 points, 357 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
+4. [Tesla Roadster](https://www.tesla.com/roadster) - 1247 points, 2239 comments
+   - 🌐 Web | 🔒 Security
+5. [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) - 1125 points, 748 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
+6. [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) - 1119 points, 574 comments
+   - 🌐 Web | ⚙️ DevOps | 🔒 Security
+7. [Gemini 4 Argon](https://deepmind.google/models/gemini/) - 1098 points, 804 comments
    - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-10. [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) - 1008 points, 275 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
+8. [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) - 1049 points, 117 comments
+   - 🌐 Web | 🔒 Security | 📂 Open Source
+9. [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) - 1041 points, 374 comments
+   - 🌐 Web | 🔒 Security
+10. [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) - 960 points, 201 comments
+   - 🌐 Web | 🔒 Security
 
-📁 **[查看完整月报](monthly/month-2026-09.md)** | Top 50 热门文章
+📁 **[查看完整月报](monthly/month-2026-10.md)** | Top 50 热门文章
 <!-- MONTHLY_SUMMARY_END -->
 
 ---
