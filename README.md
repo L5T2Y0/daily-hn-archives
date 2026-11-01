@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-10-31 12:24:31 (北京时间)
+> 🕐 最后更新：2026-11-01 12:43:28 (北京时间)
 
-1. [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/) - 121 points, 40 comments
-2. [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve) - 129 points, 35 comments
-3. [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) - 832 points, 504 comments
-4. [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) - 266 points, 77 comments
-5. [Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756) - 72 points, 16 comments
-6. [Northflank Breached](https://status.northflank.com) - 387 points, 289 comments
-7. [The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/) - 374 points, 255 comments
-8. [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/) - 214 points, 98 comments
-9. [Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer) - 213 points, 117 comments
-10. [sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust](https://www.firezone.dev/blog/introducing-sanstun) - 90 points, 15 comments
+1. [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) - 931 points, 290 comments
+2. [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/) - 246 points, 71 comments
+3. [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf) - 406 points, 189 comments
+4. [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/) - 30 points, 14 comments
+5. [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve) - 139 points, 75 comments
+6. [Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM](https://arxiv.org/abs/2409.02292) - 22 points, 8 comments
+7. [Altoids Project](https://uvdn7.github.io/altoids-project/) - 74 points, 4 comments
+8. [When electric cars were for women](https://spectrum.ieee.org/early-electric-vehicles) - 52 points, 31 comments
+9. [It's the memory latency, stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/) - 164 points, 43 comments
+10. [Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020](https://maketecheasier.com/arecibo-zinc-creep-collapse/) - 59 points, 15 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 260 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 261 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
