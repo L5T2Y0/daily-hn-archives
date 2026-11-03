@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-02 12:45:17 (北京时间)
+> 🕐 最后更新：2026-11-03 13:36:34 (北京时间)
 
-1. [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org) - 1095 points, 199 comments
-2. [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/) - 45 points, 3 comments
-3. [Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html) - 179 points, 113 comments
-4. [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) - 2390 points, 548 comments
-5. [Mystery of 60-Second Fluctuations in Power Grids Solved](https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved) - 47 points, 13 comments
-6. [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896) - 212 points, 383 comments
-7. [Trigger.dev customer environment variables exposed](https://trigger.dev/blog/security-incident-nov-2026) - 34 points, 6 comments
-8. [Nibnib: Image compression with extreme decompression speed](https://github.com/raphlinus/nibnib) - 117 points, 19 comments
-9. [Tips for more effective fuzz testing with AFL++](https://nullprogram.com/blog/2025/02/05/) - 96 points, 16 comments
-10. [Copper – A minimal low-level programming language with OOP and generics](https://tibleiz.net/copper/) - 149 points, 79 comments
+1. [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) - 2264 points, 725 comments
+2. [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/) - 134 points, 46 comments
+3. [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) - 104 points, 26 comments
+4. [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) - 623 points, 322 comments
+5. [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/) - 124 points, 56 comments
+6. [European RISC-V Industrial Computing Initiative](https://erici.eu) - 19 points, 3 comments
+7. [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names) - 337 points, 339 comments
+8. [Resisting Cognitive Surrender](https://knlb.dev/essays/surrender) - 58 points, 12 comments
+9. [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/) - 457 points, 101 comments
+10. [Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities](https://arxiv.org/abs/2608.25820) - 15 points, 0 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 262 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 263 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
