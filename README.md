@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-03 13:36:34 (北京时间)
+> 🕐 最后更新：2026-11-04 13:05:10 (北京时间)
 
-1. [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) - 2264 points, 725 comments
-2. [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/) - 134 points, 46 comments
-3. [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) - 104 points, 26 comments
-4. [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) - 623 points, 322 comments
-5. [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/) - 124 points, 56 comments
-6. [European RISC-V Industrial Computing Initiative](https://erici.eu) - 19 points, 3 comments
-7. [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names) - 337 points, 339 comments
-8. [Resisting Cognitive Surrender](https://knlb.dev/essays/surrender) - 58 points, 12 comments
-9. [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/) - 457 points, 101 comments
-10. [Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities](https://arxiv.org/abs/2608.25820) - 15 points, 0 comments
+1. [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/) - 150 points, 60 comments
+2. [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients) - 30 points, 0 comments
+3. [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) - 189 points, 12 comments
+4. [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) - 687 points, 284 comments
+5. [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) - 469 points, 162 comments
+6. [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/) - 14 points, 0 comments
+7. [Giant canyon on Mars is still tectonically active](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today) - 42 points, 3 comments
+8. [Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels](https://hackertv.org) - 248 points, 50 comments
+9. [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/) - 421 points, 177 comments
+10. [Japan's Jimi 'Mundane' Halloween Costumes of 2026](https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/) - 147 points, 24 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 263 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 264 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
