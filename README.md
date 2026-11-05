@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-04 13:05:10 (北京时间)
+> 🕐 最后更新：2026-11-05 13:27:12 (北京时间)
 
-1. [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/) - 150 points, 60 comments
-2. [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients) - 30 points, 0 comments
-3. [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) - 189 points, 12 comments
-4. [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) - 687 points, 284 comments
-5. [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) - 469 points, 162 comments
-6. [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/) - 14 points, 0 comments
-7. [Giant canyon on Mars is still tectonically active](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today) - 42 points, 3 comments
-8. [Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels](https://hackertv.org) - 248 points, 50 comments
-9. [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/) - 421 points, 177 comments
-10. [Japan's Jimi 'Mundane' Halloween Costumes of 2026](https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/) - 147 points, 24 comments
+1. [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) - 845 points, 270 comments
+2. [Images 2.6](https://openai.com/index/introducing-images-2-6/) - 192 points, 132 comments
+3. [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/) - 234 points, 129 comments
+4. [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall) - 168 points, 104 comments
+5. [Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple) - 264 points, 94 comments
+6. [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) - 437 points, 130 comments
+7. [Insects don't swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/) - 211 points, 113 comments
+8. [A new Go API for JSON](https://go.dev/blog/jsonv2) - 263 points, 119 comments
+9. [Spreading Liquid with Three.js](https://mofu-dev.com/en/blog/fluid-foundation/) - 17 points, 4 comments
+10. [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746) - 86 points, 5 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 264 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 265 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
