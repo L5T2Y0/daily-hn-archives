@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-05 13:27:12 (北京时间)
+> 🕐 最后更新：2026-11-06 13:26:08 (北京时间)
 
-1. [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) - 845 points, 270 comments
-2. [Images 2.6](https://openai.com/index/introducing-images-2-6/) - 192 points, 132 comments
-3. [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/) - 234 points, 129 comments
-4. [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall) - 168 points, 104 comments
-5. [Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple) - 264 points, 94 comments
-6. [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) - 437 points, 130 comments
-7. [Insects don't swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/) - 211 points, 113 comments
-8. [A new Go API for JSON](https://go.dev/blog/jsonv2) - 263 points, 119 comments
-9. [Spreading Liquid with Three.js](https://mofu-dev.com/en/blog/fluid-foundation/) - 17 points, 4 comments
-10. [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746) - 86 points, 5 comments
+1. [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) - 780 points, 265 comments
+2. [sshole](https://sshhole.com) - 2480 points, 610 comments
+3. [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844) - 412 points, 153 comments
+4. [Pwn.college](https://pwn.college/) - 45 points, 4 comments
+5. [Nvidia Kubernetes Engine (NVKE)](https://github.com/dsx-ai-factory/nvke) - 33 points, 11 comments
+6. [Closed AI models dominate the price-performance frontier](https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/) - 36 points, 24 comments
+7. [Inkling 2 Small](https://thinkingmachines.ai/news/inkling-2-small/) - 132 points, 53 comments
+8. [The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/) - 259 points, 128 comments
+9. [Window Sweaters](https://github.com/saragordic/window-sweaters) - 280 points, 92 comments
+10. [Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM](https://firenook.dev/) - 73 points, 14 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 265 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 266 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
