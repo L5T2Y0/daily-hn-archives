@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-06 13:26:08 (北京时间)
+> 🕐 最后更新：2026-11-07 12:54:36 (北京时间)
 
-1. [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) - 780 points, 265 comments
-2. [sshole](https://sshhole.com) - 2480 points, 610 comments
-3. [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844) - 412 points, 153 comments
-4. [Pwn.college](https://pwn.college/) - 45 points, 4 comments
-5. [Nvidia Kubernetes Engine (NVKE)](https://github.com/dsx-ai-factory/nvke) - 33 points, 11 comments
-6. [Closed AI models dominate the price-performance frontier](https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/) - 36 points, 24 comments
-7. [Inkling 2 Small](https://thinkingmachines.ai/news/inkling-2-small/) - 132 points, 53 comments
-8. [The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/) - 259 points, 128 comments
-9. [Window Sweaters](https://github.com/saragordic/window-sweaters) - 280 points, 92 comments
-10. [Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM](https://firenook.dev/) - 73 points, 14 comments
+1. [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) - 387 points, 63 comments
+2. [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) - 399 points, 89 comments
+3. [I Toured Unitree's Factory. I'm More Bullish on the West](https://josef.cn/blog/unitree) - 75 points, 45 comments
+4. [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) - 919 points, 1770 comments
+5. [What do the next 4000 emoji look like?](https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look) - 20 points, 7 comments
+6. [RealPage rent-pricing case wraps with nearly $360M to renters](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/) - 71 points, 28 comments
+7. [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape) - 201 points, 96 comments
+8. [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) - 302 points, 244 comments
+9. [Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE](https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/) - 51 points, 4 comments
+10. [Notes on San Marino](https://mattlakeman.org/2026/11/05/notes-on-san-marino/) - 29 points, 3 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 266 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 267 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
