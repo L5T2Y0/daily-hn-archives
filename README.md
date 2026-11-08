@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-11-01 10:55:53 (北京时间)
+> 🕐 最后更新：2026-11-08 11:00:48 (北京时间)
 
-**本周热门 (2026-10-19 至 2026-10-25)**
+**本周热门 (2026-10-26 至 2026-11-01)**
 
-1. [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) - 1286 points, 226 comments
-   - 🌐 Web | 🔒 Security
-2. [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) - 1041 points, 374 comments
-   - 🌐 Web | 🔒 Security
-3. [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) - 773 points, 522 comments
-   - 🌐 Web | 🔒 Security
-4. [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) - 771 points, 473 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | ⚡ Performance
-5. [eMudhra intermediate CA compromise](https://emudhra.we-have-a-problem.com/) - 704 points, 346 comments
-   - 🌐 Web | 🔒 Security
-6. [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) - 632 points, 207 comments
-   - 🌐 Web | 🔒 Security | 📱 Mobile
-7. [Show HN: SimCity, but with Permits](https://permit.petercai.com/) - 625 points, 316 comments
+1. [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) - 1274 points, 357 comments
    - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
-8. [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html) - 556 points, 574 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile
-9. [Voxtral 3](https://mistral.ai/news/voxtral-3/) - 554 points, 146 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-10. [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) - 521 points, 174 comments
+2. [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) - 960 points, 201 comments
    - 🌐 Web | 🔒 Security
+3. [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) - 947 points, 555 comments
+   - 🌐 Web | 🔒 Security
+4. [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) - 931 points, 290 comments
+   - 🌐 Web | 🔒 Security | 🔧 Tools
+5. [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) - 850 points, 705 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
+6. [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0) - 848 points, 265 comments
+   - 🌐 Web | 🔒 Security
+7. [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) - 832 points, 504 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
+8. [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) - 792 points, 483 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
+9. [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) - 612 points, 262 comments
+   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security | 🔬 Science
+10. [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) - 605 points, 86 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🔧 Tools
 
-📁 **[查看完整周报](weekly/week-2026-10-25.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-11-01.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
