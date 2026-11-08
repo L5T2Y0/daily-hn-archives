@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-07 12:54:36 (北京时间)
+> 🕐 最后更新：2026-11-08 12:47:02 (北京时间)
 
-1. [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0) - 387 points, 63 comments
-2. [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution) - 399 points, 89 comments
-3. [I Toured Unitree's Factory. I'm More Bullish on the West](https://josef.cn/blog/unitree) - 75 points, 45 comments
-4. [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) - 919 points, 1770 comments
-5. [What do the next 4000 emoji look like?](https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look) - 20 points, 7 comments
-6. [RealPage rent-pricing case wraps with nearly $360M to renters](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/) - 71 points, 28 comments
-7. [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape) - 201 points, 96 comments
-8. [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) - 302 points, 244 comments
-9. [Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE](https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/) - 51 points, 4 comments
-10. [Notes on San Marino](https://mattlakeman.org/2026/11/05/notes-on-san-marino/) - 29 points, 3 comments
+1. [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) - 447 points, 96 comments
+2. [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) - 265 points, 170 comments
+3. [ZapFast: A fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast) - 18 points, 6 comments
+4. [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/) - 82 points, 23 comments
+5. [GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/) - 98 points, 65 comments
+6. [Uranium cubes reveal why the German nuclear project failed](https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/) - 93 points, 53 comments
+7. [Amsterdam School](https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html) - 12 points, 1 comments
+8. [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) - 866 points, 238 comments
+9. [MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/) - 239 points, 67 comments
+10. [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html) - 8 points, 9 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 267 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 268 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
