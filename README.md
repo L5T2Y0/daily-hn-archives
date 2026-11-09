@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-08 12:47:02 (北京时间)
+> 🕐 最后更新：2026-11-09 12:55:59 (北京时间)
 
-1. [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) - 447 points, 96 comments
-2. [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) - 265 points, 170 comments
-3. [ZapFast: A fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast) - 18 points, 6 comments
-4. [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/) - 82 points, 23 comments
-5. [GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/) - 98 points, 65 comments
-6. [Uranium cubes reveal why the German nuclear project failed](https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/) - 93 points, 53 comments
-7. [Amsterdam School](https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html) - 12 points, 1 comments
-8. [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) - 866 points, 238 comments
-9. [MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/) - 239 points, 67 comments
-10. [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html) - 8 points, 9 comments
+1. [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest) - 143 points, 51 comments
+2. [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/) - 321 points, 89 comments
+3. [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/) - 161 points, 60 comments
+4. [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui) - 23 points, 3 comments
+5. [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/) - 143 points, 22 comments
+6. [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) - 308 points, 219 comments
+7. [I'm not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists) - 101 points, 132 comments
+8. [Declarative Dragging](https://declarative-dragging.github.io/) - 423 points, 54 comments
+9. [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/) - 228 points, 72 comments
+10. [Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407) - 168 points, 570 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 268 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 269 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
