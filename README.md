@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-09 12:55:59 (北京时间)
+> 🕐 最后更新：2026-11-10 14:11:44 (北京时间)
 
-1. [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest) - 143 points, 51 comments
-2. [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/) - 321 points, 89 comments
-3. [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/) - 161 points, 60 comments
-4. [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui) - 23 points, 3 comments
-5. [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/) - 143 points, 22 comments
-6. [Outlook.com Is Quietly Rejecting Email from Domains Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) - 308 points, 219 comments
-7. [I'm not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists) - 101 points, 132 comments
-8. [Declarative Dragging](https://declarative-dragging.github.io/) - 423 points, 54 comments
-9. [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/) - 228 points, 72 comments
-10. [Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407) - 168 points, 570 comments
+1. [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) - 414 points, 723 comments
+2. [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) - 576 points, 283 comments
+3. [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/) - 346 points, 29 comments
+4. [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) - 507 points, 278 comments
+5. [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/) - 93 points, 46 comments
+6. [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com) - 931 points, 145 comments
+7. [Horible public key tricks](https://maurycyz.com/projects/badcert/) - 99 points, 37 comments
+8. [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/) - 14 points, 2 comments
+9. [Exact – a new cross platform UI framework](https://github.com/expo/exact) - 99 points, 50 comments
+10. [CoreWeave bond yield tops 16% as AI credit stress rises](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html) - 84 points, 36 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 269 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 270 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
