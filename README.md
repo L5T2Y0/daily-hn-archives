@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-10 14:11:44 (北京时间)
+> 🕐 最后更新：2026-11-11 12:57:41 (北京时间)
 
-1. [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) - 414 points, 723 comments
-2. [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) - 576 points, 283 comments
-3. [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/) - 346 points, 29 comments
-4. [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy) - 507 points, 278 comments
-5. [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/) - 93 points, 46 comments
-6. [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com) - 931 points, 145 comments
-7. [Horible public key tricks](https://maurycyz.com/projects/badcert/) - 99 points, 37 comments
-8. [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com/) - 14 points, 2 comments
-9. [Exact – a new cross platform UI framework](https://github.com/expo/exact) - 99 points, 50 comments
-10. [CoreWeave bond yield tops 16% as AI credit stress rises](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html) - 84 points, 36 comments
+1. [After 7 months, Glasswing overwelms maintainers with underwhelming findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) - 355 points, 165 comments
+2. [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) - 397 points, 279 comments
+3. [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/) - 736 points, 168 comments
+4. [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) - 792 points, 284 comments
+5. [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html) - 72 points, 10 comments
+6. [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/) - 8 points, 1 comments
+7. [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html) - 177 points, 32 comments
+8. [Starlink Mini 2](https://starlink.com/mini-2) - 329 points, 338 comments
+9. [Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/) - 95 points, 190 comments
+10. [Unremarkable things we made in 2026](https://www.neilchen.co/blog/things2026) - 13 points, 0 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 270 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 271 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
