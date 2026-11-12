@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-11 12:57:41 (北京时间)
+> 🕐 最后更新：2026-11-12 13:59:40 (北京时间)
 
-1. [After 7 months, Glasswing overwelms maintainers with underwhelming findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) - 355 points, 165 comments
-2. [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) - 397 points, 279 comments
-3. [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/) - 736 points, 168 comments
-4. [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) - 792 points, 284 comments
-5. [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html) - 72 points, 10 comments
-6. [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/) - 8 points, 1 comments
-7. [Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html) - 177 points, 32 comments
-8. [Starlink Mini 2](https://starlink.com/mini-2) - 329 points, 338 comments
-9. [Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/) - 95 points, 190 comments
-10. [Unremarkable things we made in 2026](https://www.neilchen.co/blog/things2026) - 13 points, 0 comments
+1. [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/) - 311 points, 43 comments
+2. [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) - 1031 points, 109 comments
+3. [AWS emulator](https://github.com/aws/aws-emulator) - 768 points, 227 comments
+4. [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability) - 86 points, 35 comments
+5. [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) - 797 points, 1133 comments
+6. [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) - 353 points, 109 comments
+7. [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/) - 455 points, 227 comments
+8. [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) - 495 points, 478 comments
+9. [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/) - 193 points, 35 comments
+10. [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/) - 8 points, 2 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 271 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 272 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
