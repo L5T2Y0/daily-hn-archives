@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-12 13:59:40 (北京时间)
+> 🕐 最后更新：2026-11-13 13:24:30 (北京时间)
 
-1. [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/) - 311 points, 43 comments
-2. [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) - 1031 points, 109 comments
-3. [AWS emulator](https://github.com/aws/aws-emulator) - 768 points, 227 comments
-4. [Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability) - 86 points, 35 comments
-5. [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) - 797 points, 1133 comments
-6. [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) - 353 points, 109 comments
-7. [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/) - 455 points, 227 comments
-8. [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) - 495 points, 478 comments
-9. [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/) - 193 points, 35 comments
-10. [Darling Development Update – Q4 2026](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/) - 8 points, 2 comments
+1. [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) - 3198 points, 2969 comments
+2. [Switcher (2004)](https://folklore.org/Switcher.html) - 56 points, 11 comments
+3. [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) - 538 points, 220 comments
+4. [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer) - 155 points, 38 comments
+5. [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/) - 356 points, 95 comments
+6. [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag) - 415 points, 159 comments
+7. [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/) - 239 points, 108 comments
+8. [Foundation Models framework](https://developer.apple.com/foundation-models-framework/) - 170 points, 22 comments
+9. [Former Nvidia CEO Huang had a relationship with a second employee, sources say](https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/) - 178 points, 212 comments
+10. [Service degradation on Microsoft 365](https://status.cloud.microsoft/) - 660 points, 622 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 272 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 273 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
