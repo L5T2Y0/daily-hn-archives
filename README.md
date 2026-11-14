@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-13 13:24:30 (北京时间)
+> 🕐 最后更新：2026-11-14 13:14:24 (北京时间)
 
-1. [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) - 3198 points, 2969 comments
-2. [Switcher (2004)](https://folklore.org/Switcher.html) - 56 points, 11 comments
-3. [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) - 538 points, 220 comments
-4. [Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer) - 155 points, 38 comments
-5. [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/) - 356 points, 95 comments
-6. [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag) - 415 points, 159 comments
-7. [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/) - 239 points, 108 comments
-8. [Foundation Models framework](https://developer.apple.com/foundation-models-framework/) - 170 points, 22 comments
-9. [Former Nvidia CEO Huang had a relationship with a second employee, sources say](https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/) - 178 points, 212 comments
-10. [Service degradation on Microsoft 365](https://status.cloud.microsoft/) - 660 points, 622 comments
+1. [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) - 103 points, 18 comments
+2. [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) - 157 points, 83 comments
+3. [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247) - 1437 points, 1117 comments
+4. [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/) - 161 points, 77 comments
+5. [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8) - 56 points, 6 comments
+6. [What Happened to 3Com?](https://dfarq.homeip.net/what-happened-to-3com/) - 91 points, 54 comments
+7. [Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop](https://grounds.top/) - 84 points, 11 comments
+8. [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/) - 241 points, 54 comments
+9. [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/) - 715 points, 205 comments
+10. [FM-1 Workbench](https://open.m-vave.com/fm1-workbench) - 200 points, 136 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 273 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 274 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
