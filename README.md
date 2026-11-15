@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-11-08 11:00:48 (北京时间)
+> 🕐 最后更新：2026-11-15 11:32:44 (北京时间)
 
-**本周热门 (2026-10-26 至 2026-11-01)**
+**本周热门 (2026-11-02 至 2026-11-08)**
 
-1. [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) - 1274 points, 357 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 📂 Open Source
-2. [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) - 960 points, 201 comments
+1. [sshole](https://sshhole.com) - 2480 points, 610 comments
    - 🌐 Web | 🔒 Security
-3. [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) - 947 points, 555 comments
-   - 🌐 Web | 🔒 Security
-4. [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) - 931 points, 290 comments
+2. [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) - 2390 points, 548 comments
    - 🌐 Web | 🔒 Security | 🔧 Tools
-5. [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) - 850 points, 705 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 🔬 Science
-6. [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0) - 848 points, 265 comments
+3. [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) - 2264 points, 725 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source
+4. [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org) - 1095 points, 199 comments
    - 🌐 Web | 🔒 Security
-7. [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) - 832 points, 504 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming
-8. [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) - 792 points, 483 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming
-9. [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) - 612 points, 262 comments
-   - 🤖 AI | 🌐 Web | 💾 Database | 🔒 Security | 🔬 Science
-10. [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) - 605 points, 86 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 🔧 Tools
+5. [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) - 919 points, 1770 comments
+   - 🌐 Web | 🔒 Security
+6. [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) - 866 points, 238 comments
+   - 🌐 Web | 🔒 Security | ⚡ Performance
+7. [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) - 845 points, 270 comments
+   - 🌐 Web | 🔒 Security | 🔧 Tools
+8. [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) - 780 points, 265 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source
+9. [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) - 687 points, 284 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security
+10. [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) - 623 points, 322 comments
+   - 🌐 Web | 🔒 Security
 
-📁 **[查看完整周报](weekly/week-2026-11-01.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-11-08.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
