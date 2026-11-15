@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-14 13:14:24 (北京时间)
+> 🕐 最后更新：2026-11-15 13:07:19 (北京时间)
 
-1. [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0) - 103 points, 18 comments
-2. [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus) - 157 points, 83 comments
-3. [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247) - 1437 points, 1117 comments
-4. [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/) - 161 points, 77 comments
-5. [Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update](https://unsloth.ai/docs/models/qwen3.8) - 56 points, 6 comments
-6. [What Happened to 3Com?](https://dfarq.homeip.net/what-happened-to-3com/) - 91 points, 54 comments
-7. [Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop](https://grounds.top/) - 84 points, 11 comments
-8. [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/) - 241 points, 54 comments
-9. [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/) - 715 points, 205 comments
-10. [FM-1 Workbench](https://open.m-vave.com/fm1-workbench) - 200 points, 136 comments
+1. [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) - 930 points, 635 comments
+2. [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) - 716 points, 292 comments
+3. [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain) - 9 points, 0 comments
+4. [Kiri – The Modern Container Runtime](https://runkiri.com/) - 8 points, 1 comments
+5. [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957) - 152 points, 56 comments
+6. [Osint Case Studies](https://osintsearch.org/blog/osint-case-studies) - 8 points, 0 comments
+7. [We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches) - 133 points, 25 comments
+8. [Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp) - 5 points, 0 comments
+9. [The Evolving Story of How Chemistry Became Biology](https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/) - 14 points, 0 comments
+10. [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/) - 252 points, 122 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 274 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 275 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
