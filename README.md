@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-15 13:07:19 (北京时间)
+> 🕐 最后更新：2026-11-16 13:04:07 (北京时间)
 
-1. [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) - 930 points, 635 comments
-2. [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) - 716 points, 292 comments
-3. [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain) - 9 points, 0 comments
-4. [Kiri – The Modern Container Runtime](https://runkiri.com/) - 8 points, 1 comments
-5. [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957) - 152 points, 56 comments
-6. [Osint Case Studies](https://osintsearch.org/blog/osint-case-studies) - 8 points, 0 comments
-7. [We're Asking an Appeals Court to Require a Warrant for ALPR Searches](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches) - 133 points, 25 comments
-8. [Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp) - 5 points, 0 comments
-9. [The Evolving Story of How Chemistry Became Biology](https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/) - 14 points, 0 comments
-10. [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/) - 252 points, 122 comments
+1. [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/) - 174 points, 46 comments
+2. [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max) - 239 points, 80 comments
+3. [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) - 221 points, 123 comments
+4. [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/) - 148 points, 186 comments
+5. [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454) - 86 points, 21 comments
+6. [Preserving 30 years of Salon journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/) - 114 points, 32 comments
+7. [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/) - 234 points, 50 comments
+8. [The Miracle Cure: In 1977, a drug rejected by doctors became a sensation](https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html) - 18 points, 3 comments
+9. [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8) - 204 points, 90 comments
+10. [Do we still have to denormalize? Have your schema and search it too](https://www.paradedb.com/blog/joins) - 42 points, 5 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 275 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 276 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
