@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-17 14:52:14 (北京时间)
+> 🕐 最后更新：2026-11-18 14:11:39 (北京时间)
 
-1. [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/) - 1203 points, 175 comments
-2. [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/) - 468 points, 306 comments
-3. [BugMeNot has closed](https://www.bugmenot.com/) - 457 points, 216 comments
-4. [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/) - 262 points, 103 comments
-5. [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699) - 80 points, 48 comments
-6. [Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend) - 92 points, 47 comments
-7. [OpenCode Browse](https://opencode.ai/product/browse) - 209 points, 102 comments
-8. [Why did modems have speakers? (2019)](https://retrocomputing.stackexchange.com/questions/11765) - 40 points, 21 comments
-9. [The Fossils That Haunted Lovecraft](https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/) - 9 points, 1 comments
-10. [Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513) - 81 points, 10 comments
+1. [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) - 732 points, 194 comments
+2. [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in) - 264 points, 110 comments
+3. [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/) - 266 points, 188 comments
+4. [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) - 1197 points, 747 comments
+5. [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) - 432 points, 138 comments
+6. [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime) - 239 points, 59 comments
+7. [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf) - 475 points, 221 comments
+8. [Archive Team is archiving the Apple Support Community (closes November 20, 2026)](https://wiki.archiveteam.org/index.php/Apple_Discussions) - 153 points, 52 comments
+9. [Interviewed at a YC startup, found out they used my LinkedIn without permission](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/) - 76 points, 9 comments
+10. [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci) - 5 points, 1 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 277 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 278 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
