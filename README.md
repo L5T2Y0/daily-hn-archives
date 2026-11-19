@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-18 14:11:39 (北京时间)
+> 🕐 最后更新：2026-11-19 14:12:34 (北京时间)
 
-1. [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) - 732 points, 194 comments
-2. [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in) - 264 points, 110 comments
-3. [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/) - 266 points, 188 comments
-4. [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) - 1197 points, 747 comments
-5. [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) - 432 points, 138 comments
-6. [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime) - 239 points, 59 comments
-7. [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf) - 475 points, 221 comments
-8. [Archive Team is archiving the Apple Support Community (closes November 20, 2026)](https://wiki.archiveteam.org/index.php/Apple_Discussions) - 153 points, 52 comments
-9. [Interviewed at a YC startup, found out they used my LinkedIn without permission](https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/) - 76 points, 9 comments
-10. [Why Fibonacci?](https://www.evilgeniuslabs.org/why-fibonacci) - 5 points, 1 comments
+1. [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) - 668 points, 572 comments
+2. [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) - 1257 points, 549 comments
+3. [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/) - 176 points, 52 comments
+4. [Unreal Tournament 2004 in the Browser](https://ut2004.dev/) - 108 points, 48 comments
+5. [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) - 499 points, 335 comments
+6. [Inside Deutsche Bank](https://www.inside-db.com/) - 620 points, 203 comments
+7. [Camera Index](https://www.cameraindex.co.uk/) - 15 points, 3 comments
+8. [LLM assisted reverse engineering](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering) - 137 points, 38 comments
+9. [DaisyRose-27B](https://www.radixark.com/blog/daisyrose-27b) - 178 points, 57 comments
+10. [Dumping an AES key from a MyQ garage opener to stop rebooting when offline](https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/) - 90 points, 34 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 278 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 279 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
