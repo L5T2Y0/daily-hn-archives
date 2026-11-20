@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-19 14:12:34 (北京时间)
+> 🕐 最后更新：2026-11-20 13:58:08 (北京时间)
 
-1. [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) - 668 points, 572 comments
-2. [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) - 1257 points, 549 comments
-3. [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/) - 176 points, 52 comments
-4. [Unreal Tournament 2004 in the Browser](https://ut2004.dev/) - 108 points, 48 comments
-5. [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) - 499 points, 335 comments
-6. [Inside Deutsche Bank](https://www.inside-db.com/) - 620 points, 203 comments
-7. [Camera Index](https://www.cameraindex.co.uk/) - 15 points, 3 comments
-8. [LLM assisted reverse engineering](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering) - 137 points, 38 comments
-9. [DaisyRose-27B](https://www.radixark.com/blog/daisyrose-27b) - 178 points, 57 comments
-10. [Dumping an AES key from a MyQ garage opener to stop rebooting when offline](https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/) - 90 points, 34 comments
+1. [GIMP now has UI tests](https://www.gimp.org/news/2026/11/16/gimp-ui-tests/) - 48 points, 27 comments
+2. [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652) - 105 points, 54 comments
+3. [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/) - 44 points, 5 comments
+4. [Vint Cerf on why TCP/IP was never patented](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never) - 72 points, 15 comments
+5. [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics) - 450 points, 206 comments
+6. [Google is pushing OEMs against GrapheneOS and bootloader unlocking](https://grapheneos.social/@GrapheneOS/117645038299496084) - 42 points, 4 comments
+7. [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/) - 204 points, 60 comments
+8. [Garage Door Spam](https://blog.harrison.page/garage-door-spam/) - 811 points, 339 comments
+9. [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1) - 18 points, 7 comments
+10. [Bit Shifting in Basic](https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/) - 5 points, 0 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 279 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 280 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
