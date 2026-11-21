@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-20 13:58:08 (北京时间)
+> 🕐 最后更新：2026-11-21 13:52:53 (北京时间)
 
-1. [GIMP now has UI tests](https://www.gimp.org/news/2026/11/16/gimp-ui-tests/) - 48 points, 27 comments
-2. [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652) - 105 points, 54 comments
-3. [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/) - 44 points, 5 comments
-4. [Vint Cerf on why TCP/IP was never patented](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never) - 72 points, 15 comments
-5. [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics) - 450 points, 206 comments
-6. [Google is pushing OEMs against GrapheneOS and bootloader unlocking](https://grapheneos.social/@GrapheneOS/117645038299496084) - 42 points, 4 comments
-7. [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/) - 204 points, 60 comments
-8. [Garage Door Spam](https://blog.harrison.page/garage-door-spam/) - 811 points, 339 comments
-9. [FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1) - 18 points, 7 comments
-10. [Bit Shifting in Basic](https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/) - 5 points, 0 comments
+1. [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) - 1808 points, 829 comments
+2. [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) - 2490 points, 1716 comments
+3. [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) - 854 points, 154 comments
+4. [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/) - 194 points, 48 comments
+5. [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html) - 364 points, 212 comments
+6. [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) - 391 points, 159 comments
+7. [Valkey kills the skiplist, cuts sorted set overhead by up to 43%](https://valkey.io/blog/from-skiplist-to-b+tree/) - 86 points, 35 comments
+8. [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid) - 73 points, 15 comments
+9. [Clojure will affect the way you think about programming (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/) - 33 points, 6 comments
+10. [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885) - 374 points, 116 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 280 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 281 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
