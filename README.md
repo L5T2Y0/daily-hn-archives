@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-21 13:52:53 (北京时间)
+> 🕐 最后更新：2026-11-22 13:26:27 (北京时间)
 
-1. [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) - 1808 points, 829 comments
-2. [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) - 2490 points, 1716 comments
-3. [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) - 854 points, 154 comments
-4. [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/) - 194 points, 48 comments
-5. [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html) - 364 points, 212 comments
-6. [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) - 391 points, 159 comments
-7. [Valkey kills the skiplist, cuts sorted set overhead by up to 43%](https://valkey.io/blog/from-skiplist-to-b+tree/) - 86 points, 35 comments
-8. [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid) - 73 points, 15 comments
-9. [Clojure will affect the way you think about programming (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/) - 33 points, 6 comments
-10. [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885) - 374 points, 116 comments
+1. [Toyota, Nissan, and Honda to Standardize Parts to Lower Costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) - 125 points, 65 comments
+2. [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) - 822 points, 191 comments
+3. [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) - 923 points, 788 comments
+4. [Sandwich Simulator](https://stulle.app/) - 112 points, 47 comments
+5. [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) - 408 points, 102 comments
+6. [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) - 576 points, 374 comments
+7. [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/) - 63 points, 25 comments
+8. [Getting the mind to steer the body to steer you](https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body) - 207 points, 68 comments
+9. [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer) - 90 points, 9 comments
+10. [My monitor was cutting my download speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/) - 535 points, 259 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 281 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 282 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
