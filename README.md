@@ -46,32 +46,32 @@
 > 每周日自动生成
 
 <!-- WEEKLY_SUMMARY_START -->
-> 🕐 最后更新：2026-11-15 11:32:44 (北京时间)
+> 🕐 最后更新：2026-11-22 11:49:59 (北京时间)
 
-**本周热门 (2026-11-02 至 2026-11-08)**
+**本周热门 (2026-11-09 至 2026-11-15)**
 
-1. [sshole](https://sshhole.com) - 2480 points, 610 comments
-   - 🌐 Web | 🔒 Security
-2. [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) - 2390 points, 548 comments
-   - 🌐 Web | 🔒 Security | 🔧 Tools
-3. [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) - 2264 points, 725 comments
-   - 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source
-4. [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org) - 1095 points, 199 comments
-   - 🌐 Web | 🔒 Security
-5. [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) - 919 points, 1770 comments
-   - 🌐 Web | 🔒 Security
-6. [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) - 866 points, 238 comments
+1. [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) - 3198 points, 2969 comments
    - 🌐 Web | 🔒 Security | ⚡ Performance
-7. [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) - 845 points, 270 comments
+2. [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247) - 1437 points, 1117 comments
    - 🌐 Web | 🔒 Security | 🔧 Tools
-8. [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) - 780 points, 265 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security | 💻 Programming | 📂 Open Source
-9. [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) - 687 points, 284 comments
-   - 🤖 AI | 🌐 Web | 🔒 Security
-10. [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088) - 623 points, 322 comments
+3. [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028) - 1031 points, 109 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
+4. [Foldable Flight: The Best Paper Airplanes](https://www.foldableflight.com) - 931 points, 145 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 🔬 Science
+5. [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) - 930 points, 635 comments
    - 🌐 Web | 🔒 Security
+6. [Nvidia is preparing to oust Jensen Huang](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad) - 797 points, 1133 comments
+   - 🌐 Web | 🔒 Security | 🚀 Startup
+7. [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/) - 792 points, 284 comments
+   - 🌐 Web | 🔒 Security | 💻 Programming
+8. [AWS emulator](https://github.com/aws/aws-emulator) - 768 points, 227 comments
+   - 🌐 Web | ⚙️ DevOps | 🔒 Security | 📂 Open Source
+9. [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/) - 736 points, 168 comments
+   - 🌐 Web | 🔒 Security
+10. [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) - 716 points, 292 comments
+   - 🤖 AI | 🌐 Web | 🔒 Security | 📱 Mobile | 🔬 Science
 
-📁 **[查看完整周报](weekly/week-2026-11-08.md)** | Top 20 热门文章
+📁 **[查看完整周报](weekly/week-2026-11-15.md)** | Top 20 热门文章
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
