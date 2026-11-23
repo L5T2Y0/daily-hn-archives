@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-22 13:26:27 (北京时间)
+> 🕐 最后更新：2026-11-23 14:03:17 (北京时间)
 
-1. [Toyota, Nissan, and Honda to Standardize Parts to Lower Costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) - 125 points, 65 comments
-2. [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) - 822 points, 191 comments
-3. [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) - 923 points, 788 comments
-4. [Sandwich Simulator](https://stulle.app/) - 112 points, 47 comments
-5. [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) - 408 points, 102 comments
-6. [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) - 576 points, 374 comments
-7. [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/) - 63 points, 25 comments
-8. [Getting the mind to steer the body to steer you](https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body) - 207 points, 68 comments
-9. [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer) - 90 points, 9 comments
-10. [My monitor was cutting my download speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/) - 535 points, 259 comments
+1. [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv) - 323 points, 51 comments
+2. [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux) - 101 points, 36 comments
+3. [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/) - 154 points, 70 comments
+4. [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) - 376 points, 157 comments
+5. [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife) - 433 points, 215 comments
+6. [Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches](https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527) - 172 points, 35 comments
+7. [LittleBit: Ultra Low-Bit Quantization via Latent Factorization](https://arxiv.org/abs/2506.13771) - 24 points, 2 comments
+8. [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/) - 7 points, 0 comments
+9. [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20) - 145 points, 69 comments
+10. [A miniature San Francisco with live buses, planes and boats](https://smallsf.com/) - 211 points, 82 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 282 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 283 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
