@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-23 14:03:17 (北京时间)
+> 🕐 最后更新：2026-11-24 16:42:56 (北京时间)
 
-1. [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv) - 323 points, 51 comments
-2. [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux) - 101 points, 36 comments
-3. [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/) - 154 points, 70 comments
-4. [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) - 376 points, 157 comments
-5. [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife) - 433 points, 215 comments
-6. [Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches](https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527) - 172 points, 35 comments
-7. [LittleBit: Ultra Low-Bit Quantization via Latent Factorization](https://arxiv.org/abs/2506.13771) - 24 points, 2 comments
-8. [A Partial Evaluator for C](https://phoenix.labri.fr/software/tempo/) - 7 points, 0 comments
-9. [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20) - 145 points, 69 comments
-10. [A miniature San Francisco with live buses, planes and boats](https://smallsf.com/) - 211 points, 82 comments
+1. [Ladybird is now in alpha](https://ladybird.org/posts/alpha/) - 1859 points, 429 comments
+2. [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) - 428 points, 221 comments
+3. [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early) - 34 points, 0 comments
+4. [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601) - 52 points, 13 comments
+5. [Drone Maps of Salvage Yards](https://salvageyarddrone.wordpress.com/) - 72 points, 25 comments
+6. [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) - 2519 points, 3438 comments
+7. [Ride the SQL curve from basics to mastery](https://sqlride.com/) - 24 points, 5 comments
+8. [Modernizing iperf/iperf3 and introducing fireperf](https://blog.daniel-baumann.ch/posts/20261122-1.html) - 88 points, 7 comments
+9. [Arctic: A Practical Lock-Free Adaptive Radix Tree](https://www.usenix.org/conference/osdi26/presentation/ni) - 20 points, 0 comments
+10. [Lowering Perplexity Without Scaling](https://micjm.com/blog/lowering-perplexity-without-scaling/) - 37 points, 7 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 283 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 284 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
