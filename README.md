@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-24 16:42:56 (北京时间)
+> 🕐 最后更新：2026-11-25 15:17:26 (北京时间)
 
-1. [Ladybird is now in alpha](https://ladybird.org/posts/alpha/) - 1859 points, 429 comments
-2. [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) - 428 points, 221 comments
-3. [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early) - 34 points, 0 comments
-4. [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601) - 52 points, 13 comments
-5. [Drone Maps of Salvage Yards](https://salvageyarddrone.wordpress.com/) - 72 points, 25 comments
-6. [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) - 2519 points, 3438 comments
-7. [Ride the SQL curve from basics to mastery](https://sqlride.com/) - 24 points, 5 comments
-8. [Modernizing iperf/iperf3 and introducing fireperf](https://blog.daniel-baumann.ch/posts/20261122-1.html) - 88 points, 7 comments
-9. [Arctic: A Practical Lock-Free Adaptive Radix Tree](https://www.usenix.org/conference/osdi26/presentation/ni) - 20 points, 0 comments
-10. [Lowering Perplexity Without Scaling](https://micjm.com/blog/lowering-perplexity-without-scaling/) - 37 points, 7 comments
+1. [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) - 481 points, 235 comments
+2. [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/) - 214 points, 21 comments
+3. [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being) - 165 points, 61 comments
+4. [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/) - 52 points, 9 comments
+5. [I've been drinking wine in my kitchen](https://scottaaronson.blog/?p=10362) - 134 points, 103 comments
+6. [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b) - 421 points, 135 comments
+7. [PenGPT: A Generative Transformer for Handwriting and Sketches](https://greydanus.github.io/2026/11/12/pengpt/) - 191 points, 33 comments
+8. [Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit) - 115 points, 33 comments
+9. [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/) - 70 points, 24 comments
+10. [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each) - 36 points, 2 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 284 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 285 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
