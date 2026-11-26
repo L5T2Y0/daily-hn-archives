@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-25 15:17:26 (北京时间)
+> 🕐 最后更新：2026-11-26 15:05:34 (北京时间)
 
-1. [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) - 481 points, 235 comments
-2. [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/) - 214 points, 21 comments
-3. [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being) - 165 points, 61 comments
-4. [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/) - 52 points, 9 comments
-5. [I've been drinking wine in my kitchen](https://scottaaronson.blog/?p=10362) - 134 points, 103 comments
-6. [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b) - 421 points, 135 comments
-7. [PenGPT: A Generative Transformer for Handwriting and Sketches](https://greydanus.github.io/2026/11/12/pengpt/) - 191 points, 33 comments
-8. [Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit) - 115 points, 33 comments
-9. [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/) - 70 points, 24 comments
-10. [Taking over US Treasury subdomains for $3 each](https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each) - 36 points, 2 comments
+1. [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) - 1308 points, 1147 comments
+2. [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) - 1336 points, 563 comments
+3. [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/) - 34 points, 2 comments
+4. [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean) - 408 points, 206 comments
+5. [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864) - 224 points, 82 comments
+6. [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/) - 62 points, 10 comments
+7. [Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/) - 112 points, 10 comments
+8. [What VP ≠ VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp) - 89 points, 16 comments
+9. [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9) - 246 points, 108 comments
+10. [The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]](https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf) - 59 points, 16 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 285 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 286 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
