@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-26 15:05:34 (北京时间)
+> 🕐 最后更新：2026-11-27 15:00:45 (北京时间)
 
-1. [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) - 1308 points, 1147 comments
-2. [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) - 1336 points, 563 comments
-3. [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/) - 34 points, 2 comments
-4. [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean) - 408 points, 206 comments
-5. [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864) - 224 points, 82 comments
-6. [Minipg: PostgreSQL as a Single Executable](https://progrium.github.io/minipg/) - 62 points, 10 comments
-7. [Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/) - 112 points, 10 comments
-8. [What VP ≠ VNP Means (In 3 Minutes)](https://www.friedgil.com/vpvnp) - 89 points, 16 comments
-9. [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9) - 246 points, 108 comments
-10. [The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]](https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf) - 59 points, 16 comments
+1. [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/) - 62 points, 38 comments
+2. [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) - 550 points, 283 comments
+3. [The group chat where your AI talks behind your back](https://construct22.com/) - 6 points, 0 comments
+4. [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/) - 268 points, 170 comments
+5. [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) - 351 points, 415 comments
+6. [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/) - 334 points, 77 comments
+7. ["What's Claude's Fursona?" and Other Questions](https://herecomesthemoon.net/2026/11/whats-claudes-fursona/) - 67 points, 36 comments
+8. [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp) - 330 points, 81 comments
+9. [CTO of 'RansomwareHelp' indicted for wire fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) - 247 points, 120 comments
+10. [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono) - 502 points, 248 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 286 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 287 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
