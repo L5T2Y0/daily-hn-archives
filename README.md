@@ -22,20 +22,20 @@
 > 最后更新：程序自动生成
 
 <!-- DAILY_ARTICLES_START -->
-> 🕐 最后更新：2026-11-27 15:00:45 (北京时间)
+> 🕐 最后更新：2026-11-28 14:35:26 (北京时间)
 
-1. [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/) - 62 points, 38 comments
-2. [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) - 550 points, 283 comments
-3. [The group chat where your AI talks behind your back](https://construct22.com/) - 6 points, 0 comments
-4. [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/) - 268 points, 170 comments
-5. [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) - 351 points, 415 comments
-6. [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/) - 334 points, 77 comments
-7. ["What's Claude's Fursona?" and Other Questions](https://herecomesthemoon.net/2026/11/whats-claudes-fursona/) - 67 points, 36 comments
-8. [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp) - 330 points, 81 comments
-9. [CTO of 'RansomwareHelp' indicted for wire fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) - 247 points, 120 comments
-10. [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono) - 502 points, 248 comments
+1. [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev) - 129 points, 9 comments
+2. [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/) - 287 points, 107 comments
+3. [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh) - 232 points, 51 comments
+4. [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical) - 400 points, 254 comments
+5. [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer) - 486 points, 255 comments
+6. [Sydney Fire Ant Infestation](https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812) - 33 points, 11 comments
+7. [Paolo Soleri built a utopian eco-city in the Arizona desert](https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona) - 19 points, 3 comments
+8. [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64) - 271 points, 88 comments
+9. [Citroën Hydraulic System](https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html) - 164 points, 53 comments
+10. [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/) - 101 points, 24 comments
 
-📁 **[查看所有历史归档](archives/)** | 共 287 个归档文件
+📁 **[查看所有历史归档](archives/)** | 共 288 个归档文件
 
 <!-- DAILY_ARTICLES_END -->
 
